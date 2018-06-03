@@ -1,0 +1,6 @@
+# Minified (compressed) files
+*.min.js
+*.min.css
+
+# Confidential Data
+*.conf.json

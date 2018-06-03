@@ -1,0 +1,18 @@
+{
+  "eu": {
+    "name": "European",
+    "realms": []
+  },
+  "us": {
+    "name": "North American",
+    "realms": []
+  },
+  "kw": {
+    "name": "Korean",
+    "realms": []
+  },
+  "tw": {
+    "name": "Taiwanese",
+    "realms": []
+  }
+}
