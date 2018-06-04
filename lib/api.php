@@ -79,11 +79,25 @@
 		}
 
 		/**
-		 * Request realm data from the API.
+		 * Obtain the realm list for this region.
+		 * @param bool $updateCache If true, cache will be updated from remote API. Defaults to false.
 		 * @return mixed
 		 */
-		public function requestRealmData() {
-			return $this->requestEndpoint('realm/status');
+		public function getRealms($updateCache = false) {
+			if ($updateCache) {
+				global $REGION_DATA;
+
+				$realmStack = [];
+				$realms = $this->requestEndpoint('realm/status')->realms;
+
+				foreach ($realms as $realm)
+					$realmStack[$realm->slug] = $realm->name;
+
+				$this->regionData->realms = $realmStack;
+				file_put_json(REGION_FILE, $REGION_DATA);
+			}
+
+			return $this->regionData->realms;
 		}
 
 		/**
