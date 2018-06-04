@@ -1,20 +1,16 @@
 <?php
 	require_once(__DIR__ . '/../lib/api.php');
-	$regionData = file_get_json(REGION_FILE);
 
-	foreach (API::getRegions() as $regionID) {
-		$region = new API($regionID);
-
+	$api = new API();
+	foreach ($api->getRegions() as $regionID) {
 		try {
-			printfln('Retrieving realms for the %s region.', $region->getRegionName());
-			$realms = $region->getRealms(true);
+			$api->setRegion($regionID);
+			printfln('Retrieving realms for the %s region.', $api->getRegionName());
 
+			$realms = $api->getRealms(true);
 			printfln('%d realms imported!', count($realms));
 		} catch (Exception $e) {
-			printfln('Unable to retrieve realms for `%s` region...', $region->getRegionID());
+			printfln('Unable to retrieve realms for `%s` region...', $api->getSelectedRegionID());
 			printfln('Exception: %s', $e->getMessage());
 		}
 	}
-
-	printfln('Writing new region data..');
-	file_put_json(REGION_FILE, $regionData);
