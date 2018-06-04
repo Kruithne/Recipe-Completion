@@ -1,10 +1,10 @@
 <?php
-	require_once('util.php');
+	require_once(__DIR__ . '/util.php');
 
 	define('API_URL', 'https://%s.api.battle.net/wow/%%s?locale=en_GB&apikey=%s');
-	define('REGION_FILE', '../data/regions.json');
+	define('REGION_FILE', __DIR__ . '/../data/regions.json');
 
-	$API_CONFIG = file_get_json('../data/api.conf.json');
+	$API_CONFIG = file_get_json(__DIR__ . '/../data/api.conf.json');
 	$REGION_DATA = file_get_json(REGION_FILE);
 
 	/**
