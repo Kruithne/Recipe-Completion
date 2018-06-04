@@ -1,7 +1,7 @@
 <?php
 	require_once('../lib/api.php');
 
-	$regionData = file_get_json('../data/regions.json');
+	$regionData = file_get_json(REGION_FILE);
 
 	foreach (API::getRegions() as $regionID) {
 		$region = new API($regionID);
