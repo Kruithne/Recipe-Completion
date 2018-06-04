@@ -82,7 +82,7 @@
 		 * Request realm data from the API.
 		 * @return mixed
 		 */
-		public function getRealms() {
+		public function requestRealmData() {
 			return $this->requestEndpoint('realm/status');
 		}
 

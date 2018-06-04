@@ -8,7 +8,7 @@
 
 		try {
 			printfln('Retrieving realms for the %s region.', $region->getRegionName());
-			$realms = $region->getRealms()->realms;
+			$realms = $region->requestRealmData()->realms;
 
 			printfln('%d realms found, importing data..', count($realms));
 
