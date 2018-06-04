@@ -97,6 +97,6 @@ body {
 	cursor: pointer;
 }
 
-.input-button:hover {
+.input-button:hover, .input-label.selected {
 	background: #c58550;
 }
