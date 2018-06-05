@@ -28,23 +28,27 @@ body {
 #header {
 	position: fixed;
 	top: 0;
+}
+
+#footer {
+	bottom: 0;
+}
+
+#header, #footer {
+	position: fixed;
+	bottom: 0;
 	left: 0;
 	right: 0;
 	height: 100px;
 	background: rgba(0, 0, 0, 0.81);
 	color: white;
-}
-
-#navigation {
 	display: flex;
-	height: 100%;
-	float: right;
-	margin-right: 15px;
+	align-items: center;
+	justify-content: center;
 }
 
-#navigation .nav {
+#footer .nav {
 	font-size: 1.2em;
-	align-self: center;
 	margin: 0 30px;
 	cursor: pointer;
 	border-bottom: 1px solid rgba(255, 255, 255, 0);
@@ -55,24 +59,13 @@ body {
 	border-color: white;
 }
 
-#search {
-	float: left;
-	display: flex;
-	height: 100%;
-	padding-left: 15px;
-}
-
-.input-container {
-	align-self: center;
-}
-
 .input-label {
 	border-bottom-left-radius: 10px;
 	border-top-left-radius: 10px;
 	background: #b46624;
 	color: white;
 	margin-left: 15px;
-	padding: 13px 12px 12px;
+	padding: 13px 12px 16px;
 }
 
 .input-field {
