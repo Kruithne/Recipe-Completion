@@ -15,7 +15,7 @@ body {
 
 #background {
 	display: none;
-	background-repeat: no-repeat;
+	background: no-repeat center;
 	background-size: cover;
 	filter: blur(8px);
 	position: fixed;
