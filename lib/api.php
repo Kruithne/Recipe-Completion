@@ -81,6 +81,14 @@
 		}
 
 		/**
+		 * Returns data for all regions.
+		 * @return object
+		 */
+		public function getCompleteRegionData() {
+			return $this->regionData;
+		}
+
+		/**
 		 * Return all available region IDs.
 		 * @return string[]
 		 */
