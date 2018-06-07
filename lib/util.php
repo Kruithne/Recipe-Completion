@@ -25,3 +25,19 @@
 	function printfln($line, ...$params) {
 		printf($line . PHP_EOL, ...$params);
 	}
+
+	/**
+	 * Returns a string variable trimmed and lower-case.
+	 * Will return null if the given variable is not a string type.
+	 * @param string $value
+	 * @return null|string
+	 */
+	function validate_input_string($value) {
+		if (!is_string($value))
+			return null;
+
+		// Remove invalid characters.
+		$value = preg_replace('/[^\p{L}-]/', '', $value);
+
+		return strtolower(trim($value));
+	}

@@ -2,8 +2,17 @@
 	require_once(__DIR__ . '/util.php');
 
 	define('API_URL', 'https://%s.api.battle.net/wow/%%s?locale=en_GB&apikey=%s');
-	define('API_CONFIG_FILE', __DIR__ . '/../data/api.conf.json');
-	define('REGION_FILE', __DIR__ . '/../data/regions.json');
+	define('URL_PARAM', '&%s=%s');
+	define('DATA_DIRECTORY', __DIR__ . '/../data');
+	define('API_CONFIG_FILE', DATA_DIRECTORY . '/api.conf.json');
+	define('REGION_FILE',DATA_DIRECTORY . '/regions.json');
+	define('CHAR_DATA_DIR', DATA_DIRECTORY . '/characters/%s-%s');
+	define('CHAR_FILE', '%s/%s.json');
+
+	define('ENDPOINT_REALM', 'realm/status');
+	define('ENDPOINT_CHARACTER', 'character/%s/%s');
+
+	define('CACHE_TIME', 86400); // 86400 seconds (24 hours).
 
 	/**
 	 * Represents an exception thrown by the API class.
@@ -120,7 +129,7 @@
 		public function getRealms($updateCache = false) {
 			if ($updateCache) {
 				$realmStack = [];
-				$realms = $this->requestEndpoint('realm/status')->realms;
+				$realms = $this->requestEndpoint(ENDPOINT_REALM)->realms;
 
 				foreach ($realms as $realm)
 					$realmStack[$realm->slug] = $realm->name;
@@ -133,21 +142,99 @@
 		}
 
 		/**
-		 * Request endpoint from the API.
-		 * @param string $endpoint
+		 * Obtain character data, subject to caching.
+		 * @param string $character
+		 * @param string $realm
 		 * @return mixed
 		 */
-		private function requestEndpoint($endpoint) {
-			return json_decode(file_get_contents($this->formatEndpointURL($endpoint)));
+		public function getCharacter($character, $realm) {
+			$realmDir = sprintf(CHAR_DATA_DIR, $this->getSelectedRegionID(), $realm);
+			$characterFile = sprintf(CHAR_FILE, $realmDir, $character);
+
+			// Check if we have this character cached on disk.
+			if (file_exists($characterFile)) {
+				$cache = file_get_json($characterFile);
+
+				// If our cache was updated within 24 hours, do not update it.
+				if (time() - $cache->cacheTime < CACHE_TIME)
+					return $cache->data;
+			} else {
+				// Create the realm directory if needed.
+				if (!file_exists($realmDir))
+					mkdir($realmDir);
+			}
+
+			$res = $this->requestEndpoint(sprintf(ENDPOINT_CHARACTER, $realm, $character), ['fields' => 'professions']);
+			file_put_json($characterFile, ['cacheTime' => time(), 'data' => $res]);
+
+			return $res;
+		}
+
+		/**
+		 * Performs basic validation on a character name.
+		 * @param string $characterName
+		 * @return bool
+		 */
+		public function isValidCharacterName($characterName) {
+			if (!is_string($characterName))
+				return false;
+
+			$characterNameLength = strlen($characterName);
+			if ($characterNameLength < 2 || $characterNameLength > 12)
+				return false;
+
+			return true;
+		}
+
+		/**
+		 * Verifies if a region ID is valid.
+		 * @param string $regionTag
+		 * @return bool
+		 */
+		public function isValidRegion($regionTag) {
+			if (!is_string($regionTag))
+				return false;
+
+			return in_array($regionTag, $this->regions);
+		}
+
+		/**
+		 * Verifies if a realm is valid for the selected region.
+		 * @param string $realm
+		 * @return bool
+		 */
+		public function isValidRealm($realm) {
+			if (!is_string($realm))
+				return false;
+
+			$realms = $this->getRealms(false);
+			return array_key_exists($realm, $realms);
+		}
+
+		/**
+		 * Request endpoint from the API.
+		 * @param string $endpoint
+		 * @param array|null $params
+		 * @return mixed
+		 */
+		private function requestEndpoint($endpoint, $params = null) {
+			return json_decode(file_get_contents($this->formatEndpointURL($endpoint, $params)));
 		}
 
 		/**
 		 * Format an endpoint URL for this API.
 		 * @param string $endpoint
+		 * @param array|null $params
 		 * @return string
 		 */
-		private function formatEndpointURL($endpoint) {
-			return sprintf($this->selectedRegionURL, $endpoint);
+		private function formatEndpointURL($endpoint, $params = null) {
+			$url = sprintf($this->selectedRegionURL, $endpoint);
+
+			if (is_array($params))
+				foreach ($params as $key => $value)
+					$url .= sprintf(URL_PARAM, $key, $value);
+
+			return $url;
 		}
 
 		/**

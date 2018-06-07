@@ -185,7 +185,7 @@ $(function() {
 
 		// Basic validation for the entered character name..
 		var characterName = characterField.val().trim().toLowerCase();
-		if (characterName.length === 0 || characterName.length > 12) {
+		if (characterName.length < 2 || characterName.length > 12) {
 			setErrorStatus('Please enter a valid character name first.');
 			return;
 		}
@@ -197,8 +197,10 @@ $(function() {
 			region: selectedRealm.region,
 			realm: selectedRealm.realm,
 			character: characterName
-		}, function() {
+		}, function(data) {
 			hideStatus();
+
+			// ToDo: Use the data returned.
 		});
 	});
 
