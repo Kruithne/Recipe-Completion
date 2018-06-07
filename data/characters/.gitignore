@@ -1,0 +1,5 @@
+# /data/chracters
+# This directory is used for caching character data to reduce hits to the Blizzard API.
+
+*
+!.gitignore
