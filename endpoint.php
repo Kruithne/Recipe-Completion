@@ -1,4 +1,6 @@
 <?php
+	error_reporting(0);
+	
 	require_once(__DIR__ . '/lib/api.php');
 	require_once(__DIR__ . '/lib/response.php');
 
