@@ -1,6 +1,6 @@
 <?php
 	error_reporting(0);
-	
+
 	require_once(__DIR__ . '/lib/api.php');
 	require_once(__DIR__ . '/lib/response.php');
 
@@ -8,20 +8,25 @@
 
 	if ($_SERVER['CONTENT_TYPE'] === 'application/json') {
 		$raw = file_get_contents('php://input');
-		$decoded = json_decode($raw);
 
-		if ($decoded !== null) {
-			switch ($decoded->action) {
-				case 'regions':
-					$response->regions = (new API())->getCompleteRegionData();
-					break;
+		if ($raw !== false) {
+			$decoded = json_decode($raw);
 
-				default:
-					$response->setError('ERR_INV_ACTION', 'Invalid request action.');
-					break;
+			if ($decoded !== null) {
+				switch ($decoded->action) {
+					case 'regions':
+						$response->regions = (new API())->getCompleteRegionData();
+						break;
+
+					default:
+						$response->setError('ERR_INV_ACTION', 'Invalid request action.');
+						break;
+				}
+			} else {
+				$response->setError('ERR_INV_PAYLOAD', 'Invalid JSON payload.');
 			}
 		} else {
-			$response->setError('ERR_INV_PAYLOAD', 'Invalid JSON payload.');
+			$response->setError('ERR_INV_REQ', 'Invalid request.');
 		}
 	} else {
 		$response->setError('ERR_CONTENT_TYPE', 'Invalid payload content type.');
