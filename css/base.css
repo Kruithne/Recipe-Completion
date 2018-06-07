@@ -33,7 +33,7 @@ body {
 	bottom: 0;
 }
 
-#header, #footer {
+#header, #footer, #status {
 	position: fixed;
 	bottom: 0;
 	left: 0;
@@ -44,6 +44,21 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+#status {
+	display: none;
+	top: 100px;
+	background: rgba(0, 0, 0, 0.81);
+	height: 50px;
+}
+
+#status.error {
+	background: rgba(255, 2, 2, 0.22);
+}
+
+#status.pending {
+	background: rgba(255, 163, 2, 0.2);
 }
 
 #footer .nav {
@@ -91,4 +106,44 @@ body {
 
 .input-button:hover, .input-label.selected {
 	background: #c58550;
+}
+
+#realm-drop-container {
+	position: relative;
+}
+
+#field-realm.activated {
+	border-bottom-right-radius: 0;
+}
+
+#realm-drop {
+	display: none;
+	position: absolute;
+	background: white;
+	border: 3px solid #c58550;
+	border-top: 0;
+	left: -3px;
+	transform: translateY(-3px);
+	right: 0;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.realm-header {
+	background-color: #c58550;
+	font-weight: bold;
+}
+
+.realm-header, .realm-option {
+	padding: 7px;
+	color: black;
+}
+
+.realm-option {
+	font-size: 0.9em;
+}
+
+.realm-option:hover {
+	background-color: #c59471;
+	cursor: pointer;
 }
