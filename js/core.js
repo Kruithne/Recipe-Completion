@@ -75,7 +75,9 @@ $(function() {
 
 			for (var r = 0; r < sectionData.recipes.length; r++) {
 				var recipeData = sectionData.recipes[r];
-				var recipe = $('<div/>').addClass('icon').appendTo(section);
+				var recipe = $('<div/>').addClass('icon tooltip').appendTo(section);
+
+				recipe.attr('data-tooltip', recipeData.name + '\n' + recipeData.source);
 
 				(function(r) {
 					loadImage('icon.php?id=' + recipeData.icon, function(url) {

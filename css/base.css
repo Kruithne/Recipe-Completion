@@ -218,3 +218,53 @@ body {
 	height: 36px;
 	background: url(../images/nope.png) no-repeat center;
 }
+
+.tooltip {
+	position: relative;
+}
+
+.tooltip::after {
+	position: absolute;
+	z-index: 1000000;
+	display: none;
+	padding: 10px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: none;
+	text-transform: none;
+	letter-spacing: normal;
+	word-wrap: break-word;
+	white-space: pre;
+	pointer-events: none;
+	content: attr(data-tooltip);
+	background: black;
+	border-radius: 2px;
+	right: 50%;
+	bottom: 100%;
+	margin-bottom: 6px;
+	transform: translateX(50%);
+}
+
+.tooltip::before {
+	position: absolute;
+	z-index: 1000001;
+	display: none;
+	width: 0;
+	height: 0;
+	color: black;
+	pointer-events: none;
+	content: "";
+	border: 6px solid transparent;
+	top: -7px;
+	right: 50%;
+	bottom: auto;
+	margin-right: -6px;
+	border-top-color: black;
+}
+
+.tooltip:hover::before, .tooltip:hover::after {
+	display: inline-block;
+	text-decoration: none;
+}
