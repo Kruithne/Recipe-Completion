@@ -105,7 +105,7 @@ $(function() {
 					isInvalid = true;
 				}
 
-				if (typeof(recipeData.class) !== 'undefined' && $.inArray(character.class, recipeData.class) < 0) {
+				if (typeof(recipeData.classes) !== 'undefined' && $.inArray(character.class, recipeData.classes) < 0) {
 					// ToDo: Add invalid class info to tooltip.
 					isInvalid = true;
 				}
