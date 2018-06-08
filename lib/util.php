@@ -41,3 +41,15 @@
 
 		return strtolower(trim($value));
 	}
+
+	/**
+	 * Returns true if the haystack ends with the needle.
+	 * @param string $haystack
+	 * @param string $needle
+	 * @return bool
+	 */
+	function endsWith($haystack, $needle)
+	{
+		$needleLength = strlen($needle);
+		return $needleLength === 0 || (substr($haystack, -$needleLength) === $needle);
+	}
