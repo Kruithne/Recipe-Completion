@@ -45,6 +45,18 @@
 
 						break;
 
+					case 'profession':
+						$api = new API();
+
+						$profession = validate_input_string($decoded->profession);
+						if (!$api->isValidProfession($profession)) {
+							$response->setError('ERR_PROFESSION', 'Invalid profession');
+							break;
+						}
+
+						$response->profession = $api->getProfession($profession);
+						break;
+
 					default:
 						$response->setError('ERR_INV_ACTION', 'Invalid request action.');
 						break;
