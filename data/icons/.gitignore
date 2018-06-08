@@ -1,0 +1,6 @@
+# /data/icons
+# This directory contains icons for all of the recipes.
+# These icons are downloaded programatically and thus not comitted to source control.
+
+*
+!.gitignore

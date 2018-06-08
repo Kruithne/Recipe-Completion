@@ -2,6 +2,7 @@
 	require_once(__DIR__ . '/util.php');
 
 	define('API_URL', 'https://%s.api.battle.net/wow/%%s?locale=en_GB&apikey=%s');
+	define('ICON_URL', 'https://render-%s.worldofwarcraft.com/icons/36/%s.jpg');
 	define('URL_PARAM', '&%s=%s');
 	define('DATA_DIRECTORY', __DIR__ . '/../data');
 	define('API_CONFIG_FILE', DATA_DIRECTORY . '/api.conf.json');
@@ -9,6 +10,7 @@
 	define('CHAR_DATA_DIR', DATA_DIRECTORY . '/characters/%s-%s');
 	define('PROF_DATA_DIR', DATA_DIRECTORY . '/professions');
 	define('PROF_DATA_FILE', PROF_DATA_DIR . '/%s.json');
+	define('ICON_FILE', DATA_DIRECTORY . '/icons/%s.jpg');
 	define('CHAR_FILE', '%s/%s.json');
 
 	define('ENDPOINT_REALM', 'realm/status');
@@ -197,6 +199,33 @@
 		public function getSpell($spellID) {
 			return $this->requestEndpoint(sprintf(ENDPOINT_SPELL, $spellID));
 		}
+
+		/**
+		 * Obtain an icon file by ID.
+		 * @param string $iconID
+		 * @param bool $download If true, will download if not cached.
+		 * @return string
+		 */
+		public function getIconImage($iconID, $download = false) {
+			$path = sprintf(ICON_FILE, $iconID);
+
+			// Use cached icon if available.
+			if (file_exists($path))
+				return file_get_contents($path);
+
+			if ($download) {
+				// Download and save the icon from the region CDN.
+				$remote = file_get_contents(sprintf(ICON_URL, $this->getSelectedRegionID(), $iconID));
+				if ($remote !== false) {
+					file_put_contents($path, $remote);
+					return $remote;
+				}
+			}
+
+			// Last resort, serve inv_misc_questionmark as a placeholder image.
+			return $this->getIconImage('inv_misc_questionmark', true);
+		}
+
 		/**
 		 * Obtain profession roster from the data files.
 		 * @param string $professionID
