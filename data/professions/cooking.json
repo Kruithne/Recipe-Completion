@@ -378,7 +378,7 @@
                 {
                     "name": "Mystery Stew",
                     "spellID": 15865,
-                    "source": "Sold by Helenia Olden in Dustwallow Marsh (Alliance)<br>Sold by Janet Hommers in Desolace (Alliance)",
+                    "source": "Sold by Helenia Olden in Dustwallow Marsh (Alliance)\nSold by Janet Hommers in Desolace (Alliance)",
                     "icon": "inv_drink_19"
                 }
             ]
@@ -538,55 +538,55 @@
                 {
                     "name": "Smoked Bear Meat",
                     "spellID": 8607,
-                    "source": "Sold by Andrew Hilbert in Silverpine Forest (Horde)<br>Sold by Drac Roughcut in Loch Modan (Alliance)",
+                    "source": "Sold by Andrew Hilbert in Silverpine Forest (Horde)\nSold by Drac Roughcut in Loch Modan (Alliance)",
                     "icon": "inv_misc_food_13"
                 },
                 {
                     "name": "Roast Raptor",
                     "spellID": 15855,
-                    "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)<br>Sold by Keena in Arathi Highlands (Horde)",
+                    "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)\nSold by Keena in Arathi Highlands (Horde)",
                     "icon": "inv_misc_food_50"
                 },
                 {
                     "name": "Hot Wolf Ribs",
                     "spellID": 15856,
-                    "source": "Sold by Sheendra Tallgrass in Feralas (Horde)<br>Sold by Vivianna in Feralas (Alliance)",
+                    "source": "Sold by Sheendra Tallgrass in Feralas (Horde)\nSold by Vivianna in Feralas (Alliance)",
                     "icon": "inv_misc_food_48"
                 },
                 {
                     "name": "Lobster Stew",
                     "spellID": 18245,
-                    "source": "Sold by Sheendra Tallgrass in Feralas (Horde)<br>Sold by Vivianna in Feralas (Alliance)",
+                    "source": "Sold by Sheendra Tallgrass in Feralas (Horde)\nSold by Vivianna in Feralas (Alliance)",
                     "icon": "inv_drink_17"
                 },
                 {
                     "name": "Baked Salmon",
                     "spellID": 18247,
-                    "source": "Sold by Sheendra Tallgrass in Feralas (Horde)<br>Sold by Vivianna in Feralas (Alliance)",
+                    "source": "Sold by Sheendra Tallgrass in Feralas (Horde)\nSold by Vivianna in Feralas (Alliance)",
                     "icon": "inv_misc_fish_20"
                 },
                 {
                     "name": "Dragonbreath Chili",
                     "spellID": 15906,
-                    "source": "Sold by Helenia Olden in Dustwallow Marsh (Alliance)<br>Sold by Ogg'marr in Dustwallow Marsh (Horde)",
+                    "source": "Sold by Helenia Olden in Dustwallow Marsh (Alliance)\nSold by Ogg'marr in Dustwallow Marsh (Horde)",
                     "icon": "inv_drink_17"
                 },
                 {
                     "name": "Heavy Kodo Stew",
                     "spellID": 15910,
-                    "source": "Sold by Janet Hommers in Desolace (Alliance)<br>Sold by Kireena in Desolace (Horde)",
+                    "source": "Sold by Janet Hommers in Desolace (Alliance)\nSold by Kireena in Desolace (Horde)",
                     "icon": "inv_drink_19"
                 },
                 {
                     "name": "Spiced Chili Crab",
                     "spellID": 15915,
-                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)<br>Sold by Kriggon Talsone in Westfall (Alliance)",
+                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)\nSold by Kriggon Talsone in Westfall (Alliance)",
                     "icon": "inv_misc_food_48"
                 },
                 {
                     "name": "Jungle Stew",
                     "spellID": 15861,
-                    "source": "Sold by Corporal Bluth in Northern Stranglethorn (Alliance)<br>Sold by Nerrist in Northern Stranglethorn (Horde)",
+                    "source": "Sold by Corporal Bluth in Northern Stranglethorn (Alliance)\nSold by Nerrist in Northern Stranglethorn (Horde)",
                     "icon": "inv_drink_17"
                 },
                 {
@@ -610,61 +610,61 @@
                 {
                     "name": "Crunchy Spider Surprise",
                     "spellID": 28267,
-                    "source": "Sold by Fazu in Bloodmyst Isle (Alliance)<br>Sold by Master Chef Mouldier in Ghostlands (Horde)",
+                    "source": "Sold by Fazu in Bloodmyst Isle (Alliance)\nSold by Master Chef Mouldier in Ghostlands (Horde)",
                     "icon": "inv_misc_food_88_ravagernuggets"
                 },
                 {
                     "name": "Ravager Dog",
                     "spellID": 33284,
-                    "source": "Sold by Cookie One-Eye in Hellfire Peninsula (Horde)<br>Sold by Sid Limbardi in Hellfire Peninsula (Alliance)",
+                    "source": "Sold by Cookie One-Eye in Hellfire Peninsula (Horde)\nSold by Sid Limbardi in Hellfire Peninsula (Alliance)",
                     "icon": "inv_misc_food_53"
                 },
                 {
                     "name": "Blackened Basilisk",
                     "spellID": 33286,
-                    "source": "Sold by Inkeeper Grilka in Terokkar Forest (Horde)<br>Sold by Supply Officer Mills in Terokkar Forest (Alliance)",
+                    "source": "Sold by Inkeeper Grilka in Terokkar Forest (Horde)\nSold by Supply Officer Mills in Terokkar Forest (Alliance)",
                     "icon": "inv_misc_food_86_basilisk"
                 },
                 {
                     "name": "Warp Burger",
                     "spellID": 33288,
-                    "source": "Sold by Inkeeper Grilka in Terokkar Forest (Horde)<br>Sold by Supply Officer Mills in Terokkar Forest (Alliance)",
+                    "source": "Sold by Inkeeper Grilka in Terokkar Forest (Horde)\nSold by Supply Officer Mills in Terokkar Forest (Alliance)",
                     "icon": "inv_misc_food_65"
                 },
                 {
                     "name": "Roasted Clefthoof",
                     "spellID": 33287,
-                    "source": "Sold by Nula the Butcher in Nagrand (Horde)<br>Sold by Uriku in Nagrand (Alliance)",
+                    "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_60"
                 },
                 {
                     "name": "Talbuk Steak",
                     "spellID": 33289,
-                    "source": "Sold by Nula the Butcher in Nagrand (Horde)<br>Sold by Uriku in Nagrand (Alliance)",
+                    "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_84_roastclefthoof"
                 },
                 {
                     "name": "Grilled Mudfish",
                     "spellID": 33293,
-                    "source": "Sold by Nula the Butcher in Nagrand (Horde)<br>Sold by Uriku in Nagrand (Alliance)",
+                    "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_78"
                 },
                 {
                     "name": "Poached Bluefish",
                     "spellID": 33294,
-                    "source": "Sold by Nula the Butcher in Nagrand (Horde)<br>Sold by Uriku in Nagrand (Alliance)",
+                    "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_76"
                 },
                 {
                     "name": "Blackened Trout",
                     "spellID": 33290,
-                    "source": "Sold by Doba in Zangarmarsh (Alliance)<br>Sold by Gambarinka in Zangarmarsh (Horde)",
+                    "source": "Sold by Doba in Zangarmarsh (Alliance)\nSold by Gambarinka in Zangarmarsh (Horde)",
                     "icon": "inv_misc_food_77"
                 },
                 {
                     "name": "Feltail Delight",
                     "spellID": 33291,
-                    "source": "Sold by Doba in Zangarmarsh (Alliance)<br>Sold by Zurai in Zangarmarsh (Horde)",
+                    "source": "Sold by Doba in Zangarmarsh (Alliance)\nSold by Zurai in Zangarmarsh (Horde)",
                     "icon": "inv_misc_food_74"
                 },
                 {
@@ -676,13 +676,13 @@
                 {
                     "name": "Spicy Crawdad",
                     "spellID": 33296,
-                    "source": "Sold by Inkeeper Biribi in Terokkar Forest (Alliance)<br>Sold by Rungor in Terokkar Forest (Horde)",
+                    "source": "Sold by Inkeeper Biribi in Terokkar Forest (Alliance)\nSold by Rungor in Terokkar Forest (Horde)",
                     "icon": "inv_misc_fish_16"
                 },
                 {
                     "name": "Golden Fish Sticks",
                     "spellID": 33295,
-                    "source": "Sold by Inkeeper Biribi in Terokkar Forest (Alliance)<br>Sold by Rungor in Terokkar Forest (Horde)",
+                    "source": "Sold by Inkeeper Biribi in Terokkar Forest (Alliance)\nSold by Rungor in Terokkar Forest (Horde)",
                     "icon": "inv_misc_fish_18"
                 },
                 {

@@ -1614,7 +1614,7 @@
                 {
                     "name": "High Society Top Hat",
                     "spellID": 75289,
-                    "source": "Drops from various places, see loot-table:<br><a href='http:\/\/eu.battle.net\/wow\/en\/item\/67541'>http:\/\/eu.battle.net\/wow\/en\/item\/67541<\/a>",
+                    "source": "Drops from various places, see loot-table:\n<a href='http:\/\/eu.battle.net\/wow\/en\/item\/67541'>http:\/\/eu.battle.net\/wow\/en\/item\/67541<\/a>",
                     "icon": "inv_helmet_119"
                 }
             ]
@@ -2027,56 +2027,56 @@
                     "name": "Royal Moonshroud Robe",
                     "spellID": 67144,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_chest_cloth_73"
                 },
                 {
                     "name": "Royal Moonshroud Bracers",
                     "spellID": 67147,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_bracer_24b"
                 },
                 {
                     "name": "Merlin's Robe",
                     "spellID": 67146,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_chest_cloth_64"
                 },
                 {
                     "name": "Bejeweled Wizard's Bracers",
                     "spellID": 67145,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_bracer_32a"
                 },
                 {
                     "name": "Royal Moonshroud Robe",
                     "spellID": 67064,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_chest_cloth_75"
                 },
                 {
                     "name": "Royal Moonshroud Bracers",
                     "spellID": 67065,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_bracer_37"
                 },
                 {
                     "name": "Merlin's Robe",
                     "spellID": 67066,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_chest_cloth_75"
                 },
                 {
                     "name": "Bejeweled Wizard's Bracers",
                     "spellID": 67079,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>This item is only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_bracer_37"
                 }
             ]
@@ -2145,25 +2145,25 @@
                 {
                     "name": "Robe of Eternal Rule",
                     "spellID": 125558,
-                    "source": "Drops in Heart of Fear<br>Drops in Mogu'shan Vaults<br>Drops in Terrace of Endless Spring",
+                    "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_robe_raidmage_l_01"
                 },
                 {
                     "name": "Imperial Silk Gloves",
                     "spellID": 125559,
-                    "source": "Drops in Heart of Fear<br>Drops in Mogu'shan Vaults<br>Drops in Terrace of Endless Spring",
+                    "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_glove_cloth_raidwarlock_l_01"
                 },
                 {
                     "name": "Legacy of the Emperor",
                     "spellID": 125560,
-                    "source": "Drops in Heart of Fear<br>Drops in Mogu'shan Vaults<br>Drops in Terrace of Endless Spring",
+                    "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_chest_cloth_challengepriest_d_01"
                 },
                 {
                     "name": "Touch of the Light",
                     "spellID": 125561,
-                    "source": "Drops in Heart of Fear<br>Drops in Mogu'shan Vaults<br>Drops in Terrace of Endless Spring",
+                    "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_gauntlets_cloth_challengepriest_d_01"
                 }
             ]
@@ -2174,7 +2174,7 @@
                 {
                     "name": "Azure Silk Gloves",
                     "spellID": 3854,
-                    "source": "Sold by Kireena in Desolace (Horde)<br>Sold by Wenna Silkbeard in Wetlands (Alliance)",
+                    "source": "Sold by Kireena in Desolace (Horde)\nSold by Wenna Silkbeard in Wetlands (Alliance)",
                     "icon": "inv_gauntlets_17"
                 },
                 {
@@ -2204,7 +2204,7 @@
                 {
                     "name": "Dark Silk Shirt",
                     "spellID": 3870,
-                    "source": "Sold by Sheri Zipstitch in Duskwood (Alliance)<br>Sold by Mallen Swain in Hillsbrad Foothills (Alliance)",
+                    "source": "Sold by Sheri Zipstitch in Duskwood (Alliance)\nSold by Mallen Swain in Hillsbrad Foothills (Alliance)",
                     "icon": "inv_shirt_black_01"
                 },
                 {
@@ -2216,7 +2216,7 @@
                 {
                     "name": "Red Linen Bag",
                     "spellID": 6686,
-                    "source": "Sold by Andrew Hilbert in Silverpine Forst (Horde)<br>Sold by Gina MacGregor in Westfall (Alliance)<br>Sold by Mahu in Thunder Bluff (Horde)<br>Sold by Rathis Tomber in Ghostlands (Horde)",
+                    "source": "Sold by Andrew Hilbert in Silverpine Forst (Horde)\nSold by Gina MacGregor in Westfall (Alliance)\nSold by Mahu in Thunder Bluff (Horde)\nSold by Rathis Tomber in Ghostlands (Horde)",
                     "icon": "inv_misc_bag_02"
                 },
                 {
@@ -2366,19 +2366,19 @@
                 {
                     "name": "Orange Martial Shirt",
                     "spellID": 12064,
-                    "source": "Sold by Tailoring Supplies in Darnassus (Alliance)<br>Sold by Tailoring Supplies in Thunder Bluff (Horde)",
+                    "source": "Sold by Tailoring Supplies in Darnassus (Alliance)\nSold by Tailoring Supplies in Thunder Bluff (Horde)",
                     "icon": "inv_shirt_orange_01"
                 },
                 {
                     "name": "Lavender Mageweave Shirt",
                     "spellID": 12075,
-                    "source": "Sold by Tailoring Supplies in Orgrimmar (Horde)<br>Sold by Tailoring Supplies in Ironforge (Alliance)",
+                    "source": "Sold by Tailoring Supplies in Orgrimmar (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_shirt_purple_01"
                 },
                 {
                     "name": "Pink Mageweave Shirt",
                     "spellID": 12080,
-                    "source": "Sold by Tailoring Supplies in Orgrimmar (Horde)<br>Sold by Tailoring Supplies in Ironforge (Alliance)",
+                    "source": "Sold by Tailoring Supplies in Orgrimmar (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_shirt_red_01"
                 },
                 {
@@ -2390,25 +2390,25 @@
                 {
                     "name": "Tuxedo Shirt",
                     "spellID": 12085,
-                    "source": "Sold by Tailoring Supplies in Undercity (Horde)<br>Sold by Tailoring Supplies in Ironforge (Alliance)",
+                    "source": "Sold by Tailoring Supplies in Undercity (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_shirt_08"
                 },
                 {
                     "name": "Tuxedo Pants",
                     "spellID": 12089,
-                    "source": "Sold by Tailoring Supplies in Undercity (Horde)<br>Sold by Tailoring Supplies in Ironforge (Alliance)",
+                    "source": "Sold by Tailoring Supplies in Undercity (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_pants_01"
                 },
                 {
                     "name": "Tuxedo Jacket",
                     "spellID": 12093,
-                    "source": "Sold by Tailoring Supplies in Undercity (Horde)<br>Sold by Tailoring Supplies in Ironforge (Alliance)",
+                    "source": "Sold by Tailoring Supplies in Undercity (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_shirt_black_01"
                 },
                 {
                     "name": "White Wedding Dress",
                     "spellID": 12091,
-                    "source": "Sold by Tailoring Supplies in Stormwind City (Alliance)<br>Sold by Tailoring Supplies in Thunder Bluff (Horde)",
+                    "source": "Sold by Tailoring Supplies in Stormwind City (Alliance)\nSold by Tailoring Supplies in Thunder Bluff (Horde)",
                     "icon": "inv_chest_cloth_04"
                 },
                 {
@@ -2474,31 +2474,31 @@
                 {
                     "name": "Argent Boots",
                     "spellID": 23664,
-                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades<br>Sold by Argent Quartermaster Lightspark in Western Plaguelands<br>Sold by Quartermaster Miranda Breechlock in Eastern Plaguelands",
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nSold by Argent Quartermaster Lightspark in Western Plaguelands\nSold by Quartermaster Miranda Breechlock in Eastern Plaguelands",
                     "icon": "inv_boots_cloth_03"
                 },
                 {
                     "name": "Argent Shoulders",
                     "spellID": 23665,
-                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades<br>Sold by Argent Quartermaster Lightspark in Western Plaguelands<br>Sold by Quartermaster Miranda Breechlock in Eastern Plaguelands",
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nSold by Argent Quartermaster Lightspark in Western Plaguelands\nSold by Quartermaster Miranda Breechlock in Eastern Plaguelands",
                     "icon": "inv_shoulder_13"
                 },
                 {
                     "name": "Bolt of Imbued Netherweave",
                     "spellID": 26747,
-                    "source": "Sold by Eiin in Shattrath City (Neutral)<br>Sold by Deynna in Silvermoon City (Horde)<br>Sold by Neii in The Exodar (Alliance)",
+                    "source": "Sold by Eiin in Shattrath City (Neutral)\nSold by Deynna in Silvermoon City (Horde)\nSold by Neii in The Exodar (Alliance)",
                     "icon": "inv_fabric_netherweave_bolt_imbued"
                 },
                 {
                     "name": "Imbued Netherweave Bag",
                     "spellID": 26749,
-                    "source": "Sold by Eiin in Shattrath City (Neutral)<br>Sold by Mathar G'ochar in Nagrand (Horde)",
+                    "source": "Sold by Eiin in Shattrath City (Neutral)\nSold by Mathar G'ochar in Nagrand (Horde)",
                     "icon": "inv_misc_bag_24_netherweave_imbued"
                 },
                 {
                     "name": "Bolt of Soulcloth",
                     "spellID": 26750,
-                    "source": "Sold by Borto in Nagrand (Alliance)<br>Sold by Mathar G'ochar in Nagrand (Horde)<br>Sold by Deynna in Silvermoon City (Horde)<br>Sold by Neii in The Exodar (Alliance)",
+                    "source": "Sold by Borto in Nagrand (Alliance)\nSold by Mathar G'ochar in Nagrand (Horde)\nSold by Deynna in Silvermoon City (Horde)\nSold by Neii in The Exodar (Alliance)",
                     "icon": "inv_fabric_soulcloth_bolt"
                 },
                 {
@@ -2534,61 +2534,61 @@
                 {
                     "name": "Spellfire Belt",
                     "spellID": 26752,
-                    "source": "Sold by Gidge Spellweave in Shattrath<br>Sold by Lalla Brightweave in Dalaran",
+                    "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_belt_04"
                 },
                 {
                     "name": "Spellfire Gloves",
                     "spellID": 26753,
-                    "source": "Sold by Gidge Spellweave in Shattrath<br>Sold by Lalla Brightweave in Dalaran",
+                    "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_gauntlets_19"
                 },
                 {
                     "name": "Spellfire Robe",
                     "spellID": 26754,
-                    "source": "Sold by Gidge Spellweave in Shattrath<br>Sold by Lalla Brightweave in Dalaran",
+                    "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_chest_cloth_02"
                 },
                 {
                     "name": "Spellfire Bag",
                     "spellID": 26755,
-                    "source": "Sold by Gidge Spellweave in Shattrath<br>Sold by Lalla Brightweave in Dalaran",
+                    "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_misc_bag_26_spellfire"
                 },
                 {
                     "name": "Spellcloth",
                     "spellID": 31373,
-                    "source": "Sold by Gidge Spellweave in Shattrath<br>Sold by Lalla Brightweave in Dalaran",
+                    "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_fabric_spellfire"
                 },
                 {
                     "name": "Frozen Shadoweave Shoulders",
                     "spellID": 26756,
-                    "source": "Sold by Andrion Darkspinner in Shattrath City<br>Sold by Linna Bruder in Dalaran",
+                    "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_shoulder_25"
                 },
                 {
                     "name": "Frozen Shadoweave Boots",
                     "spellID": 26757,
-                    "source": "Sold by Andrion Darkspinner in Shattrath City<br>Sold by Linna Bruder in Dalaran",
+                    "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_boots_cloth_03"
                 },
                 {
                     "name": "Frozen Shadoweave Robe",
                     "spellID": 26758,
-                    "source": "Sold by Andrion Darkspinner in Shattrath City<br>Sold by Linna Bruder in Dalaran",
+                    "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_chest_cloth_08"
                 },
                 {
                     "name": "Shadowcloth",
                     "spellID": 36686,
-                    "source": "Sold by Andrion Darkspinner in Shattrath City<br>Sold by Linna Bruder in Dalaran",
+                    "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_fabric_felcloth_ebon"
                 },
                 {
                     "name": "Ebon Shadowbag",
                     "spellID": 26759,
-                    "source": "Sold by Andrion Darkspinner in Shattrath City<br>Sold by Linna Bruder in Dalaran",
+                    "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_misc_bag_felclothbag"
                 },
                 {
@@ -2606,13 +2606,13 @@
                 {
                     "name": "Imbued Netherweave Pants",
                     "spellID": 26775,
-                    "source": "Sold by Muheru the Weaver in Zangarmarsh (Alliance)<br>Sold by Zurai in Zangarmarsh (Horde)",
+                    "source": "Sold by Muheru the Weaver in Zangarmarsh (Alliance)\nSold by Zurai in Zangarmarsh (Horde)",
                     "icon": "inv_pants_leather_09"
                 },
                 {
                     "name": "Imbued Netherweave Boots",
                     "spellID": 26776,
-                    "source": "Sold by Muheru the Weaver in Zangarmarsh (Alliance)<br>Sold by Zurai in Zangarmarsh (Horde)",
+                    "source": "Sold by Muheru the Weaver in Zangarmarsh (Alliance)\nSold by Zurai in Zangarmarsh (Horde)",
                     "icon": "inv_boots_07"
                 },
                 {
@@ -2630,7 +2630,7 @@
                 {
                     "name": "Soulcloth Gloves",
                     "spellID": 26779,
-                    "source": "Sold by Borto in Nagrand (Alliance)<br>Sold by Mathar G'ochar in Nagrand (Horde)",
+                    "source": "Sold by Borto in Nagrand (Alliance)\nSold by Mathar G'ochar in Nagrand (Horde)",
                     "icon": "inv_gauntlets_17"
                 },
                 {
@@ -2672,193 +2672,193 @@
                 {
                     "name": "Contender's Silk Cowl",
                     "spellID": 125531,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helmet_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Amice",
                     "spellID": 125532,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Raiment",
                     "spellID": 125533,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Handwraps",
                     "spellID": 125534,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_gauntlets_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Pants",
                     "spellID": 125535,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pants_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Cuffs",
                     "spellID": 125536,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Footwraps",
                     "spellID": 125537,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boots_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Silk Belt",
                     "spellID": 125538,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Cowl",
                     "spellID": 125539,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helmet_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Amice",
                     "spellID": 125540,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Raiment",
                     "spellID": 125541,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Handwraps",
                     "spellID": 125542,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_gauntlets_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Pants",
                     "spellID": 125543,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pants_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Cuffs",
                     "spellID": 125544,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Footwraps",
                     "spellID": 125545,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boots_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Contender's Satin Belt",
                     "spellID": 125546,
-                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)<br>Sold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_cloth_dungeoncloth_c_06"
                 },
                 {
                     "name": "Hexweave Embroidery",
                     "spellID": 168836,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_hexweavecloth"
                 },
                 {
                     "name": "Hexweave Mantle",
                     "spellID": 168837,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01shoulders"
                 },
                 {
                     "name": "Hexweave Cowl",
                     "spellID": 168838,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01helm"
                 },
                 {
                     "name": "Hexweave Leggings",
                     "spellID": 168839,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01pants"
                 },
                 {
                     "name": "Hexweave Gloves",
                     "spellID": 168840,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01gloves"
                 },
                 {
                     "name": "Hexweave Robe",
                     "spellID": 168841,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01robe"
                 },
                 {
                     "name": "Hexweave Bracers",
                     "spellID": 168842,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01bracer"
                 },
                 {
                     "name": "Hexweave Slippers",
                     "spellID": 168843,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01boots"
                 },
                 {
                     "name": "Hexweave Belt",
                     "spellID": 168844,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01belt"
                 },
                 {
                     "name": "Hexweave Essence",
                     "spellID": 168855,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoringdye_orange"
                 },
                 {
                     "name": "Creeping Carpet",
                     "spellID": 168850,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_blackcarpet"
                 },
                 {
                     "name": "Hexweave Bag",
                     "spellID": 168848,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_hexweavebag"
                 },
                 {
                     "name": "Elekk Plushie",
                     "spellID": 168849,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_elekkplushie"
                 },
                 {
                     "name": "Powerful Hexweave Cloak",
                     "spellID": 168845,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cape_draenorcraftedcaster_d_01red"
                 },
                 {
                     "name": "Nimble Hexweave Cloak",
                     "spellID": 168846,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cape_draenorcraftedcaster_d_01red"
                 },
                 {
                     "name": "Brilliant Hexweave Cloak",
                     "spellID": 168847,
-                    "source": "Purchased with Secrets of Draenor Tailoring<br>Vendor located in Garrison or Ashran",
+                    "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cape_draenorcraftedcaster_d_01red"
                 },
                 {
@@ -3481,7 +3481,7 @@
                 {
                     "name": "Bag of Jewels",
                     "spellID": 31459,
-                    "source": "Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Sold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_bag_15"
                 }
             ]
@@ -3604,7 +3604,7 @@
                 {
                     "name": "Emerald Bag",
                     "spellID": 63924,
-                    "source": "Sold by Sairuk in Dragonblight (Requires Revered)<br>Sold by Tanaika in Howling Fjord (Requires Revered)",
+                    "source": "Sold by Sairuk in Dragonblight (Requires Revered)\nSold by Tanaika in Howling Fjord (Requires Revered)",
                     "icon": "inv_misc_bag_18"
                 }
             ]
@@ -3685,7 +3685,7 @@
                 {
                     "name": "Royal Satchel",
                     "spellID": 125556,
-                    "source": "Requires Exalted with The August Celestials<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Alliance)",
+                    "source": "Requires Exalted with The August Celestials\nSold by Sage Whiteheart in Vale of Eternal Blossoms (Horde)\nSold by Sage Lotusbloom in Vale of Eternal Blossoms (Alliance)",
                     "icon": "inv_misc_bag_31"
                 }
             ]
@@ -3713,7 +3713,7 @@
                 {
                     "name": "Green Holiday Shirt",
                     "spellID": 21945,
-                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "inv_shirt_green_01"
                 },
                 {

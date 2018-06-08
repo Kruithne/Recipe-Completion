@@ -2266,112 +2266,112 @@
                     "name": "Ensorcelled Nerubian Breastplate",
                     "spellID": 67080,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_chest_mail_07"
                 },
                 {
                     "name": "Black Chitin Bracers",
                     "spellID": 67081,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_bracer_32a"
                 },
                 {
                     "name": "Crusader's Dragonscale Breastplate",
                     "spellID": 67082,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_chest_mail_07"
                 },
                 {
                     "name": "Crusader's Dragonscale Bracers",
                     "spellID": 67083,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_bracer_32a"
                 },
                 {
                     "name": "Lunar Eclipse Robes",
                     "spellID": 67084,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_chest_leather_12"
                 },
                 {
                     "name": "Moonshadow Armguards",
                     "spellID": 67085,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_bracer_30b"
                 },
                 {
                     "name": "Knightbane Carapace",
                     "spellID": 67086,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_chest_leather_14"
                 },
                 {
                     "name": "Bracers of Swift Death",
                     "spellID": 67087,
                     "faction": 0,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Alliance players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Alliance players",
                     "icon": "inv_bracer_23b"
                 },
                 {
                     "name": "Ensorcelled Nerubian Breastplate",
                     "spellID": 67136,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_chest_mail_07"
                 },
                 {
                     "name": "Crusader's Dragonscale Breastplate",
                     "spellID": 67138,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_chest_mail_03"
                 },
                 {
                     "name": "Bracers of Swift Death",
                     "spellID": 67139,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_bracer_36a"
                 },
                 {
                     "name": "Lunar Eclipse Robes",
                     "spellID": 67140,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_chest_leather_18b"
                 },
                 {
                     "name": "Moonshadow Armguards",
                     "spellID": 67141,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_bracer_36b"
                 },
                 {
                     "name": "Crusader's Dragonscale Bracers",
                     "spellID": 67143,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_bracer_38"
                 },
                 {
                     "name": "Knightbane Carapace",
                     "spellID": 67142,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_chest_leather_18a"
                 },
                 {
                     "name": "Black Chitin Bracers",
                     "spellID": 67137,
                     "faction": 1,
-                    "source": "Drops in Trial of the Crusader<br>Only available to Horde players",
+                    "source": "Drops in Trial of the Crusader\nOnly available to Horde players",
                     "icon": "inv_bracer_29"
                 }
             ]
@@ -2506,13 +2506,13 @@
                 {
                     "name": "Murloc Scale Belt",
                     "spellID": 6702,
-                    "source": "Sold by Andrew Hilbert in Silverpine Forest (Horde)<br>Sold by Gina MacGregor in Westfall (Alliance)",
+                    "source": "Sold by Andrew Hilbert in Silverpine Forest (Horde)\nSold by Gina MacGregor in Westfall (Alliance)",
                     "icon": "inv_belt_02"
                 },
                 {
                     "name": "Murloc Scale Breastplate",
                     "spellID": 6703,
-                    "source": "Sold by Andrew Hilbert in Silverpine Forest (Horde)<br>Sold by Gina MacGregor in Westfall (Alliance)",
+                    "source": "Sold by Andrew Hilbert in Silverpine Forest (Horde)\nSold by Gina MacGregor in Westfall (Alliance)",
                     "icon": "inv_chest_chain_12"
                 },
                 {
@@ -2530,7 +2530,7 @@
                 {
                     "name": "Barbaric Leggings",
                     "spellID": 7149,
-                    "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)<br>Sold by Keena in Arathi Highlands (Horde)",
+                    "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)\nSold by Keena in Arathi Highlands (Horde)",
                     "icon": "inv_pants_12"
                 },
                 {
@@ -2560,31 +2560,31 @@
                 {
                     "name": "Green Whelp Bracers",
                     "spellID": 9202,
-                    "source": "Sold by Joseph Moore in Undercity (Horde)<br>Sold by Saenorion in Darnassus (Alliance)",
+                    "source": "Sold by Joseph Moore in Undercity (Horde)\nSold by Saenorion in Darnassus (Alliance)",
                     "icon": "inv_bracer_06"
                 },
                 {
                     "name": "Barbaric Bracers",
                     "spellID": 23399,
-                    "source": "Sold by Joseph Moore in Undercity (Horde)<br>Sold by Saenorion in Darnassus (Alliance)",
+                    "source": "Sold by Joseph Moore in Undercity (Horde)\nSold by Saenorion in Darnassus (Alliance)",
                     "icon": "inv_bracer_15"
                 },
                 {
                     "name": "Turtle Scale Gloves",
                     "spellID": 10509,
-                    "source": "Sold by Jangdor Swiftstrider in Feralas (Horde)<br>Sold by Pratt McGrubben in Feralas (Alliance)",
+                    "source": "Sold by Jangdor Swiftstrider in Feralas (Horde)\nSold by Pratt McGrubben in Feralas (Alliance)",
                     "icon": "inv_gauntlets_05"
                 },
                 {
                     "name": "Living Shoulders",
                     "spellID": 19061,
-                    "source": "Sold by Jangdor Swiftstrider in Feralas (Horde)<br>Sold by Pratt McGrubben in Feralas (Alliance)",
+                    "source": "Sold by Jangdor Swiftstrider in Feralas (Horde)\nSold by Pratt McGrubben in Feralas (Alliance)",
                     "icon": "inv_shoulder_18"
                 },
                 {
                     "name": "Nightscape Shoulders",
                     "spellID": 10516,
-                    "source": "Sold by Jangdor Swiftstrider in Feralas (Horde)<br>Sold by Nioma in The Hinterlands (Alliance)",
+                    "source": "Sold by Jangdor Swiftstrider in Feralas (Horde)\nSold by Nioma in The Hinterlands (Alliance)",
                     "icon": "inv_shoulder_07"
                 },
                 {
@@ -2596,7 +2596,7 @@
                 {
                     "name": "Wicked Leather Gauntlets",
                     "spellID": 19049,
-                    "source": "Sold by Leonard Porter in Western Plaguelands (Alliance)<br>Sold by Werg Thickblade in Tirisfal Glades (Horde)",
+                    "source": "Sold by Leonard Porter in Western Plaguelands (Alliance)\nSold by Werg Thickblade in Tirisfal Glades (Horde)",
                     "icon": "inv_gauntlets_31"
                 },
                 {
@@ -2614,7 +2614,7 @@
                 {
                     "name": "Stormshroud Pants",
                     "spellID": 19067,
-                    "source": "Sold by Leonard Porter in Western Plaguelands (Alliance)<br>Sold by Werg Thickblade in Tirisfal Glades (Horde)",
+                    "source": "Sold by Leonard Porter in Western Plaguelands (Alliance)\nSold by Werg Thickblade in Tirisfal Glades (Horde)",
                     "icon": "inv_pants_09"
                 },
                 {
@@ -2680,7 +2680,7 @@
                 {
                     "name": "Heavy Leather Ball",
                     "spellID": 23190,
-                    "source": "Sold by Bombus Finespindle in Ironforge (Alliance)<br>Sold by Tamar in Orgrimmar (Horde)",
+                    "source": "Sold by Bombus Finespindle in Ironforge (Alliance)\nSold by Tamar in Orgrimmar (Horde)",
                     "icon": "inv_misc_throwingball_01"
                 },
                 {
@@ -2698,7 +2698,7 @@
                 {
                     "name": "Comfortable Insoles",
                     "spellID": 32482,
-                    "source": "Sold by Haferet in The Exodar (Alliance)<br>Sold by Zaralda in Silvermoon City (Horde)",
+                    "source": "Sold by Haferet in The Exodar (Alliance)\nSold by Zaralda in Silvermoon City (Horde)",
                     "icon": "inv_misc_armorkit_17"
                 },
                 {
@@ -3289,193 +3289,193 @@
                 {
                     "name": "Contender's Wyrmhide Helm",
                     "spellID": 124587,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helmet_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Shoulders",
                     "spellID": 124588,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Chestguard",
                     "spellID": 124589,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Gloves",
                     "spellID": 124590,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_gauntlets_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Leggings",
                     "spellID": 124591,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pants_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Bracers",
                     "spellID": 124592,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Boots",
                     "spellID": 124593,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boots_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Wyrmhide Belt",
                     "spellID": 124594,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Scale Chestguard",
                     "spellID": 124597,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Shoulders",
                     "spellID": 124596,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Gloves",
                     "spellID": 124598,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_glove_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Leggings",
                     "spellID": 124599,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pant_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Bracers",
                     "spellID": 124600,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Boots",
                     "spellID": 124601,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boot_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Belt",
                     "spellID": 124602,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Leather Helm",
                     "spellID": 124603,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helmet_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Shoulders",
                     "spellID": 124604,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Chestguard",
                     "spellID": 124605,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Gloves",
                     "spellID": 124606,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_gauntlets_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Leggings",
                     "spellID": 124607,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pants_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Bracers",
                     "spellID": 124608,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Boots",
                     "spellID": 124609,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boots_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Leather Belt",
                     "spellID": 124610,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_leather_dungeonleather_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Helm",
                     "spellID": 124611,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helm_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Shoulders",
                     "spellID": 124612,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Chestguard",
                     "spellID": 124613,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Gloves",
                     "spellID": 124614,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_glove_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Leggings",
                     "spellID": 124615,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pant_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Scale Helm",
                     "spellID": 124595,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helm_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Bracers",
                     "spellID": 124616,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Boots",
                     "spellID": 124617,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boot_mail_dungeonmail_c_06"
                 },
                 {
                     "name": "Contender's Dragonscale Belt",
                     "spellID": 124618,
-                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)<br>Sold by Tanner Pang in Shrine of Seven Stars (Alliance)",
+                    "source": "Sold by Krogo Darkhide in Shrine of Two Moons (Horde)\nSold by Tanner Pang in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_mail_dungeonmail_c_06"
                 }
             ]
@@ -3691,19 +3691,19 @@
                 {
                     "name": "Fel Leather Gloves",
                     "spellID": 32490,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Friendly)<br>Sold by Paulsta'ats in Nagrand (Requires Friendly)",
+                    "source": "Sold by Karaaz in Netherstorm (Requires Friendly)\nSold by Paulsta'ats in Nagrand (Requires Friendly)",
                     "icon": "inv_gauntlets_22"
                 },
                 {
                     "name": "Fel Leather Boots",
                     "spellID": 32493,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Honored)<br>Sold by Paulsta'ats in Nagrand (Requires Honored)",
+                    "source": "Sold by Karaaz in Netherstorm (Requires Honored)\nSold by Paulsta'ats in Nagrand (Requires Honored)",
                     "icon": "inv_boots_cloth_05"
                 },
                 {
                     "name": "Fel Leather Leggings",
                     "spellID": 32494,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Exated)<br>Sold by Paulsta'ats in Nagrand (Requires Exalted)",
+                    "source": "Sold by Karaaz in Netherstorm (Requires Exated)\nSold by Paulsta'ats in Nagrand (Requires Exalted)",
                     "icon": "inv_pants_leather_03"
                 }
             ]
@@ -3749,31 +3749,31 @@
                 {
                     "name": "Felstalker Belt",
                     "spellID": 32498,
-                    "source": "Requires Friendly with Honor Hold \/ Thrallmar<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)",
+                    "source": "Requires Friendly with Honor Hold \/ Thrallmar\nSold by Quartermaster Urgronn in Thrallmar (Horde)\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)",
                     "icon": "inv_belt_13"
                 },
                 {
                     "name": "Felstalker Bracers",
                     "spellID": 32499,
-                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)",
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Quartermaster Urgronn in Thrallmar (Horde)\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)",
                     "icon": "inv_bracer_14"
                 },
                 {
                     "name": "Felstalker Breastplate",
                     "spellID": 32500,
-                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)",
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Quartermaster Urgronn in Thrallmar (Horde)\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)",
                     "icon": "inv_chest_chain_13"
                 },
                 {
                     "name": "Cobrahide Leg Armor",
                     "spellID": 35549,
-                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)",
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Quartermaster Urgronn in Thrallmar (Horde)\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)",
                     "icon": "inv_misc_armorkit_21"
                 },
                 {
                     "name": "Nethercobra Leg Armor",
                     "spellID": 35554,
-                    "source": "Requires Exalted with Honor Hold \/ Thrallmar<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)",
+                    "source": "Requires Exalted with Honor Hold \/ Thrallmar\nSold by Quartermaster Urgronn in Thrallmar (Horde)\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)",
                     "icon": "inv_misc_armorkit_25"
                 }
             ]
@@ -3784,37 +3784,37 @@
                 {
                     "name": "Netherfury Belt",
                     "spellID": 32501,
-                    "source": "Requires Friendly with The Mag'har \/ Kurenai<br>Sold by Provisoner Nasela in Nagrand (Horde)<br>Sold by Trader Narasu in Nagrand (Alliance)",
+                    "source": "Requires Friendly with The Mag'har \/ Kurenai\nSold by Provisoner Nasela in Nagrand (Horde)\nSold by Trader Narasu in Nagrand (Alliance)",
                     "icon": "inv_belt_15"
                 },
                 {
                     "name": "Netherfury Leggings",
                     "spellID": 32502,
-                    "source": "Requires Honored with The Mag'har \/ Kurenai<br>Sold by Provisoner Nasela in Nagrand (Horde)<br>Sold by Trader Narasu in Nagrand (Alliance)",
+                    "source": "Requires Honored with The Mag'har \/ Kurenai\nSold by Provisoner Nasela in Nagrand (Horde)\nSold by Trader Narasu in Nagrand (Alliance)",
                     "icon": "inv_pants_plate_12"
                 },
                 {
                     "name": "Netherfury Boots",
                     "spellID": 32503,
-                    "source": "Requires Revered with The Mag'har \/ Kurenai<br>Sold by Provisoner Nasela in Nagrand (Horde)<br>Sold by Trader Narasu in Nagrand (Alliance)",
+                    "source": "Requires Revered with The Mag'har \/ Kurenai\nSold by Provisoner Nasela in Nagrand (Horde)\nSold by Trader Narasu in Nagrand (Alliance)",
                     "icon": "inv_boots_chain_06"
                 },
                 {
                     "name": "Reinforced Mining Bag",
                     "spellID": 35530,
-                    "source": "Requires Honored with The Mag'har \/ Kurenai<br>Sold by Provisoner Nasela in Nagrand (Horde)<br>Sold by Trader Narasu in Nagrand (Alliance)",
+                    "source": "Requires Honored with The Mag'har \/ Kurenai\nSold by Provisoner Nasela in Nagrand (Horde)\nSold by Trader Narasu in Nagrand (Alliance)",
                     "icon": "inv_misc_bag_15"
                 },
                 {
                     "name": "Drums of Restoration",
                     "spellID": 35539,
-                    "source": "Requires Honored with The Mag'har \/ Kurenai<br>Sold by Provisoner Nasela in Nagrand (Horde)<br>Sold by Trader Narasu in Nagrand (Alliance)",
+                    "source": "Requires Honored with The Mag'har \/ Kurenai\nSold by Provisoner Nasela in Nagrand (Horde)\nSold by Trader Narasu in Nagrand (Alliance)",
                     "icon": "inv_misc_drum_07"
                 },
                 {
                     "name": "Drums of Speed",
                     "spellID": 35544,
-                    "source": "Requires Honored with The Mag'har \/ Kurenai<br>Sold by Provisoner Nasela in Nagrand (Horde)<br>Sold by Trader Narasu in Nagrand (Alliance)",
+                    "source": "Requires Honored with The Mag'har \/ Kurenai\nSold by Provisoner Nasela in Nagrand (Horde)\nSold by Trader Narasu in Nagrand (Alliance)",
                     "icon": "inv_misc_drum_04"
                 }
             ]
@@ -3917,7 +3917,7 @@
                 {
                     "name": "Trapper's Traveling Pack",
                     "spellID": 50970,
-                    "source": "Sold by Sairuk in Dragonblight (Requires Revered)<br>Sold by Tanaika (Requires Revered)",
+                    "source": "Sold by Sairuk in Dragonblight (Requires Revered)\nSold by Tanaika (Requires Revered)",
                     "icon": "inv_misc_bag_21"
                 }
             ]
@@ -5139,157 +5139,157 @@
                 {
                     "name": "Leather Refurbishing Kit",
                     "spellID": 171266,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_leatherwork_a"
                 },
                 {
                     "name": "Powerful Burnished Cloak",
                     "spellID": 171267,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_cape_draenorcrafted_d_02grey"
                 },
                 {
                     "name": "Nimble Burnished Cloak",
                     "spellID": 171268,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_cape_draenorcrafted_d_02grey"
                 },
                 {
                     "name": "Brilliant Burnished Cloak",
                     "spellID": 171269,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_cape_draenorcrafted_d_02grey"
                 },
                 {
                     "name": "Supple Shoulderguards",
                     "spellID": 171270,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_shoulder_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Helm",
                     "spellID": 171271,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_helm_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Leggings",
                     "spellID": 171272,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_pant_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Gloves",
                     "spellID": 171273,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_glove_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Vest",
                     "spellID": 171274,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_chest_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Bracers",
                     "spellID": 171275,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_bracer_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Boots",
                     "spellID": 171276,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_boot_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Supple Waistguard",
                     "spellID": 171277,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_belt_leather_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Shoulderguards",
                     "spellID": 171278,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_shoulder_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Helm",
                     "spellID": 171279,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_helm_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Leggings",
                     "spellID": 171280,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_pant_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Gloves",
                     "spellID": 171281,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_glove_mail_draenorcrafted_d_01_alliance]"
                 },
                 {
                     "name": "Wayfaring Tunic",
                     "spellID": 171282,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_chest_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Bracers",
                     "spellID": 171283,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_bracer_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Boots",
                     "spellID": 171284,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_boot_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Wayfaring Belt",
                     "spellID": 171285,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_belt_mail_draenorcrafted_d_01_alliance"
                 },
                 {
                     "name": "Burnished Essence",
                     "spellID": 171286,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_leatherworkdye_orange"
                 },
                 {
                     "name": "Burnished Leather Bag",
                     "spellID": 171288,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_misc_bag_33"
                 },
                 {
                     "name": "Burnished Mining Bag",
                     "spellID": 171289,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_misc_bag_34"
                 },
                 {
                     "name": "Burnished Inscription Bag",
                     "spellID": 171290,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_misc_bag_corefelclothbag"
                 },
                 {
                     "name": "Riding Harness",
                     "spellID": 171291,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_belt_39b"
                 },
                 {
                     "name": "Drums of Fury",
                     "spellID": 178208,
-                    "source": "Purchased with Secrets of Draenor Leatherworking<br>Sold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Leatherworking\nSold by leatherworking vendor in Frostwall\/Lunarfall or Ashran",
                     "icon": "inv_misc_drum_01"
                 }
             ]
@@ -5323,7 +5323,7 @@
                 {
                     "name": "Gloves of the Greatfather",
                     "spellID": 21943,
-                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "inv_gauntlets_21"
                 },
                 {

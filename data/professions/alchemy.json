@@ -1152,19 +1152,19 @@
                 {
                     "name": "Great Rage Potion",
                     "spellID": 6618,
-                    "source": "Sold by Hagrus in Orgrimmar (Horde)<br>Sold by Ulthir in Darnassus (Alliance)",
+                    "source": "Sold by Hagrus in Orgrimmar (Horde)\nSold by Ulthir in Darnassus (Alliance)",
                     "icon": "inv_potion_21"
                 },
                 {
                     "name": "Free Action Potion",
                     "spellID": 6624,
-                    "source": "Sold by Kor'geld in Orgrimmar (Horde)<br>Sold by Ulthir in Darnassus (Alliance)",
+                    "source": "Sold by Kor'geld in Orgrimmar (Horde)\nSold by Ulthir in Darnassus (Alliance)",
                     "icon": "inv_potion_04"
                 },
                 {
                     "name": "Holy Protection Potion",
                     "spellID": 7255,
-                    "source": "Sold by Xandar Goodbeard in Loch Modan (Alliance)<br>Sold by Hula'mahi in Northern Barrens (Horde)",
+                    "source": "Sold by Xandar Goodbeard in Loch Modan (Alliance)\nSold by Hula'mahi in Northern Barrens (Horde)",
                     "icon": "inv_potion_09"
                 },
                 {
@@ -1218,25 +1218,25 @@
                 {
                     "name": "Ghost Dye",
                     "spellID": 11473,
-                    "source": "Sold by Bronk in Feralas (Horde)<br>Sold by Logannas in Feralas (Alliance)",
+                    "source": "Sold by Bronk in Feralas (Horde)\nSold by Logannas in Feralas (Alliance)",
                     "icon": "inv_poison_mindnumbing"
                 },
                 {
                     "name": "Elixir of Shadow Power",
                     "spellID": 11476,
-                    "source": "Sold by Algernon in Undercity (Horde)<br>Sold by Maria Lumere in Stormwind City (Alliance)",
+                    "source": "Sold by Algernon in Undercity (Horde)\nSold by Maria Lumere in Stormwind City (Alliance)",
                     "icon": "inv_potion_46"
                 },
                 {
                     "name": "Elixir of Demonslaying",
                     "spellID": 11477,
-                    "source": "Sold by Nina Lightbrew in Blasted Lands (Alliance)<br>Sold by Rartar in Swamp of Sorrows (Horde)",
+                    "source": "Sold by Nina Lightbrew in Blasted Lands (Alliance)\nSold by Rartar in Swamp of Sorrows (Horde)",
                     "icon": "inv_potion_27"
                 },
                 {
                     "name": "Elixir of Superior Defense",
                     "spellID": 17554,
-                    "source": "Sold by Kor'geld in Orgrimmar (Horde)<br>Sold by Soolie Berryfizz in Ironforge",
+                    "source": "Sold by Kor'geld in Orgrimmar (Horde)\nSold by Soolie Berryfizz in Ironforge",
                     "icon": "inv_potion_66"
                 },
                 {
@@ -1278,73 +1278,73 @@
                 {
                     "name": "Sneaking Potion",
                     "spellID": 28546,
-                    "source": "Sold by Leeli Longhaggle in Terokkar Forest (Alliance)<br>Sold by Seer Janidi in Zangarmarsh (Horde)",
+                    "source": "Sold by Leeli Longhaggle in Terokkar Forest (Alliance)\nSold by Seer Janidi in Zangarmarsh (Horde)",
                     "icon": "inv_potion_110"
                 },
                 {
                     "name": "Elixir of Major Frost Power",
                     "spellID": 28549,
-                    "source": "Sold by Haalrun in Zangarmarsh (Alliance)<br>Sold by Seer Janidi in Zangarmarsh (Horde)",
+                    "source": "Sold by Haalrun in Zangarmarsh (Alliance)\nSold by Seer Janidi in Zangarmarsh (Horde)",
                     "icon": "inv_potion_148"
                 },
                 {
                     "name": "Elixir of Camouflage",
                     "spellID": 28543,
-                    "source": "Sold by Altaa in The Exodar (Alliance)<br>Sold by Melaris in Silvermoon City (Horde)",
+                    "source": "Sold by Altaa in The Exodar (Alliance)\nSold by Melaris in Silvermoon City (Horde)",
                     "icon": "inv_potion_150"
                 },
                 {
                     "name": "Super Mana Potion",
                     "spellID": 28555,
-                    "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)<br>Sold by Haalrun in Zangarmarsh (Alliance)",
+                    "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)\nSold by Haalrun in Zangarmarsh (Alliance)",
                     "icon": "inv_potion_137"
                 },
                 {
                     "name": "Elixir of Major Defense",
                     "spellID": 28557,
-                    "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)<br>Sold by Haalrun in Zangarmarsh (Alliance)",
+                    "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)\nSold by Haalrun in Zangarmarsh (Alliance)",
                     "icon": "inv_potion_122"
                 },
                 {
                     "name": "Major Dreamless Sleep Potion",
                     "spellID": 28562,
-                    "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)<br>Sold by Leeli Longhaggle in Terokkar Forest (Alliance)",
+                    "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)\nSold by Leeli Longhaggle in Terokkar Forest (Alliance)",
                     "icon": "inv_potion_139"
                 },
                 {
                     "name": "Transmute: Primal Might",
                     "spellID": 29688,
-                    "source": "Sold by Altaa in The Exodar (Alliance)<br>Sold by Melaris in Silvermoon City (Horde)",
+                    "source": "Sold by Altaa in The Exodar (Alliance)\nSold by Melaris in Silvermoon City (Horde)",
                     "icon": "spell_nature_lightningoverload"
                 },
                 {
                     "name": "Draenic Agility Potion",
                     "spellID": 156577,
-                    "source": "Sold by Joshua Alvarez in Warspear (Horde)<br>Sold by Katherine Joplin in Stormshield (Alliance)",
+                    "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a27"
                 },
                 {
                     "name": "Draenic Intellect Potion",
                     "spellID": 156578,
-                    "source": "Sold by Joshua Alvarez in Warspear (Horde)<br>Sold by Katherine Joplin in Stormshield (Alliance)",
+                    "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a28"
                 },
                 {
                     "name": "Draenic Strength Potion",
                     "spellID": 156579,
-                    "source": "Sold by Joshua Alvarez in Warspear (Horde)<br>Sold by Katherine Joplin in Stormshield (Alliance)",
+                    "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a23"
                 },
                 {
                     "name": "Draenic Channeled Mana Potion",
                     "spellID": 156581,
-                    "source": "Sold by Joshua Alvarez in Warspear (Horde)<br>Sold by Katherine Joplin in Stormshield (Alliance)",
+                    "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_d11"
                 },
                 {
                     "name": "Draenic Armor Potion",
                     "spellID": 156580,
-                    "source": "Sold by Joshua Alvarez in Warspear (Horde)<br>Sold by Katherine Joplin in Stormshield (Alliance)",
+                    "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a25"
                 },
                 {
@@ -1908,67 +1908,67 @@
                 {
                     "name": "Draenic Philosopher's Stone",
                     "spellID": 156560,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_enchant_philostone_lv2"
                 },
                 {
                     "name": "Draenic Agility Flask",
                     "spellID": 156561,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c22"
                 },
                 {
                     "name": "Draenic Intellect Flask",
                     "spellID": 156563,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c25"
                 },
                 {
                     "name": "Draenic Strength Flask",
                     "spellID": 156564,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c23"
                 },
                 {
                     "name": "Draenic Stamina Flask",
                     "spellID": 156568,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c24"
                 },
                 {
                     "name": "Greater Draenic Agility Flask",
                     "spellID": 156569,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c12"
                 },
                 {
                     "name": "Greater Draenic Intellect Flask",
                     "spellID": 156571,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c15"
                 },
                 {
                     "name": "Greater Draenic Strength Flask",
                     "spellID": 156572,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c13"
                 },
                 {
                     "name": "Draenic Rejuvenation Potion",
                     "spellID": 156584,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_b21"
                 },
                 {
                     "name": "Transmorphic Tincture",
                     "spellID": 162403,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_misc_flaskofvolatility"
                 },
                 {
                     "name": "Greater Draenic Stamina Flask",
                     "spellID": 156576,
-                    "source": "Purchased with Secrets of Draenor Alchemy<br>Sold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
+                    "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c14"
                 }
             ]
@@ -2198,13 +2198,13 @@
                 {
                     "name": "Elixir of Major Agility",
                     "spellID": 28553,
-                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "inv_potion_127"
                 },
                 {
                     "name": "Transmute: Skyfire Diamond",
                     "spellID": 32766,
-                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "inv_misc_gem_diamond_05"
                 }
             ]
@@ -2215,7 +2215,7 @@
                 {
                     "name": "Transmute: Primal Fire to Earth",
                     "spellID": 28568,
-                    "source": "Sold by Provisioner Nasela in Nagrand (Requires Revered)<br>Sold by Trader Narasu in Nagrand (Requires Revered)",
+                    "source": "Sold by Provisioner Nasela in Nagrand (Requires Revered)\nSold by Trader Narasu in Nagrand (Requires Revered)",
                     "icon": "inv_elemental_primal_earth"
                 }
             ]
@@ -2283,7 +2283,7 @@
                 {
                     "name": "Elixir of Frost Power",
                     "spellID": 21923,
-                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "inv_potion_03"
                 }
             ]

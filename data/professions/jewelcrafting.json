@@ -2114,19 +2114,19 @@
                 {
                     "name": "Wicked Moonstone Ring",
                     "spellID": 25323,
-                    "source": "Sold by Dalria in Ashenvale (Alliance)<br>Sold by Ranik in Northern Barrens (Horde)",
+                    "source": "Sold by Dalria in Ashenvale (Alliance)\nSold by Ranik in Northern Barrens (Horde)",
                     "icon": "inv_jewelry_ring_02"
                 },
                 {
                     "name": "Figurine - Truesilver Crab",
                     "spellID": 26881,
-                    "source": "Sold by Helenia Olden in Duskwallow Marsh (Alliance)<br>Sold by Nerrist in Northern Stranglethorn (Horde)",
+                    "source": "Sold by Helenia Olden in Duskwallow Marsh (Alliance)\nSold by Nerrist in Northern Stranglethorn (Horde)",
                     "icon": "inv_jewelcrafting_truesilvercrab"
                 },
                 {
                     "name": "Figurine - Black Pearl Panther",
                     "spellID": 26875,
-                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)<br>Sold by Helenia Olden in Duskwallow Marsh (Alliance)",
+                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)\nSold by Helenia Olden in Duskwallow Marsh (Alliance)",
                     "icon": "inv_jewelcrafting_blackpearlpanther"
                 },
                 {
@@ -2150,13 +2150,13 @@
                 {
                     "name": "Ruby Crown of Restoration",
                     "spellID": 26878,
-                    "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)<br>Sold by Keena in Arathi Highlands (Horde)",
+                    "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)\nSold by Keena in Arathi Highlands (Horde)",
                     "icon": "inv_crown_13"
                 },
                 {
                     "name": "Mystic Dawnstone",
                     "spellID": 31101,
-                    "source": "Sold by Aldraan in Nagrand (Alliance)<br>Sold by Coreiel in Nagrand (Horde)",
+                    "source": "Sold by Aldraan in Nagrand (Alliance)\nSold by Coreiel in Nagrand (Horde)",
                     "icon": "inv_jewelcrafting_dawnstone_03"
                 },
                 {
@@ -3849,61 +3849,61 @@
                 {
                     "name": "Reckless Flame Spessarite",
                     "spellID": 28912,
-                    "source": "Requires Friendly with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Friendly with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_flamespessarite_02"
                 },
                 {
                     "name": "Shifting Shadow Draenite",
                     "spellID": 28933,
-                    "source": "Requires Friendly with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Friendly with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_ebondraenite_02"
                 },
                 {
                     "name": "Swift Skyfire Diamond",
                     "spellID": 32873,
-                    "source": "Requires Honored with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Honored with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_diamond_07"
                 },
                 {
                     "name": "Delicate Blood Garnet",
                     "spellID": 34590,
-                    "source": "Requires Honored with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Honored with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_bloodgem_02"
                 },
                 {
                     "name": "Sparkling Azure Moonstone",
                     "spellID": 28953,
-                    "source": "Requires Honored with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Honored with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_azuredraenite_02"
                 },
                 {
                     "name": "Subtle Golden Draenite",
                     "spellID": 28947,
-                    "source": "Requires Honored with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Honored with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_goldendraenite_02"
                 },
                 {
                     "name": "Crimson Sun",
                     "spellID": 42589,
-                    "source": "Requires Revered with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Revered with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_jewelcrafting_crimsonspinel_02"
                 },
                 {
                     "name": "Pendant of the Null Rune",
                     "spellID": 31066,
-                    "source": "Requires Revered with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Revered with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_jewelry_necklace_32"
                 },
                 {
                     "name": "Don Julio's Heart",
                     "spellID": 42558,
-                    "source": "Requires Revered with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Revered with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_jewelcrafting_crimsonspinel_02"
                 },
                 {
                     "name": "Relentless Earthstorm Diamond",
                     "spellID": 39961,
-                    "source": "Requires Exalted with The Consortium<br>Sold by Karaaz in Netherstorm<br>Sold by Paulsta'ats in Nagrand",
+                    "source": "Requires Exalted with The Consortium\nSold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_gem_diamond_06"
                 },
                 {
@@ -3955,13 +3955,13 @@
                 {
                     "name": "Regal Deep Peridot",
                     "spellID": 28918,
-                    "source": "Requires Friendly with Thrallmar \/ Honor Hold<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "source": "Requires Friendly with Thrallmar \/ Honor Hold\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "inv_misc_gem_deepperidot_02"
                 },
                 {
                     "name": "Figurine - Dawnstone Crab",
                     "spellID": 31080,
-                    "source": "Requires Revered with Thrallmar \/ Honor Hold<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "source": "Requires Revered with Thrallmar \/ Honor Hold\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "inv_jewelcrafting_truesilvercrab"
                 }
             ]
@@ -4379,13 +4379,13 @@
                 {
                     "name": "Defender's Shadow Crystal",
                     "spellID": 53869,
-                    "source": "Sold by Sairuk in Dragonlight (Requires Honored)<br>Sold by Tanaika in Howling Fjord (Requires Honored)",
+                    "source": "Sold by Sairuk in Dragonlight (Requires Honored)\nSold by Tanaika in Howling Fjord (Requires Honored)",
                     "icon": "inv_jewelcrafting_gem_23"
                 },
                 {
                     "name": "Purified Shadow Crystal",
                     "spellID": 53921,
-                    "source": "Sold by Sairuk in Dragonlight (Requires Friendly)<br>Sold by Tanaika in Howling Fjord (Requires Friendly)",
+                    "source": "Sold by Sairuk in Dragonlight (Requires Friendly)\nSold by Tanaika in Howling Fjord (Requires Friendly)",
                     "icon": "inv_jewelcrafting_gem_23"
                 }
             ]
@@ -5031,133 +5031,133 @@
                 {
                     "name": "Mastery Taladite",
                     "spellID": 170721,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_47"
                 },
                 {
                     "name": "Taladite Recrystalizer",
                     "spellID": 170701,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_enchant_metamorphiccrystal"
                 },
                 {
                     "name": "Taladite Amplifier",
                     "spellID": 170702,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_amplifier"
                 },
                 {
                     "name": "Glowing Taladite Ring",
                     "spellID": 170713,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_60crafted_ring1d"
                 },
                 {
                     "name": "Shifting Taladite Ring",
                     "spellID": 170714,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_60crafted_ring2c"
                 },
                 {
                     "name": "Whispering Taladite Ring",
                     "spellID": 170715,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_60crafted_ring2b"
                 },
                 {
                     "name": "Glowing Taladite Pendant",
                     "spellID": 170716,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_necklace1_red"
                 },
                 {
                     "name": "Shifting Taladite Pendant",
                     "spellID": 170717,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_necklace1_yellow"
                 },
                 {
                     "name": "Whispering Taladite Pendant",
                     "spellID": 170718,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_necklace1_blue"
                 },
                 {
                     "name": "Critical Strike Taladite",
                     "spellID": 170719,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_43"
                 },
                 {
                     "name": "Multistrike Taladite",
                     "spellID": 170722,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engineering"
                 },
                 {
                     "name": "Greater Critical Strike Taladite",
                     "spellID": 170725,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_49"
                 },
                 {
                     "name": "Greater Haste Taladite",
                     "spellID": 170726,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_54"
                 },
                 {
                     "name": "Versatility Taladite",
                     "spellID": 170723,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_44"
                 },
                 {
                     "name": "Greater Mastery Taladite",
                     "spellID": 170727,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_53"
                 },
                 {
                     "name": "Greater Multistrike Taladite",
                     "spellID": 170728,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engineering"
                 },
                 {
                     "name": "Haste Taladite",
                     "spellID": 170720,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_48"
                 },
                 {
                     "name": "Greater Stamina Taladite",
                     "spellID": 170730,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_52"
                 },
                 {
                     "name": "Stamina Taladite",
                     "spellID": 170724,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_46"
                 },
                 {
                     "name": "Greater Versatility Taladite",
                     "spellID": 170729,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_50"
                 },
                 {
                     "name": "Prismatic Focusing Lens",
                     "spellID": 170732,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "item_cutmetagem"
                 },
                 {
                     "name": "Reflecting Prism",
                     "spellID": 170731,
-                    "source": "Purchased with Secrets of Draenor Jewelcrafting<br>Sold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Jewelcrafting\nSold by Jewelcrafting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_jewelcrafting_prism"
                 }
             ]

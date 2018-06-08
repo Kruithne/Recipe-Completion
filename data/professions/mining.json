@@ -186,7 +186,7 @@
                 {
                     "name": "Smelt Enchanted Elementium",
                     "spellID": 22967,
-                    "source": "Taught by Goblin's Guide to Elementium<br>Drops in Blackwing Lair",
+                    "source": "Taught by Goblin's Guide to Elementium\nDrops in Blackwing Lair",
                     "icon": "inv_ingot_thorium"
                 }
             ]
@@ -197,7 +197,7 @@
                 {
                     "name": "Smelt Hardened Khorium",
                     "spellID": 46353,
-                    "source": "Taught by Study of Advanced Smelting<br>Drops in Sunwell Plateau",
+                    "source": "Taught by Study of Advanced Smelting\nDrops in Sunwell Plateau",
                     "icon": "inv_ingot_thorium"
                 }
             ]

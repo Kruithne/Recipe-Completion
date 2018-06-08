@@ -1250,49 +1250,49 @@
                 {
                     "name": "Darkmoon Card of Draenor",
                     "spellID": 163294,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_inscription_tooltip_darkmooncard_mop"
                 },
                 {
                     "name": "Warmaster's Firestick",
                     "spellID": 165804,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_wand_1h_draenorcrafted_d_01_a_horde"
                 },
                 {
                     "name": "Crystalfire Spellstaff",
                     "spellID": 166356,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_staff_2h_draenorcrafted_d_02_a_horde"
                 },
                 {
                     "name": "Etched-Blade Warstaff",
                     "spellID": 166359,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_staff_2h_draenorcrafted_d_02_a_alliance"
                 },
                 {
                     "name": "Shadowtome",
                     "spellID": 166363,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_offhand_1h_draenorcrafted_d_02a"
                 },
                 {
                     "name": "Weapon Crystal",
                     "spellID": 166366,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_datacrystal05"
                 },
                 {
                     "name": "Volatile Crystal",
                     "spellID": 166432,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_crystalepic2"
                 },
                 {
                     "name": "Ensorcelled Tarot",
                     "spellID": 178248,
-                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_inscription_tarot_volcanoace"
                 }
             ]

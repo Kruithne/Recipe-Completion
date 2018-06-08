@@ -1610,31 +1610,31 @@
                 {
                     "name": "Lesser Mana",
                     "spellID": 7776,
-                    "source": "Sold by Kithas in Orgrimmar (Horde)<br>Sold by Lilly in Silverpine Forest (Horde)",
+                    "source": "Sold by Kithas in Orgrimmar (Horde)\nSold by Lilly in Silverpine Forest (Horde)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Lesser Intellect",
                     "spellID": 7793,
-                    "source": "Sold by Kithas in Orgrimmar (Horde)<br>Sold by Tilli Thistlefuzz in Ironforge (Alliance)",
+                    "source": "Sold by Kithas in Orgrimmar (Horde)\nSold by Tilli Thistlefuzz in Ironforge (Alliance)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Minor Agility",
                     "spellID": 7867,
-                    "source": "Sold by Nata Dawnstrider in Thunder Bluff (Horde)<br>Sold by Zixil in Hillsbrad Foothills (Neutral)",
+                    "source": "Sold by Nata Dawnstrider in Thunder Bluff (Horde)\nSold by Zixil in Hillsbrad Foothills (Neutral)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Minor Agility",
                     "spellID": 13419,
-                    "source": "Sold by Dalria in Ashenvale (Alliance)<br>Sold by Kulwia in Stonetalon Mountains (Horde)",
+                    "source": "Sold by Dalria in Ashenvale (Alliance)\nSold by Kulwia in Stonetalon Mountains (Horde)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Lesser Strength",
                     "spellID": 13536,
-                    "source": "Sold by Dalria in Ashenvale (Alliance)<br>Sold by Kulwia in Stonetalon Mountains (Horde)",
+                    "source": "Sold by Dalria in Ashenvale (Alliance)\nSold by Kulwia in Stonetalon Mountains (Horde)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
@@ -1646,7 +1646,7 @@
                 {
                     "name": "Dodge",
                     "spellID": 13931,
-                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)<br>Sold by Mythrin'dir in Darnassus (Alliance)",
+                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)\nSold by Mythrin'dir in Darnassus (Alliance)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
@@ -1658,7 +1658,7 @@
                 {
                     "name": "Greater Stamina",
                     "spellID": 20017,
-                    "source": "Sold by Daniel Bartlett in Undercity (Horde)<br>Sold by Mythrin'dir in Darnassus (Alliance)",
+                    "source": "Sold by Daniel Bartlett in Undercity (Horde)\nSold by Mythrin'dir in Darnassus (Alliance)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
@@ -1724,19 +1724,19 @@
                 {
                     "name": "Superior Mana Oil",
                     "spellID": 28016,
-                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)<br>Sold by Egomis in The Exodar (Alliance)<br>Sold by Lyna in Silvermoon City(Horde)",
+                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)\nSold by Egomis in The Exodar (Alliance)\nSold by Lyna in Silvermoon City(Horde)",
                     "icon": "inv_potion_101"
                 },
                 {
                     "name": "Superior Wizard Oil",
                     "spellID": 28019,
-                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)<br>Sold by Egomis in The Exodar (Alliance)<br>Sold by Lyna in Silvermoon City(Horde)",
+                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)\nSold by Egomis in The Exodar (Alliance)\nSold by Lyna in Silvermoon City(Horde)",
                     "icon": "inv_potion_141"
                 },
                 {
                     "name": "Large Prismatic Shard",
                     "spellID": 28022,
-                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)<br>Sold by Egomis in The Exodar (Alliance)<br>Sold by Lyna in Silvermoon City(Horde)",
+                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)\nSold by Egomis in The Exodar (Alliance)\nSold by Lyna in Silvermoon City(Horde)",
                     "icon": "inv_enchant_shardprismaticlarge"
                 },
                 {
@@ -2010,181 +2010,181 @@
                 {
                     "name": "Breath of Critical Strike",
                     "spellID": 158877,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Haste",
                     "spellID": 158878,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Mastery",
                     "spellID": 158879,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Multistrike",
                     "spellID": 158880,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Versatility",
                     "spellID": 158881,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Critical Strike",
                     "spellID": 158884,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Haste",
                     "spellID": 158885,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Mastery",
                     "spellID": 158886,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Multistrike",
                     "spellID": 158887,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Versatility",
                     "spellID": 158889,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Critical Strike",
                     "spellID": 158892,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Haste",
                     "spellID": 158893,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Mastery",
                     "spellID": 158894,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Breath of Multistrike",
                     "spellID": 158895,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Critical Strike",
                     "spellID": 158899,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Haste",
                     "spellID": 158900,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Mastery",
                     "spellID": 158901,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Multistrike",
                     "spellID": 158902,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Versatility",
                     "spellID": 158903,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Critical Strike",
                     "spellID": 158914,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Haste",
                     "spellID": 158915,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Mastery",
                     "spellID": 158916,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Multistrike",
                     "spellID": 158917,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Gift of Versatility",
                     "spellID": 158918,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Mark of the Thunderlord",
                     "spellID": 159235,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Mark of Warsong",
                     "spellID": 159671,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Mark of the Frostwolf",
                     "spellID": 159672,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Mark of Shadowmoon",
                     "spellID": 159673,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Mark of Blackrock",
                     "spellID": 159674,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Mark of Bleeding Hollow",
                     "spellID": 173323,
-                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving"
                 }
             ]
@@ -2317,13 +2317,13 @@
                 {
                     "name": "Superior Healing",
                     "spellID": 27911,
-                    "source": "Requires Friendly with Honor Hold \/ Thrallmar<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "source": "Requires Friendly with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Exceptional Stats",
                     "spellID": 27960,
-                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "spell_holy_greaterheal"
                 }
             ]
@@ -2334,13 +2334,13 @@
                 {
                     "name": "Major Striking",
                     "spellID": 27967,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Honored)<br>Sold by Paulsta'ats in Nagrand (Requires Honored)",
+                    "source": "Sold by Karaaz in Netherstorm (Requires Honored)\nSold by Paulsta'ats in Nagrand (Requires Honored)",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "PvP Power",
                     "spellID": 34003,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Friendly)<br>Sold by Paulsta'ats in Nagrand (Requires Friendly)",
+                    "source": "Sold by Karaaz in Netherstorm (Requires Friendly)\nSold by Paulsta'ats in Nagrand (Requires Friendly)",
                     "icon": "spell_holy_greaterheal"
                 }
             ]
@@ -2401,19 +2401,19 @@
                 {
                     "name": "Super Intellect",
                     "spellID": 104389,
-                    "source": "Requires Revered with The August Celestials<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
+                    "source": "Requires Revered with The August Celestials\nSold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)\nSold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Exceptional Strength",
                     "spellID": 104390,
-                    "source": "Requires Revered with The August Celestials<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
+                    "source": "Requires Revered with The August Celestials\nSold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)\nSold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Greater Agility",
                     "spellID": 104391,
-                    "source": "Requires Revered with The August Celestials<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
+                    "source": "Requires Revered with The August Celestials\nSold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)\nSold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
                     "icon": "trade_engraving"
                 }
             ]
@@ -2458,7 +2458,7 @@
                 {
                     "name": "Winter's Might",
                     "spellID": 21931,
-                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "spell_holy_greaterheal"
                 }
             ]

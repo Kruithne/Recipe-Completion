@@ -1514,7 +1514,7 @@
                 {
                     "name": "Minor Recombobulator",
                     "spellID": 3952,
-                    "source": "Sold by Fradd Swiftgear in Wetlands (Alliance)<br>Sold by Gagsprokect in Northern Barrens (Neutral)",
+                    "source": "Sold by Fradd Swiftgear in Wetlands (Alliance)\nSold by Gagsprokect in Northern Barrens (Neutral)",
                     "icon": "inv_gizmo_07"
                 },
                 {
@@ -1532,19 +1532,19 @@
                 {
                     "name": "Goblin Jumper Cables",
                     "spellID": 9273,
-                    "source": "Sold by Kzixx in Duskwood<br>Sold by Zixil in Hillsbrad Foothills",
+                    "source": "Sold by Kzixx in Duskwood\nSold by Zixil in Hillsbrad Foothills",
                     "icon": "inv_misc_enggizmos_10"
                 },
                 {
                     "name": "Deadly Scope",
                     "spellID": 12597,
-                    "source": "Sold by Knaz Blunderflame in Northern Stranglethorn<br>Sold by Yuka Screwspigot in Blackrock Depths",
+                    "source": "Sold by Knaz Blunderflame in Northern Stranglethorn\nSold by Yuka Screwspigot in Blackrock Depths",
                     "icon": "inv_misc_spyglass_02"
                 },
                 {
                     "name": "Mithril Mechanical Dragonling",
                     "spellID": 12624,
-                    "source": "Sold by Ruppo Zipcoil in The Hinterlands<br>Sold by Kaye Toogie in Dalaran (Wormhole Location)",
+                    "source": "Sold by Ruppo Zipcoil in The Hinterlands\nSold by Kaye Toogie in Dalaran (Wormhole Location)",
                     "icon": "inv_misc_head_dragon_blue"
                 },
                 {
@@ -1556,7 +1556,7 @@
                 {
                     "name": "Mechanical Dragonling",
                     "spellID": 3969,
-                    "source": "Sold by Gnaz Blunderflame in Northren Stranglethorn<br>Sold by Kaye Toogie in Dalaran (Wormhole Location)",
+                    "source": "Sold by Gnaz Blunderflame in Northren Stranglethorn\nSold by Kaye Toogie in Dalaran (Wormhole Location)",
                     "icon": "inv_misc_head_dragon_01"
                 },
                 {
@@ -1586,25 +1586,25 @@
                 {
                     "name": "Red Firework",
                     "spellID": 23066,
-                    "source": "Sold by Buckslappy in Badlands (Neutral)<br>Sold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)<br>Sold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
+                    "source": "Sold by Buckslappy in Badlands (Neutral)\nSold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)\nSold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
                     "icon": "spell_fire_fireball02"
                 },
                 {
                     "name": "Steam Tonk Controller",
                     "spellID": 28327,
-                    "source": "Sold by Gearcutter Cogspinner in Ironforge (Alliance)<br>Sold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)<br>Sold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
+                    "source": "Sold by Gearcutter Cogspinner in Ironforge (Alliance)\nSold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)\nSold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
                     "icon": "inv_gizmo_goblingtonkcontroller"
                 },
                 {
                     "name": "Green Firework",
                     "spellID": 23068,
-                    "source": "Sold by Buckslappy in Badlands<br>Sold by Crazk Sparks in The Cape of Stranglethorn<br>Sold by Gagsprocket in Northern Barrens",
+                    "source": "Sold by Buckslappy in Badlands\nSold by Crazk Sparks in The Cape of Stranglethorn\nSold by Gagsprocket in Northern Barrens",
                     "icon": "spell_nature_abolishmagic"
                 },
                 {
                     "name": "Blue Firework",
                     "spellID": 23067,
-                    "source": "Sold by Buckslappy in Badlands (Neutral)<br>Sold by Darian Singh in Stormwind City (Alliance)<br>Sold by Gearcutter Cogspinner in Ironforge (Alliance)",
+                    "source": "Sold by Buckslappy in Badlands (Neutral)\nSold by Darian Singh in Stormwind City (Alliance)\nSold by Gearcutter Cogspinner in Ironforge (Alliance)",
                     "icon": "spell_ice_magicdamage"
                 },
                 {
@@ -1616,7 +1616,7 @@
                 {
                     "name": "EZ-Thro Dynamite II",
                     "spellID": 23069,
-                    "source": "Sold by Blizrik Buckshot in Tanaris<br>Sold by Buckslappy in Badlands",
+                    "source": "Sold by Blizrik Buckshot in Tanaris\nSold by Buckslappy in Badlands",
                     "icon": "inv_misc_bomb_03"
                 },
                 {
@@ -1628,19 +1628,19 @@
                 {
                     "name": "Cogspinner Goggles",
                     "spellID": 30316,
-                    "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)<br>Sold by Mixie Farshot in Hellfire Peninsula (Horde)",
+                    "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)\nSold by Mixie Farshot in Hellfire Peninsula (Horde)",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Ultra-Spectropic Detection Goggles",
                     "spellID": 30318,
-                    "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)<br>Sold by Captured Gnome in Zangarmarsh (Horde)",
+                    "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)\nSold by Captured Gnome in Zangarmarsh (Horde)",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Adamantite Scope",
                     "spellID": 30329,
-                    "source": "Sold by Daggle Ironshaper in Shadowmoon Valley (Alliance)<br>Sold by Mixie Farshot in Hellfire Peninsula (Horde)",
+                    "source": "Sold by Daggle Ironshaper in Shadowmoon Valley (Alliance)\nSold by Mixie Farshot in Hellfire Peninsula (Horde)",
                     "icon": "inv_misc_spyglass_02"
                 },
                 {
@@ -1658,7 +1658,7 @@
                 {
                     "name": "Titanium Toolbox",
                     "spellID": 30349,
-                    "source": "Sold by Bryan Landers in Dalaran<br>Sold by Fizzix Blastbolt in Icecrown",
+                    "source": "Sold by Bryan Landers in Dalaran\nSold by Fizzix Blastbolt in Icecrown",
                     "icon": "inv_misc_enggizmos_19"
                 },
                 {
@@ -1681,7 +1681,7 @@
                 {
                     "name": "Snowmaster 9000",
                     "spellID": 21940,
-                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "spell_frost_windwalkon"
                 }
             ]
@@ -1810,7 +1810,7 @@
                 {
                     "name": "Elemental Seaforium Charge",
                     "spellID": 30547,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Revered)<br>Sold by Paulsta'ats in Nagrand (Requires Revered)",
+                    "source": "Sold by Karaaz in Netherstorm (Requires Revered)\nSold by Paulsta'ats in Nagrand (Requires Revered)",
                     "icon": "spell_shadow_detectinvisibility"
                 }
             ]
@@ -1822,14 +1822,14 @@
                     "name": "Mechano-Hog",
                     "spellID": 60866,
                     "faction": 1,
-                    "source": "Sold by Gara Skullcrush in Borean Tundra (Requires Exalted)<br>Sold by Sebastian Crane in Howling Fjord (Requires Exalted)",
+                    "source": "Sold by Gara Skullcrush in Borean Tundra (Requires Exalted)\nSold by Sebastian Crane in Howling Fjord (Requires Exalted)",
                     "icon": "inv_misc_key_06"
                 },
                 {
                     "name": "Mekgineer's Chopper",
                     "spellID": 60867,
                     "faction": 0,
-                    "source": "Sold by Logistics Officer Brighton in Howling Fjord (Requires Exalted)<br>Sold by Logistics Officer Silverstone in Borean Tundra (Requires Exalted)",
+                    "source": "Sold by Logistics Officer Brighton in Howling Fjord (Requires Exalted)\nSold by Logistics Officer Silverstone in Borean Tundra (Requires Exalted)",
                     "icon": "inv_misc_key_14"
                 }
             ]
@@ -1986,121 +1986,121 @@
                 {
                     "name": "Cybergenetic Mechshades",
                     "spellID": 162195,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_helm_goggles_draenortradeskill_d_01"
                 },
                 {
                     "name": "Night-Vision Mechshades",
                     "spellID": 162196,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_helm_goggles_draenortradeskill_d_01"
                 },
                 {
                     "name": "Plasma Mechshades",
                     "spellID": 162197,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_helm_goggles_draenortradeskill_d_01"
                 },
                 {
                     "name": "Razorguard Mechshades",
                     "spellID": 162198,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_helm_goggles_draenortradeskill_d_01"
                 },
                 {
                     "name": "Shrediron's Shredder",
                     "spellID": 162199,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_firearm_2h_rifle_draenorcrafted_d_01_a_alliance"
                 },
                 {
                     "name": "Oglethorpe's Missile Splitter",
                     "spellID": 162202,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_gizmo_09"
                 },
                 {
                     "name": "Megawatt Filament",
                     "spellID": 162203,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "ability_vehicle_electrocharge"
                 },
                 {
                     "name": "World Shrinker",
                     "spellID": 162206,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_enggizmos_09"
                 },
                 {
                     "name": "Findle's Loot-a-Rang",
                     "spellID": 162205,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_eng_mechanicalboomerang"
                 },
                 {
                     "name": "Mechanical Axebeak",
                     "spellID": 162209,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_box_birdcage_01"
                 },
                 {
                     "name": "Lifelike Mechanical Frostboar",
                     "spellID": 162210,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_boarshead"
                 },
                 {
                     "name": "Personal Hologram",
                     "spellID": 162214,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "achievement_faction_celestials"
                 },
                 {
                     "name": "Wormhole Centrifuge",
                     "spellID": 162216,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "ability_siege_engineer_pattern_recognition"
                 },
                 {
                     "name": "Swapblaster",
                     "spellID": 162217,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_weapon_rifle_38"
                 },
                 {
                     "name": "Linkgrease Locksprocket",
                     "spellID": 169076,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_eng_gizmo1"
                 },
                 {
                     "name": "Blingtron 5000",
                     "spellID": 162218,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_blingtron"
                 },
                 {
                     "name": "Didi's Delicate Assembly",
                     "spellID": 169078,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_enggizmos_02"
                 },
                 {
                     "name": "Hemet's Heartseeker",
                     "spellID": 173289,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_scopeb"
                 },
                 {
                     "name": "Mechanical Scorpid",
                     "spellID": 176732,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_eng_metalblingronear"
                 },
                 {
                     "name": "True Iron Trigger",
                     "spellID": 177363,
-                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_enggizmos_25"
                 }
             ]
@@ -2160,7 +2160,7 @@
                     "classes": [
                         2
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2169,7 +2169,7 @@
                     "classes": [
                         2
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2178,7 +2178,7 @@
                     "classes": [
                         2
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2187,7 +2187,7 @@
                     "classes": [
                         2
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 }
             ]
@@ -2203,7 +2203,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2214,7 +2214,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2225,7 +2225,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2236,7 +2236,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2247,7 +2247,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2258,7 +2258,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2269,7 +2269,7 @@
                         2,
                         6
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
@@ -2280,7 +2280,7 @@
                         2,
                         6
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2291,7 +2291,7 @@
                         2,
                         6
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Warriors, Paladins and Death Knights",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
@@ -2306,7 +2306,7 @@
                         3,
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2316,7 +2316,7 @@
                         3,
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2326,7 +2326,7 @@
                         3,
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2336,7 +2336,7 @@
                         3,
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2346,7 +2346,7 @@
                         3,
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
@@ -2356,7 +2356,7 @@
                         3,
                         7
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Hunters and Shamans",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
@@ -2370,7 +2370,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2379,7 +2379,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2388,7 +2388,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2397,7 +2397,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2406,7 +2406,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
@@ -2415,7 +2415,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Shamans",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2424,7 +2424,7 @@
                     "classes": [
                         7
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Shamans",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
@@ -2440,7 +2440,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2451,7 +2451,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2462,7 +2462,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2473,7 +2473,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2484,7 +2484,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
@@ -2495,7 +2495,7 @@
                         10,
                         11
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Rogues, Monks and Druids",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
@@ -2509,7 +2509,7 @@
                     "classes": [
                         11
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Monks and Druids",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2518,7 +2518,7 @@
                     "classes": [
                         11
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Monks and Druids",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
@@ -2533,7 +2533,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2543,7 +2543,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2553,7 +2553,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2563,7 +2563,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
                     "icon": "inv_helmet_170"
                 },
                 {
@@ -2573,7 +2573,7 @@
                         10,
                         11
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 }
             ]
@@ -2587,7 +2587,7 @@
                     "classes": [
                         5
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Priests",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Priests",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2596,7 +2596,7 @@
                     "classes": [
                         5
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Priests",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Priests",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
@@ -2612,7 +2612,7 @@
                         8,
                         9
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2623,7 +2623,7 @@
                         8,
                         9
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2634,7 +2634,7 @@
                         8,
                         9
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2645,7 +2645,7 @@
                         8,
                         9
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlock",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlock",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
@@ -2656,7 +2656,7 @@
                         8,
                         9
                     ],
-                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
@@ -2667,7 +2667,7 @@
                         8,
                         9
                     ],
-                    "source": "Drops in Sunwell Plateau<br>Only available to Priests, Mages and Warlocks",
+                    "source": "Drops in Sunwell Plateau\nOnly available to Priests, Mages and Warlocks",
                     "icon": "inv_gizmo_newgoggles"
                 }
             ]
