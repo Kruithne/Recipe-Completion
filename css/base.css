@@ -44,6 +44,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	z-index: 50;
 }
 
 #status {
@@ -127,6 +128,7 @@ body {
 	right: 0;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
+	z-index: 51;
 }
 
 .realm-header {
@@ -146,4 +148,67 @@ body {
 .realm-option:hover {
 	background-color: #c59471;
 	cursor: pointer;
+}
+
+#profession-display {
+	position: fixed;
+	top: 100px;
+	bottom: 100px;
+	padding: 0 50px;
+	overflow-y: auto;
+}
+
+.profession-pct-bar {
+	background: green;
+	box-shadow: 0 0 10px black inset;
+	padding: 0 40px;
+	height: 50px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+	margin-bottom: 10px;
+}
+
+.profession {
+	padding-bottom: 30px;
+}
+
+.profession h1 {
+	color: white;
+	text-shadow: 3px 3px 2px black;
+}
+
+.profession-block {
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.profession-block h2 {
+	font-size: 1em;
+	text-shadow: 3px 3px 2px black;
+	font-weight: bold;
+	color: white;
+	margin: 10px 0;
+}
+
+.profession-block .icon {
+	width: 36px;
+	height: 40px;
+	display: inline-block;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-image: url(../icon.php?id=inv_misc_questionmark);
+}
+
+.known {
+	background-color: green;
+}
+
+.unknown {
+	background-color: red;
+	opacity: 0.5;
 }

@@ -4,7 +4,7 @@ $(function() {
 			callback(url);
 		}).each(function() {
 			if (this.complete)
-				$(this).load();
+				$(this).trigger('load');
 		});
 	};
 
@@ -20,6 +20,7 @@ $(function() {
 		});
 	};
 
+	var background = $('#background');
 	var statusElement = $('#status');
 	var statusText = statusElement.find('span').first();
 
@@ -38,6 +39,67 @@ $(function() {
 
 	var hideStatus = function() {
 		statusElement.hide();
+	};
+
+	var getProfessionNameSlug = function(professionName) {
+		return professionName.replace(/\s+/, '-').toLowerCase();
+	};
+
+	var professionDisplay = $('#profession-display');
+
+	var clearProfessions = function() {
+		background.animate({ opacity: 0.5 }, 1000);
+		professionDisplay.empty();
+	};
+
+	var renderProfession = function(data, recipes) {
+		var container = $('<div/>').addClass('profession').appendTo(professionDisplay);
+		var header = $('<h1/>').appendTo(container).text(data.name);
+		var progressBar = $('<div/>').addClass('profession-pct-bar').appendTo(container);
+
+		for (var s = 0; s < data.sections.length; s++) {
+			var sectionData = data.sections[s];
+			var section = $('<div/>').addClass('profession-block').appendTo(container);
+			var sectionHeader = $('<h2>').text(sectionData.name).appendTo(section);
+
+			for (var r = 0; r < sectionData.recipes.length; r++) {
+				var recipeData = sectionData.recipes[r];
+				var recipe = $('<div/>').addClass('icon').appendTo(section);
+
+				(function(r) {
+					loadImage('icon.php?id=' + recipeData.icon, function(url) {
+						r.css('background-image', 'url(' + url + ')');
+					});
+				})(recipe);
+
+				if ($.inArray(recipeData.spellID, recipes) > -1) {
+					recipe.addClass('known');
+				} else {
+					recipe.addClass('unknown');
+				}
+			}
+		}
+	};
+
+	var preparing = 0;
+	var prepareProfession = function(data) {
+		setPendingStatus('Obtaining profession data...');
+		preparing++;
+
+		api({
+			action: 'profession',
+			profession: getProfessionNameSlug(data.name)
+		}, function(res) {
+			// Render the profession if we have data for it.
+			if (res.error === false)
+				renderProfession(res.profession, data.recipes);
+
+			preparing--;
+
+			// Only hide the pending status if all downloads are done.
+			if (preparing === 0)
+				hideStatus();
+		});
 	};
 
 	var selectedRealm = null;
@@ -177,6 +239,10 @@ $(function() {
 
 	// Register a click listener for the search button.
 	$('#button-search').on('click', function() {
+		// Prevent searching while data is downloading..
+		if (preparing > 0)
+			return;
+
 		// Ensure the user has selected a realm..
 		if (selectedRealm === null) {
 			setErrorStatus('Please select a valid realm first.');
@@ -198,14 +264,31 @@ $(function() {
 			realm: selectedRealm.realm,
 			character: characterName
 		}, function(data) {
-			hideStatus();
+			if (data.error === false) {
+				hideStatus();
+				clearProfessions();
 
-			// ToDo: Use the data returned.
+				var professions = data.character.professions;
+
+				// Prepare primary professions..
+				for (var p = 0; p < professions.primary.length; p++)
+					prepareProfession(professions.primary[p]);
+
+				// Prepare secondary professions..
+				for (var s = 0; s < professions.secondary.length; s++)
+					prepareProfession(professions.secondary[s]);
+			} else {
+				console.error(data.errorMessage);
+				setErrorStatus('Unable to retrieve character.');
+			}
 		});
 	});
 
 	// Wait for the background image to load before displaying.
 	loadImage('images/recipe-background.jpg', function(url) {
-		$('#background').css('background-image', 'url(' + url + ')').fadeIn(1000);
+		background.css('background-image', 'url(' + url + ')').fadeIn(1000);
 	});
+
+	// Pre-load the default icon for recipe displays.
+	loadImage('icon.php?id=inv_misc_questionmark', function() {});
 });
