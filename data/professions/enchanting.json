@@ -485,12 +485,6 @@
                     "icon": "spell_holy_greaterheal"
                 },
                 {
-                    "name": "Nexus Transformation",
-                    "spellID": 42613,
-                    "source": "Learnt from an enchanting trainer",
-                    "icon": null
-                },
-                {
                     "name": "Small Prismatic Shard",
                     "spellID": 42615,
                     "source": "Learnt from an enchanting trainer",
