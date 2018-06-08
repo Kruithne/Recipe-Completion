@@ -13,6 +13,7 @@
 
 	define('ENDPOINT_REALM', 'realm/status');
 	define('ENDPOINT_CHARACTER', 'character/%s/%s');
+	define('ENDPOINT_SPELL', 'spell/%d');
 
 	define('CACHE_TIME', 86400); // 86400 seconds (24 hours).
 
@@ -188,6 +189,14 @@
 		}
 
 		/**
+		 * Obtain information for a spell from the API.
+		 * Data returned from this function is not cached.
+		 * @param int $spellID
+		 * @return mixed
+		 */
+		public function getSpell($spellID) {
+			return $this->requestEndpoint(sprintf(ENDPOINT_SPELL, $spellID));
+		}
 		/**
 		 * Obtain profession roster from the data files.
 		 * @param string $professionID
