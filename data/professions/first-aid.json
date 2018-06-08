@@ -1,0 +1,187 @@
+{
+    "name": "First Aid",
+    "sections": [
+        {
+            "name": "Trainer",
+            "recipes": [
+                {
+                    "name": "Linen Bandage",
+                    "spellID": 3275,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_15"
+                },
+                {
+                    "name": "Heavy Linen Bandage",
+                    "spellID": 3276,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_18"
+                },
+                {
+                    "name": "Wool Bandage",
+                    "spellID": 3277,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_14"
+                },
+                {
+                    "name": "Heavy Wool Bandage",
+                    "spellID": 3278,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_17"
+                },
+                {
+                    "name": "Silk Bandage",
+                    "spellID": 7928,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_01"
+                },
+                {
+                    "name": "Heavy Silk Bandage",
+                    "spellID": 7929,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_02"
+                },
+                {
+                    "name": "Anti-Venom",
+                    "spellID": 7934,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_slime_01"
+                },
+                {
+                    "name": "Mageweave Bandage",
+                    "spellID": 10840,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_19"
+                },
+                {
+                    "name": "Heavy Mageweave Bandage",
+                    "spellID": 10841,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_20"
+                },
+                {
+                    "name": "Runecloth Bandage",
+                    "spellID": 18629,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_11"
+                },
+                {
+                    "name": "Heavy Runecloth Bandage",
+                    "spellID": 18630,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_12"
+                },
+                {
+                    "name": "Netherweave Bandage",
+                    "spellID": 27032,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_netherweave"
+                },
+                {
+                    "name": "Heavy Netherweave Bandage",
+                    "spellID": 27033,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_netherweave_heavy"
+                },
+                {
+                    "name": "Frostweave Bandage",
+                    "spellID": 45545,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_frostweave"
+                },
+                {
+                    "name": "Heavy Frostweave Bandage",
+                    "spellID": 45546,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_frostweave_heavy"
+                },
+                {
+                    "name": "Embersilk Bandage",
+                    "spellID": 74556,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_16"
+                },
+                {
+                    "name": "Heavy Embersilk Bandage",
+                    "spellID": 74557,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_emberweavebandage2"
+                },
+                {
+                    "name": "Field Bandage: Dense Embersilk",
+                    "spellID": 74558,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_emberweavebandage1"
+                },
+                {
+                    "name": "Dense Embersilk Bandage",
+                    "spellID": 88893,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_emberweavebandage1"
+                },
+                {
+                    "name": "Windwool Bandage",
+                    "spellID": 102697,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_windwool"
+                },
+                {
+                    "name": "Heavy Windwool Bandage",
+                    "spellID": 102699,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bandage_05"
+                }
+            ]
+        },
+        {
+            "name": "Drop",
+            "recipes": [
+                {
+                    "name": "Strong Anti-Venom",
+                    "spellID": 7935,
+                    "source": "Drops in level 20-40 zones",
+                    "icon": "inv_misc_slime_01"
+                }
+            ]
+        },
+        {
+            "name": "Argent Dawn",
+            "recipes": [
+                {
+                    "name": "Powerful Anti-Venom",
+                    "spellID": 23787,
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Honored)",
+                    "icon": "inv_drink_14"
+                }
+            ]
+        },
+        {
+            "name": "Draenor First Aid",
+            "recipes": [
+                {
+                    "name": "Antiseptic Bandage",
+                    "spellID": 172539,
+                    "source": "Learnt with Draenor First Aid",
+                    "icon": "inv_firstaid_bandage2"
+                },
+                {
+                    "name": "Healing Tonic",
+                    "spellID": 172540,
+                    "source": "Learnt with Draenor First Aid",
+                    "icon": "trade_alchemy_dpotion_d12"
+                },
+                {
+                    "name": "Blackwater Anti-Venom",
+                    "spellID": 172541,
+                    "source": "Learnt with Draenor First Aid",
+                    "icon": "inv_firstaid_healingsalve"
+                },
+                {
+                    "name": "Fire Ammonite Oil",
+                    "spellID": 172542,
+                    "source": "Learnt with Draenor First Aid",
+                    "icon": "inv_firstaid_healingsalve2"
+                }
+            ]
+        }
+    ]
+}

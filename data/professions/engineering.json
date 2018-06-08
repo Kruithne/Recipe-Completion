@@ -1,0 +1,2717 @@
+{
+    "name": "Engineering",
+    "sections": [
+        {
+            "name": "Trainer",
+            "recipes": [
+                {
+                    "name": "Rough Blasting Powder",
+                    "spellID": 3918,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_dust_01"
+                },
+                {
+                    "name": "Rough Dynamite",
+                    "spellID": 3919,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_06"
+                },
+                {
+                    "name": "Handful of Copper Bolts",
+                    "spellID": 3922,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_gear_06"
+                },
+                {
+                    "name": "Rough Copper Bomb",
+                    "spellID": 3923,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_09"
+                },
+                {
+                    "name": "Coarse Blasting Powder",
+                    "spellID": 3929,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_dust_02"
+                },
+                {
+                    "name": "Rough Boomstick",
+                    "spellID": 3925,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_03"
+                },
+                {
+                    "name": "Coarse Dynamite",
+                    "spellID": 3931,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_06"
+                },
+                {
+                    "name": "Flying Tiger Goggles",
+                    "spellID": 3934,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Target Dummy",
+                    "spellID": 3932,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_crate_06"
+                },
+                {
+                    "name": "Deadly Blunderbuss",
+                    "spellID": 3936,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_07"
+                },
+                {
+                    "name": "Large Copper Bomb",
+                    "spellID": 3937,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_01"
+                },
+                {
+                    "name": "Bronze Tube",
+                    "spellID": 3938,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_pipe_01"
+                },
+                {
+                    "name": "Lovingly Crafted Boomstick",
+                    "spellID": 3939,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_07"
+                },
+                {
+                    "name": "Small Bronze Bomb",
+                    "spellID": 3941,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_09"
+                },
+                {
+                    "name": "Whirring Bronze Gizmo",
+                    "spellID": 3942,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_02"
+                },
+                {
+                    "name": "Heavy Blasting Powder",
+                    "spellID": 3945,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_dust_06"
+                },
+                {
+                    "name": "Heavy Dynamite",
+                    "spellID": 3946,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_06"
+                },
+                {
+                    "name": "Silver-plated Shotgun",
+                    "spellID": 3949,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_07"
+                },
+                {
+                    "name": "Bronze Framework",
+                    "spellID": 3953,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_bronzeframework_01"
+                },
+                {
+                    "name": "Big Bronze Bomb",
+                    "spellID": 3950,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_05"
+                },
+                {
+                    "name": "Explosive Sheep",
+                    "spellID": 3955,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "spell_nature_polymorph"
+                },
+                {
+                    "name": "Green Tinted Goggles",
+                    "spellID": 3956,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Iron Strut",
+                    "spellID": 3958,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_spear_05"
+                },
+                {
+                    "name": "Gyrochronatom",
+                    "spellID": 3961,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_pocketwatch_02"
+                },
+                {
+                    "name": "Iron Grenade",
+                    "spellID": 3962,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_08"
+                },
+                {
+                    "name": "Compact Harvest Reaper Kit",
+                    "spellID": 3963,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_08"
+                },
+                {
+                    "name": "Advanced Target Dummy",
+                    "spellID": 3965,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_crate_05"
+                },
+                {
+                    "name": "Big Iron Bomb",
+                    "spellID": 3967,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_01"
+                },
+                {
+                    "name": "Silver Contact",
+                    "spellID": 3973,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_ingot_04"
+                },
+                {
+                    "name": "Crude Scope",
+                    "spellID": 3977,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Standard Scope",
+                    "spellID": 3978,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Accurate Scope",
+                    "spellID": 3979,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Ornate Spyglass",
+                    "spellID": 6458,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_01"
+                },
+                {
+                    "name": "Arclight Spanner",
+                    "spellID": 7430,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_wrench_01"
+                },
+                {
+                    "name": "Aquadynamic Fish Attractor",
+                    "spellID": 9271,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_food_26"
+                },
+                {
+                    "name": "Gold Power Core",
+                    "spellID": 12584,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_battery_02"
+                },
+                {
+                    "name": "Solid Blasting Powder",
+                    "spellID": 12585,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_powder_black"
+                },
+                {
+                    "name": "Solid Dynamite",
+                    "spellID": 12586,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_06"
+                },
+                {
+                    "name": "Mithril Tube",
+                    "spellID": 12589,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_musket_01"
+                },
+                {
+                    "name": "Gyromatic Micro-Adjustor",
+                    "spellID": 12590,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_screwdriver_02"
+                },
+                {
+                    "name": "Unstable Trigger",
+                    "spellID": 12591,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_battery_01"
+                },
+                {
+                    "name": "Fire Goggles",
+                    "spellID": 12594,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Mithril Blunderbuss",
+                    "spellID": 12595,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_07"
+                },
+                {
+                    "name": "Mithril Casing",
+                    "spellID": 12599,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_mithrilcasing_01"
+                },
+                {
+                    "name": "Clockwork Box",
+                    "spellID": 8334,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_box_01"
+                },
+                {
+                    "name": "Mithril Frag Bomb",
+                    "spellID": 12603,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_02"
+                },
+                {
+                    "name": "Spellpower Goggles Xtreme",
+                    "spellID": 12615,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Deepdive Helmet",
+                    "spellID": 12617,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_49"
+                },
+                {
+                    "name": "Rose Colored Goggles",
+                    "spellID": 12618,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Green Lens",
+                    "spellID": 12622,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_44"
+                },
+                {
+                    "name": "Hi-Explosive Bomb",
+                    "spellID": 12619,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_07"
+                },
+                {
+                    "name": "Mechanical Repair Kit",
+                    "spellID": 15255,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_03"
+                },
+                {
+                    "name": "Dense Blasting Powder",
+                    "spellID": 19788,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_ammo_gunpowder_01"
+                },
+                {
+                    "name": "Thorium Grenade",
+                    "spellID": 19790,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_08"
+                },
+                {
+                    "name": "Thorium Widget",
+                    "spellID": 19791,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_04"
+                },
+                {
+                    "name": "Thorium Rifle",
+                    "spellID": 19792,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_07"
+                },
+                {
+                    "name": "Thorium Tube",
+                    "spellID": 19795,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_pipe_04"
+                },
+                {
+                    "name": "Master Engineer's Goggles",
+                    "spellID": 19825,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Spellpower Goggles Xtreme Plus",
+                    "spellID": 19794,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Dense Dynamite",
+                    "spellID": 23070,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_06"
+                },
+                {
+                    "name": "Truesilver Transformer",
+                    "spellID": 23071,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_staff_18"
+                },
+                {
+                    "name": "Elemental Blasting Powder",
+                    "spellID": 30303,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_ammo_gunpowder_07"
+                },
+                {
+                    "name": "Fel Iron Casing",
+                    "spellID": 30304,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_felironcasing"
+                },
+                {
+                    "name": "Handful of Fel Iron Bolts",
+                    "spellID": 30305,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_felironbolts"
+                },
+                {
+                    "name": "Adamantite Frame",
+                    "spellID": 30306,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_adamantiteframe"
+                },
+                {
+                    "name": "Hardened Adamantite Tube",
+                    "spellID": 30307,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_hardenedadamantitetube"
+                },
+                {
+                    "name": "Khorium Power Core",
+                    "spellID": 30308,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_khoriumpowercore"
+                },
+                {
+                    "name": "Felsteel Stabilizer",
+                    "spellID": 30309,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_felstabilizer"
+                },
+                {
+                    "name": "Fel Iron Bomb",
+                    "spellID": 30310,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_felironbomb"
+                },
+                {
+                    "name": "Adamantite Grenade",
+                    "spellID": 30311,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_08"
+                },
+                {
+                    "name": "Fel Iron Musket",
+                    "spellID": 30312,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_04"
+                },
+                {
+                    "name": "Fused Wiring",
+                    "spellID": 39895,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_gear_03"
+                },
+                {
+                    "name": "Icy Blasting Primers",
+                    "spellID": 39971,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_15"
+                },
+                {
+                    "name": "Gyro-balanced Khorium Destroyer",
+                    "spellID": 41307,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_13"
+                },
+                {
+                    "name": "Flying Machine",
+                    "spellID": 44155,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "ability_mount_gyrocoptor"
+                },
+                {
+                    "name": "Turbo-Charged Flying Machine",
+                    "spellID": 44157,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "ability_mount_gyrocoptorelite"
+                },
+                {
+                    "name": "Volatile Blasting Trigger",
+                    "spellID": 53281,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_04"
+                },
+                {
+                    "name": "Mark \"S\" Boomstick",
+                    "spellID": 54353,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_08"
+                },
+                {
+                    "name": "EMP Generator",
+                    "spellID": 54736,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Frag Belt",
+                    "spellID": 54793,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Flexweave Underlay",
+                    "spellID": 55002,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Nitro Boosts",
+                    "spellID": 55016,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Handful of Cobalt Bolts",
+                    "spellID": 56349,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_29"
+                },
+                {
+                    "name": "Hammer Pick",
+                    "spellID": 56459,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_pick_05"
+                },
+                {
+                    "name": "Cobalt Frag Bomb",
+                    "spellID": 56460,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_31"
+                },
+                {
+                    "name": "Bladed Pickaxe",
+                    "spellID": 56461,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_pick_03"
+                },
+                {
+                    "name": "Gnomish Army Knife",
+                    "spellID": 56462,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_swissarmy"
+                },
+                {
+                    "name": "Explosive Decoy",
+                    "spellID": 56463,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "ability_seal"
+                },
+                {
+                    "name": "Overcharged Capacitor",
+                    "spellID": 56464,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_27"
+                },
+                {
+                    "name": "Sonic Booster",
+                    "spellID": 56466,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_goblinboombox_01"
+                },
+                {
+                    "name": "Noise Machine",
+                    "spellID": 56467,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_goblinboombox_01"
+                },
+                {
+                    "name": "Gnomish Lightning Generator",
+                    "spellID": 56469,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "spell_nature_lightningoverload"
+                },
+                {
+                    "name": "Sun Scope",
+                    "spellID": 56470,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_03"
+                },
+                {
+                    "name": "Froststeel Tube",
+                    "spellID": 56471,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_28"
+                },
+                {
+                    "name": "MOLL-E",
+                    "spellID": 56472,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_molle"
+                },
+                {
+                    "name": "Healing Injector Kit",
+                    "spellID": 56476,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_05"
+                },
+                {
+                    "name": "Mana Injector Kit",
+                    "spellID": 56477,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_04"
+                },
+                {
+                    "name": "Heartseeker Scope",
+                    "spellID": 56478,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Armor Plated Combat Shotgun",
+                    "spellID": 56479,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_19"
+                },
+                {
+                    "name": "Box of Bombs",
+                    "spellID": 56468,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_crate_01"
+                },
+                {
+                    "name": "Diamond-cut Refractor Scope",
+                    "spellID": 61471,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "ability_hunter_rapidregeneration"
+                },
+                {
+                    "name": "Nesingwary 4000",
+                    "spellID": 60874,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_06"
+                },
+                {
+                    "name": "High-powered Flashlight",
+                    "spellID": 63750,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_spyglass_03"
+                },
+                {
+                    "name": "Goblin Beam Welder",
+                    "spellID": 67326,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "spell_nature_elementalprecision_1"
+                },
+                {
+                    "name": "Mind Amplification Dish",
+                    "spellID": 67839,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Wormhole Generator: Northrend",
+                    "spellID": 67920,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "spell_fire_bluefirenova"
+                },
+                {
+                    "name": "Handful of Obsidium Bolts",
+                    "spellID": 84403,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_33"
+                },
+                {
+                    "name": "Authentic Jr. Engineer Goggles",
+                    "spellID": 84406,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "R19 Threatfinder",
+                    "spellID": 84408,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_scopec"
+                },
+                {
+                    "name": "Volatile Seaforium Blastpack",
+                    "spellID": 84409,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_07"
+                },
+                {
+                    "name": "Safety Catch Removal Kit",
+                    "spellID": 84410,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_37"
+                },
+                {
+                    "name": "High-Powered Bolt Gun",
+                    "spellID": 84411,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_musket_02"
+                },
+                {
+                    "name": "Lure Master Tackle Box",
+                    "spellID": 84415,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_39"
+                },
+                {
+                    "name": "Elementium Toolbox",
+                    "spellID": 84416,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_34"
+                },
+                {
+                    "name": "Volatile Thunderstick",
+                    "spellID": 84417,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_43"
+                },
+                {
+                    "name": "Elementium Dragonling",
+                    "spellID": 84418,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_head_dragon_bronze"
+                },
+                {
+                    "name": "Finely-Tuned Throat Needler",
+                    "spellID": 84420,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_bow_2h_crossbow_cataclysm_b_02"
+                },
+                {
+                    "name": "Loot-a-Rang",
+                    "spellID": 84421,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_eng_mechanicalboomerang2"
+                },
+                {
+                    "name": "Gnomish X-Ray Scope",
+                    "spellID": 84428,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_scopea"
+                },
+                {
+                    "name": "Goblin Barbecue",
+                    "spellID": 84429,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_fuelcell"
+                },
+                {
+                    "name": "Heat-Treated Spinning Lure",
+                    "spellID": 84430,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "spell_fire_flameblades"
+                },
+                {
+                    "name": "Overpowered Chicken Splitter",
+                    "spellID": 84431,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_bow_60"
+                },
+                {
+                    "name": "Kickback 5000",
+                    "spellID": 84432,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_44"
+                },
+                {
+                    "name": "Electrified Ether",
+                    "spellID": 94748,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_electrifiedether"
+                },
+                {
+                    "name": "Electrostatic Condenser",
+                    "spellID": 95703,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_35"
+                },
+                {
+                    "name": "Watergliding Jets",
+                    "spellID": 109099,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Goblin Glider",
+                    "spellID": 126392,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Ghost Iron Bolts",
+                    "spellID": 127113,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_40"
+                },
+                {
+                    "name": "High-Explosive Gunpowder",
+                    "spellID": 127114,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_41"
+                },
+                {
+                    "name": "Lord Blastington's Scope of Doom",
+                    "spellID": 127115,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_scopeb"
+                },
+                {
+                    "name": "Mirror Scope",
+                    "spellID": 127116,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_scopea"
+                },
+                {
+                    "name": "Locksmith's Powderkeg",
+                    "spellID": 127124,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_bomb_07"
+                },
+                {
+                    "name": "G91 Landshark",
+                    "spellID": 127127,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_landshark"
+                },
+                {
+                    "name": "Blingtron 4000",
+                    "spellID": 127129,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_pet_lilsmoky"
+                },
+                {
+                    "name": "Mist-Piercing Goggles",
+                    "spellID": 127130,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Thermal Anvil",
+                    "spellID": 127131,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "trade_blacksmithing"
+                },
+                {
+                    "name": "Mechanical Pandaren Dragonling",
+                    "spellID": 127135,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "achievement_dungeon_coablackdragonflight_normal"
+                },
+                {
+                    "name": "Ghost Iron Dragonling",
+                    "spellID": 127134,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_head_dragon_bronze"
+                },
+                {
+                    "name": "Big Game Hunter",
+                    "spellID": 127136,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_firearm_2h_rifle_pvpcataclysms3_c_01"
+                },
+                {
+                    "name": "Wormhole Generator: Pandaria",
+                    "spellID": 127132,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "sha_spell_fire_felfirenova"
+                },
+                {
+                    "name": "Long-Range Trillium Sniper",
+                    "spellID": 127137,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_weapon_rifle_42"
+                },
+                {
+                    "name": "Flashing Tinker's Gear",
+                    "spellID": 131211,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Precise Tinker's Gear",
+                    "spellID": 131213,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Quick Tinker's Gear",
+                    "spellID": 131214,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Rigid Tinker's Gear",
+                    "spellID": 131215,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Fractured Tinker's Gear",
+                    "spellID": 131212,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Smooth Tinker's Gear",
+                    "spellID": 131216,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Subtle Tinker's Gear",
+                    "spellID": 131218,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Pandaria Fireworks",
+                    "spellID": 131353,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "ability_shaman_echooftheelements"
+                },
+                {
+                    "name": "Tinker's Kit",
+                    "spellID": 131563,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_17"
+                },
+                {
+                    "name": "Sparkling Tinker's Gear",
+                    "spellID": 131217,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_enggizmos_30"
+                },
+                {
+                    "name": "Goblin Dragon Gun, Mark II",
+                    "spellID": 127128,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_misc_dragonkite_01"
+                }
+            ]
+        },
+        {
+            "name": "Gnomish Engineering",
+            "recipes": [
+                {
+                    "name": "Gnomish Flame Turret",
+                    "spellID": 30568,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_gizmo_gnomishflameturret"
+                },
+                {
+                    "name": "Gnomish Death Ray",
+                    "spellID": 12759,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_gizmo_08"
+                },
+                {
+                    "name": "Inlaid Mithril Cylinder Plans",
+                    "spellID": 12895,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_scroll_05"
+                },
+                {
+                    "name": "Gnomish Goggles",
+                    "spellID": 12897,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Gnomish Shrink Ray",
+                    "spellID": 12899,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_gizmo_09"
+                },
+                {
+                    "name": "Gnomish Net-o-Matic Projector",
+                    "spellID": 12902,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_misc_net_01"
+                },
+                {
+                    "name": "Gnomish Harm Prevention Belt",
+                    "spellID": 12903,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_belt_06"
+                },
+                {
+                    "name": "Gnomish Rocket Boots",
+                    "spellID": 12905,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_boots_02"
+                },
+                {
+                    "name": "Gnomish Battle Chicken",
+                    "spellID": 12906,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "spell_magic_polymorphchicken"
+                },
+                {
+                    "name": "Gnomish Mind Control Cap",
+                    "spellID": 12907,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_helmet_49"
+                },
+                {
+                    "name": "Nigh-Invulnerability Belt",
+                    "spellID": 30570,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_belt_27"
+                },
+                {
+                    "name": "Gnomish X-Ray Specs",
+                    "spellID": 56473,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_gnomish_xray_specs"
+                },
+                {
+                    "name": "Gnomish Gravity Well",
+                    "spellID": 95705,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_misc_enggizmos_23"
+                },
+                {
+                    "name": "Geosynchronous World Spinner",
+                    "spellID": 127139,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "ability_mount_rocketmount4"
+                },
+                {
+                    "name": "De-Weaponized Mechanical Companion",
+                    "spellID": 84413,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_pet_deweaonizedmechcompanion"
+                },
+                {
+                    "name": "Gnomish Poultryizer",
+                    "spellID": 30569,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_misc_enggizmos_06"
+                },
+                {
+                    "name": "Gnomish Power Goggles",
+                    "spellID": 30574,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Gnomish Battle Goggles",
+                    "spellID": 30575,
+                    "source": "Taught by an Gnomish Engineer Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Ultrasafe Transporter - Gadgetzan",
+                    "spellID": 23489,
+                    "source": "Speak with Jhordy Lapforge in Gadgetzan",
+                    "icon": "inv_misc_enggizmos_12"
+                },
+                {
+                    "name": "Ultrasafe Transporter - Toshley's Station",
+                    "spellID": 36955,
+                    "source": "Speak with Smiles O'Byron outside Toshley's Station",
+                    "icon": "inv_misc_blizzcon09_graphicscard"
+                },
+                {
+                    "name": "World Enlarger",
+                    "spellID": 23129,
+                    "source": "Dropped by Weapon Technicians in Blackrock Depths",
+                    "icon": "inv_misc_enggizmos_08"
+                },
+                {
+                    "name": "Gnomish Alarm-o-Bot",
+                    "spellID": 23096,
+                    "source": "Dropped by Weapon Technicians in Blackrock Depths",
+                    "icon": "inv_misc_enggizmos_01"
+                }
+            ]
+        },
+        {
+            "name": "Goblin Engineering",
+            "recipes": [
+                {
+                    "name": "The Bigger One",
+                    "spellID": 30558,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_gizmo_thebiggerone"
+                },
+                {
+                    "name": "Super Sapper Charge",
+                    "spellID": 30560,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_gizmo_supersappercharge"
+                },
+                {
+                    "name": "The Big One",
+                    "spellID": 12754,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_misc_bomb_04"
+                },
+                {
+                    "name": "Goblin Sapper Charge",
+                    "spellID": 12760,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "spell_fire_selfdestruct"
+                },
+                {
+                    "name": "Global Thermal Sapper Charge",
+                    "spellID": 56514,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_gizmo_supersappercharge"
+                },
+                {
+                    "name": "Big Daddy",
+                    "spellID": 95707,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_misc_enggizmos_38"
+                },
+                {
+                    "name": "Goblin Bomb Dispenser",
+                    "spellID": 12755,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_gizmo_06"
+                },
+                {
+                    "name": "Goblin Rocket Helmet",
+                    "spellID": 12758,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_helmet_49"
+                },
+                {
+                    "name": "Goblin Rocket Boots",
+                    "spellID": 8895,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_gizmo_rocketboot_01"
+                },
+                {
+                    "name": "Goblin Rocket Fuel Recipe",
+                    "spellID": 12715,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_scroll_03"
+                },
+                {
+                    "name": "Goblin Mortar",
+                    "spellID": 12716,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_musket_01"
+                },
+                {
+                    "name": "Goblin Mining Helmet",
+                    "spellID": 12717,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_helmet_25"
+                },
+                {
+                    "name": "Goblin Construction Helmet",
+                    "spellID": 12718,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_helmet_60"
+                },
+                {
+                    "name": "Personal World Destroyer",
+                    "spellID": 84412,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "achievement_dungeon_ulduarraid_irongolem_01"
+                },
+                {
+                    "name": "Depleted-Kyparium Rocket",
+                    "spellID": 127138,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "ability_mount_rocketmount3"
+                },
+                {
+                    "name": "Goblin Rocket Launcher",
+                    "spellID": 30563,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_gizmo_rocketlauncher"
+                },
+                {
+                    "name": "Foreman's Reinforced Helmet",
+                    "spellID": 30566,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_helmet_60"
+                },
+                {
+                    "name": "Foreman's Enchanted Helmet",
+                    "spellID": 30565,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "inv_helmet_60"
+                },
+                {
+                    "name": "Goblin Dragon Gun",
+                    "spellID": 12908,
+                    "source": "Taught by an Goblin Engineer Trainer",
+                    "icon": "spell_fire_flamebolt"
+                },
+                {
+                    "name": "Goblin Jumper Cables XL",
+                    "spellID": 23078,
+                    "source": "Dropped by Plugger Spazzring in Blackrock Depths",
+                    "icon": "inv_misc_enggizmos_11"
+                },
+                {
+                    "name": "Dimensional Ripper - Everlook",
+                    "spellID": 23486,
+                    "source": "Speak with Zap Farflinger near Everlook",
+                    "icon": "inv_misc_enggizmos_15"
+                },
+                {
+                    "name": "Dimensional Ripper - Area 52",
+                    "spellID": 36954,
+                    "source": "Speak with Kablamm Farflinge at Area 52",
+                    "icon": "inv_misc_enggizmos_07"
+                }
+            ]
+        },
+        {
+            "name": "Quests",
+            "recipes": [
+                {
+                    "name": "Zapthrottle Mote Extractor",
+                    "spellID": 30548,
+                    "source": "Reward from 'The Zapthrottle Mote Extractor' in Zangarmarsh",
+                    "icon": "inv_gizmo_zapthrottlegascollector"
+                },
+                {
+                    "name": "Scrapbot Construction Kit",
+                    "spellID": 55252,
+                    "source": "Reward from 'The Prototype Console' in The Storm Peaks",
+                    "icon": "inv_misc_enggizmos_14"
+                }
+            ]
+        },
+        {
+            "name": "World Drops",
+            "recipes": [
+                {
+                    "name": "Small Seaforium Charge",
+                    "spellID": 3933,
+                    "source": "Drops from level 11-20 mobs",
+                    "icon": "inv_misc_urn_01"
+                },
+                {
+                    "name": "Mechanical Squirrel Box",
+                    "spellID": 3928,
+                    "source": "Drops from level 6-20 mobs",
+                    "icon": "inv_crate_01"
+                },
+                {
+                    "name": "Moonsight Rifle",
+                    "spellID": 3954,
+                    "source": "Drops from level 20-32 mobs",
+                    "icon": "inv_weapon_rifle_06"
+                },
+                {
+                    "name": "Portable Bronze Mortar",
+                    "spellID": 3960,
+                    "source": "Drops from level 25-32 mobs",
+                    "icon": "inv_musket_01"
+                },
+                {
+                    "name": "Goblin Land Mine",
+                    "spellID": 3968,
+                    "source": "Drops from level 29-46 mobs",
+                    "icon": "inv_shield_08"
+                },
+                {
+                    "name": "Shadow Goggles",
+                    "spellID": 3940,
+                    "source": "Drops from level 15-29 mobs",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Large Seaforium Charge",
+                    "spellID": 3972,
+                    "source": "Drops from level 29-44 mobs",
+                    "icon": "inv_misc_urn_01"
+                },
+                {
+                    "name": "EZ-Thro Dynamite",
+                    "spellID": 8339,
+                    "source": "Drops from level 10-20 mobs",
+                    "icon": "inv_misc_bomb_06"
+                },
+                {
+                    "name": "Bright-Eye Goggles",
+                    "spellID": 12587,
+                    "source": "Drops from level 25-41 mobs",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Catseye Ultra Goggles",
+                    "spellID": 12607,
+                    "source": "Drops from level 36-52 mobs",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Mithril Heavy-bore Rifle",
+                    "spellID": 12614,
+                    "source": "Drops from level 36-50 mobs",
+                    "icon": "inv_weapon_rifle_07"
+                },
+                {
+                    "name": "Sniper Scope",
+                    "spellID": 12620,
+                    "source": "Drops from 46-51 mobs",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Parachute Cloak",
+                    "spellID": 12616,
+                    "source": "Drops from level 36-60 mobs",
+                    "icon": "inv_misc_cape_11"
+                },
+                {
+                    "name": "Lifelike Mechanical Toad",
+                    "spellID": 19793,
+                    "source": "Drops from level 48-60 mobs",
+                    "icon": "inv_misc_monsterhead_03"
+                },
+                {
+                    "name": "Arcane Bomb",
+                    "spellID": 19831,
+                    "source": "Drops from level 55-61 mobs",
+                    "icon": "spell_shadow_mindbomb"
+                }
+            ]
+        },
+        {
+            "name": "World Drops (Burning Crusade)",
+            "recipes": [
+                {
+                    "name": "Felsteel Boomstick",
+                    "spellID": 30314,
+                    "source": "Dropped by Doomforge Engineers in Blade's Edge Mountains",
+                    "icon": "inv_weapon_rifle_04"
+                },
+                {
+                    "name": "Field Repair Bot 110G",
+                    "spellID": 44391,
+                    "source": "Dropped by Simon Units in Blade's Edge Mountains",
+                    "icon": "inv_misc_enggizmos_01"
+                },
+                {
+                    "name": "Hyper-Vision Goggles",
+                    "spellID": 30325,
+                    "source": "Dropped by Mo'arg Weaponsmiths in Shadowmoon Valley",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Khorium Scope",
+                    "spellID": 30332,
+                    "source": "Dropped by Sunfury Bowman in Netherstorm",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Ornate Khorium Rifle",
+                    "spellID": 30315,
+                    "source": "Drops from Burning Crusade zones, dungeons and raids",
+                    "icon": "inv_weapon_rifle_03"
+                },
+                {
+                    "name": "Power Amplification Goggles",
+                    "spellID": 30317,
+                    "source": "Drops from Burning Crusade zones, dungeons and raids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Crashin' Thrashin' Robot",
+                    "spellID": 30337,
+                    "source": "Drops from Burning Crusade zones, dungeons and raids",
+                    "icon": "inv_misc_idol_02"
+                },
+                {
+                    "name": "Purple Smoke Flare",
+                    "spellID": 32814,
+                    "source": "Drops from Burning Crusade zones, dungeons and raids",
+                    "icon": "inv_misc_missilesmall_purple"
+                },
+                {
+                    "name": "Healing Potion Injector",
+                    "spellID": 30551,
+                    "source": "Drops from Burning Crusade zones, dungeons and raids",
+                    "icon": "inv_potion_167"
+                },
+                {
+                    "name": "Mana Potion Injector",
+                    "spellID": 30552,
+                    "source": "Drops from Burning Crusade zones, dungeons and raids",
+                    "icon": "inv_potion_168"
+                }
+            ]
+        },
+        {
+            "name": "World Drops (Wrath of the Lich King)",
+            "recipes": [
+                {
+                    "name": "Jeeves",
+                    "spellID": 68067,
+                    "source": "Dropped by Library Guardian in The Storm Peaks",
+                    "icon": "achievement_boss_mimiron_01"
+                }
+            ]
+        },
+        {
+            "name": "Dungeons (Classic)",
+            "recipes": [
+                {
+                    "name": "Flame Deflector",
+                    "spellID": 3944,
+                    "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
+                    "icon": "inv_gizmo_01"
+                },
+                {
+                    "name": "Craftsman's Monocle",
+                    "spellID": 3966,
+                    "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
+                    "icon": "inv_helmet_44"
+                },
+                {
+                    "name": "Discombobulator Ray",
+                    "spellID": 3959,
+                    "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Flash Bomb",
+                    "spellID": 8243,
+                    "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
+                    "icon": "inv_misc_ammo_bullet_01"
+                },
+                {
+                    "name": "Pet Bombling",
+                    "spellID": 15628,
+                    "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
+                    "icon": "inv_misc_bomb_04"
+                },
+                {
+                    "name": "Lil' Smoky",
+                    "spellID": 15633,
+                    "source": "Drops from robots in Gnomeregan",
+                    "icon": "inv_pet_lilsmoky"
+                },
+                {
+                    "name": "Dark Iron Bomb",
+                    "spellID": 19799,
+                    "source": "Drops from Weapon Technicians in Blackrock Depths",
+                    "icon": "inv_misc_bomb_05"
+                },
+                {
+                    "name": "Dark Iron Rifle",
+                    "spellID": 19796,
+                    "source": "Drops from Doomforge Craftsman in Blackrock Depths",
+                    "icon": "inv_weapon_rifle_08"
+                },
+                {
+                    "name": "Field Repair Bot 74A",
+                    "spellID": 22704,
+                    "source": "Learnt from schematic at Golem Lord Argelmach in Blackrock Depths",
+                    "icon": "inv_egg_05"
+                },
+                {
+                    "name": "Voice Amplification Modulator",
+                    "spellID": 19819,
+                    "source": "Drops from Risen Inquisitors in Stratholme",
+                    "icon": "inv_jewelry_amulet_07"
+                },
+                {
+                    "name": "Ultra-Flash Shadow Reflector",
+                    "spellID": 23082,
+                    "source": "Drops from Risen Inquisitors in Stratholme",
+                    "icon": "inv_misc_enggizmos_16"
+                },
+                {
+                    "name": "Major Recombobulator",
+                    "spellID": 23079,
+                    "source": "Contained in Gordok Tribute in Dire Maul",
+                    "icon": "inv_misc_enggizmos_09"
+                }
+            ]
+        },
+        {
+            "name": "Dungeons (Burning Crusade)",
+            "recipes": [
+                {
+                    "name": "Rocket Boots Xtreme",
+                    "spellID": 30556,
+                    "source": "Dropped by Mekgineer Steamrigger in The Steamvault",
+                    "icon": "inv_gizmo_rocketboot_01"
+                },
+                {
+                    "name": "Rocket Boots Xtreme Lite",
+                    "spellID": 46697,
+                    "source": "Dropped by Mechano-Lord Capacitus in The Mechanar",
+                    "icon": "inv_gizmo_rocketboot_01"
+                }
+            ]
+        },
+        {
+            "name": "Molten Core (Raid)",
+            "recipes": [
+                {
+                    "name": "Biznicks 247x128 Accurascope",
+                    "spellID": 22793,
+                    "source": "Drops from bosses in Molten Core",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Force Reactive Disk",
+                    "spellID": 22797,
+                    "source": "Drops from bosses in Molten Core",
+                    "icon": "spell_arcane_portaldarnassus"
+                },
+                {
+                    "name": "Core Marksman Rifle",
+                    "spellID": 22795,
+                    "source": "Drops from bosses in Molten Core",
+                    "icon": "inv_weapon_rifle_05"
+                }
+            ]
+        },
+        {
+            "name": "Karazhan (Raid)",
+            "recipes": [
+                {
+                    "name": "Stabilized Eternium Scope",
+                    "spellID": 30334,
+                    "source": "Dropped by Attumen the Huntsman in Karazhan",
+                    "icon": "inv_misc_spyglass_02"
+                }
+            ]
+        },
+        {
+            "name": "Vendors",
+            "recipes": [
+                {
+                    "name": "Minor Recombobulator",
+                    "spellID": 3952,
+                    "source": "Sold by Fradd Swiftgear in Wetlands (Alliance)<br>Sold by Gagsprokect in Northern Barrens (Neutral)",
+                    "icon": "inv_gizmo_07"
+                },
+                {
+                    "name": "Gnomish Universal Remote",
+                    "spellID": 9269,
+                    "source": "Sold by Gearcutter Cogspinner in Ironforge (Alliance)",
+                    "icon": "inv_misc_pocketwatch_01"
+                },
+                {
+                    "name": "Gnomish Cloaking Device",
+                    "spellID": 3971,
+                    "source": "Sold by Zan Shivsprocket in Hillsbrad Foothills",
+                    "icon": "inv_gizmo_01"
+                },
+                {
+                    "name": "Goblin Jumper Cables",
+                    "spellID": 9273,
+                    "source": "Sold by Kzixx in Duskwood<br>Sold by Zixil in Hillsbrad Foothills",
+                    "icon": "inv_misc_enggizmos_10"
+                },
+                {
+                    "name": "Deadly Scope",
+                    "spellID": 12597,
+                    "source": "Sold by Knaz Blunderflame in Northern Stranglethorn<br>Sold by Yuka Screwspigot in Blackrock Depths",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "Mithril Mechanical Dragonling",
+                    "spellID": 12624,
+                    "source": "Sold by Ruppo Zipcoil in The Hinterlands<br>Sold by Kaye Toogie in Dalaran (Wormhole Location)",
+                    "icon": "inv_misc_head_dragon_blue"
+                },
+                {
+                    "name": "Arcanite Dragonling",
+                    "spellID": 19830,
+                    "source": "Sold by Kaye Toogie in Dalaran (Wormhole Location)",
+                    "icon": "inv_misc_head_dragon_bronze"
+                },
+                {
+                    "name": "Mechanical Dragonling",
+                    "spellID": 3969,
+                    "source": "Sold by Gnaz Blunderflame in Northren Stranglethorn<br>Sold by Kaye Toogie in Dalaran (Wormhole Location)",
+                    "icon": "inv_misc_head_dragon_01"
+                },
+                {
+                    "name": "Masterwork Target Dummy",
+                    "spellID": 19814,
+                    "source": "Sold by Xizzer Fizzbolt in Winterspring",
+                    "icon": "inv_crate_02"
+                },
+                {
+                    "name": "Delicate Arcanite Converter",
+                    "spellID": 19815,
+                    "source": "Sold by Xizzer Fizzbolt in Winterspring",
+                    "icon": "inv_gizmo_07"
+                },
+                {
+                    "name": "Gyrofreeze Ice Reflector",
+                    "spellID": 23077,
+                    "source": "Sold by Xizzer Fizzbolt in Winterspring",
+                    "icon": "inv_misc_enggizmos_02"
+                },
+                {
+                    "name": "Powerful Seaforium Charge",
+                    "spellID": 23080,
+                    "source": "Sold by Xizzer Fizzbolt in Winterspring",
+                    "icon": "spell_shadow_detectinvisibility"
+                },
+                {
+                    "name": "Red Firework",
+                    "spellID": 23066,
+                    "source": "Sold by Buckslappy in Badlands (Neutral)<br>Sold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)<br>Sold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
+                    "icon": "spell_fire_fireball02"
+                },
+                {
+                    "name": "Steam Tonk Controller",
+                    "spellID": 28327,
+                    "source": "Sold by Gearcutter Cogspinner in Ironforge (Alliance)<br>Sold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)<br>Sold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
+                    "icon": "inv_gizmo_goblingtonkcontroller"
+                },
+                {
+                    "name": "Green Firework",
+                    "spellID": 23068,
+                    "source": "Sold by Buckslappy in Badlands<br>Sold by Crazk Sparks in The Cape of Stranglethorn<br>Sold by Gagsprocket in Northern Barrens",
+                    "icon": "spell_nature_abolishmagic"
+                },
+                {
+                    "name": "Blue Firework",
+                    "spellID": 23067,
+                    "source": "Sold by Buckslappy in Badlands (Neutral)<br>Sold by Darian Singh in Stormwind City (Alliance)<br>Sold by Gearcutter Cogspinner in Ironforge (Alliance)",
+                    "icon": "spell_ice_magicdamage"
+                },
+                {
+                    "name": "Snake Burst Firework",
+                    "spellID": 23507,
+                    "source": "Sold by Zorbin Fandazzle in Feralas",
+                    "icon": "spell_holy_holybolt"
+                },
+                {
+                    "name": "EZ-Thro Dynamite II",
+                    "spellID": 23069,
+                    "source": "Sold by Blizrik Buckshot in Tanaris<br>Sold by Buckslappy in Badlands",
+                    "icon": "inv_misc_bomb_03"
+                },
+                {
+                    "name": "Adamantite Rifle",
+                    "spellID": 30313,
+                    "source": "Sold by Viggz Shinesparked in Shattrath City",
+                    "icon": "inv_weapon_rifle_04"
+                },
+                {
+                    "name": "Cogspinner Goggles",
+                    "spellID": 30316,
+                    "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)<br>Sold by Mixie Farshot in Hellfire Peninsula (Horde)",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Ultra-Spectropic Detection Goggles",
+                    "spellID": 30318,
+                    "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)<br>Sold by Captured Gnome in Zangarmarsh (Horde)",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Adamantite Scope",
+                    "spellID": 30329,
+                    "source": "Sold by Daggle Ironshaper in Shadowmoon Valley (Alliance)<br>Sold by Mixie Farshot in Hellfire Peninsula (Horde)",
+                    "icon": "inv_misc_spyglass_02"
+                },
+                {
+                    "name": "White Smoke Flare",
+                    "spellID": 30341,
+                    "source": "Sold by Wind Trader Lathrai in Shattrath City",
+                    "icon": "inv_misc_missilesmall_white"
+                },
+                {
+                    "name": "Fel Iron Toolbox",
+                    "spellID": 30348,
+                    "source": "Sold by Wind Trader Lathrai in Shattrath City",
+                    "icon": "inv_misc_enggizmos_18"
+                },
+                {
+                    "name": "Titanium Toolbox",
+                    "spellID": 30349,
+                    "source": "Sold by Bryan Landers in Dalaran<br>Sold by Fizzix Blastbolt in Icecrown",
+                    "icon": "inv_misc_enggizmos_19"
+                },
+                {
+                    "name": "Flintlocke's Woodchucker",
+                    "spellID": 100587,
+                    "source": "Sold by Damek Bloombeard in Molten Front",
+                    "icon": "inv_misc_scopeb"
+                },
+                {
+                    "name": "Extreme-Impact Hole Puncher",
+                    "spellID": 100687,
+                    "source": "Sold by Damek Bloombeard in Molten Front",
+                    "icon": "inv_weapon_rifle_44"
+                }
+            ]
+        },
+        {
+            "name": "Winter Veil",
+            "recipes": [
+                {
+                    "name": "Snowmaster 9000",
+                    "spellID": 21940,
+                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "icon": "spell_frost_windwalkon"
+                }
+            ]
+        },
+        {
+            "name": "Lunar Festival",
+            "recipes": [
+                {
+                    "name": "Small Blue Rocket",
+                    "spellID": 26416,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmall_blue"
+                },
+                {
+                    "name": "Small Green Rocket",
+                    "spellID": 26417,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmall_green"
+                },
+                {
+                    "name": "Small Red Rocket",
+                    "spellID": 26418,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmall_red"
+                },
+                {
+                    "name": "Large Blue Rocket",
+                    "spellID": 26420,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilelarge_blue"
+                },
+                {
+                    "name": "Large Green Rocket",
+                    "spellID": 26421,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilelarge_green"
+                },
+                {
+                    "name": "Large Red Rocket",
+                    "spellID": 26422,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilelarge_red"
+                },
+                {
+                    "name": "Blue Rocket Cluster",
+                    "spellID": 26423,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmallcluster_blue"
+                },
+                {
+                    "name": "Green Rocket Cluster",
+                    "spellID": 26424,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmallcluster_green"
+                },
+                {
+                    "name": "Red Rocket Cluster",
+                    "spellID": 26425,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmallcluster_red"
+                },
+                {
+                    "name": "Large Blue Rocket Cluster",
+                    "spellID": 26426,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilelargecluster_blue"
+                },
+                {
+                    "name": "Large Green Rocket Cluster",
+                    "spellID": 26427,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilelargecluster_green"
+                },
+                {
+                    "name": "Large Red Rocket Cluster",
+                    "spellID": 26428,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilelargecluster_red"
+                },
+                {
+                    "name": "Firework Launcher",
+                    "spellID": 26442,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_musket_04"
+                },
+                {
+                    "name": "Cluster Launcher",
+                    "spellID": 26443,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_enggizmos_03"
+                },
+                {
+                    "name": "Alliance Firework",
+                    "spellID": 171072,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmall_blue"
+                },
+                {
+                    "name": "Horde Firework",
+                    "spellID": 171073,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "inv_misc_missilesmall_red"
+                },
+                {
+                    "name": "Snake Firework",
+                    "spellID": 171074,
+                    "source": "Sold by Fariel Starsong in Moonglade",
+                    "icon": "spell_priest_voidtendrils"
+                }
+            ]
+        },
+        {
+            "name": "Cenarion Expedition",
+            "recipes": [
+                {
+                    "name": "Green Smoke Flare",
+                    "spellID": 30344,
+                    "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Friendly) ",
+                    "icon": "inv_misc_missilesmall_green"
+                }
+            ]
+        },
+        {
+            "name": "The Consortium",
+            "recipes": [
+                {
+                    "name": "Elemental Seaforium Charge",
+                    "spellID": 30547,
+                    "source": "Sold by Karaaz in Netherstorm (Requires Revered)<br>Sold by Paulsta'ats in Nagrand (Requires Revered)",
+                    "icon": "spell_shadow_detectinvisibility"
+                }
+            ]
+        },
+        {
+            "name": "Horde Expedition \/ Alliance Vanguard",
+            "recipes": [
+                {
+                    "name": "Mechano-Hog",
+                    "spellID": 60866,
+                    "faction": 1,
+                    "source": "Sold by Gara Skullcrush in Borean Tundra (Requires Exalted)<br>Sold by Sebastian Crane in Howling Fjord (Requires Exalted)",
+                    "icon": "inv_misc_key_06"
+                },
+                {
+                    "name": "Mekgineer's Chopper",
+                    "spellID": 60867,
+                    "faction": 0,
+                    "source": "Sold by Logistics Officer Brighton in Howling Fjord (Requires Exalted)<br>Sold by Logistics Officer Silverstone in Borean Tundra (Requires Exalted)",
+                    "icon": "inv_misc_key_14"
+                }
+            ]
+        },
+        {
+            "name": "Cataclysm Discovery",
+            "recipes": [
+                {
+                    "name": "Spinal Healing Injector",
+                    "spellID": 82200,
+                    "source": "Learnt by crafting Cataclysm items",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Invisibility Field",
+                    "spellID": 84424,
+                    "source": "Learnt by crafting Cataclysm items",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Cardboard Assassin",
+                    "spellID": 84425,
+                    "source": "Learnt by crafting Cataclysm items",
+                    "icon": "trade_engineering"
+                },
+                {
+                    "name": "Grounded Plasma Shield",
+                    "spellID": 84427,
+                    "source": "Learnt by crafting Cataclysm items",
+                    "icon": "trade_engineering"
+                }
+            ]
+        },
+        {
+            "name": "Pandaria Fireworks",
+            "recipes": [
+                {
+                    "name": "Celestial Firework",
+                    "spellID": 128260,
+                    "source": "Looted from Pandaria Fireworks",
+                    "icon": "inv_misc_missilelarge_yellow"
+                },
+                {
+                    "name": "Grand Celebration Firework",
+                    "spellID": 128261,
+                    "source": "Looted from Pandaria Fireworks",
+                    "icon": "inv_misc_missilelarge_red"
+                },
+                {
+                    "name": "Serpent's Heart Firework",
+                    "spellID": 128262,
+                    "source": "Looted from Pandaria Fireworks",
+                    "icon": "inv_misc_missilelarge_green"
+                },
+                {
+                    "name": "Autumn Flower Firework",
+                    "spellID": 131256,
+                    "source": "Looted from Pandaria Fireworks",
+                    "icon": "inv_misc_missilelarge_yellow"
+                },
+                {
+                    "name": "Jade Blossom Firework",
+                    "spellID": 131258,
+                    "source": "Looted from Pandaria Fireworks",
+                    "icon": "inv_misc_missilelarge_yellow"
+                }
+            ]
+        },
+        {
+            "name": "Jard's Journal",
+            "recipes": [
+                {
+                    "name": "Jard's Peculiar Energy Source",
+                    "spellID": 139176,
+                    "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
+                    "icon": "inv_battery_01"
+                },
+                {
+                    "name": "Sky Golem",
+                    "spellID": 139192,
+                    "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
+                    "icon": "ability_mount_shreddermount"
+                },
+                {
+                    "name": "Pierre",
+                    "spellID": 139196,
+                    "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
+                    "icon": "inv_pet_cookbot"
+                },
+                {
+                    "name": "Advanced Refrigeration Unit",
+                    "spellID": 139197,
+                    "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
+                    "icon": "inv_misc_bag_advanced_refridgeration_unit"
+                },
+                {
+                    "name": "Rascal-Bot",
+                    "spellID": 143714,
+                    "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
+                    "icon": "inv_worserobot"
+                }
+            ]
+        },
+        {
+            "name": "Draenor Engineering",
+            "recipes": [
+                {
+                    "name": "Goblin Glider Kit",
+                    "spellID": 162204,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_misc_bag_07_red"
+                },
+                {
+                    "name": "Gearspring Parts",
+                    "spellID": 169080,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_eng_gearspringparts"
+                },
+                {
+                    "name": "Stealthman 54",
+                    "spellID": 162207,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_misc_enggizmos_36"
+                },
+                {
+                    "name": "Ultimate Gnomish Army Knife",
+                    "spellID": 169140,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_misc_enggizmos_swissarmy"
+                },
+                {
+                    "name": "Mecha-Blast Rocket",
+                    "spellID": 173308,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_gizmo_rocketlauncher"
+                },
+                {
+                    "name": "Shieldtronic Shield",
+                    "spellID": 173309,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_eng_gizmo2"
+                },
+                {
+                    "name": "Secrets of Draenor Engineering",
+                    "spellID": 177054,
+                    "source": "Learnt from Draenor Engineering",
+                    "icon": "inv_misc_book_08"
+                }
+            ]
+        },
+        {
+            "name": "Secrets of Draenor Engineering",
+            "recipes": [
+                {
+                    "name": "Cybergenetic Mechshades",
+                    "spellID": 162195,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_helm_goggles_draenortradeskill_d_01"
+                },
+                {
+                    "name": "Night-Vision Mechshades",
+                    "spellID": 162196,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_helm_goggles_draenortradeskill_d_01"
+                },
+                {
+                    "name": "Plasma Mechshades",
+                    "spellID": 162197,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_helm_goggles_draenortradeskill_d_01"
+                },
+                {
+                    "name": "Razorguard Mechshades",
+                    "spellID": 162198,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_helm_goggles_draenortradeskill_d_01"
+                },
+                {
+                    "name": "Shrediron's Shredder",
+                    "spellID": 162199,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_firearm_2h_rifle_draenorcrafted_d_01_a_alliance"
+                },
+                {
+                    "name": "Oglethorpe's Missile Splitter",
+                    "spellID": 162202,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_gizmo_09"
+                },
+                {
+                    "name": "Megawatt Filament",
+                    "spellID": 162203,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "ability_vehicle_electrocharge"
+                },
+                {
+                    "name": "World Shrinker",
+                    "spellID": 162206,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_enggizmos_09"
+                },
+                {
+                    "name": "Findle's Loot-a-Rang",
+                    "spellID": 162205,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_eng_mechanicalboomerang"
+                },
+                {
+                    "name": "Mechanical Axebeak",
+                    "spellID": 162209,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_box_birdcage_01"
+                },
+                {
+                    "name": "Lifelike Mechanical Frostboar",
+                    "spellID": 162210,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_boarshead"
+                },
+                {
+                    "name": "Personal Hologram",
+                    "spellID": 162214,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "achievement_faction_celestials"
+                },
+                {
+                    "name": "Wormhole Centrifuge",
+                    "spellID": 162216,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "ability_siege_engineer_pattern_recognition"
+                },
+                {
+                    "name": "Swapblaster",
+                    "spellID": 162217,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_weapon_rifle_38"
+                },
+                {
+                    "name": "Linkgrease Locksprocket",
+                    "spellID": 169076,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_eng_gizmo1"
+                },
+                {
+                    "name": "Blingtron 5000",
+                    "spellID": 162218,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_blingtron"
+                },
+                {
+                    "name": "Didi's Delicate Assembly",
+                    "spellID": 169078,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_enggizmos_02"
+                },
+                {
+                    "name": "Hemet's Heartseeker",
+                    "spellID": 173289,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_scopeb"
+                },
+                {
+                    "name": "Mechanical Scorpid",
+                    "spellID": 176732,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_eng_metalblingronear"
+                },
+                {
+                    "name": "True Iron Trigger",
+                    "spellID": 177363,
+                    "source": "Purchased using Secrets of Draenor Engineering<br>Sold by engineering vendors in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_enggizmos_25"
+                }
+            ]
+        },
+        {
+            "name": "Garrison Ore Trader",
+            "recipes": [
+                {
+                    "name": "Primal Welding",
+                    "spellID": 182120,
+                    "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
+                    "icon": "inv_eng_gearspringparts"
+                },
+                {
+                    "name": "Advanced Muzzlesprocket",
+                    "spellID": 187496,
+                    "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
+                    "icon": "inv_misc_enggizmos_37"
+                },
+                {
+                    "name": "Bi-Directional Fizzle Reducer",
+                    "spellID": 187497,
+                    "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
+                    "icon": "ability_skyreach_lens_flare"
+                },
+                {
+                    "name": "Taladite Firing Pin",
+                    "spellID": 187520,
+                    "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
+                    "icon": "inv_misc_enggizmos_37"
+                },
+                {
+                    "name": "Infrablue-Blocker Lenses",
+                    "spellID": 187521,
+                    "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
+                    "icon": "ability_skyreach_lens_flare"
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "recipes": [
+                {
+                    "name": "Frost Grenade",
+                    "spellID": 39973,
+                    "source": "Taught by Engineering Trainers in Outland",
+                    "icon": "inv_misc_enggizmos_31"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Paladin)",
+            "recipes": [
+                {
+                    "name": "Justicebringer 2000 Specs",
+                    "spellID": 41311,
+                    "classes": [
+                        2
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Unbreakable Healing Amplifiers",
+                    "spellID": 62271,
+                    "classes": [
+                        2
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Specialized Bio-Optic Killshades",
+                    "spellID": 81715,
+                    "classes": [
+                        2
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Specialized Retinal Armor",
+                    "spellID": 127122,
+                    "classes": [
+                        2
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Paladins",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Warriors, Paladins, Death Knights)",
+            "recipes": [
+                {
+                    "name": "Furious Gizmatic Goggles",
+                    "spellID": 40274,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Tankatronic Goggles",
+                    "spellID": 41312,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Charged Titanium Specs",
+                    "spellID": 56483,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Armored Titanium Goggles",
+                    "spellID": 56480,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 61483,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Reinforced Bio-Optic Killshades",
+                    "spellID": 81714,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Reinforced Retinal Armor",
+                    "spellID": 127123,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Mayhem Projection Goggles",
+                    "spellID": 46114,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Hard Khorium Goggles",
+                    "spellID": 46115,
+                    "classes": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Warriors, Paladins and Death Knights",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Hunters, Shamans)",
+            "recipes": [
+                {
+                    "name": "Surestrike Goggles v2.0",
+                    "spellID": 41314,
+                    "classes": [
+                        3,
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Truesight Ice Blinders",
+                    "spellID": 56574,
+                    "classes": [
+                        3,
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 61482,
+                    "classes": [
+                        3,
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Deadly Bio-Optic Killshades",
+                    "spellID": 81716,
+                    "classes": [
+                        3,
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Deadly Retinal Armor",
+                    "spellID": 127120,
+                    "classes": [
+                        3,
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Hunters and Shamans",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Surestrike Goggles v3.0",
+                    "spellID": 46113,
+                    "classes": [
+                        3,
+                        7
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Hunters and Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Shamans)",
+            "recipes": [
+                {
+                    "name": "Gadgetstorm Goggles",
+                    "spellID": 41315,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Living Replicator Specs",
+                    "spellID": 41316,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Electroflux Sight Enhancers",
+                    "spellID": 56487,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Energized Bio-Optic Killshades",
+                    "spellID": 81720,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Energized Retinal Armor",
+                    "spellID": 127121,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Shamans",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Primal-Attuned Goggles",
+                    "spellID": 46110,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Lightning Etched Specs",
+                    "spellID": 46112,
+                    "classes": [
+                        7
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Shamans",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Rogues, Monks, Druids)",
+            "recipes": [
+                {
+                    "name": "Deathblow X11 Goggles",
+                    "spellID": 41317,
+                    "classes": [
+                        4,
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Weakness Spectralizers",
+                    "spellID": 56481,
+                    "classes": [
+                        4,
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 61481,
+                    "classes": [
+                        4,
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Agile Bio-Optic Killshades",
+                    "spellID": 81722,
+                    "classes": [
+                        4,
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Agile Retinal Armor",
+                    "spellID": 127118,
+                    "classes": [
+                        4,
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Rogues, Monks and Druids",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Quad Deathblow X44 Goggles",
+                    "spellID": 46116,
+                    "classes": [
+                        4,
+                        10,
+                        11
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Rogues, Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Druids)",
+            "recipes": [
+                {
+                    "name": "Wonderheal XT68 Shades",
+                    "spellID": 46106,
+                    "classes": [
+                        11
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Hyper-Magnified Moon Specs",
+                    "spellID": 46109,
+                    "classes": [
+                        11
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Monks, Druids)",
+            "recipes": [
+                {
+                    "name": "Wonderheal XT40 Shades",
+                    "spellID": 41318,
+                    "classes": [
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Magnified Moon Specs",
+                    "spellID": 41319,
+                    "classes": [
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Greensight Gogs",
+                    "spellID": 56486,
+                    "classes": [
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Camouflage Bio-Optic Killshades",
+                    "spellID": 81724,
+                    "classes": [
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "icon": "inv_helmet_170"
+                },
+                {
+                    "name": "Camouflage Retinal Armor",
+                    "spellID": 127119,
+                    "classes": [
+                        10,
+                        11
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Monks and Druids",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Priests)",
+            "recipes": [
+                {
+                    "name": "Powerheal 4000 Lens",
+                    "spellID": 41321,
+                    "classes": [
+                        5
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Priests",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Powerheal 9000 Lens",
+                    "spellID": 46108,
+                    "classes": [
+                        5
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Priests",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Class Restricted (Priests, Mages, Warlocks)",
+            "recipes": [
+                {
+                    "name": "Destruction Holo-gogs",
+                    "spellID": 41320,
+                    "classes": [
+                        5,
+                        8,
+                        9
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 56465,
+                    "classes": [
+                        5,
+                        8,
+                        9
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Visage Liquification Goggles",
+                    "spellID": 56484,
+                    "classes": [
+                        5,
+                        8,
+                        9
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Lightweight Bio-Optic Killshades",
+                    "spellID": 81725,
+                    "classes": [
+                        5,
+                        8,
+                        9
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlock",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Lightweight Retinal Armor",
+                    "spellID": 127117,
+                    "classes": [
+                        5,
+                        8,
+                        9
+                    ],
+                    "source": "Taught by an Engineering Trainer<br>Only available to Priests, Mages and Warlocks",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Annihilator Holo-Gogs",
+                    "spellID": 46111,
+                    "classes": [
+                        5,
+                        8,
+                        9
+                    ],
+                    "source": "Drops in Sunwell Plateau<br>Only available to Priests, Mages and Warlocks",
+                    "icon": "inv_gizmo_newgoggles"
+                }
+            ]
+        },
+        {
+            "name": "Unobtainable",
+            "recipes": [
+                {
+                    "name": "Ice Deflector",
+                    "spellID": 3957,
+                    "source": "Auction House",
+                    "icon": "inv_gizmo_01"
+                },
+                {
+                    "name": "Flawless Arcanite Rifle",
+                    "spellID": 19833,
+                    "source": "Auction House",
+                    "icon": "inv_weapon_rifle_03"
+                },
+                {
+                    "name": "Hyper-Radiant Flame Reflector",
+                    "spellID": 23081,
+                    "source": "Auction House",
+                    "icon": "inv_misc_enggizmos_04"
+                },
+                {
+                    "name": "Bloodvine Goggles",
+                    "spellID": 24356,
+                    "source": "Currently Unobtainable",
+                    "icon": "inv_helmet_47"
+                },
+                {
+                    "name": "Bloodvine Lens",
+                    "spellID": 24357,
+                    "source": "Currently Unobtainable",
+                    "icon": "inv_helmet_44"
+                },
+                {
+                    "name": "Tranquil Mechanical Yeti",
+                    "spellID": 26011,
+                    "source": "Currently Unobtainable",
+                    "icon": "ability_hunter_pet_gorilla"
+                }
+            ]
+        }
+    ]
+}

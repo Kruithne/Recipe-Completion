@@ -1,0 +1,3506 @@
+{
+    "name": "Inscription",
+    "sections": [
+        {
+            "name": "Trainer",
+            "recipes": [
+                {
+                    "name": "Scroll of Stamina",
+                    "spellID": 45382,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Intellect",
+                    "spellID": 48114,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit",
+                    "spellID": 48116,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Mysterious Tarot",
+                    "spellID": 48247,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Scroll of Recall",
+                    "spellID": 48248,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_15"
+                },
+                {
+                    "name": "Scroll of Intellect II",
+                    "spellID": 50598,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Intellect III",
+                    "spellID": 50599,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Intellect IV",
+                    "spellID": 50600,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Intellect V",
+                    "spellID": 50601,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Intellect VI",
+                    "spellID": 50602,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Intellect VII",
+                    "spellID": 50603,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Intellect VIII",
+                    "spellID": 50604,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit II",
+                    "spellID": 50605,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit III",
+                    "spellID": 50606,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit IV",
+                    "spellID": 50607,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit V",
+                    "spellID": 50608,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit VI",
+                    "spellID": 50609,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit VII",
+                    "spellID": 50610,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Spirit VIII",
+                    "spellID": 50611,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Stamina II",
+                    "spellID": 50612,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Stamina III",
+                    "spellID": 50614,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Stamina IV",
+                    "spellID": 50616,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Stamina V",
+                    "spellID": 50617,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Stamina VI",
+                    "spellID": 50618,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Stamina VII",
+                    "spellID": 50619,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Stamina VIII",
+                    "spellID": 50620,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Enchanting Vellum",
+                    "spellID": 52739,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_armorscroll01"
+                },
+                {
+                    "name": "Moonglow Ink",
+                    "spellID": 52843,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkwhite02"
+                },
+                {
+                    "name": "Moonglow Ink",
+                    "spellID": 53462,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkblack01"
+                },
+                {
+                    "name": "Hunter's Ink",
+                    "spellID": 57703,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkgreen02"
+                },
+                {
+                    "name": "Lion's Ink",
+                    "spellID": 57704,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkyellow02"
+                },
+                {
+                    "name": "Dawnstar Ink",
+                    "spellID": 57706,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkyellow04"
+                },
+                {
+                    "name": "Jadefire Ink",
+                    "spellID": 57707,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkgreen03"
+                },
+                {
+                    "name": "Royal Ink",
+                    "spellID": 57708,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkpurple04"
+                },
+                {
+                    "name": "Celestial Ink",
+                    "spellID": 57709,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkpurple03"
+                },
+                {
+                    "name": "Fiery Ink",
+                    "spellID": 57710,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkred01"
+                },
+                {
+                    "name": "Shimmering Ink",
+                    "spellID": 57711,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inksilver01"
+                },
+                {
+                    "name": "Ink of the Sky",
+                    "spellID": 57712,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkbluewhite03"
+                },
+                {
+                    "name": "Ethereal Ink",
+                    "spellID": 57713,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkblack02"
+                },
+                {
+                    "name": "Darkflame Ink",
+                    "spellID": 57714,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkblack04"
+                },
+                {
+                    "name": "Ink of the Sea",
+                    "spellID": 57715,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkpurple01"
+                },
+                {
+                    "name": "Snowfall Ink",
+                    "spellID": 57716,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkbluewhite01"
+                },
+                {
+                    "name": "Scroll of Agility",
+                    "spellID": 58472,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility II",
+                    "spellID": 58473,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility III",
+                    "spellID": 58476,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility IV",
+                    "spellID": 58478,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility V",
+                    "spellID": 58480,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility VI",
+                    "spellID": 58481,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility VII",
+                    "spellID": 58482,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility VIII",
+                    "spellID": 58483,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength",
+                    "spellID": 58484,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength II",
+                    "spellID": 58485,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength III",
+                    "spellID": 58486,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength IV",
+                    "spellID": 58487,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength V",
+                    "spellID": 58488,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength VI",
+                    "spellID": 58489,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength VII",
+                    "spellID": 58490,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Strength VIII",
+                    "spellID": 58491,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Mystic Tome",
+                    "spellID": 58565,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_11"
+                },
+                {
+                    "name": "Certificate of Ownership",
+                    "spellID": 59387,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_11"
+                },
+                {
+                    "name": "Book of Survival",
+                    "spellID": 59478,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_01"
+                },
+                {
+                    "name": "Tome of the Dawn",
+                    "spellID": 59475,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_07"
+                },
+                {
+                    "name": "Strange Tarot",
+                    "spellID": 59480,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Tome of Kings",
+                    "spellID": 59484,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_11"
+                },
+                {
+                    "name": "Royal Guide of Escape Routes",
+                    "spellID": 59486,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_09"
+                },
+                {
+                    "name": "Arcane Tarot",
+                    "spellID": 59487,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Fire Eater's Guide",
+                    "spellID": 59489,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_10"
+                },
+                {
+                    "name": "Book of Stars",
+                    "spellID": 59490,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_05"
+                },
+                {
+                    "name": "Shadowy Tarot",
+                    "spellID": 59491,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Stormbound Tome",
+                    "spellID": 59493,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_05"
+                },
+                {
+                    "name": "Manual of Clouds",
+                    "spellID": 59494,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_08"
+                },
+                {
+                    "name": "Hellfire Tome",
+                    "spellID": 59495,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_10"
+                },
+                {
+                    "name": "Book of Clever Tricks",
+                    "spellID": 59496,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_07"
+                },
+                {
+                    "name": "Iron-bound Tome",
+                    "spellID": 59497,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_09"
+                },
+                {
+                    "name": "Faces of Doom",
+                    "spellID": 59498,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_09"
+                },
+                {
+                    "name": "Darkmoon Card",
+                    "spellID": 59502,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Greater Darkmoon Card",
+                    "spellID": 59503,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Darkmoon Card of the North",
+                    "spellID": 59504,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Scroll of Recall II",
+                    "spellID": 60336,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_12"
+                },
+                {
+                    "name": "Scroll of Recall III",
+                    "spellID": 60337,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_16"
+                },
+                {
+                    "name": "Master's Inscription of the Crag",
+                    "spellID": 61118,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Master's Inscription of the Axe",
+                    "spellID": 61117,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Master's Inscription of the Pinnacle",
+                    "spellID": 61119,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Master's Inscription of the Storm",
+                    "spellID": 61120,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Twilight Tome",
+                    "spellID": 64053,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_11"
+                },
+                {
+                    "name": "Runescroll of Fortitude",
+                    "spellID": 69385,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_scroll_fortitude"
+                },
+                {
+                    "name": "Runescroll of Fortitude II",
+                    "spellID": 85785,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_scroll_fortitude"
+                },
+                {
+                    "name": "Blackfallow Ink",
+                    "spellID": 86004,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkblack03"
+                },
+                {
+                    "name": "Inferno Ink",
+                    "spellID": 86005,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_inkred03"
+                },
+                {
+                    "name": "Swiftsteel Inscription",
+                    "spellID": 86375,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Lionsmane Inscription",
+                    "spellID": 86401,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Inscription of the Earth Prince",
+                    "spellID": 86402,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Felfire Inscription",
+                    "spellID": 86403,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Mysterious Fortune Card",
+                    "spellID": 86609,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_stack_01"
+                },
+                {
+                    "name": "Darkmoon Card of Destruction",
+                    "spellID": 86615,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_ticket_tarot_furies"
+                },
+                {
+                    "name": "Book of Blood",
+                    "spellID": 86616,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_05"
+                },
+                {
+                    "name": "Lord Rottington's Pressed Wisp Book",
+                    "spellID": 86640,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_11"
+                },
+                {
+                    "name": "Dungeoneering Guide",
+                    "spellID": 86641,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_17"
+                },
+                {
+                    "name": "Battle Tome",
+                    "spellID": 86643,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_18"
+                },
+                {
+                    "name": "Divine Companion",
+                    "spellID": 86642,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_book_16"
+                },
+                {
+                    "name": "Runed Staff",
+                    "spellID": 86649,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_goldfeathered_01"
+                },
+                {
+                    "name": "Key to the Planes",
+                    "spellID": 86648,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_key_07"
+                },
+                {
+                    "name": "Rosethorn Staff",
+                    "spellID": 86652,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_113"
+                },
+                {
+                    "name": "Silver Inlaid Staff",
+                    "spellID": 86653,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_goldfeathered_01"
+                },
+                {
+                    "name": "Scroll of Intellect IX",
+                    "spellID": 89368,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Strength IX",
+                    "spellID": 89369,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Agility IX",
+                    "spellID": 89370,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_02"
+                },
+                {
+                    "name": "Scroll of Spirit IX",
+                    "spellID": 89371,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_01"
+                },
+                {
+                    "name": "Scroll of Stamina IX",
+                    "spellID": 89372,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Scroll of Protection IX",
+                    "spellID": 89373,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_scroll_07"
+                },
+                {
+                    "name": "Vanishing Powder",
+                    "spellID": 92026,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_dust_02"
+                },
+                {
+                    "name": "Dust of Disappearance",
+                    "spellID": 92027,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": null
+                },
+                {
+                    "name": "Celestial Ink",
+                    "spellID": 111645,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_ink_dreams"
+                },
+                {
+                    "name": "Starlight Ink",
+                    "spellID": 111646,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_ink_starlight"
+                },
+                {
+                    "name": "Darkmoon Card of Mists",
+                    "spellID": 111830,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                },
+                {
+                    "name": "Inscribed Fan",
+                    "spellID": 111908,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_offhand_1h_panstart_a_02"
+                },
+                {
+                    "name": "Inscribed Jade Fan",
+                    "spellID": 111909,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_offhand_1h_pandariatradeskill_c_02"
+                },
+                {
+                    "name": "Inscribed Red Fan",
+                    "spellID": 111910,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_offhand_1h_pandariatradeskill_c_02"
+                },
+                {
+                    "name": "Rain Poppy Staff",
+                    "spellID": 111917,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_2h_pandariatradeskill_c_04"
+                },
+                {
+                    "name": "Inscribed Crane Staff",
+                    "spellID": 111918,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_2h_pandariatradeskill_c_03"
+                },
+                {
+                    "name": "Inscribed Serpent Staff",
+                    "spellID": 111919,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_2h_pandariatradeskill_c_05"
+                },
+                {
+                    "name": "Ghost Iron Staff",
+                    "spellID": 111920,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_2h_pandariatradeskill_c_01"
+                },
+                {
+                    "name": "Inscribed Tiger Staff",
+                    "spellID": 111921,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_staff_2h_pandariatradeskill_c_02"
+                },
+                {
+                    "name": "Runescroll of Fortitude III",
+                    "spellID": 112045,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_scroll_fortitude"
+                },
+                {
+                    "name": "Tome of the Clear Mind",
+                    "spellID": 112883,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": null
+                },
+                {
+                    "name": "Scroll of Wisdom",
+                    "spellID": 112996,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_scrollofwisdom_02"
+                },
+                {
+                    "name": "Origami Crane",
+                    "spellID": 126988,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_crane"
+                },
+                {
+                    "name": "Origami Frog",
+                    "spellID": 126989,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_frog"
+                },
+                {
+                    "name": "Greater Ox Horn Inscription",
+                    "spellID": 126994,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                },
+                {
+                    "name": "Greater Crane Wing Inscription",
+                    "spellID": 126995,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                },
+                {
+                    "name": "Greater Tiger Claw Inscription",
+                    "spellID": 126996,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                },
+                {
+                    "name": "Greater Tiger Fang Inscription",
+                    "spellID": 126997,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                },
+                {
+                    "name": "Yu'lon Kite",
+                    "spellID": 127007,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_dragonkite_04"
+                },
+                {
+                    "name": "Chi-ji Kite",
+                    "spellID": 127009,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "ability_mount_pandarenkitemount"
+                },
+                {
+                    "name": "Tiger Fang Inscription",
+                    "spellID": 127016,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                },
+                {
+                    "name": "Tiger Claw Inscription",
+                    "spellID": 127017,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                },
+                {
+                    "name": "Crane Wing Inscription",
+                    "spellID": 127018,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                },
+                {
+                    "name": "Ox Horn Inscription",
+                    "spellID": 127019,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                },
+                {
+                    "name": "Secret Tiger Claw Inscription",
+                    "spellID": 127021,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Secret Tiger Fang Inscription",
+                    "spellID": 127020,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Secret Crane Wing Inscription",
+                    "spellID": 127023,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Secret Ox Horn Inscription",
+                    "spellID": 127024,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_misc_mastersinscription"
+                },
+                {
+                    "name": "Darkmoon Card of Draenor",
+                    "spellID": 163294,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                },
+                {
+                    "name": "Research: Midnight Ink",
+                    "spellID": 165304,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Lion's Ink",
+                    "spellID": 165456,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Jadefire Ink",
+                    "spellID": 165460,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Celestial Ink",
+                    "spellID": 165461,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Shimmering Ink",
+                    "spellID": 165463,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Ethereal Ink",
+                    "spellID": 165464,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Ink of the Sea",
+                    "spellID": 165465,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Blackfallow Ink",
+                    "spellID": 165466,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Ink of Dreams",
+                    "spellID": 165467,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Research: Moonglow Ink",
+                    "spellID": 165564,
+                    "source": "Taught by an Inscription Trainer",
+                    "icon": "inv_glyph_minorwarrior"
+                }
+            ]
+        },
+        {
+            "name": "Research: Lion's Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Combustion",
+                    "spellID": 56975,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of No Escape",
+                    "spellID": 57007,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Disengage",
+                    "spellID": 57001,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Holy Wrath",
+                    "spellID": 57027,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Focused Wrath",
+                    "spellID": 57037,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shiv",
+                    "spellID": 57132,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Die by the Sword",
+                    "spellID": 57161,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Purify",
+                    "spellID": 57183,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Geist",
+                    "spellID": 57209,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": "inv_glyph_minordeathknight"
+                },
+                {
+                    "name": "Glyph of Strangulate",
+                    "spellID": 57225,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Psychic Horror",
+                    "spellID": 57191,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fire Nova",
+                    "spellID": 57238,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Grounding Totem",
+                    "spellID": 57247,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Grace",
+                    "spellID": 58289,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Revive Pet",
+                    "spellID": 58299,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dark Archangel",
+                    "spellID": 58322,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blurred Speed",
+                    "spellID": 58323,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Riptide",
+                    "spellID": 64289,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Unending Resolve",
+                    "spellID": 64311,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Wind and Thunder",
+                    "spellID": 64295,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Protector of the Innocent",
+                    "spellID": 95825,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Paralysis",
+                    "spellID": 112440,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Life Cocoon",
+                    "spellID": 112442,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Transcendence",
+                    "spellID": 124457,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Blazing Trail",
+                    "spellID": 123781,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Gateway Attunement",
+                    "spellID": 135561,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Regenerative Magic",
+                    "spellID": 148257,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of One with Nature",
+                    "spellID": 148269,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Evaporation",
+                    "spellID": 148271,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": "inv_glyph_minormage"
+                },
+                {
+                    "name": "Glyph of Spirit Raptors",
+                    "spellID": 148281,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": "inv_glyph_minorshaman"
+                },
+                {
+                    "name": "Glyph of Purify Spirit",
+                    "spellID": 182157,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Improved Distraction",
+                    "spellID": 148280,
+                    "source": "Learnt by researching Lion's Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Moonglow Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Stars",
+                    "spellID": 56965,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": "inv_glyph_minordruid"
+                },
+                {
+                    "name": "Glyph of Rapid Displacement",
+                    "spellID": 56983,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Recovery",
+                    "spellID": 57120,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ice Trap",
+                    "spellID": 57003,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fear Ward",
+                    "spellID": 57185,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spellsteal",
+                    "spellID": 56989,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blood Boil",
+                    "spellID": 57221,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mind Freeze",
+                    "spellID": 57222,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Foul Menagerie",
+                    "spellID": 57224,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": "inv_glyph_minordeathknight"
+                },
+                {
+                    "name": "Glyph of Water Shield",
+                    "spellID": 57251,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Nightmares",
+                    "spellID": 57261,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Falling Meteor",
+                    "spellID": 57277,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Stampede",
+                    "spellID": 58298,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Mounted King",
+                    "spellID": 58314,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Master's Call",
+                    "spellID": 64253,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Spectral Wolf",
+                    "spellID": 58332,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": "inv_glyph_minorshaman"
+                },
+                {
+                    "name": "Glyph of Victorious Throw",
+                    "spellID": 64255,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Wild Growth",
+                    "spellID": 64270,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Illusion",
+                    "spellID": 64276,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Killing Spree",
+                    "spellID": 64285,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spell Reflection",
+                    "spellID": 64302,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Eternal Resolve",
+                    "spellID": 71102,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Righteous Retreat",
+                    "spellID": 112265,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Nimble Brew",
+                    "spellID": 112437,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Detox",
+                    "spellID": 112454,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Detoxing",
+                    "spellID": 112458,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Vampiric Embrace",
+                    "spellID": 124460,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Holy Resurrection",
+                    "spellID": 126687,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Hand of Sacrifice",
+                    "spellID": 148260,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Inspired Hymns",
+                    "spellID": 148278,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Spirit Wolf",
+                    "spellID": 148283,
+                    "source": "Learnt by researching Moonglow Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Midnight Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Skull Bash",
+                    "spellID": 56958,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Splitting Ice",
+                    "spellID": 56980,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Tame Beast",
+                    "spellID": 57009,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Feint",
+                    "spellID": 57122,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Prayer of Mending",
+                    "spellID": 57202,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Solace",
+                    "spellID": 57014,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Death's Embrace",
+                    "spellID": 57215,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Wind Shear",
+                    "spellID": 57240,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Healing Stream Totem",
+                    "spellID": 57242,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Chaining",
+                    "spellID": 57250,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Conflagrate",
+                    "spellID": 57258,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadow Bolt",
+                    "spellID": 57271,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Aspect of the Pack",
+                    "spellID": 58297,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Winged Vengeance",
+                    "spellID": 58312,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": "inv_glyph_minorpaladin"
+                },
+                {
+                    "name": "Glyph of Pick Pocket",
+                    "spellID": 58326,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Death Coil",
+                    "spellID": 64266,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Survival Instincts",
+                    "spellID": 64268,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Death From Above",
+                    "spellID": 64296,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Focused Mending",
+                    "spellID": 64309,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Demonic Circle",
+                    "spellID": 64317,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Counterspell",
+                    "spellID": 71101,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Vendetta",
+                    "spellID": 64284,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Recklessness",
+                    "spellID": 94405,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Touch of Karma",
+                    "spellID": 112444,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Falling Avenger",
+                    "spellID": 112264,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Leer of the Ox",
+                    "spellID": 112450,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mind Flay",
+                    "spellID": 124459,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Divine Shield",
+                    "spellID": 148259,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Skeleton",
+                    "spellID": 148266,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": "inv_glyph_minordeathknight"
+                },
+                {
+                    "name": "Glyph of Lingering Ancestors",
+                    "spellID": 148282,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": "inv_glyph_minorshaman"
+                },
+                {
+                    "name": "Glyph of Condensation",
+                    "spellID": 148272,
+                    "source": "Learnt by researching Midnight ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Celestial Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of the Stag",
+                    "spellID": 56950,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Aspects",
+                    "spellID": 56994,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mend Pet",
+                    "spellID": 57012,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blessed Life",
+                    "spellID": 57034,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Decoy",
+                    "spellID": 57114,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Hemorrhage",
+                    "spellID": 57126,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Bloody Healing",
+                    "spellID": 57153,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rude Interruption",
+                    "spellID": 57157,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Raging Wind",
+                    "spellID": 57172,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Icy Touch",
+                    "spellID": 57219,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Enduring Infection",
+                    "spellID": 57220,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Lakestrider",
+                    "spellID": 57246,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Capacitor Totem",
+                    "spellID": 57235,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Cleansing Waters",
+                    "spellID": 57252,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Thunderstorm",
+                    "spellID": 57253,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Unstable Affliction",
+                    "spellID": 57276,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Arcane Language",
+                    "spellID": 58308,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadow Ravens",
+                    "spellID": 58317,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fire From the Heavens",
+                    "spellID": 58316,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": "inv_glyph_minorpaladin"
+                },
+                {
+                    "name": "Glyph of Eye of Kilrogg",
+                    "spellID": 58340,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Outbreak",
+                    "spellID": 59339,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Binding Heal",
+                    "spellID": 64259,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Tranquilizing Shot",
+                    "spellID": 64273,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mind Spike",
+                    "spellID": 64283,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Stampeding Roar",
+                    "spellID": 64307,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blind",
+                    "spellID": 92579,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Inferno Blast",
+                    "spellID": 94000,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadow",
+                    "spellID": 107907,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Flying Serpent Kick",
+                    "spellID": 112463,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Touch of Death",
+                    "spellID": 124456,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadow Word: Death",
+                    "spellID": 124461,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadowy Friends",
+                    "spellID": 126800,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of the Exorcist",
+                    "spellID": 148273,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Weaponmaster",
+                    "spellID": 148292,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Shadow Magic",
+                    "spellID": 162854,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadowflame",
+                    "spellID": 162873,
+                    "source": "Learnt by researching Celestial Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Ink of Dreams",
+            "recipes": [
+                {
+                    "name": "Glyph of Regrowth",
+                    "spellID": 56954,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Endless Wrath",
+                    "spellID": 56999,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Circle of Healing",
+                    "spellID": 57181,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Army of the Dead",
+                    "spellID": 57223,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Smoke Bomb",
+                    "spellID": 57127,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fire Elemental Totem",
+                    "spellID": 57237,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Immediate Truth",
+                    "spellID": 59561,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Totemic Vigor",
+                    "spellID": 64247,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Crimson Banish",
+                    "spellID": 64250,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": "inv_glyph_minorwarlock"
+                },
+                {
+                    "name": "Glyph of Feral Spirit",
+                    "spellID": 64288,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dancing Rune Weapon",
+                    "spellID": 64297,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ice Block",
+                    "spellID": 56979,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Cone of Cold",
+                    "spellID": 56981,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Garrote",
+                    "spellID": 57123,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Distracting Shot",
+                    "spellID": 56998,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Sprint",
+                    "spellID": 57133,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shield Slam",
+                    "spellID": 57152,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mortal Strike",
+                    "spellID": 57160,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Power Word: Shield",
+                    "spellID": 57194,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Deep Wells",
+                    "spellID": 57189,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Pillar of Frost",
+                    "spellID": 57226,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Vampiric Blood",
+                    "spellID": 57227,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Imp Swarm",
+                    "spellID": 57269,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blooming",
+                    "spellID": 58288,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Lesser Proportion",
+                    "spellID": 58301,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": "inv_glyph_minorhunter"
+                },
+                {
+                    "name": "Glyph of Conjure Familiar",
+                    "spellID": 58306,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ghost Wolf",
+                    "spellID": 59326,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Cyclone",
+                    "spellID": 64258,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Deluge",
+                    "spellID": 64261,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": "inv_glyph_minorshaman"
+                },
+                {
+                    "name": "Glyph of Cloak of Shadows",
+                    "spellID": 64303,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Intimidating Shout",
+                    "spellID": 64312,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Bladed Judgment",
+                    "spellID": 112266,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Detoxing",
+                    "spellID": 112458,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Zen Flight",
+                    "spellID": 112460,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadow Word: Death",
+                    "spellID": 124461,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Val'kyr",
+                    "spellID": 126696,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Pillar of Light",
+                    "spellID": 148274,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": "inv_glyph_minorpaladin"
+                },
+                {
+                    "name": "Glyph of the Compy",
+                    "spellID": 148285,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Flying Fists",
+                    "spellID": 182155,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Solstice",
+                    "spellID": 182158,
+                    "source": "Learnt by researching Ink of Dreams",
+                    "icon": "inv_glyph_minordruid"
+                }
+            ]
+        },
+        {
+            "name": "Research: Jadefire Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Deterrence",
+                    "spellID": 57000,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Burden of Guilt",
+                    "spellID": 57036,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dispel Magic",
+                    "spellID": 57200,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fireworks",
+                    "spellID": 58302,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Soulwell",
+                    "spellID": 58341,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": "inv_glyph_minorwarlock"
+                },
+                {
+                    "name": "Glyph of Divine Protection",
+                    "spellID": 57022,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Evasion",
+                    "spellID": 57119,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mighty Victory",
+                    "spellID": 58347,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Gushing Wound",
+                    "spellID": 58345,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Crow Feast",
+                    "spellID": 112429,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Spirit Roll",
+                    "spellID": 112468,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Guard",
+                    "spellID": 124449,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Zen Meditation",
+                    "spellID": 124451,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Swift Death",
+                    "spellID": 148255,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Purging",
+                    "spellID": 148261,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Lightwell",
+                    "spellID": 127625,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Unbound Elemental",
+                    "spellID": 148270,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": "inv_glyph_minormage"
+                },
+                {
+                    "name": "Glyph of the Sprouting Mushroom",
+                    "spellID": 148268,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Headhunting",
+                    "spellID": 148279,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Guardian Spirit",
+                    "spellID": 162848,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Regrowth",
+                    "spellID": 56954,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Endless Wrath",
+                    "spellID": 56999,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Circle of Healing",
+                    "spellID": 57181,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Army of the Dead",
+                    "spellID": 57223,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Smoke Bomb",
+                    "spellID": 57127,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fire Elemental Totem",
+                    "spellID": 57237,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Immediate Truth",
+                    "spellID": 59561,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Totemic Vigor",
+                    "spellID": 64247,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Crimson Banish",
+                    "spellID": 64250,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": "inv_glyph_minorwarlock"
+                },
+                {
+                    "name": "Glyph of Feral Spirit",
+                    "spellID": 64288,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dancing Rune Weapon",
+                    "spellID": 64297,
+                    "source": "Learnt by researching Jadefire Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Blackfallow Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Crittermorph",
+                    "spellID": 56986,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minormage"
+                },
+                {
+                    "name": "Glyph of Distracting Shot",
+                    "spellID": 56998,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Divinity",
+                    "spellID": 57031,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Hindering Strikes",
+                    "spellID": 57154,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mass Dispel",
+                    "spellID": 57190,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Psychic Scream",
+                    "spellID": 57196,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Horn of Winter",
+                    "spellID": 57217,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Death Gate",
+                    "spellID": 57228,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Lava Lash",
+                    "spellID": 57249,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Hand of Gul'dan",
+                    "spellID": 57257,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Chameleon",
+                    "spellID": 58287,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minordruid"
+                },
+                {
+                    "name": "Glyph of Charm Woodland Creature",
+                    "spellID": 58296,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Distract",
+                    "spellID": 58324,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Soul Consumption",
+                    "spellID": 58337,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Enslave Demon",
+                    "spellID": 58339,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mirrored Blades",
+                    "spellID": 64246,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Barkskin",
+                    "spellID": 64256,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Deep Freeze",
+                    "spellID": 64257,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Disguise",
+                    "spellID": 64260,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minorrogue"
+                },
+                {
+                    "name": "Glyph of Shamanistic Rage",
+                    "spellID": 64262,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Beacon of Light",
+                    "spellID": 64277,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Aspect of the Cheetah",
+                    "spellID": 64304,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Thunder Strike",
+                    "spellID": 68166,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Vanish",
+                    "spellID": 94711,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Burning Anger",
+                    "spellID": 112430,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minorwarrior"
+                },
+                {
+                    "name": "Glyph of Water Roll",
+                    "spellID": 112461,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Crackling Tiger Lightning",
+                    "spellID": 112462,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minormonk"
+                },
+                {
+                    "name": "Glyph of the Heavens",
+                    "spellID": 124466,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Mass Exorcism",
+                    "spellID": 122030,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadowy Friends",
+                    "spellID": 126800,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Elemental Familiars",
+                    "spellID": 148286,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Etheral Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Momentum",
+                    "spellID": 56978,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Remove Curse",
+                    "spellID": 56990,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Explosive Trap",
+                    "spellID": 57005,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Devotion Aura",
+                    "spellID": 57033,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Arcane Power",
+                    "spellID": 56991,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blade Flurry",
+                    "spellID": 57115,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Resonating Power",
+                    "spellID": 57164,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Gouge",
+                    "spellID": 57125,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spirit of Redemption",
+                    "spellID": 57195,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Anti-Magic Shell",
+                    "spellID": 57207,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spirit Walk",
+                    "spellID": 57234,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Felguard",
+                    "spellID": 57263,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": "inv_glyph_minorwarlock"
+                },
+                {
+                    "name": "Glyph of Health Funnel",
+                    "spellID": 57265,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Soulstone",
+                    "spellID": 57274,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Aquatic Form",
+                    "spellID": 58286,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Seal of Blood",
+                    "spellID": 58315,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Borrowed Time",
+                    "spellID": 58318,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Safe Fall",
+                    "spellID": 58327,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Far Sight",
+                    "spellID": 58330,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Bloodcurdling Shout",
+                    "spellID": 58343,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Corpse Explosion",
+                    "spellID": 59340,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dark Simulacrum",
+                    "spellID": 64298,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Treant",
+                    "spellID": 95215,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Jab",
+                    "spellID": 112465,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Renewing Mist",
+                    "spellID": 124452,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Surging Mist",
+                    "spellID": 124455,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Sha",
+                    "spellID": 148276,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of the Subtle Defender",
+                    "spellID": 148290,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rain of Frogs",
+                    "spellID": 148288,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Lean Pack",
+                    "spellID": 148487,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spirit of Redemption",
+                    "spellID": 162853,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Shapemender",
+                    "spellID": 178448,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Cleanse",
+                    "spellID": 182154,
+                    "source": "Learnt by researching Etheral Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Ink of the Sea",
+            "recipes": [
+                {
+                    "name": "Glyph of the Orca",
+                    "spellID": 56948,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": "inv_glyph_minordruid"
+                },
+                {
+                    "name": "Glyph of Arcane Explosion",
+                    "spellID": 56972,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Focused Shield",
+                    "spellID": 57019,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Kick",
+                    "spellID": 57130,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Icy Veins",
+                    "spellID": 56988,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Weakened Soul",
+                    "spellID": 57193,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Path of Frost",
+                    "spellID": 57229,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Resilient Grip",
+                    "spellID": 57230,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Verdant Spheres",
+                    "spellID": 57260,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rake",
+                    "spellID": 56952,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Blitz",
+                    "spellID": 57159,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Camouflage",
+                    "spellID": 56995,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Chain Lightning",
+                    "spellID": 57233,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shadow Ravens",
+                    "spellID": 58317,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Contemplation",
+                    "spellID": 58311,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Poisons",
+                    "spellID": 58328,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Astral Recall",
+                    "spellID": 58329,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mystic Shout",
+                    "spellID": 58342,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Havoc",
+                    "spellID": 57270,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Life Tap",
+                    "spellID": 64248,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Predator",
+                    "spellID": 94404,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fortifying Brew",
+                    "spellID": 112457,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fighting Pose",
+                    "spellID": 112469,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": "inv_glyph_minormonk"
+                },
+                {
+                    "name": "Glyph of Aspect of the Beast",
+                    "spellID": 124442,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Confession",
+                    "spellID": 126153,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Astral Fixation",
+                    "spellID": 148287,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Raging Whirlwind",
+                    "spellID": 148289,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Angels",
+                    "spellID": 148275,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Purification",
+                    "spellID": 182156,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Honor",
+                    "spellID": 112464,
+                    "source": "Learnt by researching Ink of the Sea",
+                    "icon": "inv_glyph_minormonk"
+                }
+            ]
+        },
+        {
+            "name": "Research: Shimmering Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Hurricane",
+                    "spellID": 56946,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Freezing Trap",
+                    "spellID": 57002,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Luminous Charger",
+                    "spellID": 57032,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": "inv_glyph_minorpaladin"
+                },
+                {
+                    "name": "Glyph of Hemorrhaging Veins",
+                    "spellID": 57129,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Scourge Imprisonment",
+                    "spellID": 57198,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Icebound Fortitude",
+                    "spellID": 57210,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Detection",
+                    "spellID": 57124,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Sweeping Strikes",
+                    "spellID": 57168,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Chains of Ice",
+                    "spellID": 57211,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Consecration",
+                    "spellID": 57023,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Unstable Earth",
+                    "spellID": 57232,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Purge",
+                    "spellID": 57236,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Subtlety",
+                    "spellID": 57267,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shackle Undead",
+                    "spellID": 58320,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": "inv_glyph_minorpriest"
+                },
+                {
+                    "name": "Glyph of Pick Lock",
+                    "spellID": 58325,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Totemic Encirclement",
+                    "spellID": 58333,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Unending Rage",
+                    "spellID": 58346,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Leap of Faith",
+                    "spellID": 64281,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Tranquil Grip",
+                    "spellID": 64300,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rapid Teleportation",
+                    "spellID": 95710,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rising Tiger Kick",
+                    "spellID": 112466,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": "inv_glyph_minormonk"
+                },
+                {
+                    "name": "Glyph of the Battle Healer",
+                    "spellID": 119481,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Unending Breath",
+                    "spellID": 58336,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Fetch",
+                    "spellID": 126801,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Cheetah",
+                    "spellID": 131152,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": "inv_glyph_minordruid"
+                },
+                {
+                    "name": "Glyph of Blackout Kick",
+                    "spellID": 132167,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Watchful Eye",
+                    "spellID": 148291,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Flaming Serpent",
+                    "spellID": 148284,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Enduring Deceit",
+                    "spellID": 148489,
+                    "source": "Learnt by researching Shimmering Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Research: Warbinders Ink",
+            "recipes": [
+                {
+                    "name": "Glyph of Spirit of Redemption",
+                    "spellID": 57195,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Grounding Totem",
+                    "spellID": 57247,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ice Reaper",
+                    "spellID": 162806,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Empowerment",
+                    "spellID": 162808,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rune Tap",
+                    "spellID": 162811,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Astral Communion",
+                    "spellID": 162813,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Runic Power",
+                    "spellID": 162812,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Imbued Bark",
+                    "spellID": 162814,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Enchanted Bark",
+                    "spellID": 162815,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ninth Life",
+                    "spellID": 162817,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Celestial Alignment",
+                    "spellID": 162818,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Nature's Cure",
+                    "spellID": 162819,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Absorb Magic",
+                    "spellID": 162805,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Maim",
+                    "spellID": 162820,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Savagery",
+                    "spellID": 162821,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Moonwarding",
+                    "spellID": 162822,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Travel",
+                    "spellID": 162823,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Raise Ally",
+                    "spellID": 162810,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Quick Revival",
+                    "spellID": 162826,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Snake Trap",
+                    "spellID": 162827,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dragon's Breath",
+                    "spellID": 162829,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Expel Harm",
+                    "spellID": 162831,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Play Dead",
+                    "spellID": 162824,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Floating Butterfly",
+                    "spellID": 162832,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Flying Serpent",
+                    "spellID": 162833,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Keg Smash",
+                    "spellID": 162834,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Regenerative Ice",
+                    "spellID": 162830,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Soothing Mist",
+                    "spellID": 162838,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Consecrator",
+                    "spellID": 162841,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ardent Defender",
+                    "spellID": 162840,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Renewed Tea",
+                    "spellID": 162835,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Divine Wrath",
+                    "spellID": 162842,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Hand of Freedom",
+                    "spellID": 162844,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Liberator",
+                    "spellID": 162843,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Delayed Coalescence",
+                    "spellID": 162847,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Zen Focus",
+                    "spellID": 162839,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Restored Faith",
+                    "spellID": 162849,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Miraculous Dispelling",
+                    "spellID": 162850,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spirit of Redemption",
+                    "spellID": 162853,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Inquisitor",
+                    "spellID": 162851,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Silence",
+                    "spellID": 162852,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Energy",
+                    "spellID": 162855,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Free Action",
+                    "spellID": 162846,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Elusiveness",
+                    "spellID": 162856,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Energy Flows",
+                    "spellID": 162857,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Disappearance",
+                    "spellID": 162858,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ephemeral Spirits",
+                    "spellID": 162859,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Ghostly Speed",
+                    "spellID": 162860,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Grounding",
+                    "spellID": 162861,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Reactive Shielding",
+                    "spellID": 162863,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shamanistic Resolve",
+                    "spellID": 162864,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shocks",
+                    "spellID": 162865,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Dark Soul",
+                    "spellID": 162869,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Life Pact",
+                    "spellID": 162871,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Freedom Roll",
+                    "spellID": 162837,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spiritwalker's Aegis",
+                    "spellID": 162867,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Spiritwalker's Focus",
+                    "spellID": 162866,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Lava Spread",
+                    "spellID": 162862,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Soul Swap",
+                    "spellID": 162874,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Cleave",
+                    "spellID": 162877,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Drawn Sword",
+                    "spellID": 162878,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Mocking Banner",
+                    "spellID": 162880,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Raging Blow",
+                    "spellID": 162881,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Metamorphosis",
+                    "spellID": 162872,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Strengthened Resolve",
+                    "spellID": 162876,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Flawless Defense",
+                    "spellID": 162884,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Heroic Leap",
+                    "spellID": 162879,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Shattering Throw",
+                    "spellID": 162883,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of Rallying Cry",
+                    "spellID": 162882,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Flapping Owl",
+                    "spellID": 175186,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                },
+                {
+                    "name": "Glyph of the Shapemender",
+                    "spellID": 178448,
+                    "source": "Learnt by researching Warbinders Ink",
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "name": "Secrets of Draenor Inscription",
+            "recipes": [
+                {
+                    "name": "Darkmoon Card of Draenor",
+                    "spellID": 163294,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                },
+                {
+                    "name": "Warmaster's Firestick",
+                    "spellID": 165804,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_wand_1h_draenorcrafted_d_01_a_horde"
+                },
+                {
+                    "name": "Crystalfire Spellstaff",
+                    "spellID": 166356,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_staff_2h_draenorcrafted_d_02_a_horde"
+                },
+                {
+                    "name": "Etched-Blade Warstaff",
+                    "spellID": 166359,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_staff_2h_draenorcrafted_d_02_a_alliance"
+                },
+                {
+                    "name": "Shadowtome",
+                    "spellID": 166363,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_offhand_1h_draenorcrafted_d_02a"
+                },
+                {
+                    "name": "Weapon Crystal",
+                    "spellID": 166366,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_datacrystal05"
+                },
+                {
+                    "name": "Volatile Crystal",
+                    "spellID": 166432,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_misc_crystalepic2"
+                },
+                {
+                    "name": "Ensorcelled Tarot",
+                    "spellID": 178248,
+                    "source": "Purchased with Secrets of Draenor Inscription<br>Sold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "inv_inscription_tarot_volcanoace"
+                }
+            ]
+        },
+        {
+            "name": "World Drops",
+            "recipes": [
+                {
+                    "name": "Origami Beetle",
+                    "spellID": 86646,
+                    "source": "Drops from mobs in Uldum",
+                    "icon": "inv_inscription_pigment_bug04"
+                },
+                {
+                    "name": "Origami Slime",
+                    "spellID": 86644,
+                    "source": "Drops from mobs in Vash'jir",
+                    "icon": "inv_misc_slime_02"
+                },
+                {
+                    "name": "Origami Rock",
+                    "spellID": 86645,
+                    "source": "Drops from mobs in Deepholm",
+                    "icon": "inv_stone_10"
+                },
+                {
+                    "name": "Crafted Malevolent Gladiator's Medallion of Tenacity",
+                    "spellID": 146638,
+                    "source": "Drops in Pandaria zones, raids and dungeons",
+                    "icon": "inv_jewelry_trinket_04"
+                }
+            ]
+        },
+        {
+            "name": "Garrison Herb Trader",
+            "recipes": [
+                {
+                    "name": "Mighty Weapon Crystal",
+                    "spellID": 187494,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "oshugun_crystalfragments"
+                },
+                {
+                    "name": "The Spirit of War",
+                    "spellID": 182125,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_warpaint_blue"
+                },
+                {
+                    "name": "Mighty Ensorcelled Tarot",
+                    "spellID": 187495,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_misc_ticket_tarot_crusade"
+                },
+                {
+                    "name": "Savage Ensorcelled Tarot",
+                    "spellID": 187519,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_misc_ticket_tarot_crusade"
+                },
+                {
+                    "name": "Savage Weapon Crystal",
+                    "spellID": 187518,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "oshugun_crystalfragments"
+                },
+                {
+                    "name": "Mass Mill Frostweed",
+                    "spellID": 190381,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_pigment_cerulean"
+                },
+                {
+                    "name": "Mass Mill Fireweed",
+                    "spellID": 190382,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_pigment_cerulean"
+                },
+                {
+                    "name": "Mass Mill Gorgrond Flytrap",
+                    "spellID": 190383,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_pigment_cerulean"
+                },
+                {
+                    "name": "Mass Mill Starflower",
+                    "spellID": 190384,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_pigment_cerulean"
+                },
+                {
+                    "name": "Mass Mill Nagrand Arrowbloom",
+                    "spellID": 190385,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_pigment_cerulean"
+                },
+                {
+                    "name": "Mass Mill Talador Orchid",
+                    "spellID": 190386,
+                    "source": "Sold by Lunarfall\/Frostwall Herb Trader",
+                    "icon": "inv_inscription_pigment_cerulean"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2508 @@
+{
+    "name": "Enchanting",
+    "sections": [
+        {
+            "name": "Trainer",
+            "recipes": [
+                {
+                    "name": "Minor Health",
+                    "spellID": 7418,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Runed Copper Rod",
+                    "spellID": 7421,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_staff_goldfeathered_01"
+                },
+                {
+                    "name": "Minor Dodge",
+                    "spellID": 7428,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Health",
+                    "spellID": 7420,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Absorption",
+                    "spellID": 7426,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Impact",
+                    "spellID": 7745,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Stamina",
+                    "spellID": 7457,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Health",
+                    "spellID": 7748,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Protection",
+                    "spellID": 7771,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Agility",
+                    "spellID": 7779,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Striking",
+                    "spellID": 7788,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Health",
+                    "spellID": 7857,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Stamina",
+                    "spellID": 7863,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Stamina",
+                    "spellID": 13378,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Spirit",
+                    "spellID": 13485,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Protection",
+                    "spellID": 13421,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Stamina",
+                    "spellID": 13501,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Absorption",
+                    "spellID": 13538,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Striking",
+                    "spellID": 13503,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Impact",
+                    "spellID": 13529,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Intellect",
+                    "spellID": 13622,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Mana",
+                    "spellID": 13607,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Stats",
+                    "spellID": 13626,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Stamina",
+                    "spellID": 13631,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Spirit",
+                    "spellID": 13642,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Agility",
+                    "spellID": 13637,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Stamina",
+                    "spellID": 13648,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Dodge",
+                    "spellID": 13646,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Spirit",
+                    "spellID": 13659,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Defense",
+                    "spellID": 13635,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Strength",
+                    "spellID": 13661,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Health",
+                    "spellID": 13640,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Stats",
+                    "spellID": 13700,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Mana",
+                    "spellID": 13663,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Defense",
+                    "spellID": 13746,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Impact",
+                    "spellID": 13695,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Agility",
+                    "spellID": 13815,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Intellect",
+                    "spellID": 13822,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Stamina",
+                    "spellID": 13644,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Health",
+                    "spellID": 13858,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Speed",
+                    "spellID": 13890,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Spirit",
+                    "spellID": 13905,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Stamina",
+                    "spellID": 13836,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Striking",
+                    "spellID": 13693,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Strength",
+                    "spellID": 13887,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Mana",
+                    "spellID": 13917,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Agility",
+                    "spellID": 13935,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Impact",
+                    "spellID": 13937,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Strength",
+                    "spellID": 13939,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Striking",
+                    "spellID": 13943,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Haste",
+                    "spellID": 13948,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Stats",
+                    "spellID": 13941,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Magic Wand",
+                    "spellID": 14293,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_staff_02"
+                },
+                {
+                    "name": "Greater Magic Wand",
+                    "spellID": 14807,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_staff_07"
+                },
+                {
+                    "name": "Lesser Mystic Wand",
+                    "spellID": 14809,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_staff_02"
+                },
+                {
+                    "name": "Greater Mystic Wand",
+                    "spellID": 14810,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_wand_07"
+                },
+                {
+                    "name": "Enchanted Thorium Bar",
+                    "spellID": 17180,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_ingot_eternium"
+                },
+                {
+                    "name": "Enchanted Leather",
+                    "spellID": 17181,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_misc_rune_05"
+                },
+                {
+                    "name": "Greater Intellect",
+                    "spellID": 20008,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Strength",
+                    "spellID": 20013,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Agility",
+                    "spellID": 20012,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Vitality",
+                    "spellID": 20016,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Agility",
+                    "spellID": 20023,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Mana",
+                    "spellID": 20028,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Brawn",
+                    "spellID": 27899,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Stats",
+                    "spellID": 27905,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Dodge",
+                    "spellID": 27944,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Exceptional Health",
+                    "spellID": 27957,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Exceptional Mana",
+                    "spellID": 27958,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Armor",
+                    "spellID": 27961,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Prismatic Sphere",
+                    "spellID": 28027,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_enchant_prismaticsphere"
+                },
+                {
+                    "name": "Void Sphere",
+                    "spellID": 28028,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_enchant_voidsphere"
+                },
+                {
+                    "name": "Major Spirit",
+                    "spellID": 33990,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Restore Mana Prime",
+                    "spellID": 33991,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Blasting",
+                    "spellID": 33993,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Strength",
+                    "spellID": 33995,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Assault",
+                    "spellID": 33996,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Intellect",
+                    "spellID": 34001,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Assault",
+                    "spellID": 34002,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Agility",
+                    "spellID": 34004,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Nexus Transformation",
+                    "spellID": 42613,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": null
+                },
+                {
+                    "name": "Small Prismatic Shard",
+                    "spellID": 42615,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_enchant_shardprismaticsmall"
+                },
+                {
+                    "name": "Resilience",
+                    "spellID": 44383,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Haste",
+                    "spellID": 44484,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Precision",
+                    "spellID": 44488,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Dodge",
+                    "spellID": 44489,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Health",
+                    "spellID": 44492,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Agility",
+                    "spellID": 44500,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gatherer",
+                    "spellID": 44506,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Spirit",
+                    "spellID": 44508,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Mana Restoration",
+                    "spellID": 44509,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Spirit",
+                    "spellID": 44510,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Assault",
+                    "spellID": 44513,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Fortitude",
+                    "spellID": 44528,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Agility",
+                    "spellID": 44529,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Minor Power",
+                    "spellID": 44582,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Vitality",
+                    "spellID": 44584,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Agility",
+                    "spellID": 44589,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Spellpower",
+                    "spellID": 44592,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Haste",
+                    "spellID": 44598,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Spirit",
+                    "spellID": 44593,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Super Stats",
+                    "spellID": 44623,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Spellpower",
+                    "spellID": 44629,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Stats",
+                    "spellID": 44616,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Savagery",
+                    "spellID": 44630,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Agility",
+                    "spellID": 44633,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Intellect",
+                    "spellID": 44555,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Spellpower",
+                    "spellID": 44635,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Dodge",
+                    "spellID": 47766,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Super Health",
+                    "spellID": 47900,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Assault",
+                    "spellID": 60606,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Speed",
+                    "spellID": 60609,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Assault",
+                    "spellID": 60616,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Potency",
+                    "spellID": 60621,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Icewalker",
+                    "spellID": 60623,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Intellect",
+                    "spellID": 60653,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Agility",
+                    "spellID": 60663,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Crusher",
+                    "spellID": 60668,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Spellpower",
+                    "spellID": 62959,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Accuracy",
+                    "spellID": 63746,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Abyssal Shatter",
+                    "spellID": 69412,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_shaman_spectraltransformation"
+                },
+                {
+                    "name": "Mastery",
+                    "spellID": 74132,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Earthen Vitality",
+                    "spellID": 74189,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Stats",
+                    "spellID": 74191,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Lesser Power",
+                    "spellID": 74192,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Speed",
+                    "spellID": 74193,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mending",
+                    "spellID": 74195,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Avalanche",
+                    "spellID": 74197,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Haste",
+                    "spellID": 74198,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Haste",
+                    "spellID": 74199,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Stamina",
+                    "spellID": 74200,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Critical Strike",
+                    "spellID": 74201,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Intellect",
+                    "spellID": 74202,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Protection",
+                    "spellID": 74207,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Elemental Slayer",
+                    "spellID": 74211,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Strength",
+                    "spellID": 74212,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Agility",
+                    "spellID": 74213,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Resilience",
+                    "spellID": 74214,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Haste",
+                    "spellID": 74220,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Hurricane",
+                    "spellID": 74223,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Heartsong",
+                    "spellID": 74225,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mastery",
+                    "spellID": 74226,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Dodge",
+                    "spellID": 74229,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Critical Strike",
+                    "spellID": 74230,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Spirit",
+                    "spellID": 74231,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Precision",
+                    "spellID": 74232,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Protection",
+                    "spellID": 74234,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Intellect",
+                    "spellID": 74235,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Precision",
+                    "spellID": 74236,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Spirit",
+                    "spellID": 74237,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mastery",
+                    "spellID": 74238,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Haste",
+                    "spellID": 74239,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Intellect",
+                    "spellID": 74240,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Agility",
+                    "spellID": 95471,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mastery",
+                    "spellID": 104338,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Dodge",
+                    "spellID": 104385,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Super Resilience",
+                    "spellID": 104392,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Spirit",
+                    "spellID": 104393,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Glorious Stats",
+                    "spellID": 104395,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Stamina",
+                    "spellID": 104397,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Accuracy",
+                    "spellID": 104398,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Protection",
+                    "spellID": 104401,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Intellect",
+                    "spellID": 104403,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Critical Strike",
+                    "spellID": 104404,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Haste",
+                    "spellID": 104407,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Precision",
+                    "spellID": 104408,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Blurred Speed",
+                    "spellID": 104409,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Pandaren's Step",
+                    "spellID": 104414,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Haste",
+                    "spellID": 104416,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Haste",
+                    "spellID": 104417,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Super Strength",
+                    "spellID": 104419,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Mastery",
+                    "spellID": 104420,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Windsong",
+                    "spellID": 104425,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Elemental Force",
+                    "spellID": 104430,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Colossus",
+                    "spellID": 104440,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Intellect",
+                    "spellID": 104445,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Maelstrom Shatter",
+                    "spellID": 104698,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_misc_largeshard_superior"
+                },
+                {
+                    "name": "Mysterious Essence",
+                    "spellID": 116497,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_enchanting_greatermysteriousessence"
+                },
+                {
+                    "name": "Ethereal Shard",
+                    "spellID": 116498,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_enchanting_largeetherealshard"
+                },
+                {
+                    "name": "Sha Crystal",
+                    "spellID": 116499,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_misc_crystalepic2"
+                },
+                {
+                    "name": "Mysterious Diffusion",
+                    "spellID": 118237,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_misc_powder_copper"
+                },
+                {
+                    "name": "Ethereal Shatter",
+                    "spellID": 118238,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_enchanting_greatermysteriousessence"
+                },
+                {
+                    "name": "Sha Shatter",
+                    "spellID": 118239,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_enchanting_largeetherealshard"
+                },
+                {
+                    "name": "Greater Parry",
+                    "spellID": 130758,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "World Drops (Classic)",
+            "recipes": [
+                {
+                    "name": "Minor Mana",
+                    "spellID": 7443,
+                    "source": "Drops from level 6-20 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Spirit",
+                    "spellID": 7766,
+                    "source": "Drops from level 10-20 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Strength",
+                    "spellID": 7782,
+                    "source": "Drops from level 10-20 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Beastslayer",
+                    "spellID": 7786,
+                    "source": "Drops from level 10-20 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Spirit",
+                    "spellID": 7859,
+                    "source": "Drops from level 15-20 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Spirit",
+                    "spellID": 13380,
+                    "source": "Drops from level 15-20 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Protection",
+                    "spellID": 13464,
+                    "source": "Drops from level 15-30 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Beastslayer",
+                    "spellID": 13653,
+                    "source": "Drops from level 25-32 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Elemental Slayer",
+                    "spellID": 13655,
+                    "source": "Drops from level 25-32 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Herbalism",
+                    "spellID": 13617,
+                    "source": "Drops from mobs in Ashenvale",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Fishing",
+                    "spellID": 13620,
+                    "source": "Drops from murlocs at south coast of Hillsbrad Foothills",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Spirit",
+                    "spellID": 13687,
+                    "source": "Drops from level 32-45 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Parry",
+                    "spellID": 13689,
+                    "source": "Drops anywhere in Eastern Kingdoms \/ Kalimdor",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Skinning",
+                    "spellID": 13698,
+                    "source": "Drops from Witherbark trolls in Arathi Highlands",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Stamina",
+                    "spellID": 13817,
+                    "source": "Drops from level 35-51 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Spirit",
+                    "spellID": 13846,
+                    "source": "Drops from level 35-51 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Advanced Mining",
+                    "spellID": 13841,
+                    "source": "Drops from Venture Co. Strip Miner in Northern Stranglethorn",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Agility",
+                    "spellID": 13882,
+                    "source": "Drops from mobs in Tanaris",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Demonslaying",
+                    "spellID": 13915,
+                    "source": "Drops from level 38-56 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Stamina",
+                    "spellID": 13945,
+                    "source": "Drops from level 40-55 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Riding Skill",
+                    "spellID": 13947,
+                    "source": "Drops from level 46-50 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Spirit",
+                    "spellID": 20009,
+                    "source": "Drops from level 44-63 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Stamina",
+                    "spellID": 20011,
+                    "source": "Drops from level 44-63 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Stamina",
+                    "spellID": 20020,
+                    "source": "Drops from level 44-63 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Spirit",
+                    "spellID": 20024,
+                    "source": "Drops from level 45-60 mobs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Strength",
+                    "spellID": 20010,
+                    "source": "Drops from Deadwind Warlocks in Deadwing Pass",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Icy Chill",
+                    "spellID": 20029,
+                    "source": "Drops from Anguished Highborne in Winterspring",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Crusader",
+                    "spellID": 20034,
+                    "source": "Drops from Scarlet Archmages in Eastern Plaguelands",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "World Drops (Burning Crusade)",
+            "recipes": [
+                {
+                    "name": "Greater Dodge",
+                    "spellID": 27906,
+                    "source": "Drops from Ethereum Nullifier\/Jailors in Netherstorm",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Spellpower",
+                    "spellID": 27917,
+                    "source": "Drops from Bloodmaul Geomancers in Blade's Edge Mountains",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Intellect",
+                    "spellID": 27968,
+                    "source": "Drops from Sunfury Reasearchers in Netherstorm",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Spellpower",
+                    "spellID": 27975,
+                    "source": "Drops from Bash'ir ethereals in Blade's Edge Mountains",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Restore Mana Prime",
+                    "spellID": 27913,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Stats",
+                    "spellID": 20025,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Parry",
+                    "spellID": 27946,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Vitality",
+                    "spellID": 27948,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Potency",
+                    "spellID": 27972,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Spellsurge",
+                    "spellID": 28003,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Battlemaster",
+                    "spellID": 28004,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Resilience",
+                    "spellID": 33992,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Cat's Swiftness",
+                    "spellID": 34007,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Boar's Speed",
+                    "spellID": 34008,
+                    "source": "Drops in Burning Crusade zones, raids and dungeons",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "World Drops (Wrath of the Lich King)",
+            "recipes": [
+                {
+                    "name": "Angler",
+                    "spellID": 71692,
+                    "source": "Dropped by Indu'le Fisherman\/Warrior\/Mystics in Dragonblight",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "World Drops (Cataclysm)",
+            "recipes": [
+                {
+                    "name": "Major Strength",
+                    "spellID": 96261,
+                    "source": "Drops in Cataclysm zones, raids and dungeons",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Intellect",
+                    "spellID": 96262,
+                    "source": "Drops in Cataclysm zones, raids and dungeons",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Agility",
+                    "spellID": 96264,
+                    "source": "Drops in Cataclysm zones, raids and dungeons",
+                    "icon": "trade_engraving"
+                }
+            ]
+        },
+        {
+            "name": "Dungeons (Classic)",
+            "recipes": [
+                {
+                    "name": "Fiery Weapon",
+                    "spellID": 13898,
+                    "source": "Dropped by Pyromancer Loregrain in Blackrock Depths",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Smoking Heart of the Mountain",
+                    "spellID": 15596,
+                    "source": "Dropped by Lord Roccor in Blackrock Depths",
+                    "icon": "inv_misc_gem_bloodstone_01"
+                },
+                {
+                    "name": "Superior Striking",
+                    "spellID": 20031,
+                    "source": "Dropped by Spirestone Warlord in Blackrock Spire",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Unholy Weapon",
+                    "spellID": 20033,
+                    "source": "Dropped by Thuzadin Shadowcasters in Stratholme",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Intellect",
+                    "spellID": 20036,
+                    "source": "Dropped by Risen Sorcerers in Stratholme",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Spirit",
+                    "spellID": 20035,
+                    "source": "Dropped by Scholomance Adept\/Acolytes in Scholomance",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Dungeons (Burning Crusade)",
+            "recipes": [
+                {
+                    "name": "Fortitude",
+                    "spellID": 27914,
+                    "source": "Dropped by Coilfang Oracles in The Steamvault",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Fortitude",
+                    "spellID": 27950,
+                    "source": "Dropped by Ethereal Priests in Mana-Tombs",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Dexterity",
+                    "spellID": 27951,
+                    "source": "Dropped by Raging Skeletons in Auchenai Crypts",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Savagery",
+                    "spellID": 27971,
+                    "source": "Dropped by Shattered Hand Centurions in The Shattered Halls",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Agility",
+                    "spellID": 27977,
+                    "source": "Dropped by Eredar Deathbringers in The Arcatraz",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Dodge",
+                    "spellID": 47051,
+                    "source": "Dropped by Priestess Delrissa in Magisters' Terrace",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Molten Core (Raid)",
+            "recipes": [
+                {
+                    "name": "Spellpower",
+                    "spellID": 22749,
+                    "source": "Drops from bosses in Molten Core",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Healing Power",
+                    "spellID": 22750,
+                    "source": "Drops from bosses in Molten Core",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Ahn'Qiraj (Raids)",
+            "recipes": [
+                {
+                    "name": "Shadow Power",
+                    "spellID": 25073,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Frost Power",
+                    "spellID": 25074,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Fire Power",
+                    "spellID": 25078,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Healing Power",
+                    "spellID": 25079,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Agility",
+                    "spellID": 25080,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Stealth",
+                    "spellID": 25083,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Dodge",
+                    "spellID": 25086,
+                    "source": "Drops from bosses in Ahn'Qiraj (Temple\/Ruins)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Subtlety",
+                    "spellID": 25084,
+                    "source": "Dropped by Emperor Vek'lor in Temple of Ahn'Qiraj",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Threat",
+                    "spellID": 25072,
+                    "source": "Dropped by Emperor Vek'lor in Temple of Ahn'Qiraj",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Karazhan (Raid)",
+            "recipes": [
+                {
+                    "name": "Surefooted",
+                    "spellID": 27954,
+                    "source": "Dropped by Phantom Stagehand in Karazhan",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Sunfire",
+                    "spellID": 27981,
+                    "source": "Dropped by Shade of Aran in Karazhan",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Mongoose",
+                    "spellID": 27984,
+                    "source": "Dropped by Moroes in Karazhan",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Soulfrost",
+                    "spellID": 27982,
+                    "source": "Dropped by Terestian Illhoof in Karazhan",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Ulduar (Raid)",
+            "recipes": [
+                {
+                    "name": "Blood Draining",
+                    "spellID": 64579,
+                    "source": "Drops from bosses in Ulduar",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Blade Ward",
+                    "spellID": 64441,
+                    "source": "Drops from bosses in Ulduar",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Vendors",
+            "recipes": [
+                {
+                    "name": "Lesser Mana",
+                    "spellID": 7776,
+                    "source": "Sold by Kithas in Orgrimmar (Horde)<br>Sold by Lilly in Silverpine Forest (Horde)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Intellect",
+                    "spellID": 7793,
+                    "source": "Sold by Kithas in Orgrimmar (Horde)<br>Sold by Tilli Thistlefuzz in Ironforge (Alliance)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Agility",
+                    "spellID": 7867,
+                    "source": "Sold by Nata Dawnstrider in Thunder Bluff (Horde)<br>Sold by Zixil in Hillsbrad Foothills (Neutral)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Agility",
+                    "spellID": 13419,
+                    "source": "Sold by Dalria in Ashenvale (Alliance)<br>Sold by Kulwia in Stonetalon Mountains (Horde)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lesser Strength",
+                    "spellID": 13536,
+                    "source": "Sold by Dalria in Ashenvale (Alliance)<br>Sold by Kulwia in Stonetalon Mountains (Horde)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Mining",
+                    "spellID": 13612,
+                    "source": "Sold by Dark Iron Entrepreneur in Arathi Highlands",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Dodge",
+                    "spellID": 13931,
+                    "source": "Sold by Banalash in Swamp of Sorrows (Horde)<br>Sold by Mythrin'dir in Darnassus (Alliance)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Defense",
+                    "spellID": 20015,
+                    "source": "Sold by Lorelae Wintersong in Moonglade",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Greater Stamina",
+                    "spellID": 20017,
+                    "source": "Sold by Daniel Bartlett in Undercity (Horde)<br>Sold by Mythrin'dir in Darnassus (Alliance)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Health",
+                    "spellID": 20026,
+                    "source": "Sold by Qia in Winterspring",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Strength",
+                    "spellID": 23799,
+                    "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Mighty Spirit",
+                    "spellID": 23803,
+                    "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Mighty Intellect",
+                    "spellID": 23804,
+                    "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Minor Wizard Oil",
+                    "spellID": 25124,
+                    "source": "Sold by Enchanting Supplies vendors",
+                    "icon": "inv_poison_mindnumbing"
+                },
+                {
+                    "name": "Minor Mana Oil",
+                    "spellID": 25125,
+                    "source": "Sold by Enchanting Supplies vendors",
+                    "icon": "inv_potion_98"
+                },
+                {
+                    "name": "Lesser Wizard Oil",
+                    "spellID": 25126,
+                    "source": "Sold by Enchanting Supplies vendors",
+                    "icon": "inv_potion_103"
+                },
+                {
+                    "name": "Lesser Mana Oil",
+                    "spellID": 25127,
+                    "source": "Sold by Kania in Silithus",
+                    "icon": "inv_potion_99"
+                },
+                {
+                    "name": "Wizard Oil",
+                    "spellID": 25128,
+                    "source": "Sold by Kania in Silithus",
+                    "icon": "inv_potion_104"
+                },
+                {
+                    "name": "Intellect",
+                    "spellID": 27945,
+                    "source": "Sold by Aged Dalaran Wizard in Old Hillsbrad Foothills",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Mana Oil",
+                    "spellID": 28016,
+                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)<br>Sold by Egomis in The Exodar (Alliance)<br>Sold by Lyna in Silvermoon City(Horde)",
+                    "icon": "inv_potion_101"
+                },
+                {
+                    "name": "Superior Wizard Oil",
+                    "spellID": 28019,
+                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)<br>Sold by Egomis in The Exodar (Alliance)<br>Sold by Lyna in Silvermoon City(Horde)",
+                    "icon": "inv_potion_141"
+                },
+                {
+                    "name": "Large Prismatic Shard",
+                    "spellID": 28022,
+                    "source": "Sold by Madame Ruby in Shattrath City (Neutral)<br>Sold by Egomis in The Exodar (Alliance)<br>Sold by Lyna in Silvermoon City(Horde)",
+                    "icon": "inv_enchant_shardprismaticlarge"
+                },
+                {
+                    "name": "Major Stamina",
+                    "spellID": 34009,
+                    "source": "Sold by Madame Ruby in Shattrath City",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Executioner",
+                    "spellID": 42974,
+                    "source": "Sold by Dealer Jadyan in Netherstorm",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Temporal Binding",
+                    "spellID": 182129,
+                    "source": "Sold by dust trader in Lunarfall\/Frostwall",
+                    "icon": "inv_enchanting_wod_crystalshard4"
+                }
+            ]
+        },
+        {
+            "name": "Dream Shard Trading",
+            "recipes": [
+                {
+                    "name": "Icebreaker",
+                    "spellID": 44524,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Assault",
+                    "spellID": 44575,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Lifeward",
+                    "spellID": 44576,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Resilience",
+                    "spellID": 44588,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Dodge",
+                    "spellID": 44591,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Scourgebane",
+                    "spellID": 44595,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Giant Slayer",
+                    "spellID": 44621,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Armsman",
+                    "spellID": 44625,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Stamina",
+                    "spellID": 47672,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Speed",
+                    "spellID": 47898,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Wisdom",
+                    "spellID": 47899,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Tuskarr's Vitality",
+                    "spellID": 47901,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Accuracy",
+                    "spellID": 59619,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Berserking",
+                    "spellID": 59621,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Black Magic",
+                    "spellID": 59625,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Massacre",
+                    "spellID": 60691,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Powerful Stats",
+                    "spellID": 60692,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Shadow Armor",
+                    "spellID": 44631,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Potency",
+                    "spellID": 60707,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Mighty Spellpower",
+                    "spellID": 60714,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Assault",
+                    "spellID": 60763,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Superior Spellpower",
+                    "spellID": 60767,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Major Stamina",
+                    "spellID": 62256,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Spellpower",
+                    "spellID": 62948,
+                    "source": "Sold by Vanessa Sellers in Dalaran for Dream Shards",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Cataclysm Shard Trading",
+            "recipes": [
+                {
+                    "name": "Power Torrent",
+                    "spellID": 74242,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Windwalk",
+                    "spellID": 74244,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Critical Strike",
+                    "spellID": 74247,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Critical Strike",
+                    "spellID": 74248,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Landslide",
+                    "spellID": 74246,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Peerless Stats",
+                    "spellID": 74250,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Stamina",
+                    "spellID": 74251,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Assassin's Step",
+                    "spellID": 74252,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mighty Strength",
+                    "spellID": 74254,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Lavawalker",
+                    "spellID": 74253,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Mastery",
+                    "spellID": 74255,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Speed",
+                    "spellID": 74256,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "trade_engraving"
+                }
+            ]
+        },
+        {
+            "name": "Lamps",
+            "recipes": [
+                {
+                    "name": "Enchanted Lantern",
+                    "spellID": 93841,
+                    "faction": 1,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "inv_misc_lantern_01"
+                },
+                {
+                    "name": "Magic Lamp",
+                    "spellID": 93843,
+                    "faction": 0,
+                    "source": "Sold by enchanting supplies vendors",
+                    "icon": "inv_shield_26"
+                }
+            ]
+        },
+        {
+            "name": "Secrets of Draenor Enchanting",
+            "recipes": [
+                {
+                    "name": "Breath of Critical Strike",
+                    "spellID": 158877,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Haste",
+                    "spellID": 158878,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Mastery",
+                    "spellID": 158879,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Multistrike",
+                    "spellID": 158880,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Versatility",
+                    "spellID": 158881,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Critical Strike",
+                    "spellID": 158884,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Haste",
+                    "spellID": 158885,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Mastery",
+                    "spellID": 158886,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Multistrike",
+                    "spellID": 158887,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Versatility",
+                    "spellID": 158889,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Critical Strike",
+                    "spellID": 158892,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Haste",
+                    "spellID": 158893,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Mastery",
+                    "spellID": 158894,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Multistrike",
+                    "spellID": 158895,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Critical Strike",
+                    "spellID": 158899,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Haste",
+                    "spellID": 158900,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Mastery",
+                    "spellID": 158901,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Multistrike",
+                    "spellID": 158902,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Versatility",
+                    "spellID": 158903,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Critical Strike",
+                    "spellID": 158914,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Haste",
+                    "spellID": 158915,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Mastery",
+                    "spellID": 158916,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Multistrike",
+                    "spellID": 158917,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gift of Versatility",
+                    "spellID": 158918,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Thunderlord",
+                    "spellID": 159235,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of Warsong",
+                    "spellID": 159671,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Frostwolf",
+                    "spellID": 159672,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of Shadowmoon",
+                    "spellID": 159673,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of Blackrock",
+                    "spellID": 159674,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of Bleeding Hollow",
+                    "spellID": 173323,
+                    "source": "Purchased with Secrets of Draenor Enchanting<br>Sold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
+                    "icon": "trade_engraving"
+                }
+            ]
+        },
+        {
+            "name": "Draenor Enchanting",
+            "recipes": [
+                {
+                    "name": "Breath of Critical Strike",
+                    "spellID": 158907,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Haste",
+                    "spellID": 158908,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Mastery",
+                    "spellID": 158909,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Multistrike",
+                    "spellID": 158910,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Versatility",
+                    "spellID": 158911,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Breath of Versatility",
+                    "spellID": 158896,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Shattered Hand",
+                    "spellID": 159236,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Enchanted Dust",
+                    "spellID": 162948,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "inv_enchant_dustspirit"
+                },
+                {
+                    "name": "Luminous Shard",
+                    "spellID": 169091,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "inv_enchanting_wod_crystalshard3"
+                },
+                {
+                    "name": "Temporal Crystal",
+                    "spellID": 169092,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "inv_enchanting_wod_crystal"
+                },
+                {
+                    "name": "Secrets of Draenor Enchanting",
+                    "spellID": 177043,
+                    "source": "Learnt with Draenor Enchanting",
+                    "icon": "inv_misc_book_08"
+                }
+            ]
+        },
+        {
+            "name": "Timbermaw Hold",
+            "recipes": [
+                {
+                    "name": "Agility",
+                    "spellID": 27837,
+                    "source": "Sold by Meilosh in Felwood (Requires Friendly)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Agility",
+                    "spellID": 23800,
+                    "source": "Sold by Meilosh in Felwood (Requires Honored)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Argent Dawn",
+            "recipes": [
+                {
+                    "name": "Mana Regeneration",
+                    "spellID": 23801,
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Honored)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Healing Power",
+                    "spellID": 23802,
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Revered)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "The Sha'tar",
+            "recipes": [
+                {
+                    "name": "Major Healing",
+                    "spellID": 33999,
+                    "source": "Sold by Almaador in Shattrath City (Requires Honored)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Major Healing",
+                    "spellID": 34010,
+                    "source": "Sold by Almaador in Shattrath City (Requires Revered)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Honor Hold \/ Thrallmar",
+            "recipes": [
+                {
+                    "name": "Superior Healing",
+                    "spellID": 27911,
+                    "source": "Requires Friendly with Honor Hold \/ Thrallmar<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Exceptional Stats",
+                    "spellID": 27960,
+                    "source": "Requires Honored with Honor Hold \/ Thrallmar<br>Sold by Logistics Officer Ulrike in Honor Hold (Alliance)<br>Sold by Quartermaster Urgronn in Thrallmar (Horde)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "The Consortium",
+            "recipes": [
+                {
+                    "name": "Major Striking",
+                    "spellID": 27967,
+                    "source": "Sold by Karaaz in Netherstorm (Requires Honored)<br>Sold by Paulsta'ats in Nagrand (Requires Honored)",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "PvP Power",
+                    "spellID": 34003,
+                    "source": "Sold by Karaaz in Netherstorm (Requires Friendly)<br>Sold by Paulsta'ats in Nagrand (Requires Friendly)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Cenarion Expedition",
+            "recipes": [
+                {
+                    "name": "Precise Strikes",
+                    "spellID": 33994,
+                    "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Revered)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Keepers of Time",
+            "recipes": [
+                {
+                    "name": "Major Spellpower",
+                    "spellID": 33997,
+                    "source": "Sold by Alurmi in Caverns of Time (Requires Honored)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "The Violet Eye",
+            "recipes": [
+                {
+                    "name": "Greater Agility",
+                    "spellID": 42620,
+                    "source": "Sold by Apprentice Darius in Deadwind Pass (Requires Exalted)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Shattered Sun Offensive",
+            "recipes": [
+                {
+                    "name": "Void Shatter",
+                    "spellID": 45765,
+                    "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas (Requires Honored)",
+                    "icon": "inv_enchant_shardprismaticlarge"
+                },
+                {
+                    "name": "Dodge",
+                    "spellID": 46594,
+                    "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas (Requires Honored)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "The August Celestials",
+            "recipes": [
+                {
+                    "name": "Super Intellect",
+                    "spellID": 104389,
+                    "source": "Requires Revered with The August Celestials<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Exceptional Strength",
+                    "spellID": 104390,
+                    "source": "Requires Revered with The August Celestials<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Greater Agility",
+                    "spellID": 104391,
+                    "source": "Requires Revered with The August Celestials<br>Sold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)<br>Sold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
+                    "icon": "trade_engraving"
+                }
+            ]
+        },
+        {
+            "name": "Shado-Pan",
+            "recipes": [
+                {
+                    "name": "Jade Spirit",
+                    "spellID": 104427,
+                    "source": "Sold by Rushi the Fox in Townlong Steppes (Requires Revered)",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Dancing Steel",
+                    "spellID": 104434,
+                    "source": "Sold by Rushi the Fox in Townlong Steppes (Requires Revered)",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "River's Song",
+                    "spellID": 104442,
+                    "source": "Sold by Rushi the Fox in Townlong Steppes (Requires Revered)",
+                    "icon": "trade_engraving"
+                }
+            ]
+        },
+        {
+            "name": "Midsummer Fire Festival",
+            "recipes": [
+                {
+                    "name": "Deathfrost",
+                    "spellID": 46578,
+                    "source": "Looted from Ice Chest (Frost Lord Ahune)",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Winter Veil",
+            "recipes": [
+                {
+                    "name": "Winter's Might",
+                    "spellID": 21931,
+                    "source": "Looted from Smokywood Pastures Special Gift<br>Looted from Ticking Present",
+                    "icon": "spell_holy_greaterheal"
+                }
+            ]
+        },
+        {
+            "name": "Unavailable",
+            "recipes": [
+                {
+                    "name": "Advanced Herbalism",
+                    "spellID": 13868,
+                    "source": "Auction House",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Superior Impact",
+                    "spellID": 20030,
+                    "source": "Auction House",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Lifestealing",
+                    "spellID": 20032,
+                    "source": "Auction House",
+                    "icon": "spell_holy_greaterheal"
+                },
+                {
+                    "name": "Brilliant Wizard Oil",
+                    "spellID": 25129,
+                    "source": "Currently Unobtainable",
+                    "icon": "inv_potion_105"
+                },
+                {
+                    "name": "Brilliant Mana Oil",
+                    "spellID": 25130,
+                    "source": "Currently Unobtainable",
+                    "icon": "inv_potion_100"
+                }
+            ]
+        }
+    ]
+}
