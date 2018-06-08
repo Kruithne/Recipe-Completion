@@ -52,15 +52,26 @@ $(function() {
 		professionDisplay.empty();
 	};
 
-	var renderProfession = function(data, recipes) {
+	var markAsInvalid = function(elem) {
+		elem.append($('<div/>').addClass('nope'));
+	};
+
+	var renderProfession = function(data, recipes, character) {
 		var container = $('<div/>').addClass('profession').appendTo(professionDisplay);
 		var header = $('<h1/>').appendTo(container).text(data.name);
 		var progressBar = $('<div/>').addClass('profession-pct-bar').appendTo(container);
+
+		var isEngineering = data.name === 'Engineering';
+		var hasGoblinEngineering = false;
+		var hasGnomishEngineering = false;
 
 		for (var s = 0; s < data.sections.length; s++) {
 			var sectionData = data.sections[s];
 			var section = $('<div/>').addClass('profession-block').appendTo(container);
 			var sectionHeader = $('<h2>').text(sectionData.name).appendTo(section);
+
+			var isGoblinEngineering = isEngineering && sectionData.name === 'Goblin Engineering';
+			var isGnomishEngineering = isEngineering && sectionData.name === 'Gnomish Engineering';
 
 			for (var r = 0; r < sectionData.recipes.length; r++) {
 				var recipeData = sectionData.recipes[r];
@@ -72,17 +83,53 @@ $(function() {
 					});
 				})(recipe);
 
+				if (isGoblinEngineering)
+					recipe.addClass('goblin-engineering');
+				else if (isGnomishEngineering)
+					recipe.addClass('gnomish-engineering');
+
 				if ($.inArray(recipeData.spellID, recipes) > -1) {
 					recipe.addClass('known');
+
+					if (isGoblinEngineering)
+						hasGoblinEngineering = true;
+					else if (isGnomishEngineering)
+						hasGnomishEngineering = true;
 				} else {
 					recipe.addClass('unknown');
 				}
+
+				var isInvalid = false;
+				if (typeof(recipeData.faction) !== 'undefined' && recipeData.faction !== character.faction) {
+					// ToDo: Add invalid faction info to tooltip.
+					isInvalid = true;
+				}
+
+				if (typeof(recipeData.class) !== 'undefined' && $.inArray(character.class, recipeData.class) < 0) {
+					// ToDo: Add invalid class info to tooltip.
+					isInvalid = true;
+				}
+
+				if (recipeData.broken) {
+					// ToDo: Add broken notice to tooltip.
+					isInvalid = true;
+				}
+
+				if (isInvalid)
+					markAsInvalid(recipe);
 			}
+		}
+
+		if (isEngineering) {
+			if (hasGnomishEngineering)
+				$('.goblin-engineering').each(function() { markAsInvalid($(this)); });
+			else if (hasGoblinEngineering)
+				$('.gnomish-engineering').each(function() { markAsInvalid($(this)); });
 		}
 	};
 
 	var preparing = 0;
-	var prepareProfession = function(data) {
+	var prepareProfession = function(data, character) {
 		setPendingStatus('Obtaining profession data...');
 		preparing++;
 
@@ -92,7 +139,7 @@ $(function() {
 		}, function(res) {
 			// Render the profession if we have data for it.
 			if (res.error === false)
-				renderProfession(res.profession, data.recipes);
+				renderProfession(res.profession, data.recipes, character);
 
 			preparing--;
 
@@ -272,11 +319,11 @@ $(function() {
 
 				// Prepare primary professions..
 				for (var p = 0; p < professions.primary.length; p++)
-					prepareProfession(professions.primary[p]);
+					prepareProfession(professions.primary[p], data.character);
 
 				// Prepare secondary professions..
 				for (var s = 0; s < professions.secondary.length; s++)
-					prepareProfession(professions.secondary[s]);
+					prepareProfession(professions.secondary[s], data.character);
 			} else {
 				console.error(data.errorMessage);
 				setErrorStatus('Unable to retrieve character.');

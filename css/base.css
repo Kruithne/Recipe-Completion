@@ -212,3 +212,9 @@ body {
 	background-color: red;
 	opacity: 0.5;
 }
+
+.nope {
+	width: 36px;
+	height: 36px;
+	background: url(../images/nope.png) no-repeat center;
+}
