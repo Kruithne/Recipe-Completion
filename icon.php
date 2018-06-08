@@ -3,9 +3,13 @@
 
 	require_once(__DIR__ . '/lib/api.php');
 
+	if (isset($_SERVER['HTTP_IF_MODIFIED_SINCE'])) {
+		header('HTTP/1.1 304 Not Modified');
+		die();
+	}
+
 	$api = new API();
 	header('Content-type: image/jpeg');
-	header("Cache-Control: max-age=2592000");
 
 	$iconName = $_GET['id'];
 	if (is_string($iconName))
