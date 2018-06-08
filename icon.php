@@ -5,6 +5,7 @@
 
 	$api = new API();
 	header('Content-type: image/jpeg');
+	header("Cache-Control: max-age=2592000");
 
 	$iconName = $_GET['id'];
 	if (is_string($iconName))
