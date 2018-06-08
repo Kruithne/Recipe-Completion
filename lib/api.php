@@ -7,6 +7,8 @@
 	define('API_CONFIG_FILE', DATA_DIRECTORY . '/api.conf.json');
 	define('REGION_FILE',DATA_DIRECTORY . '/regions.json');
 	define('CHAR_DATA_DIR', DATA_DIRECTORY . '/characters/%s-%s');
+	define('PROF_DATA_DIR', DATA_DIRECTORY . '/professions');
+	define('PROF_DATA_FILE', PROF_DATA_DIR . '/%s.json');
 	define('CHAR_FILE', '%s/%s.json');
 
 	define('ENDPOINT_REALM', 'realm/status');
@@ -47,6 +49,12 @@
 		private $regions;
 
 		/**
+		 * Contains all available professions.
+		 * @var string[]
+		 */
+		private $professions;
+
+		/**
 		 * Private API key.
 		 * @var string
 		 */
@@ -77,6 +85,7 @@
 		public function __construct() {
 			$this->loadConfig();
 			$this->loadRegionData();
+			$this->loadProfessions();
 		}
 
 		/**
@@ -103,6 +112,14 @@
 		 */
 		public function getRegions() {
 			return $this->regions;
+		}
+
+		/**
+		 * Returns all available professions.
+		 * @return string[]
+		 */
+		public function getProfessions() {
+			return $this->professions;
 		}
 
 		/**
@@ -171,6 +188,30 @@
 		}
 
 		/**
+		/**
+		 * Obtain profession roster from the data files.
+		 * @param string $professionID
+		 * @return mixed
+		 * @throws APIException
+		 */
+		public function getProfession($professionID) {
+			$file = sprintf(PROF_DATA_FILE, $professionID);
+			if (!file_exists($file))
+				throw new APIException('Unable to locate profession file %s', $file);
+
+			return file_get_json($file);
+		}
+
+		/**
+		 * Persist changed profession data to disk.
+		 * @param string $professionID
+		 * @param object $data
+		 */
+		public function saveProfession($professionID, $data) {
+			file_put_json(sprintf(PROF_DATA_FILE, $professionID), $data);
+		}
+
+		/**
 		 * Performs basic validation on a character name.
 		 * @param string $characterName
 		 * @return bool
@@ -209,6 +250,18 @@
 
 			$realms = $this->getRealms(false);
 			return array_key_exists($realm, $realms);
+		}
+
+		/**
+		 * Verifies if a profession ID is valid.
+		 * @param string $professionID
+		 * @return bool
+		 */
+		public function isValidProfession($professionID) {
+			if (!is_string($professionID))
+				return false;
+
+			return in_array($professionID, $this->professions);
 		}
 
 		/**
@@ -274,5 +327,28 @@
 
 			// Default to first region in config.
 			$this->setRegion($this->regions[0]);
+		}
+
+		/**
+		 * Load profession data from file.
+		 * @throws APIException
+		 */
+		private function loadProfessions() {
+			if (!file_exists(PROF_DATA_DIR))
+				throw new APIException('Unable to locate profession data directory %s', PROF_DATA_DIR);
+
+			// Create an array to hold the profession names.
+			$this->professions = [];
+
+			// Grab a list of files in the directory.
+			foreach (scandir(PROF_DATA_DIR) as $file) {
+				// Skip over directory level entries.
+				if ($file === '.' || $file === '..')
+					continue;
+
+				// Only care for entries that end wit the .json suffix.
+				if (endsWith($file, '.json'))
+					array_push($this->professions, basename($file, '.json'));
+			}
 		}
 	}
