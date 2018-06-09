@@ -121,7 +121,7 @@ $(function() {
 					if (knownIndex === spellID.length - 1) {
 						// Player has all ranks of this recipe.
 						recipe.addClass('known');
-					} else if (knownIndex > 0) {
+					} else if (knownIndex >= 0) {
 						// Player has some ranks of this recipe.
 						recipe.addClass('incomplete');
 					} else {
