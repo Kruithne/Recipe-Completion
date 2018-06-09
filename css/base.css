@@ -197,12 +197,27 @@ body {
 }
 
 .profession-block .icon {
+	position: relative;
 	width: 36px;
 	height: 40px;
 	display: inline-block;
 	cursor: pointer;
+}
+
+.profession-block .icon .background {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	z-index: 1;
 	background-repeat: no-repeat;
 	background-image: url(../icon.php?id=inv_misc_questionmark);
+}
+
+.profession-block .icon.unknown .background {
+	opacity: 0.7;
 }
 
 .known {
@@ -211,13 +226,14 @@ body {
 
 .unknown {
 	background-color: red;
-	opacity: 0.5;
 }
 
 .nope {
 	width: 36px;
 	height: 36px;
 	background: url(../images/nope.png) no-repeat center;
+	position: absolute;
+	z-index: 2;
 }
 
 .tooltip {

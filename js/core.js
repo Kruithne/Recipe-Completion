@@ -76,14 +76,15 @@ $(function() {
 			for (var r = 0; r < sectionData.recipes.length; r++) {
 				var recipeData = sectionData.recipes[r];
 				var recipe = $('<div/>').addClass('icon').appendTo(section);
+				var background = $('<div/>').addClass('background').appendTo(recipe);
 
 				recipe.attr('data-tooltip', recipeData.name + '\n' + recipeData.source);
 
-				(function(r) {
+				(function(bg) {
 					loadImage('icon.php?id=' + recipeData.icon, function(url) {
-						r.css('background-image', 'url(' + url + ')');
+						bg.css('background-image', 'url(' + url + ')');
 					});
-				})(recipe);
+				})(background);
 
 				if (isGoblinEngineering)
 					recipe.addClass('goblin-engineering');
