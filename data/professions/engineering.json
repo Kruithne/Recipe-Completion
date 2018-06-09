@@ -2152,126 +2152,235 @@
             ]
         },
         {
-            "name": "Class Restricted (Paladin)",
+            "name": "Goggles",
             "recipes": [
                 {
                     "name": "Justicebringer 2000 Specs",
                     "spellID": 41311,
-                    "classes": [
-                        2
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Unbreakable Healing Amplifiers",
                     "spellID": 62271,
-                    "classes": [
-                        2
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Specialized Bio-Optic Killshades",
                     "spellID": 81715,
-                    "classes": [
-                        2
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Specialized Retinal Armor",
                     "spellID": 127122,
-                    "classes": [
-                        2
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Paladins",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Warriors, Paladins, Death Knights)",
-            "recipes": [
+                },
                 {
                     "name": "Furious Gizmatic Goggles",
                     "spellID": 40274,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Tankatronic Goggles",
                     "spellID": 41312,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Charged Titanium Specs",
                     "spellID": 56483,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Armored Titanium Goggles",
                     "spellID": 56480,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Mechanized Snow Goggles",
                     "spellID": 61483,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Reinforced Bio-Optic Killshades",
                     "spellID": 81714,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Reinforced Retinal Armor",
                     "spellID": 127123,
-                    "classes": [
-                        1,
-                        2,
-                        6
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Warriors, Paladins and Death Knights",
+                    "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
+                {
+                    "name": "Surestrike Goggles v2.0",
+                    "spellID": 41314,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Truesight Ice Blinders",
+                    "spellID": 56574,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 61482,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Deadly Bio-Optic Killshades",
+                    "spellID": 81716,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Deadly Retinal Armor",
+                    "spellID": 127120,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Gadgetstorm Goggles",
+                    "spellID": 41315,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Living Replicator Specs",
+                    "spellID": 41316,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Electroflux Sight Enhancers",
+                    "spellID": 56487,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Energized Bio-Optic Killshades",
+                    "spellID": 81720,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Energized Retinal Armor",
+                    "spellID": 127121,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Deathblow X11 Goggles",
+                    "spellID": 41317,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Weakness Spectralizers",
+                    "spellID": 56481,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 61481,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Agile Bio-Optic Killshades",
+                    "spellID": 81722,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Agile Retinal Armor",
+                    "spellID": 127118,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Wonderheal XT40 Shades",
+                    "spellID": 41318,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Magnified Moon Specs",
+                    "spellID": 41319,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Greensight Gogs",
+                    "spellID": 56486,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Camouflage Bio-Optic Killshades",
+                    "spellID": 81724,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_170"
+                },
+                {
+                    "name": "Camouflage Retinal Armor",
+                    "spellID": 127119,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                },
+                {
+                    "name": "Powerheal 4000 Lens",
+                    "spellID": 41321,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Destruction Holo-gogs",
+                    "spellID": 41320,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Mechanized Snow Goggles",
+                    "spellID": 56465,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Visage Liquification Goggles",
+                    "spellID": 56484,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Lightweight Bio-Optic Killshades",
+                    "spellID": 81725,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_gizmo_newgoggles"
+                },
+                {
+                    "name": "Lightweight Retinal Armor",
+                    "spellID": 127117,
+                    "source": "Taught by an Engineering Trainer",
+                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
+                }
+            ]
+        },
+        {
+            "name": "Goggles (Sunwell Plataeu)",
+            "recipes": [
                 {
                     "name": "Mayhem Projection Goggles",
                     "spellID": 46114,
@@ -2293,61 +2402,6 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Hunters, Shamans)",
-            "recipes": [
-                {
-                    "name": "Surestrike Goggles v2.0",
-                    "spellID": 41314,
-                    "classes": [
-                        3,
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Truesight Ice Blinders",
-                    "spellID": 56574,
-                    "classes": [
-                        3,
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Mechanized Snow Goggles",
-                    "spellID": 61482,
-                    "classes": [
-                        3,
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Deadly Bio-Optic Killshades",
-                    "spellID": 81716,
-                    "classes": [
-                        3,
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Deadly Retinal Armor",
-                    "spellID": 127120,
-                    "classes": [
-                        3,
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Hunters and Shamans",
-                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
                     "name": "Surestrike Goggles v3.0",
@@ -2358,56 +2412,6 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Shamans)",
-            "recipes": [
-                {
-                    "name": "Gadgetstorm Goggles",
-                    "spellID": 41315,
-                    "classes": [
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Living Replicator Specs",
-                    "spellID": 41316,
-                    "classes": [
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Electroflux Sight Enhancers",
-                    "spellID": 56487,
-                    "classes": [
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Energized Bio-Optic Killshades",
-                    "spellID": 81720,
-                    "classes": [
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Energized Retinal Armor",
-                    "spellID": 127121,
-                    "classes": [
-                        7
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Shamans",
-                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
                     "name": "Primal-Attuned Goggles",
@@ -2426,66 +2430,6 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Rogues, Monks, Druids)",
-            "recipes": [
-                {
-                    "name": "Deathblow X11 Goggles",
-                    "spellID": 41317,
-                    "classes": [
-                        4,
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Weakness Spectralizers",
-                    "spellID": 56481,
-                    "classes": [
-                        4,
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Mechanized Snow Goggles",
-                    "spellID": 61481,
-                    "classes": [
-                        4,
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Agile Bio-Optic Killshades",
-                    "spellID": 81722,
-                    "classes": [
-                        4,
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Agile Retinal Armor",
-                    "spellID": 127118,
-                    "classes": [
-                        4,
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Rogues, Monks and Druids",
-                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
                     "name": "Quad Deathblow X44 Goggles",
@@ -2497,12 +2441,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Druids)",
-            "recipes": [
+                },
                 {
                     "name": "Wonderheal XT68 Shades",
                     "spellID": 46106,
@@ -2520,75 +2459,6 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Monks, Druids)",
-            "recipes": [
-                {
-                    "name": "Wonderheal XT40 Shades",
-                    "spellID": 41318,
-                    "classes": [
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Magnified Moon Specs",
-                    "spellID": 41319,
-                    "classes": [
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Greensight Gogs",
-                    "spellID": 56486,
-                    "classes": [
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Camouflage Bio-Optic Killshades",
-                    "spellID": 81724,
-                    "classes": [
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
-                    "icon": "inv_helmet_170"
-                },
-                {
-                    "name": "Camouflage Retinal Armor",
-                    "spellID": 127119,
-                    "classes": [
-                        10,
-                        11
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Monks and Druids",
-                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Priests)",
-            "recipes": [
-                {
-                    "name": "Powerheal 4000 Lens",
-                    "spellID": 41321,
-                    "classes": [
-                        5
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Priests",
-                    "icon": "inv_gizmo_newgoggles"
                 },
                 {
                     "name": "Powerheal 9000 Lens",
@@ -2598,66 +2468,6 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Priests",
                     "icon": "inv_gizmo_newgoggles"
-                }
-            ]
-        },
-        {
-            "name": "Class Restricted (Priests, Mages, Warlocks)",
-            "recipes": [
-                {
-                    "name": "Destruction Holo-gogs",
-                    "spellID": 41320,
-                    "classes": [
-                        5,
-                        8,
-                        9
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Mechanized Snow Goggles",
-                    "spellID": 56465,
-                    "classes": [
-                        5,
-                        8,
-                        9
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Visage Liquification Goggles",
-                    "spellID": 56484,
-                    "classes": [
-                        5,
-                        8,
-                        9
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Lightweight Bio-Optic Killshades",
-                    "spellID": 81725,
-                    "classes": [
-                        5,
-                        8,
-                        9
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlock",
-                    "icon": "inv_gizmo_newgoggles"
-                },
-                {
-                    "name": "Lightweight Retinal Armor",
-                    "spellID": 127117,
-                    "classes": [
-                        5,
-                        8,
-                        9
-                    ],
-                    "source": "Taught by an Engineering Trainer\nOnly available to Priests, Mages and Warlocks",
-                    "icon": "inv_helmet_goggles_pandariatradeskill_d_01"
                 },
                 {
                     "name": "Annihilator Holo-Gogs",
