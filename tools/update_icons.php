@@ -12,7 +12,7 @@
 				if (!isset($recipe->icon)) {
 					printfln('Updating icon for %s', $recipe->name);
 
-					$recipeData = $api->getSpell($recipe->spellID);
+					$recipeData = $api->getSpell(is_array($recipe->spellID) ? $recipe->spellID[0] : $recipe->spellID);
 					$recipe->icon = $recipeData->icon;
 
 					$api->getIconImagePath($recipe->icon, true);

@@ -57,6 +57,10 @@ $(function() {
 		elem.append($('<div/>').addClass('nope'));
 	};
 
+	var recipeIsKnown = function(recipeID, recipes) {
+		return $.inArray(recipeID, recipes) > -1;
+	};
+
 	var renderProfession = function(data, recipes, character) {
 		var container = $('<div/>').addClass('profession').appendTo(professionDisplay);
 		var header = $('<h1/>').appendTo(container).text(data.name);
@@ -83,8 +87,7 @@ $(function() {
 				var recipeData = sectionData.recipes[r];
 				var recipe = $('<div/>').addClass('icon').appendTo(section);
 				var background = $('<div/>').addClass('background').appendTo(recipe);
-
-				recipe.attr('data-tooltip', recipeData.name + '\n' + recipeData.source);
+				var recipeWorth = 1;
 
 				(function(bg) {
 					loadImage('icon.php?id=' + recipeData.icon, function(url) {
@@ -97,16 +100,48 @@ $(function() {
 				else if (isGnomishEngineering)
 					recipe.addClass('gnomish-engineering');
 
-				if ($.inArray(recipeData.spellID, recipes) > -1) {
-					recipe.addClass('known');
-					totalObtainedCount++;
+				var spellID = recipeData.spellID;
+				if (Array.isArray(spellID)) {
+					var knownIndex = -1;
+					var sourceString = null;
 
-					if (isGoblinEngineering)
-						hasGoblinEngineering = true;
-					else if (isGnomishEngineering)
-						hasGnomishEngineering = true;
+					for (var i = spellID.length - 1; i > 0; i--) {
+						sourceString = recipeData.name + ' (Rank ' + (i + 1) + ')\n' + recipeData.source[i];
+
+						if (recipeIsKnown(spellID[i], recipes)) {
+							knownIndex = i;
+							break;
+						}
+					}
+
+					recipe.attr('data-tooltip', sourceString !== null ? sourceString : recipeData.name);
+					totalObtainedCount += knownIndex + 1;
+					recipeWorth = knownIndex + 1;
+
+					if (knownIndex === spellID.length - 1) {
+						// Player has all ranks of this recipe.
+						recipe.addClass('known');
+					} else if (knownIndex > 0) {
+						// Player has some ranks of this recipe.
+						recipe.addClass('incomplete');
+					} else {
+						// Player does not have any ranks of this recipe.
+						recipe.addClass('unknown');
+					}
 				} else {
-					recipe.addClass('unknown');
+					recipe.attr('data-tooltip', recipeData.name + '\n' + recipeData.source);
+
+					if (recipeIsKnown(spellID, recipes)) {
+						recipe.addClass('known');
+						totalObtainedCount++;
+
+						if (isGoblinEngineering)
+							hasGoblinEngineering = true;
+						else if (isGnomishEngineering)
+							hasGnomishEngineering = true;
+					} else {
+						recipe.addClass('unknown');
+					}
 				}
 
 				var isInvalid = false;
@@ -122,7 +157,7 @@ $(function() {
 				if (isInvalid)
 					markAsInvalid(recipe);
 				else
-					totalAvailableCount++;
+					totalAvailableCount += recipeWorth;
 			}
 		}
 

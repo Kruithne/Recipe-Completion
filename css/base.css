@@ -233,12 +233,16 @@ body {
 	background-image: url(../icon.php?id=inv_misc_questionmark);
 }
 
-.profession-block .icon.unknown .background {
+.profession-block .icon.unknown .background, .profession-block .icon.incomplete .background {
 	opacity: 0.7;
 }
 
 .known {
 	background-color: green;
+}
+
+.incomplete {
+	background-color: orange;
 }
 
 .unknown {
