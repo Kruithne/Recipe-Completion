@@ -671,12 +671,6 @@
                     "icon": "inv_misc_dust_02"
                 },
                 {
-                    "name": "Dust of Disappearance",
-                    "spellID": 92027,
-                    "source": "Taught by an Inscription Trainer",
-                    "icon": null
-                },
-                {
                     "name": "Celestial Ink",
                     "spellID": 111645,
                     "source": "Taught by an Inscription Trainer",
