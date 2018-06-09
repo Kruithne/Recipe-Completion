@@ -3,22 +3,30 @@
 
 	require_once(__DIR__ . '/lib/api.php');
 
-	if (isset($_SERVER['HTTP_IF_MODIFIED_SINCE'])) {
-		header('HTTP/1.1 304 Not Modified');
-		die();
-	}
-
-	header('Pragma: public');
-	header('Cache-Control: max-age=86400');
-	header('Expires: '. gmdate('D, d M Y H:i:s \G\M\T', time() + 86400));
-	header('Content-Type: image/png');
+	session_cache_limiter(false);
+	header('Cache-Control: private');
 
 	$api = new API();
+	$iconName = 'inv_misc_questionmark';
 
-	$iconName = $_GET['id'];
-	if (is_string($iconName))
-		$iconName = preg_replace('/[^a-z0-9_]/', '', strtolower($iconName));
-	else
-		$iconName = 'inv_misc_questionmark';
+	$inputIconName = $_GET['id'];
+	if (is_string($inputIconName)) {
+		$inputIconName = trim(preg_replace('/[^a-z0-9_]/', '', strtolower($inputIconName)));
+		if (strlen($inputIconName) > 0)
+			$iconName = $inputIconName;
+	}
 
-	echo $api->getIconImage($iconName);
+	$headers = apache_request_headers();
+	$icon = $api->getIconImagePath($iconName);
+	$iconModified = filemtime($icon);
+	$lastModifiedHeader = 'Last-Modified: ' . gmdate('D, d M Y H:i:s', $iconModified) . ' GMT';
+
+	if (isset($headers['If-Modified-Since']) && strtotime($headers['If-Modified-Since']) == $iconModified) {
+		header($lastModifiedHeader, true, 304);
+	} else {
+		header($lastModifiedHeader, true, 200);
+		header('Content-Length: ' . filesize($icon));
+		header('Content-Type: image/jpeg');
+
+		echo file_get_contents($icon);
+	}

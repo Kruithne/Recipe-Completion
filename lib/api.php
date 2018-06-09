@@ -201,29 +201,29 @@
 		}
 
 		/**
-		 * Obtain an icon file by ID.
+		 * Obtain the path to an icon file by ID.
 		 * @param string $iconID
 		 * @param bool $download If true, will download if not cached.
 		 * @return string
 		 */
-		public function getIconImage($iconID, $download = false) {
+		public function getIconImagePath($iconID, $download = false) {
 			$path = sprintf(ICON_FILE, $iconID);
 
 			// Use cached icon if available.
 			if (file_exists($path))
-				return file_get_contents($path);
+				return $path;
 
 			if ($download) {
 				// Download and save the icon from the region CDN.
 				$remote = file_get_contents(sprintf(ICON_URL, $this->getSelectedRegionID(), $iconID));
 				if ($remote !== false) {
 					file_put_contents($path, $remote);
-					return $remote;
+					return $path;
 				}
 			}
 
 			// Last resort, serve inv_misc_questionmark as a placeholder image.
-			return $this->getIconImage('inv_misc_questionmark', true);
+			return $this->getIconImagePath('inv_misc_questionmark', true);
 		}
 
 		/**

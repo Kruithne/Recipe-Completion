@@ -15,7 +15,7 @@
 					$recipeData = $api->getSpell($recipe->spellID);
 					$recipe->icon = $recipeData->icon;
 
-					$api->getIconImage($recipe->icon, true);
+					$api->getIconImagePath($recipe->icon, true);
 				}
 			}
 		}
