@@ -919,6 +919,136 @@
             ]
         },
         {
+            "name": "Legion Engineering",
+            "recipes": [
+                {
+                    "name": "Trigger",
+                    "spellID": 198981,
+                    "source": "Reward from Trigger Happy in Dalaran",
+                    "icon": "inv_robotpet"
+                },
+                {
+                    "name": "Blingtron's Circuit Design Tutorial",
+                    "spellID": 198980,
+                    "source": "Reward from Short Circuit in Dalaran",
+                    "icon": "inv_engineering_blingtronscircuitdesigntutorial"
+                },
+                {
+                    "name": "Gunshoes",
+                    "spellID": 198978,
+                    "source": "Reward from Going Out With a Bang in Azsuna",
+                    "icon": "inv_engineering_gunshoes"
+                },
+                {
+                    "name": "Intra-Dalaran Wormhole Generator",
+                    "spellID": 198979,
+                    "source": "Sold by Hobart Grapplehammer in Dalaran",
+                    "icon": "inv_engineering_intradalaranwormholegenerator"
+                },
+                {
+                    "name": "Sonic Environment Enhancer",
+                    "spellID": 200466,
+                    "source": "Reward from The Shell, You Say? in Azsuna",
+                    "icon": "inv_engineering_sonicenvironmentenhancer"
+                },
+                {
+                    "name": "Leystone Buoy",
+                    "spellID": 209645,
+                    "source": "Dropped by Bitterbrine monsters in Azsuna",
+                    "icon": "inv_engineering_leystonebuoy"
+                },
+                {
+                    "name": "Mecha-Bond Imprint Matrix",
+                    "spellID": 209646,
+                    "source": "Sold by Xur'ios in Dalaran",
+                    "icon": "inv_engineering_mechabondimprintmatrix"
+                },
+                {
+                    "name": "The Felic",
+                    "spellID": 209501,
+                    "source": "Dropped by Sael'orn and Fel Lord Betrug in Violet Hold",
+                    "icon": "inv_gizmo_felironcasing"
+                },
+                {
+                    "name": "Shockinator",
+                    "spellID": 209502,
+                    "source": "Dropped by storm dragons monsters in Stormheim",
+                    "icon": "spell_nature_stormreach"
+                },
+                {
+                    "name": "Rechargeable Reaves Battery",
+                    "spellID": 235775,
+                    "source": "Reward from Time for a Recharge in Dalaran",
+                    "icon": "inv_engineering_reavesbattery"
+                },
+                {
+                    "name": "Reaves Module: Bling Mode",
+                    "spellID": 198989,
+                    "source": "Reward from Oil Rags to Riches in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Failure Detection Mode",
+                    "spellID": 198985,
+                    "source": "Reward from Assault of Violet Hold: Cheating Death in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Fireworks Display Mode",
+                    "spellID": 198987,
+                    "source": "Reward from Here Comes the BOOM! in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Piloted Combat Mode",
+                    "spellID": 198990,
+                    "source": "Reward from It's On With Automatons in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Repair Mode",
+                    "spellID": 198984,
+                    "source": "Dropped by Latosius in Black Rook Hold",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Snack Distribution Mode",
+                    "spellID": 198988,
+                    "source": "Reward from Modular Modifications in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Wormhole Generator Mode",
+                    "spellID": 198983,
+                    "source": "Fished up in Legion zones",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Battery",
+                    "spellID": 198982,
+                    "source": "Reward from Always the Last Thing in Dalaran",
+                    "icon": "inv_engineering_reavesbattery"
+                }
+            ]
+        },
+        {
+            "name": "Argus",
+            "recipes": [
+                {
+                    "name": "Wormhole Generator: Argus",
+                    "spellID": 247744,
+                    "source": "Reward from Extraterrestrial Exploration in Mac'Aree",
+                    "icon": "spell_shadow_demoniccircleteleport"
+                },
+                {
+                    "name": "Gravitational Reduction Slippers",
+                    "spellID": 247717,
+                    "source": "Reward from A Harsh Mistress in Mac'Aree",
+                    "icon": "inv_engineering_gravitationalreductionslippers"
+                }
+            ]
+        },
+        {
             "name": "Gnomish Engineering",
             "recipes": [
                 {
