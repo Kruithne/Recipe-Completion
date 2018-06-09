@@ -4550,7 +4550,7 @@
                 {
                     "name": "Edge of Winter",
                     "spellID": 21913,
-                    "source": "Looted from Smokywood Pastures Special Gift<br\/>Looted from Ticking Present",
+                    "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "inv_axe_06"
                 }
             ]
