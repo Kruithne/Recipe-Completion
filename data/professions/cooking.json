@@ -283,6 +283,269 @@
             ]
         },
         {
+            "name": "Legion Cooking",
+            "recipes": [
+                {
+                    "name": "Spiced Falcosaur Omelet",
+                    "spellID": 230046,
+                    "source": "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens",
+                    "icon": "inv_misc_food_cooked_fishcake"
+                },
+                {
+                    "name": "Azshari Salad",
+                    "spellID": [
+                        201506,
+                        201535,
+                        201555
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_azsharisalad"
+                },
+                {
+                    "name": "Barracuda Mrglgagh",
+                    "spellID": [
+                        201502,
+                        201531,
+                        201551
+                    ],
+                    "source": [
+                        "Reward from Murlocs: The Next Generation in Highmountain",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_barracudamrglgagh"
+                },
+                {
+                    "name": "Bear Tartare",
+                    "spellID": [
+                        201513,
+                        201540,
+                        201560
+                    ],
+                    "source": [
+                        "Dropped by Mordvigbjorn in Stormheim",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_beartartare"
+                },
+                {
+                    "name": "Crispy Bacon",
+                    "spellID": [
+                        201683,
+                        201684,
+                        201685
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_baconcrispy"
+                },
+                {
+                    "name": "Deep-Fried Mossgill",
+                    "spellID": [
+                        201496,
+                        201525,
+                        201545
+                    ],
+                    "source": [
+                        "Reward from Shriek No More in Val'sharah",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_deepfriedmossgill"
+                },
+                {
+                    "name": "Dried Mackerel Strips",
+                    "spellID": [
+                        201512,
+                        201539,
+                        201559
+                    ],
+                    "source": [
+                        "Reward from Spicing Things Up in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_driedmackerelstrips"
+                },
+                {
+                    "name": "Drogbar-Style Salmon",
+                    "spellID": [
+                        201504,
+                        201533,
+                        201553
+                    ],
+                    "source": [
+                        "Dropped by drogbar in the Broken Isles",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_drogbarstylesalmon"
+                },
+                {
+                    "name": "Faronaar Fizz",
+                    "spellID": [
+                        201498,
+                        201527,
+                        201547
+                    ],
+                    "source": [
+                        "Reward from The Magister of Mixology in Azsuna",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_faronaarfizz"
+                },
+                {
+                    "name": "Fighter Chow",
+                    "spellID": [
+                        201514,
+                        201541,
+                        201561
+                    ],
+                    "source": [
+                        "Reward from Morale Booster in Azsuna",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_fighterchow"
+                },
+                {
+                    "name": "Fishbrul Special",
+                    "spellID": [
+                        201511,
+                        201538,
+                        201558
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_fishbrulspecial"
+                },
+                {
+                    "name": "Hearty Feast",
+                    "spellID": [
+                        201515,
+                        201542,
+                        201562
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_heartyfeast"
+                },
+                {
+                    "name": "Nightborne Delicacy Platter",
+                    "spellID": [
+                        201507,
+                        201536,
+                        201556
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_misc_food_legion_nightbornedelicacyplatter"
+                },
+                {
+                    "name": "Pickled Stormray",
+                    "spellID": [
+                        201497,
+                        201526,
+                        201546
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_pickledstormray"
+                },
+                {
+                    "name": "Salt and Pepper Shank",
+                    "spellID": [
+                        201413,
+                        201524,
+                        201544
+                    ],
+                    "source": [
+                        "Reward from I'm Not Lion in Highmountain",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_saltpeppershank"
+                },
+                {
+                    "name": "Seed-Battered Fish Plate",
+                    "spellID": [
+                        201508,
+                        201537,
+                        201557
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_seedbatteredfishplate"
+                },
+                {
+                    "name": "Spiced Rib Roast",
+                    "spellID": [
+                        201499,
+                        201528,
+                        201548
+                    ],
+                    "source": [
+                        "Reward from Time To Collect in Stormheim",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_spicedribroast"
+                },
+                {
+                    "name": "Suramar Surf and Turf",
+                    "spellID": [
+                        201501,
+                        201530,
+                        201550
+                    ],
+                    "source": [
+                        "Zone drop from Suramar",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_suramarsurfandturf"
+                },
+                {
+                    "name": "The Hungry Magister",
+                    "spellID": [
+                        201505,
+                        201534,
+                        201554
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_thehungrymagistar"
+                }
+            ]
+        },
+        {
             "name": "Alliance Vendors",
             "recipes": [
                 {
