@@ -1065,7 +1065,7 @@
                         199007
                     ],
                     "source": [
-                        "Sold by Marin Bladewing in Azsuna (Requires Honored)",
+                        "Sold by Marin Bladewing in Azsuna\nRequires Honored with The Wardens",
                         "Reward from 'Locke, Stock and Barrel in Azsuna",
                         "Reward from The Latest Fashion: Headguns! in Azsuna"
                     ],
@@ -1179,7 +1179,7 @@
                     "source": [
                         "Reward from The Latest Fashion: Headguns! in Azsuna",
                         "Reward from 'Locke, Stock and Barrel in Azsuna",
-                        "Sold by Marin Bladewing in Azsuna (Requires Honored)"
+                        "Sold by Marin Bladewing in Azsuna\nRequires Honored with The Wardens"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01"
                 },
@@ -1193,7 +1193,7 @@
                     "source": [
                         "Sold by Hobart Grapplehammer in Dalaran",
                         "Sold by Fargo Flintlocke in Azsuna",
-                        "Sold by Marin Bladewing in Azsuna (Requires Exalted)"
+                        "Sold by Marin Bladewing in Azsuna\nRequires Exalted with The Wardens"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01"
                 },
@@ -1207,7 +1207,7 @@
                     "source": [
                         "Sold by Hobart Grapplehammer in Dalaran",
                         "Sold by Fargo Flintlocke in Azsuna",
-                        "Sold by Marin Bladewing in Azsuna (Requires Exalted)"
+                        "Sold by Marin Bladewing in Azsuna\nRequires Exalted with The Wardens"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01"
                 },
