@@ -102,26 +102,29 @@ $(function() {
 
 				var spellID = recipeData.spellID;
 				if (Array.isArray(spellID)) {
-					var knownIndex = -1;
-					var sourceString = null;
+					//var knownIndex = -1;
+					//var sourceString = null;
 
-					for (var i = spellID.length - 1; i > 0; i--) {
+					var knownRanks = 0;
+					var sourceString = recipeData.name;
+
+					for (var i = 0; i < spellID.length; i++) {
 						sourceString = recipeData.name + ' (Rank ' + (i + 1) + ')\n' + recipeData.source[i];
 
 						if (recipeIsKnown(spellID[i], recipes)) {
-							knownIndex = i;
+							knownRanks = i + 1;
 							break;
 						}
 					}
 
 					recipe.attr('data-tooltip', sourceString !== null ? sourceString : recipeData.name);
-					totalObtainedCount += knownIndex + 1;
-					recipeWorth = knownIndex + 1;
+					totalObtainedCount += knownRanks;
+					recipeWorth = knownRanks;
 
-					if (knownIndex === spellID.length - 1) {
+					if (knownRanks === spellID.length) {
 						// Player has all ranks of this recipe.
 						recipe.addClass('known');
-					} else if (knownIndex >= 0) {
+					} else if (knownRanks > 0) {
 						// Player has some ranks of this recipe.
 						recipe.addClass('incomplete');
 					} else {
