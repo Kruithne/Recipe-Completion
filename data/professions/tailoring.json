@@ -3538,7 +3538,7 @@
                 {
                     "name": "Mycah's Botanical Bag",
                     "spellID": 50194,
-                    "source": "Sold by Mycah in Zangarmarsh",
+                    "source": "Sold by Mycah in Zangarmarsh\nRequires Revered with Sporeggar",
                     "icon": "inv_misc_bag_27"
                 }
             ]
@@ -3560,7 +3560,7 @@
                 {
                     "name": "Glacial Bag",
                     "spellID": 56005,
-                    "source": "Sold by Lillehoff in The Storm Peaks",
+                    "source": "Sold by Lillehoff in The Storm Peaks\nRequires Exalted with Sons of Hodir",
                     "icon": "inv_misc_bag_enchantedrunecloth"
                 }
             ]
