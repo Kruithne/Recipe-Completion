@@ -1706,133 +1706,133 @@
                 {
                     "name": "Flashing Carnelian",
                     "spellID": 73224,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormala"
                 },
                 {
                     "name": "Stormy Zephyrite",
                     "spellID": 73229,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal4a"
                 },
                 {
                     "name": "Subtle Alicite",
                     "spellID": 73231,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal6a"
                 },
                 {
                     "name": "Defender's Nightstone",
                     "spellID": 73242,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal2a"
                 },
                 {
                     "name": "Guardian's Nightstone",
                     "spellID": 73244,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal2a"
                 },
                 {
                     "name": "Purified Nightstone",
                     "spellID": 73245,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal2a"
                 },
                 {
                     "name": "Retaliating Nightstone",
                     "spellID": 73248,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal2a"
                 },
                 {
                     "name": "Polished Hessonite",
                     "spellID": 73258,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Deadly Hessonite",
                     "spellID": 73262,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Potent Hessonite",
                     "spellID": 73263,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Fierce Hessonite",
                     "spellID": 73264,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Deft Hessonite",
                     "spellID": 73265,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Fine Hessonite",
                     "spellID": 73269,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Keen Hessonite",
                     "spellID": 73271,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Regal Jasper",
                     "spellID": 73272,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
                     "name": "Nimble Jasper",
                     "spellID": 73273,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
                     "name": "Piercing Jasper",
                     "spellID": 73275,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
                     "name": "Steady Jasper",
                     "spellID": 73276,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
                     "name": "Forceful Jasper",
                     "spellID": 73277,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
                     "name": "Inscribed Hessonite",
                     "spellID": 73260,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal3a"
                 },
                 {
                     "name": "Lightning Jasper",
                     "spellID": 73278,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
                     "name": "Zen Jasper",
                     "spellID": 73280,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_misc_cutgemnormal5a"
                 },
                 {
@@ -1844,19 +1844,19 @@
                 {
                     "name": "Jeweler's Ruby Monocle",
                     "spellID": 73625,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_helmet_44"
                 },
                 {
                     "name": "Jeweler's Sapphire Monocle",
                     "spellID": 73626,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_helmet_44"
                 },
                 {
                     "name": "Jeweler's Amber Monocle",
                     "spellID": 73627,
-                    "source": "Drops in {0} zones and dungeons,Cataclysm",
+                    "source": "Drops in Cataclysm zones and dungeons",
                     "icon": "inv_helmet_44"
                 }
             ]
