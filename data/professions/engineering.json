@@ -1028,6 +1028,202 @@
                     "spellID": 198982,
                     "source": "Reward from Always the Last Thing in Dalaran",
                     "icon": "inv_engineering_reavesbattery"
+                },
+                {
+                    "name": "Auto-Hammer",
+                    "spellID": [
+                        198976,
+                        199003,
+                        199017
+                    ],
+                    "source": [
+                        "Reward from The Missing Pieces in Azsuna",
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Reward from Work Order: Auto-Hammer in Highmountain"
+                    ],
+                    "icon": "inv_engineering_autohammer"
+                },
+                {
+                    "name": "Blink-Trigger Headgun",
+                    "spellID": [
+                        198939,
+                        198991,
+                        199005
+                    ],
+                    "source": [
+                        "Reward from The Latest Fashion: Headguns! in Azsuna",
+                        "Reward from 'Locke, Stock and Barrel in Azsuna",
+                        "Reward from Work Order: Blink-Trigger Headgun in Azsuna"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Bolt-Action Headgun",
+                    "spellID": [
+                        198966,
+                        198993,
+                        199007
+                    ],
+                    "source": [
+                        "Sold by Marin Bladewing in Azsuna (Requires Honored)",
+                        "Reward from 'Locke, Stock and Barrel in Azsuna",
+                        "Reward from The Latest Fashion: Headguns! in Azsuna"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Deployable Bullet Dispenser",
+                    "spellID": [
+                        198972,
+                        198999,
+                        199013
+                    ],
+                    "source": [
+                        "Reward from In My Sights in Val'sharah",
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Reward from Work Order: Deployable Bullet Dispenser in Suramar"
+                    ],
+                    "icon": "inv_engineering_deployablebulletdispenser"
+                },
+                {
+                    "name": "Double-Barreled Cranial Cannon",
+                    "spellID": [
+                        198970,
+                        198997,
+                        199011
+                    ],
+                    "source": [
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Sold by Fargo Flintlocke in Azsuna",
+                        "Dropped by elite vrykul on the Broken Isles"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Failure Detection Pylon",
+                    "spellID": [
+                        198977,
+                        199004,
+                        199018
+                    ],
+                    "source": [
+                        "Reward from Going to Waste in Azsuna",
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Reward from Work Order: Failure Detection Pylon in Dalaran"
+                    ],
+                    "icon": "inv_engineering_failuredetectionpylon"
+                },
+                {
+                    "name": "Gunpack",
+                    "spellID": [
+                        198975,
+                        199002,
+                        199016
+                    ],
+                    "source": [
+                        "Reward from Keep Yer Powder Dry in Azsuna",
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Reward from Work Order: Gunpack in Stormheim"
+                    ],
+                    "icon": "inv_engineering_gunpack"
+                },
+                {
+                    "name": "Gunpowder Charge",
+                    "spellID": [
+                        198973,
+                        199000,
+                        199014
+                    ],
+                    "source": [
+                        "Reward from All Charged Up in Val'sharah",
+                        "Sold by The Widow in Dalaran Sewers",
+                        "Sold by The Widow in Dalaran Sewers"
+                    ],
+                    "icon": "inv_engineering_gunpowdercharge"
+                },
+                {
+                    "name": "Ironsight Cranial Cannon",
+                    "spellID": [
+                        198971,
+                        198998,
+                        199012
+                    ],
+                    "source": [
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Sold by Fargo Flintlocke in Azsuna",
+                        "Looted from Small Treasure Chest in Withered Army Training"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Pump-Action Bandage Gun",
+                    "spellID": [
+                        198974,
+                        199001,
+                        199015
+                    ],
+                    "source": [
+                        "Reward from Fire and Forget in Dalaran",
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Reward from Work Order: Pump-Action Bandage Gun in Val'sharah"
+                    ],
+                    "icon": "inv_engineering_pumpactionbandagegun"
+                },
+                {
+                    "name": "Reinforced Headgun",
+                    "spellID": [
+                        198967,
+                        198994,
+                        199008
+                    ],
+                    "source": [
+                        "Reward from The Latest Fashion: Headguns! in Azsuna",
+                        "Reward from 'Locke, Stock and Barrel in Azsuna",
+                        "Sold by Marin Bladewing in Azsuna (Requires Honored)"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Sawed-Off Cranial Cannon",
+                    "spellID": [
+                        198969,
+                        198996,
+                        199010
+                    ],
+                    "source": [
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Sold by Fargo Flintlocke in Azsuna",
+                        "Sold by Marin Bladewing in Azsuna (Requires Exalted)"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Semi-Automagic Cranial Cannon",
+                    "spellID": [
+                        198968,
+                        198995,
+                        199009
+                    ],
+                    "source": [
+                        "Sold by Hobart Grapplehammer in Dalaran",
+                        "Sold by Fargo Flintlocke in Azsuna",
+                        "Sold by Marin Bladewing in Azsuna (Requires Exalted)"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Tactical Headgun",
+                    "spellID": [
+                        198965,
+                        198992,
+                        199006
+                    ],
+                    "source": [
+                        "Reward from The Latest Fashion: Headguns! in Azsuna",
+                        "Reward from 'Locke, Stock and Barrel in Azsuna",
+                        "Dropped by Advisor Vandros in The Arcway"
+                    ],
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
                 }
             ]
         },
