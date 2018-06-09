@@ -110,20 +110,14 @@ $(function() {
 				}
 
 				var isInvalid = false;
-				if (typeof(recipeData.faction) !== 'undefined' && recipeData.faction !== character.faction) {
-					// ToDo: Add invalid faction info to tooltip.
+				if (typeof(recipeData.faction) !== 'undefined' && recipeData.faction !== character.faction)
 					isInvalid = true;
-				}
 
-				if (typeof(recipeData.classes) !== 'undefined' && $.inArray(character.class, recipeData.classes) < 0) {
-					// ToDo: Add invalid class info to tooltip.
+				if (typeof(recipeData.classes) !== 'undefined' && $.inArray(character.class, recipeData.classes) < 0)
 					isInvalid = true;
-				}
 
-				if (recipeData.broken) {
-					// ToDo: Add broken notice to tooltip.
+				if (recipeData.broken)
 					isInvalid = true;
-				}
 
 				if (isInvalid)
 					markAsInvalid(recipe);
