@@ -1150,10 +1150,10 @@
                     "icon": "inv_glyph_minorpriest"
                 },
                 {
-                  "name": "Glyph of Shadowy Friends",
-                  "spellID": 126800,
-                  "source": "Learnt by researching Blackfallow Ink",
-                  "icon": "inv_glyph_minorpriest"
+                    "name": "Glyph of Shadowy Friends",
+                    "spellID": 126800,
+                    "source": "Learnt by researching Blackfallow Ink",
+                    "icon": "inv_glyph_minorpriest"
                 }
             ]
         },
@@ -1234,9 +1234,7 @@
         },
         {
             "name": "Research: Warbinders Ink",
-            "recipes": [
-
-            ]
+            "recipes": []
         },
         {
             "name": "Secrets of Draenor Inscription",
