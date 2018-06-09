@@ -357,6 +357,7 @@ $(function() {
 		background.css('background-image', 'url(' + url + ')').fadeIn(1000);
 	});
 
-	// Pre-load the default icon for recipe displays.
+	// Pre-load the default/invalid icons.
 	loadImage('icon.php?id=inv_misc_questionmark', function() {});
+	loadImage('images/nope.png', function() {});
 });
