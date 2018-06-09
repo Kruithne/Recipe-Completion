@@ -61,10 +61,15 @@ $(function() {
 		var container = $('<div/>').addClass('profession').appendTo(professionDisplay);
 		var header = $('<h1/>').appendTo(container).text(data.name);
 		var progressBar = $('<div/>').addClass('profession-pct-bar').appendTo(container);
+		var progressBarInner = $('<div/>').addClass('inner').appendTo(progressBar);
+		var progressBarText = $('<div/>').addClass('shadow').appendTo(progressBar);
 
 		var isEngineering = data.name === 'Engineering';
 		var hasGoblinEngineering = false;
 		var hasGnomishEngineering = false;
+
+		var totalAvailableCount = 0;
+		var totalObtainedCount = 0;
 
 		for (var s = 0; s < data.sections.length; s++) {
 			var sectionData = data.sections[s];
@@ -94,6 +99,7 @@ $(function() {
 
 				if ($.inArray(recipeData.spellID, recipes) > -1) {
 					recipe.addClass('known');
+					totalObtainedCount++;
 
 					if (isGoblinEngineering)
 						hasGoblinEngineering = true;
@@ -121,15 +127,21 @@ $(function() {
 
 				if (isInvalid)
 					markAsInvalid(recipe);
+				else
+					totalAvailableCount++;
 			}
 		}
 
 		if (isEngineering) {
 			if (hasGnomishEngineering)
-				$('.goblin-engineering').each(function() { markAsInvalid($(this)); });
+				$('.goblin-engineering').each(function() { markAsInvalid($(this)); totalAvailableCount--; });
 			else if (hasGoblinEngineering)
-				$('.gnomish-engineering').each(function() { markAsInvalid($(this)); });
+				$('.gnomish-engineering').each(function() { markAsInvalid($(this)); totalAvailableCount--; });
 		}
+
+		var pct = (totalObtainedCount / totalAvailableCount) * 100;
+		progressBarText.text(totalObtainedCount + ' / ' + totalAvailableCount + ' (' + Math.floor(pct) + '%)');
+		progressBarInner.animate({ width: pct + '%' }, 500);
 	};
 
 	var preparing = 0;
