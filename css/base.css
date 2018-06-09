@@ -156,6 +156,7 @@ body {
 	bottom: 100px;
 	padding: 0 50px;
 	overflow-y: auto;
+	overflow-x: hidden;
 }
 
 .profession-pct-bar {
