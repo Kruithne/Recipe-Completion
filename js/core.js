@@ -1,7 +1,8 @@
 $(function() {
 	var loadImage = function(url, callback) {
 		$('<img/>').attr('src', url).one('load', function() {
-			callback(url);
+			if (typeof(callback) === 'function')
+				callback(url);
 		}).each(function() {
 			if (this.complete)
 				$(this).trigger('load');
@@ -358,6 +359,6 @@ $(function() {
 	});
 
 	// Pre-load the default/invalid icons.
-	loadImage('icon.php?id=inv_misc_questionmark', function() {});
-	loadImage('images/nope.png', function() {});
+	loadImage('icon.php?id=inv_misc_questionmark');
+	loadImage('images/nope.png');
 });
