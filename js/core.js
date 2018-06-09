@@ -75,7 +75,7 @@ $(function() {
 
 			for (var r = 0; r < sectionData.recipes.length; r++) {
 				var recipeData = sectionData.recipes[r];
-				var recipe = $('<div/>').addClass('icon tooltip').appendTo(section);
+				var recipe = $('<div/>').addClass('icon').appendTo(section);
 
 				recipe.attr('data-tooltip', recipeData.name + '\n' + recipeData.source);
 
@@ -244,9 +244,27 @@ $(function() {
 		hideRealmDropDown();
 	});
 
+	var doc = $(document);
+
 	// Listen for any clicks on .realm-option elements.
-	$(document).on('mouseenter click touchstart', '.realm-option', function() {
+	doc.on('mouseenter click touchstart', '.realm-option', function() {
 		selectOption($(this));
+	});
+
+	// Hook mouse events for recipe tooltips.
+	doc.on('mouseenter', '.profession-block .icon', function(e) {
+		var icon = $(this).addClass('tooltip');
+		var delta = e.clientX / document.body.clientWidth;
+
+		if (delta < 0.2)
+			icon.addClass('tooltip-right');
+		else if (delta > 0.8)
+			icon.addClass('tooltip-left');
+		else
+			icon.addClass('tooltip-top');
+	}).on('mouseleave', '.profession-block .icon', function() {
+		var icon = $(this);
+		icon.removeClass('tooltip tooltip-top tooltip-left tooltip-right');
 	});
 
 	// Setup attribute-driven external links.
