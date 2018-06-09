@@ -1477,6 +1477,303 @@
             ]
         },
         {
+            "name": "Legion Blacksmithing",
+            "recipes": [
+                {
+                    "name": "Demonsteel Bar",
+                    "spellID": 184442,
+                    "source": "Reward from The Art of Demonsteel in Highmountain",
+                    "icon": "inv_blacksmithing_70_demonsteelbar"
+                },
+                {
+                    "name": "Consecrated Spike",
+                    "spellID": 209498,
+                    "source": "Sold by Valdemar Stormseeker in Stormheim\nRequires Honored with Valarjar",
+                    "icon": "inv_weapon_shortblade_58"
+                },
+                {
+                    "name": "Flamespike",
+                    "spellID": 209499,
+                    "source": "Sold by Xur'ios in Dalaran",
+                    "icon": "spell_fire_flameblades"
+                },
+                {
+                    "name": "Gleaming Iron Spike",
+                    "spellID": 209497,
+                    "source": "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe",
+                    "icon": "inv_weapon_shortblade_84"
+                },
+                {
+                    "name": "Terrorspike",
+                    "spellID": 209496,
+                    "source": "Dropped by Helya in Maw of Souls (Heroic)",
+                    "icon": "inv_knife_1h_pvppandarias1_c_02"
+                },
+                {
+                    "name": "Demonsteel Stirrups",
+                    "spellID": 209564,
+                    "source": "World drop from The Broken Isles",
+                    "icon": "inv_blacksmith_demonsteelstirrups"
+                },
+                {
+                    "name": "Felslate Anchor",
+                    "spellID": 247700,
+                    "source": "Reward from Weigh Anchor in Dalaran",
+                    "icon": "ability_rogue_grapplinghook"
+                },
+                {
+                    "name": "Leystone Hoofplates",
+                    "spellID": 182999,
+                    "source": "Reward from Not Just Weapons and Armor in Dalaran",
+                    "icon": "inv_blacksmith_leystonehoofplates"
+                },
+                {
+                    "name": "Rethu's Incessant Courage",
+                    "spellID": 239415,
+                    "source": "Learnt from a Blacksmithing Trainer",
+                    "icon": "inv_plate_draenorcrafted_d_01buckle"
+                },
+                {
+                    "name": "Demonsteel Armguards",
+                    "spellID": [
+                        182944,
+                        182974,
+                        182982
+                    ],
+                    "source": [
+                        "Reward from Tribal Knowledge in Highmountain",
+                        "Reward from Demonsteel Armguards in Highmountain",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_bracer_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Boots",
+                    "spellID": [
+                        182950,
+                        182980,
+                        182988
+                    ],
+                    "source": [
+                        "Sold by Urael in Suramar",
+                        "Reward from Demonsteel Boots in Highmountain",
+                        "Sold by Valdemar Stormseeker in Stormheim\nRequires Exalted with Valarjar"
+                    ],
+                    "icon": "inv_boot_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Breastplate",
+                    "spellID": [
+                        182951,
+                        182981,
+                        182989
+                    ],
+                    "source": [
+                        "Sold by Urael in Surmar",
+                        "Reward from Demonsteel Breastplate in Highmountain",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_chest_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Gauntlets",
+                    "spellID": [
+                        182949,
+                        182979,
+                        182987
+                    ],
+                    "source": [
+                        "Sold by Urael in Surmar",
+                        "Reward from Demonsteel Gauntlets in Highmountain",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_glove_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Greaves",
+                    "spellID": [
+                        182947,
+                        182977,
+                        182985
+                    ],
+                    "source": [
+                        "Sold by Urael in Suramar",
+                        "Reward from Demonsteel Greaves in Highmountain",
+                        "Sold by Valdemar Stormseeker in Stormheim\nRequires Exalted with Valarjar"
+                    ],
+                    "icon": "inv_pant_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Helm",
+                    "spellID": [
+                        182948,
+                        182978,
+                        182986
+                    ],
+                    "source": [
+                        "Sold by Urael in Suramar",
+                        "Reward from Demonsteel Helm in Highmountain",
+                        "Sold by Valdemar Stormseeker in Stormheim"
+                    ],
+                    "icon": "inv_helm_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Pauldrons",
+                    "spellID": [
+                        182946,
+                        182976,
+                        182984
+                    ],
+                    "source": [
+                        "Sold by Urael in Suramar",
+                        "Reward from Demonsteel Pauldrons in Highmountain",
+                        "Earned by winning a rated battleground"
+                    ],
+                    "icon": "inv_shoulder_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Demonsteel Waistguard",
+                    "spellID": [
+                        182945,
+                        182975,
+                        182983
+                    ],
+                    "source": [
+                        "Sold by Urael in Suramar",
+                        "Reward from Demonsteel Waistguard in Highmountain",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers"
+                    ],
+                    "icon": "inv_belt_plate_legionendgame_c_01"
+                },
+                {
+                    "name": "Empyrial Breastplate",
+                    "spellID": [
+                        247710,
+                        247713,
+                        247714
+                    ],
+                    "source": [
+                        "Reward from Empyrial Strength on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Garothi Worldbreaker in Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_chest_plate_raidpaladinmythic_s_01"
+                },
+                {
+                    "name": "Leystone Armguards",
+                    "spellID": [
+                        182928,
+                        182962,
+                        182970
+                    ],
+                    "source": [
+                        "Reward from The Properties of Leystone in Dalaran",
+                        "Reward from Leystone's Potential in Suramar",
+                        "Reward from Work Order: Leystone Armguards in Val'sharah"
+                    ],
+                    "icon": "inv_bracer_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Boots",
+                    "spellID": [
+                        182934,
+                        182968,
+                        191928
+                    ],
+                    "source": [
+                        "Reward from Leysmithing Mastery in Dalaran",
+                        "Reward from Smith Under Fire in Suramar",
+                        "Reward from Work Order: Leystone Boots in Highmountain"
+                    ],
+                    "icon": "inv_boot_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Breastplate",
+                    "spellID": [
+                        182935,
+                        182969,
+                        182973
+                    ],
+                    "source": [
+                        "Reward from Hatecoil Hammerwork in Dalaran",
+                        "Reward from Advanced Quenching in Dalaran",
+                        "Reward from Work Order: Leystone Breastplate in Stormheim"
+                    ],
+                    "icon": "inv_chest_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Gauntlets",
+                    "spellID": [
+                        182933,
+                        182967,
+                        191930
+                    ],
+                    "source": [
+                        "Reward from Leysmithing Mastery in Dalaran",
+                        "Reward from Ironhorn Leysmithing in Highmountain",
+                        "Reward from Work Order: Leystone Gauntlets in Dalaran"
+                    ],
+                    "icon": "inv_glove_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Greaves",
+                    "spellID": [
+                        182931,
+                        182965,
+                        191931
+                    ],
+                    "source": [
+                        "Reward from Leysmithing Mastery in Dalaran",
+                        "Reward from Grayheft in Highmountain",
+                        "Reward from Work Order: Leystone Greaves in Azsuna"
+                    ],
+                    "icon": "inv_pant_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Helm",
+                    "spellID": [
+                        182932,
+                        182966,
+                        191929
+                    ],
+                    "source": [
+                        "Reward from Leysmithing Mastery",
+                        "Reward from Leystone Mastery in Highmountain",
+                        "Dropped by Odyn in Halls of Valor (Mythic)"
+                    ],
+                    "icon": "inv_helm_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Pauldrons",
+                    "spellID": [
+                        182930,
+                        182964,
+                        182972
+                    ],
+                    "source": [
+                        "Reward from Hatecoil Hammerwork in Dalaran",
+                        "Reward from Leystone Mastery in Highmountain",
+                        "Reward from Work Order: Leystone Pauldrons in Suramar"
+                    ],
+                    "icon": "inv_shoulder_plate_legionhonor_d_01"
+                },
+                {
+                    "name": "Leystone Waistguard",
+                    "spellID": [
+                        182929,
+                        182963,
+                        182971
+                    ],
+                    "source": [
+                        "Reward from The Properties of Leystone in Dalaran",
+                        "Reward from Between the Hammer... in Val'sharah",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers"
+                    ],
+                    "icon": "inv_belt_plate_legionhonor_d_01"
+                }
+            ]
+        },
+        {
             "name": "Pandaria Trainer",
             "recipes": [
                 {
