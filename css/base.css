@@ -240,7 +240,7 @@ body {
 	pointer-events: none;
 	content: attr(data-tooltip);
 	background: black;
-	border-radius: 2px;
+	border-radius: 5px;
 	right: 50%;
 	bottom: 100%;
 	margin-bottom: 6px;
