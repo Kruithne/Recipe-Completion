@@ -162,16 +162,15 @@ body {
 .profession-pct-bar {
 	background: green;
 	box-shadow: 0 0 10px black inset;
-	padding: 0 40px;
-	height: 50px;
-	border-radius: 10px;
+	height: 40px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	font-weight: bold;
 	color: white;
 	text-shadow: 1px 1px 5px black;
-	margin-bottom: 10px;
+	margin: 0 50px 10px;
+	border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .profession {
