@@ -2726,12 +2726,6 @@
                     "icon": "inv_helmet_03"
                 },
                 {
-                    "name": "Runic Breastplate",
-                    "spellID": 16731,
-                    "source": "Drops from Strashaz Myrmidon in Dustwallow Marsh",
-                    "icon": "inv_chest_plate11"
-                },
-                {
                     "name": "Runic Plate Leggings",
                     "spellID": 16732,
                     "source": "Sold by Dramm Riverhorn in Un'goro Crater",
@@ -4599,6 +4593,12 @@
                     "spellID": 16993,
                     "source": "Auction House",
                     "icon": "inv_hammer_04"
+                },
+                {
+                    "name": "Runic Breastplate",
+                    "spellID": 16731,
+                    "source": "Currently unobtainable",
+                    "icon": "inv_chest_plate11"
                 },
                 {
                     "name": "Ornate Mithril Pants",
