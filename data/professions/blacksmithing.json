@@ -3443,37 +3443,37 @@
                 {
                     "name": "Adamantite Sharpening Stone",
                     "spellID": 29656,
-                    "source": "Sold by Fedryen Swiftspear (Requires Honored) in {1}",
+                    "source": "Sold by Fedryen Swiftspear (Requires Honored) in Zangarmarsh",
                     "icon": "inv_stone_sharpeningstone_07"
                 },
                 {
                     "name": "Greater Rune of Warding",
                     "spellID": 32285,
-                    "source": "Sold by Fedryen Swiftspear (Requires Honored) in {1}",
+                    "source": "Sold by Fedryen Swiftspear (Requires Honored) in Zangarmarsh",
                     "icon": "inv_misc_rune_10"
                 },
                 {
                     "name": "Adamantite Weightstone",
                     "spellID": 34608,
-                    "source": "Sold by Fedryen Swiftspear (Requires Honored) in {1}",
+                    "source": "Sold by Fedryen Swiftspear (Requires Honored) in Zangarmarsh",
                     "icon": "inv_stone_weightstone_07"
                 },
                 {
                     "name": "Wildguard Breastplate",
                     "spellID": 38473,
-                    "source": "Sold by Fedryen Swiftspear (Requires Exalted) in {1}",
+                    "source": "Sold by Fedryen Swiftspear (Requires Exalted) in Zangarmarsh",
                     "icon": "inv_chest_plate07"
                 },
                 {
                     "name": "Wildguard Leggings",
                     "spellID": 38475,
-                    "source": "Sold by Fedryen Swiftspear (Requires Revered) in {1}",
+                    "source": "Sold by Fedryen Swiftspear (Requires Revered) in Zangarmarsh",
                     "icon": "inv_pants_plate_18"
                 },
                 {
                     "name": "Wildguard Helm",
                     "spellID": 38476,
-                    "source": "Sold by Fedryen Swiftspear (Requires Revered) in {1}",
+                    "source": "Sold by Fedryen Swiftspear (Requires Revered) in Zangarmarsh",
                     "icon": "inv_helmet_22"
                 }
             ]
