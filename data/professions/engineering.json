@@ -976,60 +976,6 @@
                     "icon": "spell_nature_stormreach"
                 },
                 {
-                    "name": "Rechargeable Reaves Battery",
-                    "spellID": 235775,
-                    "source": "Reward from Time for a Recharge in Dalaran",
-                    "icon": "inv_engineering_reavesbattery"
-                },
-                {
-                    "name": "Reaves Module: Bling Mode",
-                    "spellID": 198989,
-                    "source": "Reward from Oil Rags to Riches in Dalaran",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Module: Failure Detection Mode",
-                    "spellID": 198985,
-                    "source": "Reward from Assault of Violet Hold: Cheating Death in Dalaran",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Module: Fireworks Display Mode",
-                    "spellID": 198987,
-                    "source": "Reward from Here Comes the BOOM! in Dalaran",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Module: Piloted Combat Mode",
-                    "spellID": 198990,
-                    "source": "Reward from It's On With Automatons in Dalaran",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Module: Repair Mode",
-                    "spellID": 198984,
-                    "source": "Dropped by Latosius in Black Rook Hold",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Module: Snack Distribution Mode",
-                    "spellID": 198988,
-                    "source": "Reward from Modular Modifications in Dalaran",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Module: Wormhole Generator Mode",
-                    "spellID": 198983,
-                    "source": "Fished up in Legion zones",
-                    "icon": "inv_engineering_reavesmodule"
-                },
-                {
-                    "name": "Reaves Battery",
-                    "spellID": 198982,
-                    "source": "Reward from Always the Last Thing in Dalaran",
-                    "icon": "inv_engineering_reavesbattery"
-                },
-                {
                     "name": "Auto-Hammer",
                     "spellID": [
                         198976,
@@ -1224,6 +1170,65 @@
                         "Dropped by Advisor Vandros in The Arcway"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                }
+            ]
+        },
+        {
+            "name": "Reaves",
+            "recipes": [
+                {
+                    "name": "Rechargeable Reaves Battery",
+                    "spellID": 235775,
+                    "source": "Reward from Time for a Recharge in Dalaran",
+                    "icon": "inv_engineering_reavesbattery"
+                },
+                {
+                    "name": "Reaves Module: Bling Mode",
+                    "spellID": 198989,
+                    "source": "Reward from Oil Rags to Riches in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Failure Detection Mode",
+                    "spellID": 198985,
+                    "source": "Reward from Assault of Violet Hold: Cheating Death in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Fireworks Display Mode",
+                    "spellID": 198987,
+                    "source": "Reward from Here Comes the BOOM! in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Piloted Combat Mode",
+                    "spellID": 198990,
+                    "source": "Reward from It's On With Automatons in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Repair Mode",
+                    "spellID": 198984,
+                    "source": "Dropped by Latosius in Black Rook Hold",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Snack Distribution Mode",
+                    "spellID": 198988,
+                    "source": "Reward from Modular Modifications in Dalaran",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Module: Wormhole Generator Mode",
+                    "spellID": 198983,
+                    "source": "Fished up in Legion zones",
+                    "icon": "inv_engineering_reavesmodule"
+                },
+                {
+                    "name": "Reaves Battery",
+                    "spellID": 198982,
+                    "source": "Reward from Always the Last Thing in Dalaran",
+                    "icon": "inv_engineering_reavesbattery"
                 }
             ]
         },
