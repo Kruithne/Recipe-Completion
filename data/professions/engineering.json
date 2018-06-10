@@ -1245,6 +1245,35 @@
             ]
         },
         {
+            "name": "Sprocket Container",
+            "recipes": [
+                {
+                    "name": "Chain Skullblasters",
+                    "spellID": 235755,
+                    "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Heavy Skullblasters",
+                    "spellID": 235756,
+                    "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Rugged Skullblasters",
+                    "spellID": 235754,
+                    "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                },
+                {
+                    "name": "Tailored Skullblasters",
+                    "spellID": 235753,
+                    "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
+                    "icon": "inv_helm_goggles_legiontradeskill_d_01"
+                }
+            ]
+        },
+        {
             "name": "Gnomish Engineering",
             "recipes": [
                 {
