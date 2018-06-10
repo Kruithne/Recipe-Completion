@@ -1105,6 +1105,430 @@
             ]
         },
         {
+            "name": "Legion",
+            "recipes": [
+                {
+                    "name": "Binding of Agility",
+                    "spellID": [
+                        190878,
+                        191004,
+                        191021
+                    ],
+                    "source": [
+                        "Sold by Kharmeera in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Exalted with Dreamweavers"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Binding of Intellect",
+                    "spellID": [
+                        190879,
+                        191005,
+                        191022
+                    ],
+                    "source": [
+                        "Sold by Kharmeera in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Binding of Strength",
+                    "spellID": [
+                        190877,
+                        191003,
+                        191020
+                    ],
+                    "source": [
+                        "Sold by Kharmeera in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Dropped by Cordana Felsong in Vault of the Wardens (Mythic)"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Agility",
+                    "spellID": [
+                        190875,
+                        191001,
+                        191018
+                    ],
+                    "source": [
+                        "Reward from Cloaked in Tradition in Highmountain",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Reward from Work Order: Word of Agility in Val'sharah"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Intellect",
+                    "spellID": [
+                        190876,
+                        191002,
+                        191019
+                    ],
+                    "source": [
+                        "Reward from Cloaked in Tradition in Highmountain",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Reward from Work Order: Word of Intellect in Dalaran"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Strength",
+                    "spellID": [
+                        190874,
+                        191000,
+                        191017
+                    ],
+                    "source": [
+                        "Reward from Cloaked in Tradition in Highmountain",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Reward from Work Order: Word of Strength in Highmountain"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Ancient Priestess",
+                    "spellID": [
+                        228408,
+                        228409,
+                        228410
+                    ],
+                    "source": [
+                        "Reward from The Absent Priestess in Azsuna",
+                        "Dropped by Wrath of Azshara in Eye of Azshara",
+                        "World drop from creatures\/treasures on Broken Isles"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Mark of the Claw",
+                    "spellID": [
+                        190892,
+                        191006,
+                        191023
+                    ],
+                    "source": [
+                        "Reward from The Druid's Debt in Azsuna",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Exalted with Dreamweavers",
+                        "World drop from creatures\/treasures on Broken Isles"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Mark of the Deadly",
+                    "spellID": [
+                        235698,
+                        235702,
+                        235706
+                    ],
+                    "source": [
+                        "Sold by Enchantress Ilanya in Azsuna",
+                        "Zone drop from creatures in Val'sharah",
+                        "Emissary reward from Dreamweavers"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Mark of the Distant Army",
+                    "spellID": [
+                        190893,
+                        191007,
+                        191024
+                    ],
+                    "source": [
+                        "Reward from Sentinel's Final Duty in Azsuna",
+                        "Dropped by Advisor Melandrus in Court of Stars",
+                        "Dropped by Renferal in The Emerald Nightmare"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Heavy Hide",
+                    "spellID": [
+                        228402,
+                        228403,
+                        228404
+                    ],
+                    "source": [
+                        "Reward from The Druid's Debt in Azsuna",
+                        "World drop from bears on Broken Isles",
+                        "Dropped by Ursoc in The Emerald Nightmare"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Mark of the Hidden Satyr",
+                    "spellID": [
+                        190894,
+                        191008,
+                        191025
+                    ],
+                    "source": [
+                        "Reward from The Absent Priestess in Azsuna",
+                        "Dropped by Shade of Xavius in Darkheart Thicket",
+                        "Dropped by Xavius in The Emerald Nightmare"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Master",
+                    "spellID": [
+                        235695,
+                        235699,
+                        235703
+                    ],
+                    "source": [
+                        "Sold by Enchantress Ilanya in Azsuna",
+                        "Zone drop from creatures in Stormheim",
+                        "Emissary reward from The Valarjar"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Mark of the Quick",
+                    "spellID": [
+                        235697,
+                        235701,
+                        235705
+                    ],
+                    "source": [
+                        "Sold by Enchantress Ilanya in Azsuna",
+                        "Zone drop from creatures in Azsuna",
+                        "Emissary reward from The Court of Farondis"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Mark of the Trained Soldier",
+                    "spellID": [
+                        228405,
+                        228406,
+                        228407
+                    ],
+                    "source": [
+                        "Reward from Sentinel's Final Duty in Azsuna",
+                        "World drop from humanoid creatures on Broken Isles",
+                        "World drop from creatures on Broken Isles"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Mark of the Versatile",
+                    "spellID": [
+                        235696,
+                        235700,
+                        235704
+                    ],
+                    "source": [
+                        "Sold by Enchantress Ilanya in Azsuna",
+                        "Zone drop from creatures in Highmountain",
+                        "Emissary reward from Highmountain Tribes"
+                    ],
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Binding of Critical Strike",
+                    "spellID": [
+                        190870,
+                        190996,
+                        191013
+                    ],
+                    "source": [
+                        "Reward from Down to the Core in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Binding of Haste",
+                    "spellID": [
+                        190871,
+                        190997,
+                        191014
+                    ],
+                    "source": [
+                        "Reward from Down to the Core in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Exalted with Dreamweavers"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Binding of Mastery",
+                    "spellID": [
+                        190872,
+                        190998,
+                        191015
+                    ],
+                    "source": [
+                        "Reward from Down to the Core in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Binding of Versatility",
+                    "spellID": [
+                        190873,
+                        190999,
+                        191016
+                    ],
+                    "source": [
+                        "Reward from Down to the Core in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Critical Strike",
+                    "spellID": [
+                        190866,
+                        190992,
+                        191009
+                    ],
+                    "source": [
+                        "Reward from Ringing True in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Reward from Work Order: Word of Critical Strike in Azsuna"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Haste",
+                    "spellID": [
+                        190867,
+                        190993,
+                        191010
+                    ],
+                    "source": [
+                        "Reward from Ringing True in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Reward from Work Order: Word of Haste in Suramar"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Mastery",
+                    "spellID": [
+                        190868,
+                        190994,
+                        191011
+                    ],
+                    "source": [
+                        "Reward from Ringing True in Azsuna",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Reward from Work Order: Word of Mastery in Suramar"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Word of Versatility",
+                    "spellID": [
+                        190869,
+                        190995,
+                        191012
+                    ],
+                    "source": [
+                        "Reward from The Last Few in Dalaran",
+                        "Sold by Ildine Sorrowspear in Dalaran",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Honored with Dreamweavers"
+                    ],
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gloves: Legion Herbalism",
+                    "spellID": 190988,
+                    "source": "Sold by Tigrid the Charmer in Stormheim",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gloves: Legion Mining",
+                    "spellID": 190989,
+                    "source": "Sold by Tigrid the Charmer in Stormheim",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gloves: Legion Skinning",
+                    "spellID": 190990,
+                    "source": "Sold by Tigrid the Charmer in Stormheim",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Gloves: Legion Surveying",
+                    "spellID": 190991,
+                    "source": "Sold by Tigrid the Charmer in Stormheim",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Immaculate Fibril",
+                    "spellID": 209509,
+                    "source": "World drop from creatures on Broken Isles",
+                    "icon": "inv_enchanting_wod_essence3"
+                },
+                {
+                    "name": "Soul Fibril",
+                    "spellID": 209507,
+                    "source": "Sold by Xur'ios in Dalaran",
+                    "icon": "inv_rod_enchantedeternium"
+                },
+                {
+                    "name": "Boon of the Scavenger",
+                    "spellID": 190954,
+                    "source": "Reward from The Glamour Has Faded in Val'sharah",
+                    "icon": "trade_engraving"
+                },
+                {
+                    "name": "Chaos Shatter",
+                    "spellID": 252106,
+                    "source": "Sold by Toraan the Revered on Argus",
+                    "icon": "inv_enchanting_70_leylightcrystal"
+                },
+                {
+                    "name": "Ley Shatter",
+                    "spellID": 224199,
+                    "source": "Sold by Ildine Sorrowspear in Dalaran",
+                    "icon": "inv_enchanting_70_arkhana"
+                }
+            ]
+        },
+        {
+            "name": "Pets \/ Toys",
+            "recipes": [
+                {
+                    "name": "Enchanted Cauldron",
+                    "spellID": 191074,
+                    "source": "Sold by Tigrid the Charmer in Stormheim",
+                    "icon": "inv_enchanting_70_pet_cauldron"
+                },
+                {
+                    "name": "Enchanted Torch",
+                    "spellID": 191075,
+                    "source": "Sold by Tigrid the Charmer in Stormheim",
+                    "icon": "inv_enchanting_70_pet_torch"
+                },
+                {
+                    "name": "Enchanted Pen",
+                    "spellID": 191076,
+                    "source": "Reward from Revenge of Enchantress in Stormheim",
+                    "icon": "inv_enchanting_70_pet_pen"
+                },
+                {
+                    "name": "Leylight Brazier",
+                    "spellID": 191078,
+                    "source": "Sold by K'huta in Dalaran Sewers",
+                    "icon": "spell_fire_twilightfire"
+                }
+            ]
+        },
+        {
             "name": "Illusions",
             "recipes": [
                 {
