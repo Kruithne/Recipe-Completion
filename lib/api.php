@@ -202,9 +202,10 @@
 
 		/**
 		 * Obtain the path to an icon file by ID.
+		 * Returns null if the icon cannot be found.
 		 * @param string $iconID
 		 * @param bool $download If true, will download if not cached.
-		 * @return string
+		 * @return string|null
 		 */
 		public function getIconImagePath($iconID, $download = false) {
 			$path = sprintf(ICON_FILE, $iconID);
@@ -222,8 +223,7 @@
 				}
 			}
 
-			// Last resort, serve inv_misc_questionmark as a placeholder image.
-			return $this->getIconImagePath('inv_misc_questionmark', true);
+			return null;
 		}
 
 		/**

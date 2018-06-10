@@ -1,5 +1,6 @@
 {
     "name": "Inscription",
+    "image": "inscription-icons.jpg",
     "sections": [
         {
             "name": "Trainer",
@@ -8,907 +9,1058 @@
                     "name": "Scroll of Stamina",
                     "spellID": 45382,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Intellect",
                     "spellID": 48114,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit",
                     "spellID": 48116,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Mysterious Tarot",
                     "spellID": 48247,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Scroll of Recall",
                     "spellID": 48248,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_15"
+                    "icon": "inv_scroll_15",
+                    "iconIndex": 3
                 },
                 {
                     "name": "Scroll of Intellect II",
                     "spellID": 50598,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Intellect III",
                     "spellID": 50599,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Intellect IV",
                     "spellID": 50600,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Intellect V",
                     "spellID": 50601,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Intellect VI",
                     "spellID": 50602,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Intellect VII",
                     "spellID": 50603,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Intellect VIII",
                     "spellID": 50604,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit II",
                     "spellID": 50605,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit III",
                     "spellID": 50606,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit IV",
                     "spellID": 50607,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit V",
                     "spellID": 50608,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit VI",
                     "spellID": 50609,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit VII",
                     "spellID": 50610,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Spirit VIII",
                     "spellID": 50611,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Stamina II",
                     "spellID": 50612,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Stamina III",
                     "spellID": 50614,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Stamina IV",
                     "spellID": 50616,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Stamina V",
                     "spellID": 50617,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Stamina VI",
                     "spellID": 50618,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Stamina VII",
                     "spellID": 50619,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Stamina VIII",
                     "spellID": 50620,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Enchanting Vellum",
                     "spellID": 52739,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_armorscroll01"
+                    "icon": "inv_inscription_armorscroll01",
+                    "iconIndex": 4
                 },
                 {
                     "name": "Moonglow Ink",
                     "spellID": 52843,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkwhite02"
+                    "icon": "inv_inscription_inkwhite02",
+                    "iconIndex": 5
                 },
                 {
                     "name": "Moonglow Ink",
                     "spellID": 53462,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkblack01"
+                    "icon": "inv_inscription_inkblack01",
+                    "iconIndex": 6
                 },
                 {
                     "name": "Hunter's Ink",
                     "spellID": 57703,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkgreen02"
+                    "icon": "inv_inscription_inkgreen02",
+                    "iconIndex": 7
                 },
                 {
                     "name": "Lion's Ink",
                     "spellID": 57704,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkyellow02"
+                    "icon": "inv_inscription_inkyellow02",
+                    "iconIndex": 8
                 },
                 {
                     "name": "Dawnstar Ink",
                     "spellID": 57706,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkyellow04"
+                    "icon": "inv_inscription_inkyellow04",
+                    "iconIndex": 9
                 },
                 {
                     "name": "Jadefire Ink",
                     "spellID": 57707,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkgreen03"
+                    "icon": "inv_inscription_inkgreen03",
+                    "iconIndex": 10
                 },
                 {
                     "name": "Royal Ink",
                     "spellID": 57708,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkpurple04"
+                    "icon": "inv_inscription_inkpurple04",
+                    "iconIndex": 11
                 },
                 {
                     "name": "Celestial Ink",
                     "spellID": 57709,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkpurple03"
+                    "icon": "inv_inscription_inkpurple03",
+                    "iconIndex": 12
                 },
                 {
                     "name": "Fiery Ink",
                     "spellID": 57710,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkred01"
+                    "icon": "inv_inscription_inkred01",
+                    "iconIndex": 13
                 },
                 {
                     "name": "Shimmering Ink",
                     "spellID": 57711,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inksilver01"
+                    "icon": "inv_inscription_inksilver01",
+                    "iconIndex": 14
                 },
                 {
                     "name": "Ink of the Sky",
                     "spellID": 57712,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkbluewhite03"
+                    "icon": "inv_inscription_inkbluewhite03",
+                    "iconIndex": 15
                 },
                 {
                     "name": "Ethereal Ink",
                     "spellID": 57713,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkblack02"
+                    "icon": "inv_inscription_inkblack02",
+                    "iconIndex": 16
                 },
                 {
                     "name": "Darkflame Ink",
                     "spellID": 57714,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkblack04"
+                    "icon": "inv_inscription_inkblack04",
+                    "iconIndex": 17
                 },
                 {
                     "name": "Ink of the Sea",
                     "spellID": 57715,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkpurple01"
+                    "icon": "inv_inscription_inkpurple01",
+                    "iconIndex": 18
                 },
                 {
                     "name": "Snowfall Ink",
                     "spellID": 57716,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkbluewhite01"
+                    "icon": "inv_inscription_inkbluewhite01",
+                    "iconIndex": 19
                 },
                 {
                     "name": "Scroll of Agility",
                     "spellID": 58472,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility II",
                     "spellID": 58473,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility III",
                     "spellID": 58476,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility IV",
                     "spellID": 58478,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility V",
                     "spellID": 58480,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility VI",
                     "spellID": 58481,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility VII",
                     "spellID": 58482,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility VIII",
                     "spellID": 58483,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength",
                     "spellID": 58484,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength II",
                     "spellID": 58485,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength III",
                     "spellID": 58486,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength IV",
                     "spellID": 58487,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength V",
                     "spellID": 58488,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength VI",
                     "spellID": 58489,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength VII",
                     "spellID": 58490,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Strength VIII",
                     "spellID": 58491,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Mystic Tome",
                     "spellID": 58565,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_11"
+                    "icon": "inv_misc_book_11",
+                    "iconIndex": 21
                 },
                 {
                     "name": "Certificate of Ownership",
                     "spellID": 59387,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_11"
+                    "icon": "inv_scroll_11",
+                    "iconIndex": 22
                 },
                 {
                     "name": "Book of Survival",
                     "spellID": 59478,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_01"
+                    "icon": "inv_misc_book_01",
+                    "iconIndex": 23
                 },
                 {
                     "name": "Tome of the Dawn",
                     "spellID": 59475,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_07"
+                    "icon": "inv_misc_book_07",
+                    "iconIndex": 24
                 },
                 {
                     "name": "Strange Tarot",
                     "spellID": 59480,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Tome of Kings",
                     "spellID": 59484,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_11"
+                    "icon": "inv_misc_book_11",
+                    "iconIndex": 21
                 },
                 {
                     "name": "Royal Guide of Escape Routes",
                     "spellID": 59486,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_09"
+                    "icon": "inv_misc_book_09",
+                    "iconIndex": 25
                 },
                 {
                     "name": "Arcane Tarot",
                     "spellID": 59487,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Fire Eater's Guide",
                     "spellID": 59489,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_10"
+                    "icon": "inv_misc_book_10",
+                    "iconIndex": 26
                 },
                 {
                     "name": "Book of Stars",
                     "spellID": 59490,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_05"
+                    "icon": "inv_misc_book_05",
+                    "iconIndex": 27
                 },
                 {
                     "name": "Shadowy Tarot",
                     "spellID": 59491,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Stormbound Tome",
                     "spellID": 59493,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_05"
+                    "icon": "inv_misc_book_05",
+                    "iconIndex": 27
                 },
                 {
                     "name": "Manual of Clouds",
                     "spellID": 59494,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_08"
+                    "icon": "inv_misc_book_08",
+                    "iconIndex": 28
                 },
                 {
                     "name": "Hellfire Tome",
                     "spellID": 59495,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_10"
+                    "icon": "inv_misc_book_10",
+                    "iconIndex": 26
                 },
                 {
                     "name": "Book of Clever Tricks",
                     "spellID": 59496,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_07"
+                    "icon": "inv_misc_book_07",
+                    "iconIndex": 24
                 },
                 {
                     "name": "Iron-bound Tome",
                     "spellID": 59497,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_09"
+                    "icon": "inv_misc_book_09",
+                    "iconIndex": 25
                 },
                 {
                     "name": "Faces of Doom",
                     "spellID": 59498,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_09"
+                    "icon": "inv_misc_book_09",
+                    "iconIndex": 25
                 },
                 {
                     "name": "Darkmoon Card",
                     "spellID": 59502,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Greater Darkmoon Card",
                     "spellID": 59503,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Darkmoon Card of the North",
                     "spellID": 59504,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Scroll of Recall II",
                     "spellID": 60336,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_12"
+                    "icon": "inv_scroll_12",
+                    "iconIndex": 29
                 },
                 {
                     "name": "Scroll of Recall III",
                     "spellID": 60337,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_16"
+                    "icon": "inv_scroll_16",
+                    "iconIndex": 30
                 },
                 {
                     "name": "Master's Inscription of the Crag",
                     "spellID": 61118,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Master's Inscription of the Axe",
                     "spellID": 61117,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Master's Inscription of the Pinnacle",
                     "spellID": 61119,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Master's Inscription of the Storm",
                     "spellID": 61120,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Twilight Tome",
                     "spellID": 64053,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_11"
+                    "icon": "inv_misc_book_11",
+                    "iconIndex": 21
                 },
                 {
                     "name": "Runescroll of Fortitude",
                     "spellID": 69385,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_scroll_fortitude"
+                    "icon": "inv_inscription_scroll_fortitude",
+                    "iconIndex": 32
                 },
                 {
                     "name": "Runescroll of Fortitude II",
                     "spellID": 85785,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_scroll_fortitude"
+                    "icon": "inv_inscription_scroll_fortitude",
+                    "iconIndex": 32
                 },
                 {
                     "name": "Blackfallow Ink",
                     "spellID": 86004,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkblack03"
+                    "icon": "inv_inscription_inkblack03",
+                    "iconIndex": 33
                 },
                 {
                     "name": "Inferno Ink",
                     "spellID": 86005,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_inkred03"
+                    "icon": "inv_inscription_inkred03",
+                    "iconIndex": 34
                 },
                 {
                     "name": "Swiftsteel Inscription",
                     "spellID": 86375,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Lionsmane Inscription",
                     "spellID": 86401,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Inscription of the Earth Prince",
                     "spellID": 86402,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Felfire Inscription",
                     "spellID": 86403,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Mysterious Fortune Card",
                     "spellID": 86609,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_stack_01"
+                    "icon": "inv_misc_ticket_tarot_stack_01",
+                    "iconIndex": 35
                 },
                 {
                     "name": "Darkmoon Card of Destruction",
                     "spellID": 86615,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_ticket_tarot_furies"
+                    "icon": "inv_misc_ticket_tarot_furies",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Book of Blood",
                     "spellID": 86616,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_05"
+                    "icon": "inv_misc_book_05",
+                    "iconIndex": 27
                 },
                 {
                     "name": "Lord Rottington's Pressed Wisp Book",
                     "spellID": 86640,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_11"
+                    "icon": "inv_misc_book_11",
+                    "iconIndex": 21
                 },
                 {
                     "name": "Dungeoneering Guide",
                     "spellID": 86641,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_17"
+                    "icon": "inv_misc_book_17",
+                    "iconIndex": 36
                 },
                 {
                     "name": "Battle Tome",
                     "spellID": 86643,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_18"
+                    "icon": "inv_misc_book_18",
+                    "iconIndex": 37
                 },
                 {
                     "name": "Divine Companion",
                     "spellID": 86642,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_book_16"
+                    "icon": "inv_misc_book_16",
+                    "iconIndex": 38
                 },
                 {
                     "name": "Runed Staff",
                     "spellID": 86649,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_goldfeathered_01"
+                    "icon": "inv_staff_goldfeathered_01",
+                    "iconIndex": 39
                 },
                 {
                     "name": "Key to the Planes",
                     "spellID": 86648,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_key_07"
+                    "icon": "inv_misc_key_07",
+                    "iconIndex": 40
                 },
                 {
                     "name": "Rosethorn Staff",
                     "spellID": 86652,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_113"
+                    "icon": "inv_staff_113",
+                    "iconIndex": 41
                 },
                 {
                     "name": "Silver Inlaid Staff",
                     "spellID": 86653,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_goldfeathered_01"
+                    "icon": "inv_staff_goldfeathered_01",
+                    "iconIndex": 39
                 },
                 {
                     "name": "Scroll of Intellect IX",
                     "spellID": 89368,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Strength IX",
                     "spellID": 89369,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Agility IX",
                     "spellID": 89370,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_02"
+                    "icon": "inv_scroll_02",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Scroll of Spirit IX",
                     "spellID": 89371,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_01"
+                    "icon": "inv_scroll_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Scroll of Stamina IX",
                     "spellID": 89372,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Scroll of Protection IX",
                     "spellID": 89373,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_scroll_07"
+                    "icon": "inv_scroll_07",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Vanishing Powder",
                     "spellID": 92026,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_dust_02"
+                    "icon": "inv_misc_dust_02",
+                    "iconIndex": 42
                 },
                 {
                     "name": "Celestial Ink",
                     "spellID": 111645,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_ink_dreams"
+                    "icon": "inv_inscription_ink_dreams",
+                    "iconIndex": 43
                 },
                 {
                     "name": "Starlight Ink",
                     "spellID": 111646,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_ink_starlight"
+                    "icon": "inv_inscription_ink_starlight",
+                    "iconIndex": 44
                 },
                 {
                     "name": "Darkmoon Card of Mists",
                     "spellID": 111830,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop",
+                    "iconIndex": 45
                 },
                 {
                     "name": "Inscribed Fan",
                     "spellID": 111908,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_offhand_1h_panstart_a_02"
+                    "icon": "inv_offhand_1h_panstart_a_02",
+                    "iconIndex": 46
                 },
                 {
                     "name": "Inscribed Jade Fan",
                     "spellID": 111909,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_offhand_1h_pandariatradeskill_c_02"
+                    "icon": "inv_offhand_1h_pandariatradeskill_c_02",
+                    "iconIndex": 47
                 },
                 {
                     "name": "Inscribed Red Fan",
                     "spellID": 111910,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_offhand_1h_pandariatradeskill_c_02"
+                    "icon": "inv_offhand_1h_pandariatradeskill_c_02",
+                    "iconIndex": 47
                 },
                 {
                     "name": "Rain Poppy Staff",
                     "spellID": 111917,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_2h_pandariatradeskill_c_04"
+                    "icon": "inv_staff_2h_pandariatradeskill_c_04",
+                    "iconIndex": 48
                 },
                 {
                     "name": "Inscribed Crane Staff",
                     "spellID": 111918,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_2h_pandariatradeskill_c_03"
+                    "icon": "inv_staff_2h_pandariatradeskill_c_03",
+                    "iconIndex": 49
                 },
                 {
                     "name": "Inscribed Serpent Staff",
                     "spellID": 111919,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_2h_pandariatradeskill_c_05"
+                    "icon": "inv_staff_2h_pandariatradeskill_c_05",
+                    "iconIndex": 50
                 },
                 {
                     "name": "Ghost Iron Staff",
                     "spellID": 111920,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_2h_pandariatradeskill_c_01"
+                    "icon": "inv_staff_2h_pandariatradeskill_c_01",
+                    "iconIndex": 51
                 },
                 {
                     "name": "Inscribed Tiger Staff",
                     "spellID": 111921,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_staff_2h_pandariatradeskill_c_02"
+                    "icon": "inv_staff_2h_pandariatradeskill_c_02",
+                    "iconIndex": 52
                 },
                 {
                     "name": "Runescroll of Fortitude III",
                     "spellID": 112045,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_scroll_fortitude"
+                    "icon": "inv_inscription_scroll_fortitude",
+                    "iconIndex": 32
                 },
                 {
                     "name": "Scroll of Wisdom",
                     "spellID": 112996,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_scrollofwisdom_02"
+                    "icon": "inv_inscription_scrollofwisdom_02",
+                    "iconIndex": 53
                 },
                 {
                     "name": "Origami Crane",
                     "spellID": 126988,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_crane"
+                    "icon": "inv_inscription_crane",
+                    "iconIndex": 54
                 },
                 {
                     "name": "Origami Frog",
                     "spellID": 126989,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_frog"
+                    "icon": "inv_inscription_frog",
+                    "iconIndex": 55
                 },
                 {
                     "name": "Greater Ox Horn Inscription",
                     "spellID": 126994,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                    "icon": "inv_inscription_runescrolloffortitude_yellow",
+                    "iconIndex": 56
                 },
                 {
                     "name": "Greater Crane Wing Inscription",
                     "spellID": 126995,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                    "icon": "inv_inscription_runescrolloffortitude_yellow",
+                    "iconIndex": 56
                 },
                 {
                     "name": "Greater Tiger Claw Inscription",
                     "spellID": 126996,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                    "icon": "inv_inscription_runescrolloffortitude_yellow",
+                    "iconIndex": 56
                 },
                 {
                     "name": "Greater Tiger Fang Inscription",
                     "spellID": 126997,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_yellow"
+                    "icon": "inv_inscription_runescrolloffortitude_yellow",
+                    "iconIndex": 56
                 },
                 {
                     "name": "Yu'lon Kite",
                     "spellID": 127007,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_dragonkite_04"
+                    "icon": "inv_misc_dragonkite_04",
+                    "iconIndex": 57
                 },
                 {
                     "name": "Chi-ji Kite",
                     "spellID": 127009,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "ability_mount_pandarenkitemount"
+                    "icon": "ability_mount_pandarenkitemount",
+                    "iconIndex": 58
                 },
                 {
                     "name": "Tiger Fang Inscription",
                     "spellID": 127016,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                    "icon": "inv_inscription_runescrolloffortitude_blue",
+                    "iconIndex": 59
                 },
                 {
                     "name": "Tiger Claw Inscription",
                     "spellID": 127017,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                    "icon": "inv_inscription_runescrolloffortitude_blue",
+                    "iconIndex": 59
                 },
                 {
                     "name": "Crane Wing Inscription",
                     "spellID": 127018,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                    "icon": "inv_inscription_runescrolloffortitude_blue",
+                    "iconIndex": 59
                 },
                 {
                     "name": "Ox Horn Inscription",
                     "spellID": 127019,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_runescrolloffortitude_blue"
+                    "icon": "inv_inscription_runescrolloffortitude_blue",
+                    "iconIndex": 59
                 },
                 {
                     "name": "Secret Tiger Claw Inscription",
                     "spellID": 127021,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Secret Tiger Fang Inscription",
                     "spellID": 127020,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Secret Crane Wing Inscription",
                     "spellID": 127023,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Secret Ox Horn Inscription",
                     "spellID": 127024,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_misc_mastersinscription"
+                    "icon": "inv_misc_mastersinscription",
+                    "iconIndex": 31
                 },
                 {
                     "name": "Darkmoon Card of Draenor",
                     "spellID": 163294,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop",
+                    "iconIndex": 45
                 },
                 {
                     "name": "Research: Midnight Ink",
                     "spellID": 165304,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Lion's Ink",
                     "spellID": 165456,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Jadefire Ink",
                     "spellID": 165460,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Celestial Ink",
                     "spellID": 165461,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Shimmering Ink",
                     "spellID": 165463,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Ethereal Ink",
                     "spellID": 165464,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Ink of the Sea",
                     "spellID": 165465,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Blackfallow Ink",
                     "spellID": 165466,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Ink of Dreams",
                     "spellID": 165467,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Research: Moonglow Ink",
                     "spellID": 165564,
                     "source": "Taught by an Inscription Trainer",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 }
             ]
         },
@@ -927,7 +1079,8 @@
                         "Drops from bosses in Legion dungeons\nRewarded from world quest emissary rewards",
                         "Drops from bosses in Legion dungeons\nRewarded from world quest emissary rewards"
                     ],
-                    "icon": "inv_7xp_inscription_talenttome01"
+                    "icon": "inv_7xp_inscription_talenttome01",
+                    "iconIndex": 61
                 },
                 {
                     "name": "Darkmoon Card of the Legion",
@@ -941,7 +1094,8 @@
                         "Sold by Professor Thaddeus Paleo on Darkmoon Island",
                         "Sold by Professor Thaddeus Paleo on Darkmoon Island"
                     ],
-                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop",
+                    "iconIndex": 45
                 },
                 {
                     "name": "Prophecy Tarot",
@@ -955,43 +1109,50 @@
                         "Reward from An Odd Trinket in Dalaran Sewers",
                         "Sold by Professor Thaddeus Paleo on Darkmoon Island"
                     ],
-                    "icon": "inv_misc_dmc_destructiondeck"
+                    "icon": "inv_misc_dmc_destructiondeck",
+                    "iconIndex": 62
                 },
                 {
                     "name": "Aqual Mark",
                     "spellID": 209510,
                     "source": "Dropped by Wrath of Azshara in Eye of Azshara (Heroic)",
-                    "icon": "inv_inscription_minorglyph12"
+                    "icon": "inv_inscription_minorglyph12",
+                    "iconIndex": 63
                 },
                 {
                     "name": "Scroll of Forgotten Knowledge",
                     "spellID": 192802,
                     "source": "Reward from Ancient Vrykul Mastered in Stormheim",
-                    "icon": "inv_misc_enchantedscroll"
+                    "icon": "inv_misc_enchantedscroll",
+                    "iconIndex": 64
                 },
                 {
                     "name": "Steamy Romance Novel Kit",
                     "spellID": 192804,
                     "source": "Reward from The Legacy Passed On in Tirisfal Glades",
-                    "icon": "70_inscription_steamy_romance_novel_kit"
+                    "icon": "70_inscription_steamy_romance_novel_kit",
+                    "iconIndex": 65
                 },
                 {
                     "name": "Straszan Mark",
                     "spellID": 209511,
                     "source": "Sold by Xur'ios in Dalaran",
-                    "icon": "inv_inscription_majorglyph12"
+                    "icon": "inv_inscription_majorglyph12",
+                    "iconIndex": 66
                 },
                 {
                     "name": "Tome of the Tranquil Mind",
                     "spellID": 227043,
                     "source": "Looted from the counter in the Dalaran inscription shop",
-                    "icon": "inv_relics_libramofgrace"
+                    "icon": "inv_relics_libramofgrace",
+                    "iconIndex": 67
                 },
                 {
                     "name": "Unwritten Legend",
                     "spellID": 222408,
                     "source": "Dropped by Sael'orn in Violet Hold",
-                    "icon": "spell_paladin_divinecircle"
+                    "icon": "spell_paladin_divinecircle",
+                    "iconIndex": 68
                 }
             ]
         },
@@ -1002,33 +1163,38 @@
                     "name": "Songs of Battle",
                     "spellID": 210653,
                     "source": "Taught by Professor Pallin in Dalaran",
-                    "icon": "70_professions_scroll_01"
+                    "icon": "70_professions_scroll_01",
+                    "iconIndex": 69
                 },
                 {
                     "name": "Songs of the Legion",
                     "spellID": 210656,
                     "source": "Taught by Thoth in The Exodar (Alliance)\nTaught by Zantasia in Silvermoon City (Horde)",
-                    "icon": "70_professions_scroll_01"
+                    "icon": "70_professions_scroll_01",
+                    "iconIndex": 69
                 },
                 {
                     "name": "Songs of Peace",
                     "spellID": 210654,
                     "source": "Learnt from an inscription trainer",
-                    "icon": "70_professions_scroll_01"
+                    "icon": "70_professions_scroll_01",
+                    "iconIndex": 69
                 },
                 {
                     "name": "Songs of the Alliance",
                     "spellID": 223941,
                     "source": "Taught by Catarina Stanford in Stormwind City",
                     "faction": 0,
-                    "icon": "70_professions_scroll_01"
+                    "icon": "70_professions_scroll_01",
+                    "iconIndex": 69
                 },
                 {
                     "name": "Songs of the Horde",
                     "spellID": 223940,
                     "source": "Taught by Nerog in Orgrimmar",
                     "faction": 1,
-                    "icon": "70_professions_scroll_01"
+                    "icon": "70_professions_scroll_01",
+                    "iconIndex": 69
                 }
             ]
         },
@@ -1039,49 +1205,57 @@
                     "name": "Mass Mill Aethril",
                     "spellID": 209658,
                     "source": "Discovered from milling Aethril\nMust have completed Mass Milling Techniques quest",
-                    "icon": "inv_jewelcrafting_70_gem01_white"
+                    "icon": "inv_jewelcrafting_70_gem01_white",
+                    "iconIndex": 70
                 },
                 {
                     "name": "Mass Mill Astral Glory",
                     "spellID": 247861,
                     "source": "Sold by Toraan the Revered on Argus",
-                    "icon": "70_inscription_pigment_sallow"
+                    "icon": "70_inscription_pigment_sallow",
+                    "iconIndex": 71
                 },
                 {
                     "name": "Mass Mill Dreamleaf",
                     "spellID": 209659,
                     "source": "Discovered from milling Dreamleaf\nMust have completed Mass Milling Techniques quest",
-                    "icon": "inv_misc_herb_ragveilcap"
+                    "icon": "inv_misc_herb_ragveilcap",
+                    "iconIndex": 72
                 },
                 {
                     "name": "Mass Mill Felwort",
                     "spellID": 209664,
                     "source": "Discovered from milling Felwort\nMust have completed Mass Milling Techniques quest",
-                    "icon": "70_inscription_pigment_sallow"
+                    "icon": "70_inscription_pigment_sallow",
+                    "iconIndex": 71
                 },
                 {
                     "name": "Mass Mill Fjarnskaggl",
                     "spellID": 209661,
                     "source": "Reward from Fjarnsk in Dalaran\nMust have completed Mass Milling Techniques quest",
-                    "icon": "70_inscription_pigment_roseate"
+                    "icon": "70_inscription_pigment_roseate",
+                    "iconIndex": 73
                 },
                 {
                     "name": "Mass Mill Foxflower",
                     "spellID": 209660,
                     "source": "Discovered from milling Foxflower\nMust have completed Mass Milling Techniques quest",
-                    "icon": "inv_herbalism_70_yserallineseed"
+                    "icon": "inv_herbalism_70_yserallineseed",
+                    "iconIndex": 74
                 },
                 {
                     "name": "Mass Mill Starlight Rose",
                     "spellID": 209662,
                     "source": "Discovered from milling Starlight Rose\nMust have completed Mass Milling Techniques quest",
-                    "icon": "70_inscription_pigment_roseate"
+                    "icon": "70_inscription_pigment_roseate",
+                    "iconIndex": 73
                 },
                 {
                     "name": "Mass Mill Yseralline Seeds",
                     "spellID": 210116,
                     "source": "Reward from Mass Milling Techniques in Dalaran",
-                    "icon": "70_inscription_pigment_roseate"
+                    "icon": "70_inscription_pigment_roseate",
+                    "iconIndex": 73
                 }
             ]
         },
@@ -1100,7 +1274,8 @@
                         "Dropped by Nythendra in The Emerald Nightmare",
                         "Reward from Vantus Rune Work Order: Nythendra in Stormheim"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Il'gynoth, The Heart of Corruption",
@@ -1114,7 +1289,8 @@
                         "Dropped by Il'gynoth in The Emerald Nightmare",
                         "Reward from Vantus Rune Work Order: Il'gynoth, The Heart of Corruption in Dalaran"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Ursoc",
@@ -1128,7 +1304,8 @@
                         "Dropped by Ursoc in The Emerald Nightmare",
                         "Reward from Vantus Rune Work Order: Ursoc in Highmountain"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Dragons of Nightmare",
@@ -1142,7 +1319,8 @@
                         "Dropped by Ysondre in The Emerald Nightmare",
                         "Reward from Vantus Rune Work Order: Dragons of Nightmare in Val'sharah"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Elerethe Renferal",
@@ -1156,7 +1334,8 @@
                         "Dropped by Elerethe Renferal in The Emerald Nightmare",
                         "Reward from Vantus Rune Work Order: Elerethe Renferal in Azsuna"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Cenarius",
@@ -1170,7 +1349,8 @@
                         "Dropped by Cenarius in The Emerald Nightmare",
                         "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Xavius",
@@ -1184,7 +1364,8 @@
                         "Dropped by Xavius in The Emerald Nightmare",
                         "Reward from Vantus Rune Work Order: Xavius in Suramar"
                     ],
-                    "icon": "70_inscription_vantus_rune_nightmare"
+                    "icon": "70_inscription_vantus_rune_nightmare",
+                    "iconIndex": 75
                 },
                 {
                     "name": "Vantus Rune: Chronomatic Anomaly",
@@ -1198,7 +1379,8 @@
                         "Dropped by Chronomatic Anomaly in The Nighthold",
                         "Obtained by fishing in Azsuna"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: High Botanist Tel'arn",
@@ -1212,7 +1394,8 @@
                         "Dropped by High Botanist Tel'arn in The Nighthold",
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Krosus",
@@ -1226,7 +1409,8 @@
                         "Dropped by Krosus in The Nighthold",
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Skorpyron",
@@ -1240,7 +1424,8 @@
                         "Dropped by Skorpyron in The Nighthold",
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Spellblade Aluriel",
@@ -1254,7 +1439,8 @@
                         "Dropped by Spellblade Aluriel in The Nighthold",
                         "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Star Augur Etraeus",
@@ -1268,7 +1454,8 @@
                         "Dropped by Star Augur Etraeus in The Nighthold",
                         "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Tichondrius",
@@ -1282,7 +1469,8 @@
                         "Dropped by Tichondrius in The Nighthold",
                         "Dropped by Ana-Mouz in Suramar"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Trilliax",
@@ -1296,7 +1484,8 @@
                         "Dropped by Trilliax in The Nighthold",
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Grand Magistrix Elisande",
@@ -1310,7 +1499,8 @@
                         "Dropped by Grand Magistrix Elisande in The Nighthold",
                         "Obtained from Highborne archaeology digsites"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Gul'dan",
@@ -1324,7 +1514,8 @@
                         "Dropped by Gul'dan in The Nighthold",
                         "Reward from Vantus Mastery in Dalaran"
                     ],
-                    "icon": "70_inscription_vantus_rune_suramar"
+                    "icon": "70_inscription_vantus_rune_suramar",
+                    "iconIndex": 76
                 },
                 {
                     "name": "Vantus Rune: Odyn",
@@ -1338,7 +1529,8 @@
                         "Dropped by Odyn in Trial of Valor",
                         "Dropped by Nithogg in Stormheim"
                     ],
-                    "icon": "70_inscription_vantus_rune_odyn"
+                    "icon": "70_inscription_vantus_rune_odyn",
+                    "iconIndex": 77
                 },
                 {
                     "name": "Vantus Rune: Guarm",
@@ -1352,7 +1544,8 @@
                         "Dropped by Guarm in Trial of Valor",
                         "Dropped by Drugon the Frostblood in Highmountain"
                     ],
-                    "icon": "70_inscription_vantus_rune_odyn"
+                    "icon": "70_inscription_vantus_rune_odyn",
+                    "iconIndex": 77
                 },
                 {
                     "name": "Vantus Rune: Helya",
@@ -1366,7 +1559,8 @@
                         "Dropped by Helya in Trial of Valor",
                         "Dropped by Levantus in Azsuna"
                     ],
-                    "icon": "70_inscription_vantus_rune_odyn"
+                    "icon": "70_inscription_vantus_rune_odyn",
+                    "iconIndex": 77
                 },
                 {
                     "name": "Vantus Rune: Tomb of Sargeras",
@@ -1380,7 +1574,8 @@
                         "Zone drop in Tomb of Sargeras",
                         "Zone drop in Tomb of Sargeras"
                     ],
-                    "icon": "70_inscription_vantus_rune_tomb"
+                    "icon": "70_inscription_vantus_rune_tomb",
+                    "iconIndex": 78
                 },
                 {
                     "name": "Vantus Rune: Antorus, the Burning Throne",
@@ -1394,7 +1589,8 @@
                         "Zone drop in Antorus, the Burning Throne",
                         "Zone drop in Antorus, the Burning Throne"
                     ],
-                    "icon": "achievement_dungeon_outland_dungeonmaster"
+                    "icon": "achievement_dungeon_outland_dungeonmaster",
+                    "iconIndex": 79
                 }
             ]
         },
@@ -1405,25 +1601,29 @@
                     "name": "Glyph of the Geist",
                     "spellID": 57209,
                     "source": "Learnt by researching Lion's Ink",
-                    "icon": "inv_glyph_minordeathknight"
+                    "icon": "inv_glyph_minordeathknight",
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of the Blazing Trail",
                     "spellID": 123781,
                     "source": "Learnt by researching Lion's Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Glyph of Evaporation",
                     "spellID": 148271,
                     "source": "Learnt by researching Lion's Ink",
-                    "icon": "inv_glyph_minormage"
+                    "icon": "inv_glyph_minormage",
+                    "iconIndex": 81
                 },
                 {
                     "name": "Glyph of Spirit Raptors",
                     "spellID": 148281,
                     "source": "Learnt by researching Lion's Ink",
-                    "icon": "inv_glyph_minorshaman"
+                    "icon": "inv_glyph_minorshaman",
+                    "iconIndex": 82
                 }
             ]
         },
@@ -1434,25 +1634,29 @@
                     "name": "Glyph of Stars",
                     "spellID": 56965,
                     "source": "Learnt by researching Moonglow Ink",
-                    "icon": "inv_glyph_minordruid"
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 83
                 },
                 {
                     "name": "Glyph of Foul Menagerie",
                     "spellID": 57224,
                     "source": "Learnt by researching Moonglow Ink",
-                    "icon": "inv_glyph_minordeathknight"
+                    "icon": "inv_glyph_minordeathknight",
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of the Spectral Wolf",
                     "spellID": 58332,
                     "source": "Learnt by researching Moonglow Ink",
-                    "icon": "inv_glyph_minorshaman"
+                    "icon": "inv_glyph_minorshaman",
+                    "iconIndex": 82
                 },
                 {
                     "name": "Glyph of Inspired Hymns",
                     "spellID": 148278,
                     "source": "Learnt by researching Moonglow Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 }
             ]
         },
@@ -1463,19 +1667,22 @@
                     "name": "Glyph of Winged Vengeance",
                     "spellID": 58312,
                     "source": "Learnt by researching Midnight ink",
-                    "icon": "inv_glyph_minorpaladin"
+                    "icon": "inv_glyph_minorpaladin",
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of the Skeleton",
                     "spellID": 148266,
                     "source": "Learnt by researching Midnight ink",
-                    "icon": "inv_glyph_minordeathknight"
+                    "icon": "inv_glyph_minordeathknight",
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Lingering Ancestors",
                     "spellID": 148282,
                     "source": "Learnt by researching Midnight ink",
-                    "icon": "inv_glyph_minorshaman"
+                    "icon": "inv_glyph_minorshaman",
+                    "iconIndex": 82
                 }
             ]
         },
@@ -1486,25 +1693,29 @@
                     "name": "Glyph of Fire From the Heavens",
                     "spellID": 58316,
                     "source": "Learnt by researching Celestial Ink",
-                    "icon": "inv_glyph_minorpaladin"
+                    "icon": "inv_glyph_minorpaladin",
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of Shadow",
                     "spellID": 107907,
                     "source": "Learnt by researching Celestial Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Shadowy Friends",
                     "spellID": 126800,
                     "source": "Learnt by researching Celestial Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of the Weaponmaster",
                     "spellID": 148292,
                     "source": "Learnt by researching Celestial Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 }
             ]
         },
@@ -1515,37 +1726,43 @@
                     "name": "Glyph of Crimson Banish",
                     "spellID": 64250,
                     "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minorwarlock"
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 86
                 },
                 {
                     "name": "Glyph of Lesser Proportion",
                     "spellID": 58301,
                     "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minorhunter"
+                    "icon": "inv_glyph_minorhunter",
+                    "iconIndex": 87
                 },
                 {
                     "name": "Glyph of Deluge",
                     "spellID": 64261,
                     "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minorshaman"
+                    "icon": "inv_glyph_minorshaman",
+                    "iconIndex": 82
                 },
                 {
                     "name": "Glyph of the Val'kyr",
                     "spellID": 126696,
                     "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Pillar of Light",
                     "spellID": 148274,
                     "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minorpaladin"
+                    "icon": "inv_glyph_minorpaladin",
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of the Solstice",
                     "spellID": 182158,
                     "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minordruid"
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 83
                 }
             ]
         },
@@ -1556,37 +1773,43 @@
                     "name": "Glyph of Soulwell",
                     "spellID": 58341,
                     "source": "Learnt by researching Jadefire Ink",
-                    "icon": "inv_glyph_minorwarlock"
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 86
                 },
                 {
                     "name": "Glyph of Mighty Victory",
                     "spellID": 58347,
                     "source": "Learnt by researching Jadefire Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Glyph of Gushing Wound",
                     "spellID": 58345,
                     "source": "Learnt by researching Jadefire Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Glyph of Crow Feast",
                     "spellID": 112429,
                     "source": "Learnt by researching Jadefire Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Glyph of the Unbound Elemental",
                     "spellID": 148270,
                     "source": "Learnt by researching Jadefire Ink",
-                    "icon": "inv_glyph_minormage"
+                    "icon": "inv_glyph_minormage",
+                    "iconIndex": 81
                 },
                 {
                     "name": "Glyph of Crimson Banish",
                     "spellID": 64250,
                     "source": "Learnt by researching Jadefire Ink",
-                    "icon": "inv_glyph_minorwarlock"
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 86
                 }
             ]
         },
@@ -1597,49 +1820,57 @@
                     "name": "Glyph of Crittermorph",
                     "spellID": 56986,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minormage"
+                    "icon": "inv_glyph_minormage",
+                    "iconIndex": 81
                 },
                 {
                     "name": "Glyph of the Chameleon",
                     "spellID": 58287,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minordruid"
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 83
                 },
                 {
                     "name": "Glyph of Disguise",
                     "spellID": 64260,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minorrogue"
+                    "icon": "inv_glyph_minorrogue",
+                    "iconIndex": 88
                 },
                 {
                     "name": "Glyph of Thunder Strike",
                     "spellID": 68166,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Glyph of Burning Anger",
                     "spellID": 112430,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minorwarrior"
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
                 },
                 {
                     "name": "Glyph of Crackling Tiger Lightning",
                     "spellID": 112462,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minormonk"
+                    "icon": "inv_glyph_minormonk",
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Heavens",
                     "spellID": 124466,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Shadowy Friends",
                     "spellID": 126800,
                     "source": "Learnt by researching Blackfallow Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 }
             ]
         },
@@ -1650,13 +1881,15 @@
                     "name": "Glyph of Felguard",
                     "spellID": 57263,
                     "source": "Learnt by researching Etheral Ink",
-                    "icon": "inv_glyph_minorwarlock"
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 86
                 },
                 {
                     "name": "Glyph of the Sha",
                     "spellID": 148276,
                     "source": "Learnt by researching Etheral Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 }
             ]
         },
@@ -1667,25 +1900,29 @@
                     "name": "Glyph of the Orca",
                     "spellID": 56948,
                     "source": "Learnt by researching Ink of the Sea",
-                    "icon": "inv_glyph_minordruid"
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 83
                 },
                 {
                     "name": "Glyph of Fighting Pose",
                     "spellID": 112469,
                     "source": "Learnt by researching Ink of the Sea",
-                    "icon": "inv_glyph_minormonk"
+                    "icon": "inv_glyph_minormonk",
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Angels",
                     "spellID": 148275,
                     "source": "Learnt by researching Ink of the Sea",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Honor",
                     "spellID": 112464,
                     "source": "Learnt by researching Ink of the Sea",
-                    "icon": "inv_glyph_minormonk"
+                    "icon": "inv_glyph_minormonk",
+                    "iconIndex": 89
                 }
             ]
         },
@@ -1696,25 +1933,29 @@
                     "name": "Glyph of the Luminous Charger",
                     "spellID": 57032,
                     "source": "Learnt by researching Shimmering Ink",
-                    "icon": "inv_glyph_minorpaladin"
+                    "icon": "inv_glyph_minorpaladin",
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of Shackle Undead",
                     "spellID": 58320,
                     "source": "Learnt by researching Shimmering Ink",
-                    "icon": "inv_glyph_minorpriest"
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Rising Tiger Kick",
                     "spellID": 112466,
                     "source": "Learnt by researching Shimmering Ink",
-                    "icon": "inv_glyph_minormonk"
+                    "icon": "inv_glyph_minormonk",
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Cheetah",
                     "spellID": 131152,
                     "source": "Learnt by researching Shimmering Ink",
-                    "icon": "inv_glyph_minordruid"
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 83
                 }
             ]
         },
@@ -1725,49 +1966,57 @@
                     "name": "Darkmoon Card of Draenor",
                     "spellID": 163294,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop",
+                    "iconIndex": 45
                 },
                 {
                     "name": "Warmaster's Firestick",
                     "spellID": 165804,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_wand_1h_draenorcrafted_d_01_a_horde"
+                    "icon": "inv_wand_1h_draenorcrafted_d_01_a_horde",
+                    "iconIndex": 90
                 },
                 {
                     "name": "Crystalfire Spellstaff",
                     "spellID": 166356,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_staff_2h_draenorcrafted_d_02_a_horde"
+                    "icon": "inv_staff_2h_draenorcrafted_d_02_a_horde",
+                    "iconIndex": 91
                 },
                 {
                     "name": "Etched-Blade Warstaff",
                     "spellID": 166359,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_staff_2h_draenorcrafted_d_02_a_alliance"
+                    "icon": "inv_staff_2h_draenorcrafted_d_02_a_alliance",
+                    "iconIndex": 92
                 },
                 {
                     "name": "Shadowtome",
                     "spellID": 166363,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_offhand_1h_draenorcrafted_d_02a"
+                    "icon": "inv_offhand_1h_draenorcrafted_d_02a",
+                    "iconIndex": 93
                 },
                 {
                     "name": "Weapon Crystal",
                     "spellID": 166366,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_datacrystal05"
+                    "icon": "inv_datacrystal05",
+                    "iconIndex": 94
                 },
                 {
                     "name": "Volatile Crystal",
                     "spellID": 166432,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_misc_crystalepic2"
+                    "icon": "inv_misc_crystalepic2",
+                    "iconIndex": 95
                 },
                 {
                     "name": "Ensorcelled Tarot",
                     "spellID": 178248,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "inv_inscription_tarot_volcanoace"
+                    "icon": "inv_inscription_tarot_volcanoace",
+                    "iconIndex": 96
                 }
             ]
         },
@@ -1778,25 +2027,29 @@
                     "name": "Origami Beetle",
                     "spellID": 86646,
                     "source": "Drops from mobs in Uldum",
-                    "icon": "inv_inscription_pigment_bug04"
+                    "icon": "inv_inscription_pigment_bug04",
+                    "iconIndex": 97
                 },
                 {
                     "name": "Origami Slime",
                     "spellID": 86644,
                     "source": "Drops from mobs in Vash'jir",
-                    "icon": "inv_misc_slime_02"
+                    "icon": "inv_misc_slime_02",
+                    "iconIndex": 98
                 },
                 {
                     "name": "Origami Rock",
                     "spellID": 86645,
                     "source": "Drops from mobs in Deepholm",
-                    "icon": "inv_stone_10"
+                    "icon": "inv_stone_10",
+                    "iconIndex": 99
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Medallion of Tenacity",
                     "spellID": 146638,
                     "source": "Drops in Pandaria zones, raids and dungeons",
-                    "icon": "inv_jewelry_trinket_04"
+                    "icon": "inv_jewelry_trinket_04",
+                    "iconIndex": 100
                 }
             ]
         },
@@ -1807,67 +2060,78 @@
                     "name": "Mighty Weapon Crystal",
                     "spellID": 187494,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "oshugun_crystalfragments"
+                    "icon": "oshugun_crystalfragments",
+                    "iconIndex": 101
                 },
                 {
                     "name": "The Spirit of War",
                     "spellID": 182125,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_warpaint_blue"
+                    "icon": "inv_inscription_warpaint_blue",
+                    "iconIndex": 102
                 },
                 {
                     "name": "Mighty Ensorcelled Tarot",
                     "spellID": 187495,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_misc_ticket_tarot_crusade"
+                    "icon": "inv_misc_ticket_tarot_crusade",
+                    "iconIndex": 103
                 },
                 {
                     "name": "Savage Ensorcelled Tarot",
                     "spellID": 187519,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_misc_ticket_tarot_crusade"
+                    "icon": "inv_misc_ticket_tarot_crusade",
+                    "iconIndex": 103
                 },
                 {
                     "name": "Savage Weapon Crystal",
                     "spellID": 187518,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "oshugun_crystalfragments"
+                    "icon": "oshugun_crystalfragments",
+                    "iconIndex": 101
                 },
                 {
                     "name": "Mass Mill Frostweed",
                     "spellID": 190381,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_pigment_cerulean"
+                    "icon": "inv_inscription_pigment_cerulean",
+                    "iconIndex": 104
                 },
                 {
                     "name": "Mass Mill Fireweed",
                     "spellID": 190382,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_pigment_cerulean"
+                    "icon": "inv_inscription_pigment_cerulean",
+                    "iconIndex": 104
                 },
                 {
                     "name": "Mass Mill Gorgrond Flytrap",
                     "spellID": 190383,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_pigment_cerulean"
+                    "icon": "inv_inscription_pigment_cerulean",
+                    "iconIndex": 104
                 },
                 {
                     "name": "Mass Mill Starflower",
                     "spellID": 190384,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_pigment_cerulean"
+                    "icon": "inv_inscription_pigment_cerulean",
+                    "iconIndex": 104
                 },
                 {
                     "name": "Mass Mill Nagrand Arrowbloom",
                     "spellID": 190385,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_pigment_cerulean"
+                    "icon": "inv_inscription_pigment_cerulean",
+                    "iconIndex": 104
                 },
                 {
                     "name": "Mass Mill Talador Orchid",
                     "spellID": 190386,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
-                    "icon": "inv_inscription_pigment_cerulean"
+                    "icon": "inv_inscription_pigment_cerulean",
+                    "iconIndex": 104
                 }
             ]
         }

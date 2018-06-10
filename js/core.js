@@ -89,11 +89,8 @@ $(function() {
 				var background = $('<div/>').addClass('background').appendTo(recipe);
 				var recipeWorth = 1;
 
-				(function(bg) {
-					loadImage('icon.php?id=' + recipeData.icon, function(url) {
-						bg.css('background-image', 'url(' + url + ')');
-					});
-				})(background);
+				background.css('background-image', 'url(images/' + data.image + ')');
+				background.css('background-position', '-' + (recipeData.iconIndex * 36) + 'px 0');
 
 				if (isGoblinEngineering)
 					recipe.addClass('goblin-engineering');
@@ -396,8 +393,4 @@ $(function() {
 	loadImage('images/recipe-background.jpg', function(url) {
 		background.css('background-image', 'url(' + url + ')').fadeIn(1000);
 	});
-
-	// Pre-load the default/invalid icons.
-	loadImage('icon.php?id=inv_misc_questionmark');
-	loadImage('images/nope.png');
 });

@@ -1,5 +1,6 @@
 {
     "name": "Mining",
+    "image": "mining-icons.jpg",
     "sections": [
         {
             "name": "Trainer",
@@ -8,175 +9,204 @@
                     "name": "Smelt Copper",
                     "spellID": 2657,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_02"
+                    "icon": "inv_ingot_02",
+                    "iconIndex": 0
                 },
                 {
                     "name": "Smelt Silver",
                     "spellID": 2658,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_01"
+                    "icon": "inv_ingot_01",
+                    "iconIndex": 1
                 },
                 {
                     "name": "Smelt Bronze",
                     "spellID": 2659,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_bronze"
+                    "icon": "inv_ingot_bronze",
+                    "iconIndex": 2
                 },
                 {
                     "name": "Smelt Tin",
                     "spellID": 3304,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_05"
+                    "icon": "inv_ingot_05",
+                    "iconIndex": 3
                 },
                 {
                     "name": "Smelt Iron",
                     "spellID": 3307,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_iron"
+                    "icon": "inv_ingot_iron",
+                    "iconIndex": 4
                 },
                 {
                     "name": "Smelt Gold",
                     "spellID": 3308,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_03"
+                    "icon": "inv_ingot_03",
+                    "iconIndex": 5
                 },
                 {
                     "name": "Smelt Steel",
                     "spellID": 3569,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_steel"
+                    "icon": "inv_ingot_steel",
+                    "iconIndex": 6
                 },
                 {
                     "name": "Smelt Mithril",
                     "spellID": 10097,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_06"
+                    "icon": "inv_ingot_06",
+                    "iconIndex": 7
                 },
                 {
                     "name": "Smelt Truesilver",
                     "spellID": 10098,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_08"
+                    "icon": "inv_ingot_08",
+                    "iconIndex": 8
                 },
                 {
                     "name": "Smelt Thorium",
                     "spellID": 16153,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_07"
+                    "icon": "inv_ingot_07",
+                    "iconIndex": 9
                 },
                 {
                     "name": "Smelt Fel Iron",
                     "spellID": 29356,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_feliron"
+                    "icon": "inv_ingot_feliron",
+                    "iconIndex": 10
                 },
                 {
                     "name": "Smelt Adamantite",
                     "spellID": 29358,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_10"
+                    "icon": "inv_ingot_10",
+                    "iconIndex": 11
                 },
                 {
                     "name": "Smelt Eternium",
                     "spellID": 29359,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_11"
+                    "icon": "inv_ingot_11",
+                    "iconIndex": 12
                 },
                 {
                     "name": "Smelt Felsteel",
                     "spellID": 29360,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_felsteel"
+                    "icon": "inv_ingot_felsteel",
+                    "iconIndex": 13
                 },
                 {
                     "name": "Smelt Khorium",
                     "spellID": 29361,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_09"
+                    "icon": "inv_ingot_09",
+                    "iconIndex": 14
                 },
                 {
                     "name": "Smelt Hardened Adamantite",
                     "spellID": 29686,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_adamantite"
+                    "icon": "inv_ingot_adamantite",
+                    "iconIndex": 15
                 },
                 {
                     "name": "Earth Shatter",
                     "spellID": 35750,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_elemental_mote_earth01"
+                    "icon": "inv_elemental_mote_earth01",
+                    "iconIndex": 16
                 },
                 {
                     "name": "Fire Sunder",
                     "spellID": 35751,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_elemental_mote_fire01"
+                    "icon": "inv_elemental_mote_fire01",
+                    "iconIndex": 17
                 },
                 {
                     "name": "Smelt Cobalt",
                     "spellID": 49252,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_cobalt"
+                    "icon": "inv_ingot_cobalt",
+                    "iconIndex": 18
                 },
                 {
                     "name": "Smelt Saronite",
                     "spellID": 49258,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_yoggthorite"
+                    "icon": "inv_ingot_yoggthorite",
+                    "iconIndex": 19
                 },
                 {
                     "name": "Smelt Titansteel",
                     "spellID": 55208,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_titansteel_blue"
+                    "icon": "inv_ingot_titansteel_blue",
+                    "iconIndex": 20
                 },
                 {
                     "name": "Smelt Titanium",
                     "spellID": 55211,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_platinum"
+                    "icon": "inv_ingot_platinum",
+                    "iconIndex": 21
                 },
                 {
                     "name": "Enchanted Thorium Bar",
                     "spellID": 70524,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_eternium"
+                    "icon": "inv_ingot_eternium",
+                    "iconIndex": 22
                 },
                 {
                     "name": "Smelt Pyrite",
                     "spellID": 74529,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_misc_pyriumbar_02"
+                    "icon": "inv_misc_pyriumbar_02",
+                    "iconIndex": 23
                 },
                 {
                     "name": "Smelt Elementium",
                     "spellID": 74530,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_misc_pyriumbar"
+                    "icon": "inv_misc_pyriumbar",
+                    "iconIndex": 24
                 },
                 {
                     "name": "Smelt Hardened Elementium",
                     "spellID": 74537,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_misc_ebonsteelbar"
+                    "icon": "inv_misc_ebonsteelbar",
+                    "iconIndex": 25
                 },
                 {
                     "name": "Smelt Obsidium",
                     "spellID": 84038,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_stone_15"
+                    "icon": "inv_stone_15",
+                    "iconIndex": 26
                 },
                 {
                     "name": "Smelt Ghost Iron",
                     "spellID": 102165,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_ghostiron"
+                    "icon": "inv_ingot_ghostiron",
+                    "iconIndex": 27
                 },
                 {
                     "name": "Smelt Trillium",
                     "spellID": 102167,
                     "source": "Taught by Mining Trainer",
-                    "icon": "inv_ingot_trillium"
+                    "icon": "inv_ingot_trillium",
+                    "iconIndex": 28
                 }
             ]
         },
@@ -196,7 +226,8 @@
                         "Learnt from Empyrium Dust (from mining Empyrium Deposits)"
                     ],
                     "icon": "inv_misc_starmetal",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 29
                 },
                 {
                     "name": "Empyrium Seam",
@@ -211,7 +242,8 @@
                         "Learnt from Empyrium Bits (from mining Empyrium Seam)"
                     ],
                     "icon": "inv_misc_starmetal",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 29
                 },
                 {
                     "name": "Felslate Deposit",
@@ -226,7 +258,8 @@
                         "Reward from Rin'thissa (from mining Felslate Deposit)"
                     ],
                     "icon": "inv_felslate",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 30
                 },
                 {
                     "name": "Felslate Seam",
@@ -241,7 +274,8 @@
                         "Reward from Lyrelle (from mining Felslate Seam)"
                     ],
                     "icon": "inv_felslate",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 30
                 },
                 {
                     "name": "Infernal Brimstone",
@@ -256,7 +290,8 @@
                         "Reward from Hellfire and Brimstone in Dalaran"
                     ],
                     "icon": "inv_infernalbrimstone",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 31
                 },
                 {
                     "name": "Leystone Deposit",
@@ -271,7 +306,8 @@
                         "Reward from Rethu's Lesson (from mining Leystone Deposit)"
                     ],
                     "icon": "inv_leystone",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 32
                 },
                 {
                     "name": "Leystone Seam",
@@ -286,7 +322,8 @@
                         "Reward from Rethu's Experience (from mining Leystone Seam)"
                     ],
                     "icon": "inv_leystone",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 32
                 },
                 {
                     "name": "Living Felslate",
@@ -301,7 +338,8 @@
                         "Reward from Ondri\nQuest obtained by killing felslate creatures on Broken Isles"
                     ],
                     "icon": "inv_felslate",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 30
                 },
                 {
                     "name": "Living Leystone",
@@ -316,7 +354,8 @@
                         "Reward from Rethu's Sacrifice\nQuest obtained by killing leystone creatures on Broken Isles"
                     ],
                     "icon": "inv_leystone",
-                    "broken": true
+                    "broken": true,
+                    "iconIndex": 32
                 }
             ]
         },
@@ -327,7 +366,8 @@
                     "name": "Smelt Enchanted Elementium",
                     "spellID": 22967,
                     "source": "Taught by Goblin's Guide to Elementium\nDrops in Blackwing Lair",
-                    "icon": "inv_ingot_thorium"
+                    "icon": "inv_ingot_thorium",
+                    "iconIndex": 33
                 }
             ]
         },
@@ -338,7 +378,8 @@
                     "name": "Smelt Hardened Khorium",
                     "spellID": 46353,
                     "source": "Taught by Study of Advanced Smelting\nDrops in Sunwell Plateau",
-                    "icon": "inv_ingot_thorium"
+                    "icon": "inv_ingot_thorium",
+                    "iconIndex": 33
                 }
             ]
         },
@@ -349,7 +390,8 @@
                     "name": "Smelt Dark Iron",
                     "spellID": 14891,
                     "source": "Taught by Gloom'rel in Blackrock Depths",
-                    "icon": "inv_ingot_mithril"
+                    "icon": "inv_ingot_mithril",
+                    "iconIndex": 34
                 }
             ]
         }

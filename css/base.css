@@ -230,7 +230,6 @@ body {
 	height: 36px;
 	z-index: 1;
 	background-repeat: no-repeat;
-	background-image: url(../icon.php?id=inv_misc_questionmark);
 }
 
 .profession-block .icon.unknown .background, .profession-block .icon.incomplete .background {
