@@ -181,6 +181,146 @@
             ]
         },
         {
+            "name": "Legion (Untrackable)",
+            "recipes": [
+                {
+                    "name": "Empyrium Deposit",
+                    "spellID": [
+                        247848,
+                        247849,
+                        247850
+                    ],
+                    "source": [
+                        "Learnt from Unusable Empyrium Core (from mining Empyrium Deposits)",
+                        "Learnt from Empyrium Deposit Chunk (from mining Empyrium Deposits)",
+                        "Learnt from Empyrium Dust (from mining Empyrium Deposits)"
+                    ],
+                    "icon": "inv_misc_starmetal",
+                    "broken": true
+                },
+                {
+                    "name": "Empyrium Seam",
+                    "spellID": [
+                        247851,
+                        247852,
+                        247853
+                    ],
+                    "source": [
+                        "Learnt from Empyrium Seam Chunk (from mining Empyrium Seam)",
+                        "Learnt from Embedded Empyrium Ore (from mining Empyrium Seam)",
+                        "Learnt from Empyrium Bits (from mining Empyrium Seam)"
+                    ],
+                    "icon": "inv_misc_starmetal",
+                    "broken": true
+                },
+                {
+                    "name": "Felslate Deposit",
+                    "spellID": [
+                        184492,
+                        184493,
+                        184494
+                    ],
+                    "source": [
+                        "Learnt from Felslate Deposit Sample (from mining Felslate Deposit)",
+                        "Learnt from Rin'thissa's Eye (from mining Felslate Deposit)",
+                        "Reward from Rin'thissa (from mining Felslate Deposit)"
+                    ],
+                    "icon": "inv_felslate",
+                    "broken": true
+                },
+                {
+                    "name": "Felslate Seam",
+                    "spellID": [
+                        184496,
+                        184497,
+                        184498
+                    ],
+                    "source": [
+                        "Learnt from Felslate Seam Sample (from mining Felslate Seam)",
+                        "Learnt from Lyelle's Right Arm (from mining Felslate Seam)",
+                        "Reward from Lyrelle (from mining Felslate Seam)"
+                    ],
+                    "icon": "inv_felslate",
+                    "broken": true
+                },
+                {
+                    "name": "Infernal Brimstone",
+                    "spellID": [
+                        184504,
+                        184505,
+                        191970
+                    ],
+                    "source": [
+                        "Dropped by Brimstone Destroyer",
+                        "Reward from Infernal Brimstone Analysis in Dalaran",
+                        "Reward from Hellfire and Brimstone in Dalaran"
+                    ],
+                    "icon": "inv_infernalbrimstone",
+                    "broken": true
+                },
+                {
+                    "name": "Leystone Deposit",
+                    "spellID": [
+                        184454,
+                        184456,
+                        184457
+                    ],
+                    "source": [
+                        "Learnt from Leystone Deposit Sample (from mining Leystone Deposit)",
+                        "Learnt from Torn Journal Page (from mining Leystone Deposit)",
+                        "Reward from Rethu's Lesson (from mining Leystone Deposit)"
+                    ],
+                    "icon": "inv_leystone",
+                    "broken": true
+                },
+                {
+                    "name": "Leystone Seam",
+                    "spellID": [
+                        184484,
+                        184485,
+                        184486
+                    ],
+                    "source": [
+                        "Learnt from Leystone Seam Sample (from mining Leystone Seam)",
+                        "Learnt from Battered Mining Pick (from mining Leystone Seam)",
+                        "Reward from Rethu's Experience (from mining Leystone Seam)"
+                    ],
+                    "icon": "inv_leystone",
+                    "broken": true
+                },
+                {
+                    "name": "Living Felslate",
+                    "spellID": [
+                        184500,
+                        184501,
+                        184502
+                    ],
+                    "source": [
+                        "Reward from Living Felslate Sample\nQuest obtained by killing felslate creatures on Broken Isles",
+                        "Reward from Ondri's Still-Beating Heart\nQuest obtained by killing felslate creatures on Broken Isles",
+                        "Reward from Ondri\nQuest obtained by killing felslate creatures on Broken Isles"
+                    ],
+                    "icon": "inv_felslate",
+                    "broken": true
+                },
+                {
+                    "name": "Living Leystone",
+                    "spellID": [
+                        184488,
+                        184489,
+                        184490
+                    ],
+                    "source": [
+                        "Reward from Living Leystone Sample\nQuest obtained by killing leystone creatures on Broken Isles",
+                        "Reward from Chunk of Horn\nQuest obtained by killing leystone creatures on Broken Isles",
+                        "Reward from Rethu's Sacrifice\nQuest obtained by killing leystone creatures on Broken Isles"
+                    ],
+                    "icon": "inv_leystone",
+                    "broken": true
+                }
+            ]
+        },
+        {
             "name": "Blackwing Lair",
             "recipes": [
                 {
