@@ -829,6 +829,423 @@
             ]
         },
         {
+            "name": "Legion",
+            "recipes": [
+                {
+                    "name": "Ancient Healing Potion",
+                    "spellID": [
+                        188297,
+                        188299,
+                        188300
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Sold by Patricia Egan in Dalaran",
+                        "Discovered when crafting Ancient Healing Potion"
+                    ],
+                    "icon": "inv_alchemy_70_red"
+                },
+                {
+                    "name": "Ancient Mana Potion",
+                    "spellID": [
+                        188301,
+                        188302,
+                        188303
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Discovered when crafting Ancient Mana Potion",
+                        "Discovered when crafting Ancient Mana Potion"
+                    ],
+                    "icon": "inv_alchemy_70_blue"
+                },
+                {
+                    "name": "Ancient Rejuvenation Potion",
+                    "spellID": [
+                        188304,
+                        188305,
+                        188306
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Discovered when crafting Ancient Rejuvenation Potion",
+                        "Discovered when crafting Ancient Rejuvenation Potion"
+                    ],
+                    "icon": "inv_alchemy_70_purple"
+                },
+                {
+                    "name": "Avalanche Elixir",
+                    "spellID": [
+                        188313,
+                        188314,
+                        188315
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Reward from Work Order: Avalanche Elixirs in Highmountain",
+                        "Discovered when crafting Avalanche Elixir"
+                    ],
+                    "icon": "inv_alchemy_70_potion3_drogbar"
+                },
+                {
+                    "name": "Draught of Raw Magic",
+                    "spellID": [
+                        188307,
+                        188308,
+                        188309
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Reward from Work Order: Draught of Raw Magic in Dalaran",
+                        "Discovered when crafting Draught of Raw Magic"
+                    ],
+                    "icon": "inv_alchemy_70_potion3"
+                },
+                {
+                    "name": "Flask of Ten Thousand Scars",
+                    "spellID": [
+                        188346,
+                        188347,
+                        188348
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Odyn in Halls of Valor (Heroic)",
+                        "Discovered when crafting Flask of Ten Thousand Scars"
+                    ],
+                    "icon": "inv_alchemy_70_flask03green"
+                },
+                {
+                    "name": "Flask of the Countless Armies",
+                    "spellID": [
+                        188343,
+                        188344,
+                        188345
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Helya in Maw of Souls (Heroic)",
+                        "Discovered when crafting Flask of the Countless Armies"
+                    ],
+                    "icon": "inv_alchemy_70_flask03red"
+                },
+                {
+                    "name": "Flask of the Seventh Demon",
+                    "spellID": [
+                        188340,
+                        188341,
+                        188342
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Cordana Felsong in Vault of the Wardens (Heroic)",
+                        "Discovered when crafting Flask of the Seventh Demon"
+                    ],
+                    "icon": "inv_alchemy_70_flask03orange"
+                },
+                {
+                    "name": "Flask of the Whispered Pact",
+                    "spellID": [
+                        188337,
+                        188338,
+                        188339
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Dantalionax in Black Rook Hold (Heroic)",
+                        "Discovered when crafting Flask of the Whispered Pact"
+                    ],
+                    "icon": "inv_alchemy_70_flask03purple"
+                },
+                {
+                    "name": "Infernal Alchemist Stone",
+                    "spellID": [
+                        188322,
+                        188323,
+                        188324
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "World drop by creatures on Broken Isles",
+                        "Discovered when crafting Infernal Alchemist Stone"
+                    ],
+                    "icon": "inv_alchemy_70_trinket"
+                },
+                {
+                    "name": "Leytorrent Potion",
+                    "spellID": [
+                        188334,
+                        188335,
+                        188336
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Wrath of Azshara in Eye of Azshara",
+                        "Discovered when crafting Leytorrent Potion"
+                    ],
+                    "icon": "inv_alchemy_70_flask01"
+                },
+                {
+                    "name": "Potion of Deadly Grace",
+                    "spellID": [
+                        188325,
+                        188326,
+                        188327
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Advisor Melandrus in Court of Stars",
+                        "Discovered when crafting Potion of Deadly Grace"
+                    ],
+                    "icon": "inv_alchemy_70_flask02"
+                },
+                {
+                    "name": "Potion of Prolonged Power",
+                    "spellID": [
+                        229217,
+                        229218,
+                        229220
+                    ],
+                    "source": [
+                        "World from from creatures\/treasures on Broken Isles",
+                        "Sold by First Arcanist Thalyssra in Suramar\nRequires Revered with The Nightfallen",
+                        "Dropped by Na'zak the Fiend in Suramar"
+                    ],
+                    "icon": "trade_alchemy_dpotion_a28"
+                },
+                {
+                    "name": "Potion of the Old War",
+                    "spellID": [
+                        188328,
+                        188329,
+                        188330
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Advisor Vandros in The Arcway",
+                        "Discovered when crafting Potion of the Old War"
+                    ],
+                    "icon": "inv_alchemy_70_orange"
+                },
+                {
+                    "name": "Skaggldrynk",
+                    "spellID": [
+                        188316,
+                        188317,
+                        188318
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Reward from Work Order: Skaggldrynk in Stormheim",
+                        "Discovered when crafting Skaggldynk"
+                    ],
+                    "icon": "inv_alchemy_70_potion2_vrykul"
+                },
+                {
+                    "name": "Skystep Potion",
+                    "spellID": [
+                        188319,
+                        188320,
+                        188321
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Reward from Work Order: Skystep Potions in Suramar",
+                        "Discovered when crafting Skystep Potion"
+                    ],
+                    "icon": "inv_alchemy_70_potion2_nightborne"
+                },
+                {
+                    "name": "Spirit Cauldron",
+                    "spellID": [
+                        188349,
+                        188350,
+                        188351
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped from Cenarius in The Emerald Nightmare",
+                        "Discovered when crafting Spirit Cauldron"
+                    ],
+                    "icon": "inv_alchemy_70_cauldron"
+                },
+                {
+                    "name": "Sylvan Elixir",
+                    "spellID": [
+                        188310,
+                        188311,
+                        188312
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Reward from Work Order: Sylvan Elixirs in Val'sharah",
+                        "Discovered when crafting Sylvan Elixir"
+                    ],
+                    "icon": "inv_alchemy_70_potion2"
+                },
+                {
+                    "name": "Unbending Potion",
+                    "spellID": [
+                        188331,
+                        188332,
+                        188333
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Dropped by Dargrul in Neltharion's Lair",
+                        "Discovered when crafting Unbending Potion"
+                    ],
+                    "icon": "inv_alchemy_70_flask04"
+                }
+            ]
+        },
+        {
+            "name": "Legion Transmuting",
+            "recipes": [
+                {
+                    "name": "Wild Transmutation",
+                    "spellID": [
+                        188800,
+                        188801,
+                        188802
+                    ],
+                    "source": [
+                        "Sold by Patricia Egan in Dalaran",
+                        "Discovered when crafting Wild Transmutation",
+                        "Discovered when crafting Wild Transmutation"
+                    ],
+                    "icon": "inv_misc_questionmark"
+                },
+                {
+                    "name": "Transmute: Blood of Sargeras",
+                    "spellID": 213257,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_bloodofsargeras"
+                },
+                {
+                    "name": "Transmute: Cloth to Herbs",
+                    "spellID": 213252,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "achievement_guildperk_bountifulbags"
+                },
+                {
+                    "name": "Transmute: Cloth to Skins",
+                    "spellID": 213249,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_tradeskill_skinning_shaleatherscraps"
+                },
+                {
+                    "name": "Transmute: Fish to Gems",
+                    "spellID": 213254,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_ore_trueiron_nugget"
+                },
+                {
+                    "name": "Transmute: Meat to Pants",
+                    "spellID": 213255,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_pants_01"
+                },
+                {
+                    "name": "Transmute: Meat to Pet",
+                    "spellID": 213256,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_misc_food_114_orcablubber"
+                },
+                {
+                    "name": "Transmute: Ore to Cloth",
+                    "spellID": 213248,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_fabric_mageweave_03"
+                },
+                {
+                    "name": "Transmute: Ore to Herbs",
+                    "spellID": 213251,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "achievement_guildperk_bountifulbags"
+                },
+                {
+                    "name": "Transmute: Skins to Herbs",
+                    "spellID": 213253,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "achievement_guildperk_bountifulbags"
+                },
+                {
+                    "name": "Transmute: Skins to Ore",
+                    "spellID": 213250,
+                    "source": "Discovered when crafting Wild Transmutation",
+                    "icon": "inv_elemental_primal_earth"
+                }
+            ]
+        },
+        {
+            "name": "Argus",
+            "recipes": [
+                {
+                    "name": "Tears of the Naaru",
+                    "spellID": [
+                        247688,
+                        247690,
+                        247691
+                    ],
+                    "source": [
+                        "Reward from Tracking the Trackers in Krokuun",
+                        "Reward from Work Order: Tears of the Naaru in Krokuun",
+                        "Discovered when crafting Tears of the Naaru"
+                    ],
+                    "icon": "inv_alchemy_tearsofthenaaru"
+                },
+                {
+                    "name": "Astral Alchemist Stone",
+                    "spellID": [
+                        247694,
+                        247695,
+                        247696
+                    ],
+                    "source": [
+                        "Reward from Ascending Alchemy in Krokuun",
+                        "Sold by Toraan the Revered on Argus",
+                        "Sold by Toraan the Revered on Argus"
+                    ],
+                    "icon": "inv_alchemy_astralalchemiststone"
+                },
+                {
+                    "name": "Astral Healing Potion",
+                    "spellID": [
+                        251646,
+                        251651,
+                        251658
+                    ],
+                    "source": [
+                        "Sold by Alchemist Funen in Krokuun",
+                        "Discovered when crafting Astral Healing Potion",
+                        "Sold by Toraan the Revered on Argus"
+                    ],
+                    "icon": "inv_potion_153"
+                },
+                {
+                    "name": "Lightblood Elixir",
+                    "spellID": [
+                        247619,
+                        247620,
+                        247622
+                    ],
+                    "source": [
+                        "Reward from Limited Supplies in Krokuun",
+                        "Reward from Work Order: Lightblood Elixirs in Krokuun",
+                        "Discovered when crafting Lightblood Elixir"
+                    ],
+                    "icon": "inv_alchemy_lightbloodelixir"
+                },
+                {
+                    "name": "Transmute: Primal Sargerite",
+                    "spellID": 247701,
+                    "source": "Sold by Alchemist Funen in Krokuun",
+                    "icon": "inv_misc_primalsargerite"
+                }
+            ]
+        },
+        {
             "name": "World Drops (Classic)",
             "recipes": [
                 {
