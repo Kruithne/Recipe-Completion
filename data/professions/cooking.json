@@ -542,6 +542,54 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_thehungrymagistar"
+                },
+                {
+                    "name": "Feast of the Fishes",
+                    "spellID": 251258,
+                    "source": "Sold by Keeper Raynae in Val'sharah",
+                    "icon": "inv_misc_basket_04"
+                },
+                {
+                    "name": "Koi-Scented Stormray",
+                    "spellID": [
+                        201503,
+                        201532,
+                        201552
+                    ],
+                    "source": [
+                        "Sold by Markus Hjolbruk in Suramar",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_koiscentedstormray"
+                },
+                {
+                    "name": "Lavish Suramar Feast",
+                    "spellID": [
+                        201516,
+                        201543,
+                        201563
+                    ],
+                    "source": [
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_lavishsuramarfiest"
+                },
+                {
+                    "name": "Leybeque Ribs",
+                    "spellID": [
+                        201500,
+                        201529,
+                        201549
+                    ],
+                    "source": [
+                        "Dropped by Myonix in Suramar",
+                        "Discovered through Nomi's Test Kitchen in Dalaran",
+                        "Discovered through Nomi's Test Kitchen in Dalaran"
+                    ],
+                    "icon": "inv_misc_food_legion_leybequeribs"
                 }
             ]
         },
