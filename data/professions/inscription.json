@@ -913,6 +913,492 @@
             ]
         },
         {
+            "name": "Legion",
+            "recipes": [
+                {
+                    "name": "Codex of the Tranquil Mind",
+                    "spellID": [
+                        226248,
+                        227239,
+                        227240
+                    ],
+                    "source": [
+                        "World drop from vrykul on Broken Isles",
+                        "Drops from bosses in Legion dungeons\nRewarded from world quest emissary rewards",
+                        "Drops from bosses in Legion dungeons\nRewarded from world quest emissary rewards"
+                    ],
+                    "icon": "inv_7xp_inscription_talenttome01"
+                },
+                {
+                    "name": "Darkmoon Card of the Legion",
+                    "spellID": [
+                        191659,
+                        192859,
+                        192890
+                    ],
+                    "source": [
+                        "Reward from Demon Ink in Dalaran",
+                        "Sold by Professor Thaddeus Paleo on Darkmoon Island",
+                        "Sold by Professor Thaddeus Paleo on Darkmoon Island"
+                    ],
+                    "icon": "inv_inscription_tooltip_darkmooncard_mop"
+                },
+                {
+                    "name": "Prophecy Tarot",
+                    "spellID": [
+                        192854,
+                        192855,
+                        192856
+                    ],
+                    "source": [
+                        "Reward from The Card Shark in Dalaran",
+                        "Reward from An Odd Trinket in Dalaran Sewers",
+                        "Sold by Professor Thaddeus Paleo on Darkmoon Island"
+                    ],
+                    "icon": "inv_misc_dmc_destructiondeck"
+                },
+                {
+                    "name": "Aqual Mark",
+                    "spellID": 209510,
+                    "source": "Dropped by Wrath of Azshara in Eye of Azshara (Heroic)",
+                    "icon": "inv_inscription_minorglyph12"
+                },
+                {
+                    "name": "Scroll of Forgotten Knowledge",
+                    "spellID": 192802,
+                    "source": "Reward from Ancient Vrykul Mastered in Stormheim",
+                    "icon": "inv_misc_enchantedscroll"
+                },
+                {
+                    "name": "Steamy Romance Novel Kit",
+                    "spellID": 192804,
+                    "source": "Reward from The Legacy Passed On in Tirisfal Glades",
+                    "icon": "70_inscription_steamy_romance_novel_kit"
+                },
+                {
+                    "name": "Straszan Mark",
+                    "spellID": 209511,
+                    "source": "Sold by Xur'ios in Dalaran",
+                    "icon": "inv_inscription_majorglyph12"
+                },
+                {
+                    "name": "Tome of the Tranquil Mind",
+                    "spellID": 227043,
+                    "source": "Looted from the counter in the Dalaran inscription shop",
+                    "icon": "inv_relics_libramofgrace"
+                },
+                {
+                    "name": "Unwritten Legend",
+                    "spellID": 222408,
+                    "source": "Dropped by Sael'orn in Violet Hold",
+                    "icon": "spell_paladin_divinecircle"
+                }
+            ]
+        },
+        {
+            "name": "Songs",
+            "recipes": [
+                {
+                    "name": "Songs of Battle",
+                    "spellID": 210653,
+                    "source": "Taught by Professor Pallin in Dalaran",
+                    "icon": "70_professions_scroll_01"
+                },
+                {
+                    "name": "Songs of the Legion",
+                    "spellID": 210656,
+                    "source": "Taught by Thoth in The Exodar (Alliance)\nTaught by Zantasia in Silvermoon City (Horde)",
+                    "icon": "70_professions_scroll_01"
+                },
+                {
+                    "name": "Songs of Peace",
+                    "spellID": 210654,
+                    "source": "Learnt from an inscription trainer",
+                    "icon": "70_professions_scroll_01"
+                },
+                {
+                    "name": "Songs of the Alliance",
+                    "spellID": 223941,
+                    "source": "Taught by Catarina Stanford in Stormwind City",
+                    "faction": 0,
+                    "icon": "70_professions_scroll_01"
+                },
+                {
+                    "name": "Songs of the Horde",
+                    "spellID": 223940,
+                    "source": "Taught by Nerog in Orgrimmar",
+                    "faction": 1,
+                    "icon": "70_professions_scroll_01"
+                }
+            ]
+        },
+        {
+            "name": "Milling (Legion)",
+            "recipes": [
+                {
+                    "name": "Mass Mill Aethril",
+                    "spellID": 209658,
+                    "source": "Discovered from milling Aethril\nMust have completed Mass Milling Techniques quest",
+                    "icon": "inv_jewelcrafting_70_gem01_white"
+                },
+                {
+                    "name": "Mass Mill Astral Glory",
+                    "spellID": 247861,
+                    "source": "Sold by Toraan the Revered on Argus",
+                    "icon": "70_inscription_pigment_sallow"
+                },
+                {
+                    "name": "Mass Mill Dreamleaf",
+                    "spellID": 209659,
+                    "source": "Discovered from milling Dreamleaf\nMust have completed Mass Milling Techniques quest",
+                    "icon": "inv_misc_herb_ragveilcap"
+                },
+                {
+                    "name": "Mass Mill Felwort",
+                    "spellID": 209664,
+                    "source": "Discovered from milling Felwort\nMust have completed Mass Milling Techniques quest",
+                    "icon": "70_inscription_pigment_sallow"
+                },
+                {
+                    "name": "Mass Mill Fjarnskaggl",
+                    "spellID": 209661,
+                    "source": "Reward from Fjarnsk in Dalaran\nMust have completed Mass Milling Techniques quest",
+                    "icon": "70_inscription_pigment_roseate"
+                },
+                {
+                    "name": "Mass Mill Foxflower",
+                    "spellID": 209660,
+                    "source": "Discovered from milling Foxflower\nMust have completed Mass Milling Techniques quest",
+                    "icon": "inv_herbalism_70_yserallineseed"
+                },
+                {
+                    "name": "Mass Mill Starlight Rose",
+                    "spellID": 209662,
+                    "source": "Discovered from milling Starlight Rose\nMust have completed Mass Milling Techniques quest",
+                    "icon": "70_inscription_pigment_roseate"
+                },
+                {
+                    "name": "Mass Mill Yseralline Seeds",
+                    "spellID": 210116,
+                    "source": "Reward from Mass Milling Techniques in Dalaran",
+                    "icon": "70_inscription_pigment_roseate"
+                }
+            ]
+        },
+        {
+            "name": "Vantus Runes",
+            "recipes": [
+                {
+                    "name": "Vantus Rune: Nythendra",
+                    "spellID": [
+                        192809,
+                        192861,
+                        192892
+                    ],
+                    "source": [
+                        "Dropped by Nythendra in The Emerald Nightmare",
+                        "Dropped by Nythendra in The Emerald Nightmare",
+                        "Reward from Vantus Rune Work Order: Nythendra in Stormheim"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Il'gynoth, The Heart of Corruption",
+                    "spellID": [
+                        192810,
+                        192862,
+                        192893
+                    ],
+                    "source": [
+                        "Dropped by Il'gynoth in The Emerald Nightmare",
+                        "Dropped by Il'gynoth in The Emerald Nightmare",
+                        "Reward from Vantus Rune Work Order: Il'gynoth, The Heart of Corruption in Dalaran"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Ursoc",
+                    "spellID": [
+                        192808,
+                        192860,
+                        192891
+                    ],
+                    "source": [
+                        "Dropped by Ursoc in The Emerald Nightmare",
+                        "Dropped by Ursoc in The Emerald Nightmare",
+                        "Reward from Vantus Rune Work Order: Ursoc in Highmountain"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Dragons of Nightmare",
+                    "spellID": [
+                        192811,
+                        192863,
+                        192894
+                    ],
+                    "source": [
+                        "Dropped by Ysondre in The Emerald Nightmare",
+                        "Dropped by Ysondre in The Emerald Nightmare",
+                        "Reward from Vantus Rune Work Order: Dragons of Nightmare in Val'sharah"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Elerethe Renferal",
+                    "spellID": [
+                        192813,
+                        192865,
+                        192896
+                    ],
+                    "source": [
+                        "Dropped by Elerethe Renferal in The Emerald Nightmare",
+                        "Dropped by Elerethe Renferal in The Emerald Nightmare",
+                        "Reward from Vantus Rune Work Order: Elerethe Renferal in Azsuna"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Cenarius",
+                    "spellID": [
+                        192814,
+                        192866,
+                        192897
+                    ],
+                    "source": [
+                        "Dropped by Cenarius in The Emerald Nightmare",
+                        "Dropped by Cenarius in The Emerald Nightmare",
+                        "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Xavius",
+                    "spellID": [
+                        192812,
+                        192864,
+                        192895
+                    ],
+                    "source": [
+                        "Dropped by Xavius in The Emerald Nightmare",
+                        "Dropped by Xavius in The Emerald Nightmare",
+                        "Reward from Vantus Rune Work Order: Xavius in Suramar"
+                    ],
+                    "icon": "70_inscription_vantus_rune_nightmare"
+                },
+                {
+                    "name": "Vantus Rune: Chronomatic Anomaly",
+                    "spellID": [
+                        192816,
+                        192868,
+                        192899
+                    ],
+                    "source": [
+                        "Dropped by Chronomatic Anomaly in The Nighthold",
+                        "Dropped by Chronomatic Anomaly in The Nighthold",
+                        "Obtained by fishing in Azsuna"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: High Botanist Tel'arn",
+                    "spellID": [
+                        192820,
+                        192872,
+                        192903
+                    ],
+                    "source": [
+                        "Dropped by High Botanist Tel'arn in The Nighthold",
+                        "Dropped by High Botanist Tel'arn in The Nighthold",
+                        "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Krosus",
+                    "spellID": [
+                        192821,
+                        192873,
+                        192904
+                    ],
+                    "source": [
+                        "Dropped by Krosus in The Nighthold",
+                        "Dropped by Krosus in The Nighthold",
+                        "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Skorpyron",
+                    "spellID": [
+                        192815,
+                        192867,
+                        192898
+                    ],
+                    "source": [
+                        "Dropped by Skorpyron in The Nighthold",
+                        "Dropped by Skorpyron in The Nighthold",
+                        "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Spellblade Aluriel",
+                    "spellID": [
+                        192818,
+                        192870,
+                        192901
+                    ],
+                    "source": [
+                        "Dropped by Spellblade Aluriel in The Nighthold",
+                        "Dropped by Spellblade Aluriel in The Nighthold",
+                        "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Star Augur Etraeus",
+                    "spellID": [
+                        192822,
+                        192874,
+                        192905
+                    ],
+                    "source": [
+                        "Dropped by Star Augur Etraeus in The Nighthold",
+                        "Dropped by Star Augur Etraeus in The Nighthold",
+                        "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Tichondrius",
+                    "spellID": [
+                        192819,
+                        192871,
+                        192902
+                    ],
+                    "source": [
+                        "Dropped by Tichondrius in The Nighthold",
+                        "Dropped by Tichondrius in The Nighthold",
+                        "Dropped by Ana-Mouz in Suramar"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Trilliax",
+                    "spellID": [
+                        192817,
+                        192869,
+                        192900
+                    ],
+                    "source": [
+                        "Dropped by Trilliax in The Nighthold",
+                        "Dropped by Trilliax in The Nighthold",
+                        "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Grand Magistrix Elisande",
+                    "spellID": [
+                        192823,
+                        192875,
+                        192906
+                    ],
+                    "source": [
+                        "Dropped by Grand Magistrix Elisande in The Nighthold",
+                        "Dropped by Grand Magistrix Elisande in The Nighthold",
+                        "Obtained from Highborne archaeology digsites"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Gul'dan",
+                    "spellID": [
+                        192824,
+                        192876,
+                        192907
+                    ],
+                    "source": [
+                        "Dropped by Gul'dan in The Nighthold",
+                        "Dropped by Gul'dan in The Nighthold",
+                        "Reward from Vantus Mastery in Dalaran"
+                    ],
+                    "icon": "70_inscription_vantus_rune_suramar"
+                },
+                {
+                    "name": "Vantus Rune: Odyn",
+                    "spellID": [
+                        229177,
+                        229180,
+                        229183
+                    ],
+                    "source": [
+                        "Dropped by Odyn in Trial of Valor",
+                        "Dropped by Odyn in Trial of Valor",
+                        "Dropped by Nithogg in Stormheim"
+                    ],
+                    "icon": "70_inscription_vantus_rune_odyn"
+                },
+                {
+                    "name": "Vantus Rune: Guarm",
+                    "spellID": [
+                        229178,
+                        229181,
+                        229184
+                    ],
+                    "source": [
+                        "Dropped by Guarm in Trial of Valor",
+                        "Dropped by Guarm in Trial of Valor",
+                        "Dropped by Drugon the Frostblood in Highmountain"
+                    ],
+                    "icon": "70_inscription_vantus_rune_odyn"
+                },
+                {
+                    "name": "Vantus Rune: Helya",
+                    "spellID": [
+                        229179,
+                        229182,
+                        229185
+                    ],
+                    "source": [
+                        "Dropped by Helya in Trial of Valor",
+                        "Dropped by Helya in Trial of Valor",
+                        "Dropped by Levantus in Azsuna"
+                    ],
+                    "icon": "70_inscription_vantus_rune_odyn"
+                },
+                {
+                    "name": "Vantus Rune: Tomb of Sargeras",
+                    "spellID": [
+                        238577,
+                        238578,
+                        238579
+                    ],
+                    "source": [
+                        "Zone drop in Tomb of Sargeras",
+                        "Zone drop in Tomb of Sargeras",
+                        "Zone drop in Tomb of Sargeras"
+                    ],
+                    "icon": "70_inscription_vantus_rune_tomb"
+                },
+                {
+                    "name": "Vantus Rune: Antorus, the Burning Throne",
+                    "spellID": [
+                        247614,
+                        247615,
+                        247616
+                    ],
+                    "source": [
+                        "Zone drop in Antorus, the Burning Throne",
+                        "Zone drop in Antorus, the Burning Throne",
+                        "Zone drop in Antorus, the Burning Throne"
+                    ],
+                    "icon": "achievement_dungeon_outland_dungeonmaster"
+                }
+            ]
+        },
+        {
             "name": "Research: Lion's Ink",
             "recipes": [
                 {
