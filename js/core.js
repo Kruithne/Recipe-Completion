@@ -103,18 +103,16 @@ $(function() {
 				var spellID = recipeData.spellID;
 				if (Array.isArray(spellID)) {
 					var knownRanks = 0;
-					var sourceString = recipeData.name;
 
 					for (var i = 0; i < spellID.length; i++) {
-						sourceString = recipeData.name + ' (Rank ' + (i + 1) + ')\n' + recipeData.source[i];
-
 						if (recipeIsKnown(spellID[i], recipes)) {
 							knownRanks = i + 1;
 							break;
 						}
 					}
 
-					recipe.attr('data-tooltip', sourceString !== null ? sourceString : recipeData.name);
+					var displayRank = Math.min(knownRanks, spellID.length - 1);
+					recipe.attr('data-tooltip', recipeData.name + ' (Rank ' + (displayRank + 1) + ')\n' + recipeData.source[displayRank]);
 					totalObtainedCount += knownRanks;
 					recipeWorth = knownRanks;
 
