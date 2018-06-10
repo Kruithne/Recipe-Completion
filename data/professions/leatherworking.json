@@ -1483,6 +1483,554 @@
             ]
         },
         {
+            "name": "Legion",
+            "recipes": [
+                {
+                    "name": "Battlebound Armbands",
+                    "spellID": [
+                        194735,
+                        194743,
+                        194751
+                    ],
+                    "source": [
+                        "Reward from Best Served Cold in Azsuna",
+                        "Reward from Reclaimed Cargo in Azsuna",
+                        "Reward from Work Order: Battlebound Armbands in Highmountain"
+                    ],
+                    "icon": "inv_bracer_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Girdle",
+                    "spellID": [
+                        194736,
+                        194744,
+                        194756
+                    ],
+                    "source": [
+                        "Reward from Black Rook Bandit in Dalaran",
+                        "Reward from Reclaimed Cargo in Azsuna",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers"
+                    ],
+                    "icon": "inv_belt_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Grips",
+                    "spellID": [
+                        194740,
+                        194748,
+                        194754
+                    ],
+                    "source": [
+                        "Reward from Best Served Cold in Azsuna",
+                        "Reward from Scales of the Arcane in Azsuna",
+                        "Dropped by Odyn in Halls of Valor"
+                    ],
+                    "icon": "inv_glove_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Hauberk",
+                    "spellID": [
+                        194742,
+                        194750,
+                        194758
+                    ],
+                    "source": [
+                        "Reward from Too Good To Pass Up in Dalaran",
+                        "Reward from Testing the Metal in Azsuna",
+                        "Sold by Valdemar Stormseeker in Stormheim\nRequires Honored with Valarjar"
+                    ],
+                    "icon": "inv_chest_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Leggings",
+                    "spellID": [
+                        194738,
+                        194746,
+                        194752
+                    ],
+                    "source": [
+                        "Reward from Black Rook Bandit in Dalaran",
+                        "Reward from Scales of the Earth in Azsuna",
+                        "Reward from Work Order: Battlebound Leggings in Suramar"
+                    ],
+                    "icon": "inv_pant_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Spaulders",
+                    "spellID": [
+                        194737,
+                        194745,
+                        194757
+                    ],
+                    "source": [
+                        "Reward from Naga Know-How in Azsuna",
+                        "Reward from Leather Legwork in Dalaran",
+                        "Reward from Work Order: Battlebound Spaulders in Azsuna"
+                    ],
+                    "icon": "inv_shoulder_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Treads",
+                    "spellID": [
+                        194741,
+                        194749,
+                        194755
+                    ],
+                    "source": [
+                        "Reward from From Head to Toe in Dalaran",
+                        "Reward from Leather Legwork in Dalaran",
+                        "Dropped by Dargrul in Neltharion's Lair"
+                    ],
+                    "icon": "inv_boot_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Battlebound Warhelm",
+                    "spellID": [
+                        194739,
+                        194747,
+                        194753
+                    ],
+                    "source": [
+                        "Reward from Over Your Head in Dalaran",
+                        "Reward from Scales of the Sea in Azsuna",
+                        "Sold by Valdemar Stormseeker in Stormheim\nRequires Honored with Valarjar"
+                    ],
+                    "icon": "inv_helm_mail_legionhonor_d_01"
+                },
+                {
+                    "name": "Dreadleather Belt",
+                    "spellID": [
+                        194788,
+                        194720,
+                        194728
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers"
+                    ],
+                    "icon": "inv_belt_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Bindings",
+                    "spellID": [
+                        194787,
+                        194719,
+                        194727
+                    ],
+                    "source": [
+                        "Reward from Fel Tanning in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Reward from Withered Army Training"
+                    ],
+                    "icon": "inv_bracer_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Footpads",
+                    "spellID": [
+                        194785,
+                        194725,
+                        194733
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Exalted with Dreamweavers"
+                    ],
+                    "icon": "inv_boot_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Gloves",
+                    "spellID": [
+                        194790,
+                        194724,
+                        194732
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Dropped by Advisor Vandros in The Arcway (Heroic)"
+                    ],
+                    "icon": "inv_glove_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Jerkin",
+                    "spellID": [
+                        194791,
+                        194726,
+                        194734
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Dropped by Helya in Maw of Souls (Mythic)"
+                    ],
+                    "icon": "inv_chest_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Mask",
+                    "spellID": [
+                        194784,
+                        194723,
+                        194731
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Sold by Slyvia Hartshorn in Val'sharah\nRequires Exalted with Dreamweavers"
+                    ],
+                    "icon": "inv_helm_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Pants",
+                    "spellID": [
+                        194786,
+                        194722,
+                        194730
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Exalted with Dreamweavers"
+                    ],
+                    "icon": "inv_pant_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Dreadleather Shoulderguard",
+                    "spellID": [
+                        194789,
+                        194721,
+                        194729
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Reward from winning a Rated Battleground"
+                    ],
+                    "icon": "inv_shoulder_leather_legionendgame_c_01"
+                },
+                {
+                    "name": "Drums of the Mountain",
+                    "spellID": [
+                        230936,
+                        230954,
+                        230955
+                    ],
+                    "source": [
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Revered with Highmountain Tribe",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_archaeology_70_tauren_drum"
+                },
+                {
+                    "name": "Fiendish Shoulderguards",
+                    "spellID": [
+                        247800,
+                        247801,
+                        247802
+                    ],
+                    "source": [
+                        "Reward from Counterbalancing on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Admiral Svirax in Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_shoulder_leather_legiondungeon_c_02"
+                },
+                {
+                    "name": "Fiendish Spaulders",
+                    "spellID": [
+                        247803,
+                        247804,
+                        247805
+                    ],
+                    "source": [
+                        "Reward from Counterbalancing on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Adirmal Svirax in Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_shoulder_mail_legiondungeon_c_02"
+                },
+                {
+                    "name": "Gravenscale Armbands",
+                    "spellID": [
+                        194796,
+                        194759,
+                        194767
+                    ],
+                    "source": [
+                        "Reward from Fel Tanning in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "World drop from creatures on Broken Isles"
+                    ],
+                    "icon": "inv_bracer_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Girdle",
+                    "spellID": [
+                        194797,
+                        194760,
+                        194768
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers"
+                    ],
+                    "icon": "inv_belt_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Grips",
+                    "spellID": [
+                        194799,
+                        194764,
+                        194772
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Dropped by Advisor Melandrus in Court of Stars (Heroic)"
+                    ],
+                    "icon": "inv_gauntlets_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Hauberk",
+                    "spellID": [
+                        194795,
+                        194766,
+                        194774
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Dropped by Dantalionax in Black Rook Hold"
+                    ],
+                    "icon": "inv_chest_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Leggings",
+                    "spellID": [
+                        194792,
+                        194762,
+                        194770
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Sold by Valdemar Stormseeker in Stormheim\nRequires Exalted with Valarjar"
+                    ],
+                    "icon": "inv_pants_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Spaulders",
+                    "spellID": [
+                        194798,
+                        194761,
+                        194769
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Reward from winning a Rated Battleground"
+                    ],
+                    "icon": "inv_shoulder_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Treads",
+                    "spellID": [
+                        194793,
+                        194765,
+                        194773
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Dropped by Cordana Felsong in Vault of the Wardens (Heroic)"
+                    ],
+                    "icon": "inv_boots_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Gravenscale Warhelm",
+                    "spellID": [
+                        194794,
+                        194763,
+                        194771
+                    ],
+                    "source": [
+                        "Sold by Stalriss Dawnrunner in Suramar",
+                        "Sold by Ranid Glowergold in Dalaran",
+                        "Sold by Valdemar Stormseeker in Stormheim\nRequires Exalted with Valarjar"
+                    ],
+                    "icon": "inv_helmet_mail_legionendgame_c_01"
+                },
+                {
+                    "name": "Warhide Belt",
+                    "spellID": [
+                        194696,
+                        194704,
+                        194716
+                    ],
+                    "source": [
+                        "Reward from Stormheim Savagery in Dalaran",
+                        "Reward from Claw of the Land in Highmountain",
+                        "Sold by Strap Bucklebolt in Dalaran Sewers"
+                    ],
+                    "icon": "inv_belt_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Bindings",
+                    "spellID": [
+                        194695,
+                        194703,
+                        194711
+                    ],
+                    "source": [
+                        "Reward from Drogbar Durability in Highmountain",
+                        "Reward from Claw of the Land in Highmountain",
+                        "Dropped by Shade of Xavius in Darkheart Thicket"
+                    ],
+                    "icon": "inv_bracer_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Footpads",
+                    "spellID": [
+                        194701,
+                        194709,
+                        194715
+                    ],
+                    "source": [
+                        "Reward from From Head to Toe in Dalaran",
+                        "Reward from Rats! in Dalaran",
+                        "Reward from Work Order: Warhide Footpads in Stormheim"
+                    ],
+                    "icon": "inv_boots_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Gloves",
+                    "spellID": [
+                        194700,
+                        194708,
+                        194714
+                    ],
+                    "source": [
+                        "Reward from Drogbar Durability in Highmountain",
+                        "Reward from Evolution of the Past in Highmountain",
+                        "Reward from Work Order: Warhide Gloves in Dalaran"
+                    ],
+                    "icon": "inv_glove_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Jerkin",
+                    "spellID": [
+                        194702,
+                        194710,
+                        194718
+                    ],
+                    "source": [
+                        "Reward from Vestment Opportunity in Dalaran",
+                        "Reward from Stamped Stories in Highmountain",
+                        "Sold by Sylvia Hartshorn in Val'sharah\nRequires Honored with Dreamweavers"
+                    ],
+                    "icon": "inv_chest_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Mask",
+                    "spellID": [
+                        194699,
+                        194707,
+                        194713
+                    ],
+                    "source": [
+                        "Reward from Over Your Head in Dalaran",
+                        "Reward from Strength of the Past in Highmountain",
+                        "Reward from Work Order: Warhide Mask in Val'sharah"
+                    ],
+                    "icon": "inv_helm_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Pants",
+                    "spellID": [
+                        194698,
+                        194706,
+                        194712
+                    ],
+                    "source": [
+                        "Reward from Stormheim Savagery in Dalaran",
+                        "Reward from Respect for the Past in Highmountain",
+                        "Dropped by Wrath of Azshara in Eye of Azshara"
+                    ],
+                    "icon": "inv_pant_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Warhide Shoulderguard",
+                    "spellID": [
+                        194697,
+                        194705,
+                        194717
+                    ],
+                    "source": [
+                        "Reward from Shoulder the Burden in Highmountain",
+                        "Reward from Rats! in Dalaran",
+                        "Dropped in Assault of Violet Hold"
+                    ],
+                    "icon": "inv_shoulder_leather_legionhonor_d_01"
+                },
+                {
+                    "name": "Stonehide Leather Barding",
+                    "spellID": 196648,
+                    "source": "Reward from Dazed of the Past in Dalaran",
+                    "icon": "inv_leatherworking_70_mountarmor"
+                },
+                {
+                    "name": "The Sentinel's Eternal Refuge",
+                    "spellID": 239413,
+                    "source": "Learnt from a leatherworking trainer",
+                    "icon": "inv_leather_raiddemonhuntermythic_q_02boots"
+                },
+                {
+                    "name": "Vigilance Perch",
+                    "spellID": 239414,
+                    "source": "Learnt from a leatherworking trainer",
+                    "icon": "inv_glove_mail_vrykuldragonrider_b_01"
+                }
+            ]
+        },
+        {
+            "name": "Toys\/Mounts",
+            "recipes": [
+                {
+                    "name": "Elderhorn Riding Harness",
+                    "spellID": 194780,
+                    "source": "Reward from Mounting Made Easy in Dalaran",
+                    "icon": "inv_belt_39b"
+                },
+                {
+                    "name": "Leather Love Seat",
+                    "spellID": 194779,
+                    "source": "Sold by Xur'ios in Dalaran",
+                    "icon": "inv_leatherworking_70_loveseat"
+                },
+                {
+                    "name": "Flaming Hoop",
+                    "spellID": 194775,
+                    "source": "Sold by Laura Malley in Dalaran Sewers",
+                    "icon": "inv_leatherworking_70_flaminghoop"
+                },
+                {
+                    "name": "Leather Pet Leash",
+                    "spellID": 194778,
+                    "source": "Sold by Larua Malley in Dalaran Sewers",
+                    "icon": "inv_leatherworking_70_petleash"
+                },
+                {
+                    "name": "Leather Pet Bed",
+                    "spellID": 194776,
+                    "source": "Reward from Playthings in Dalaran",
+                    "icon": "inv_leatherworking_70_petbed"
+                }
+            ]
+        },
+        {
             "name": "World Drops (Classic)",
             "recipes": [
                 {
