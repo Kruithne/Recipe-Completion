@@ -1314,22 +1314,26 @@
                 {
                     "name": "Silkweave Cover",
                     "spellID": 186097,
-                    "source": "Learnt from a tailoring trainer"
+                    "source": "Learnt from a tailoring trainer",
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Silkweave Drape",
                     "spellID": 186100,
-                    "source": "Learnt from a tailoring trainer"
+                    "source": "Learnt from a tailoring trainer",
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Silkweave Flourish",
                     "spellID": 186094,
-                    "source": "Learnt from a tailoring trainer"
+                    "source": "Learnt from a tailoring trainer",
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Silkweave Shade",
                     "spellID": 186091,
-                    "source": "Learnt from a tailoring trainer"
+                    "source": "Learnt from a tailoring trainer",
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Silkweave Bracers",
@@ -1342,7 +1346,8 @@
                         "Reward from So You Think You Can Sew in Azsuna",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Reward from Work Order: Silkweave Bracers in Stormheim"
-                    ]
+                    ],
+                    "icon": "inv_bracer_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Cinch",
@@ -1355,7 +1360,8 @@
                         "Reward from This Should Be Simple... Right? in Dalaran",
                         "Sold by Strap Bucklebolt in Dalaran Sewers",
                         "Sold by Strap Bucklebolt in Dalaran Sewers"
-                    ]
+                    ],
+                    "icon": "inv_belt_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Epaulets",
@@ -1368,7 +1374,8 @@
                         "Reward from This Should Be Simple... Right? in Dalaran",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Reward from Work Order: Silkweave Epaulets in Azsuna"
-                    ]
+                    ],
+                    "icon": "inv_shoulder_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Gloves",
@@ -1381,7 +1388,8 @@
                         "Reward from The Depraved Nightfallen in Dalaran",
                         "Reward from Secret Silkweaving Methods in Dalaran",
                         "Reward from Work Order: Silkweave Gloves in Val'sharah"
-                    ]
+                    ],
+                    "icon": "inv_glove_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Hood",
@@ -1394,7 +1402,8 @@
                         "Reward from The Final Lesson? in Dalaran",
                         "Reward from Secret Silkweaving Methods in Dalaran",
                         "Reward from Work Order: Silkweave Hood in Dalaran"
-                    ]
+                    ],
+                    "icon": "inv_helm_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Pantaloons",
@@ -1407,7 +1416,8 @@
                         "Reward from Taking Inspiration in Dalaran",
                         "Reward from Secret Silkweaving Methods in Dalaran",
                         "Sold by Veridis Fallon in Azsuna\nRequires Honored with Court of Farondis"
-                    ]
+                    ],
+                    "icon": "inv_pant_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Robe",
@@ -1420,7 +1430,8 @@
                         "Reward from So You Think You Can Sew in Dalaran",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Reward from Work Order: Silkweave Robe in Highmountain"
-                    ]
+                    ],
+                    "icon": "inv_chest_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Silkweave Slippers",
@@ -1433,7 +1444,8 @@
                         "Reward from The Right Color in Dalaran",
                         "Reward from Secret Silkweaving Methods in Dalaran",
                         "Reward from Work Order: Silkweave Slippers in Suramar"
-                    ]
+                    ],
+                    "icon": "inv_boot_cloth_legionhonor_d_01"
                 },
                 {
                     "name": "Imbued Silkweave Bag",
@@ -1446,7 +1458,8 @@
                         "Reward from The Big Bag Theory in Suramar",
                         "World drop from ghosts on Broken Isles",
                         "Dropped by Star Augur Etraeus in The Nighthold"
-                    ]
+                    ],
+                    "icon": "inv_tailoring_70_silkweavebag"
                 },
                 {
                     "name": "Imbued Silkweave Bracers",
@@ -1459,7 +1472,8 @@
                         "Reward from The Queen's Grace Loom in Suramar",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Sold by First Arcanist Thalyssra in Surmar\nRequires Exalted with The Nightfallen"
-                    ]
+                    ],
+                    "icon": "inv_bracer_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Cinch",
@@ -1472,7 +1486,8 @@
                         "Sold by Leyweaver Erenyi in Val'sharah",
                         "Sold by Strap Bucklebolt in Dalaran Sewers",
                         "Sold by Strap Bucklebolt in Dalaran Sewers"
-                    ]
+                    ],
+                    "icon": "inv_belt_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Cover",
@@ -1485,7 +1500,8 @@
                         "Sold by Leyweaver Inondra in Suramar",
                         "World drop from furbolgs on Broken Isles",
                         "World drop from Broken Isles"
-                    ]
+                    ],
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Drape",
@@ -1498,7 +1514,8 @@
                         "Sold by Leyweaver Inondra in Suramar",
                         "World drop from Broken Isles",
                         "World drop from Broken Isles"
-                    ]
+                    ],
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Epaulets",
@@ -1511,7 +1528,8 @@
                         "Sold by Leyweaver Phaxondus in Azsuna",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Reward from winning a Rated Battleground"
-                    ]
+                    ],
+                    "icon": "inv_shoulder_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Flourish",
@@ -1524,7 +1542,8 @@
                         "Sold by Leyweaver Inondra in Suramar",
                         "World drop from murlocs on Broken Isles",
                         "World drop from Broken Isles"
-                    ]
+                    ],
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Gloves",
@@ -1537,7 +1556,8 @@
                         "Reward from Exotic Textiles in Suramar",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Sold by Veridis Fallon in Azsuna\nRequires Exalted with Court of Farondis"
-                    ]
+                    ],
+                    "icon": "inv_glove_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Hood",
@@ -1550,7 +1570,8 @@
                         "Sold by Leyweaver Jorjana in Suramar",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Sold by Veridis Fallon in Azsuna\nRequires Exalted with Court of Farondis"
-                    ]
+                    ],
+                    "icon": "inv_helm_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Pantaloons",
@@ -1563,7 +1584,8 @@
                         "Reward from The Right Question in Stormheim",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
-                    ]
+                    ],
+                    "icon": "inv_pant_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Robe",
@@ -1576,7 +1598,8 @@
                         "Reward from Inspire Me! in Suramar",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Sold by Veridis Fallon in Azsuna\nRequires Exalted with Court of Farondis"
-                    ]
+                    ],
+                    "icon": "inv_robe_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Shade",
@@ -1589,7 +1612,8 @@
                         "Sold by Leyweave Inondra in Suramar",
                         "World drop from kvaldir on Broken Isles",
                         "World drop on Broken Isles"
-                    ]
+                    ],
+                    "icon": "inv_cape_legionendgame_c_01"
                 },
                 {
                     "name": "Imbued Silkweave Slippers",
@@ -1602,42 +1626,50 @@
                         "Sold by Leyweaver Yahpisteia in Highmountain",
                         "Sold by Lalla Brightweave in Dalaran",
                         "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
-                    ]
+                    ],
+                    "icon": "inv_boot_cloth_legionendgame_c_01"
                 },
                 {
                     "name": "Silkweave Satchel",
                     "spellID": 186388,
-                    "source": "Reward from Sew Far, Sew Good in Dalaran"
+                    "source": "Reward from Sew Far, Sew Good in Dalaran",
+                    "icon": "inv_tailoring_70_silkweavebag"
                 },
                 {
                     "name": "Imbued Silkweave",
                     "spellID": 185962,
-                    "source": "Reward from The Queen's Grace Loom in Suramar"
+                    "source": "Reward from The Queen's Grace Loom in Suramar",
+                    "icon": "inv_tailoring_70_silkweaveimbued"
                 },
                 {
                     "name": "Celumbra, the Night's Dichotomy",
                     "spellID": 239412,
-                    "source": "Learnt from a tailoring trainer"
+                    "source": "Learnt from a tailoring trainer",
+                    "icon": "inv_cloth_raidmage_p_01shoulder"
                 },
                 {
                     "name": "Bloodtotem Saddle Blanket",
                     "spellID": 220511,
-                    "source": "World drop from creatures on Broken Isles"
+                    "source": "World drop from creatures on Broken Isles",
+                    "icon": "inv_tailoring_70_saddleblanket"
                 },
                 {
                     "name": "Clothes Chest: Dalaran Citizens",
                     "spellID": 213035,
-                    "source": "Sold by Dazzik \"Proudmoore\" in Dalaran Sewers"
+                    "source": "Sold by Dazzik \"Proudmoore\" in Dalaran Sewers",
+                    "icon": "inv_tailoring_70_garmentrack_dalaran"
                 },
                 {
                     "name": "Clothes Chest: Karazhan Opera House",
                     "spellID": 213036,
-                    "source": "Dropped by Opera Event in Karazhan"
+                    "source": "Dropped by Opera Event in Karazhan",
+                    "icon": "inv_tailoring_70_garmentrack_opera"
                 },
                 {
                     "name": "Clothes Chest: Molten Core",
                     "spellID": 213037,
-                    "source": "Dropped by Ragnaros in Molten Core"
+                    "source": "Dropped by Ragnaros in Molten Core",
+                    "icon": "inv_tailoring_70_garmentrack_tier01"
                 },
                 {
                     "name": "Lightweave Breeches",
@@ -1650,7 +1682,8 @@
                         "Reward from Looking Over Me on Argus",
                         "Sold by Vindicator Jaelaana on Argus",
                         "Dropped by Portal Keeper Hasabel in Antorus, the Burning Throne"
-                    ]
+                    ],
+                    "icon": "inv_pant_cloth_raidpriestmythic_s_01"
                 }
             ]
         },
