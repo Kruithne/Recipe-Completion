@@ -1105,6 +1105,59 @@
             ]
         },
         {
+            "name": "Illusions",
+            "recipes": [
+                {
+                    "name": "Tome of Illusions: Pandaria",
+                    "spellID": 217650,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_offhand_1h_pandariatradeskill_c_01"
+                },
+                {
+                    "name": "Tome of Illusions: Cataclysm",
+                    "spellID": 217645,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_offhand_1h_deathwingraid_d_01"
+                },
+                {
+                    "name": "Tome of Illusions: Northrend",
+                    "spellID": 217644,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_offhand_pvp330_d_02"
+                },
+                {
+                    "name": "Tome of Illusions: Outland",
+                    "spellID": 217641,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_offhand_sunwell_d_01"
+                },
+                {
+                    "name": "Tome of Illusions: Azeroth",
+                    "spellID": 217637,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "inv_offhand_hyjal_d_01"
+                },
+                {
+                    "name": "Tome of Illusions: Draenor",
+                    "spellID": 217655,
+                    "source": "Sold by Bob in Stormshield (Alliance)\nSold by Ged'kah in Warspear (Horde)",
+                    "icon": "inv_offhand_1h_draenorcrafted_d_02c"
+                },
+                {
+                    "name": "Tome of Illusions: Secrets of the Shado-Pan",
+                    "spellID": 217651,
+                    "source": "Sold by Rushi the Fox in Townlong Steppes\nRequires Revered with Shado-Pan",
+                    "icon": "passive_monk_teachingsofmonastery"
+                },
+                {
+                    "name": "Tome of Illusions: Elemental Lords",
+                    "spellID": 217649,
+                    "source": "Reward from Controlling the Elements in Deepholm",
+                    "icon": "inv_misc_book_07"
+                }
+            ]
+        },
+        {
             "name": "World Drops (Classic)",
             "recipes": [
                 {
