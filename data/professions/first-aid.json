@@ -129,6 +129,48 @@
                     "spellID": 102698,
                     "source": "Learnt from a First Aid Trainer",
                     "icon": "inv_misc_bandage_05"
+                },
+                {
+                    "name": "Set Bone",
+                    "spellID": 211926,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bone_01"
+                },
+                {
+                    "name": "Stabilize",
+                    "spellID": 211696,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_bandage"
+                },
+                {
+                    "name": "Treat Burns",
+                    "spellID": 212067,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_firstaid_healingsalve"
+                },
+                {
+                    "name": "Treat Fever",
+                    "spellID": 211353,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_medicalkit"
+                },
+                {
+                    "name": "Silkweave Splint",
+                    "spellID": 202854,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_splint"
+                },
+                {
+                    "name": "Silvery Salve",
+                    "spellID": 221690,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_jar"
+                },
+                {
+                    "name": "Silkweave Bandage",
+                    "spellID": 202853,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_bandage"
                 }
             ]
         },
@@ -144,13 +186,19 @@
             ]
         },
         {
-            "name": "Argent Dawn",
+            "name": "Reputation",
             "recipes": [
                 {
                     "name": "Powerful Anti-Venom",
                     "spellID": 23787,
-                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Honored)",
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nRequires Honored with The Argent Dawn",
                     "icon": "inv_drink_14"
+                },
+                {
+                    "name": "Feathered Luffa",
+                    "spellID": 230047,
+                    "source": "Sold by Marin Bladewing in Azsuna\nRequires Honored with The Wardens",
+                    "icon": "inv_fabric_wool_01"
                 }
             ]
         },
