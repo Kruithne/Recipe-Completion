@@ -1420,7 +1420,7 @@
             ]
         },
         {
-            "name": "World Drops (Wrath of the Lich King)",
+            "name": "World Drops (Wrath)",
             "recipes": [
                 {
                     "name": "Angler",
@@ -2314,59 +2314,49 @@
             ]
         },
         {
-            "name": "Timbermaw Hold",
+            "name": "Reputation (Classic)",
             "recipes": [
                 {
                     "name": "Agility",
                     "spellID": 27837,
-                    "source": "Sold by Meilosh in Felwood (Requires Friendly)",
+                    "source": "Sold by Meilosh in Felwood\nRequires Friendly with Timbermaw Hold",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Agility",
                     "spellID": 23800,
-                    "source": "Sold by Meilosh in Felwood (Requires Honored)",
+                    "source": "Sold by Meilosh in Felwood\nRequires Honored with Timbermaw Hold",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "Argent Dawn",
-            "recipes": [
+                },
                 {
                     "name": "Mana Regeneration",
                     "spellID": 23801,
-                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Honored)",
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nRequires Honored with Argent Dawn",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Healing Power",
                     "spellID": 23802,
-                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Revered)",
+                    "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nRequires Revered with Argent Dawn",
                     "icon": "spell_holy_greaterheal"
                 }
             ]
         },
         {
-            "name": "The Sha'tar",
+            "name": "Reputation (Burning Crusade)",
             "recipes": [
                 {
                     "name": "Major Healing",
                     "spellID": 33999,
-                    "source": "Sold by Almaador in Shattrath City (Requires Honored)",
+                    "source": "Sold by Almaador in Shattrath City\nRequires Honored with The Sha'tar",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "Major Healing",
                     "spellID": 34010,
-                    "source": "Sold by Almaador in Shattrath City (Requires Revered)",
+                    "source": "Sold by Almaador in Shattrath City\nRequires Revered with The Sha'tar",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "Honor Hold \/ Thrallmar",
-            "recipes": [
+                },
                 {
                     "name": "Superior Healing",
                     "spellID": 27911,
@@ -2378,78 +2368,53 @@
                     "spellID": 27960,
                     "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "The Consortium",
-            "recipes": [
+                },
                 {
                     "name": "Major Striking",
                     "spellID": 27967,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Honored)\nSold by Paulsta'ats in Nagrand (Requires Honored)",
+                    "source": "Sold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand\nRequires Honored with The Consortium",
                     "icon": "spell_holy_greaterheal"
                 },
                 {
                     "name": "PvP Power",
                     "spellID": 34003,
-                    "source": "Sold by Karaaz in Netherstorm (Requires Friendly)\nSold by Paulsta'ats in Nagrand (Requires Friendly)",
+                    "source": "Sold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand\nRequires Friendly with The Consortium",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "Cenarion Expedition",
-            "recipes": [
+                },
                 {
                     "name": "Precise Strikes",
                     "spellID": 33994,
-                    "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Revered)",
+                    "source": "Sold by Fedryen Swiftspear in Zangarmarsh\nRequires Revered with Cenarion Expedition",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "Keepers of Time",
-            "recipes": [
+                },
                 {
                     "name": "Major Spellpower",
                     "spellID": 33997,
-                    "source": "Sold by Alurmi in Caverns of Time (Requires Honored)",
+                    "source": "Sold by Alurmi in Caverns of Time\nRequires Honored with Keepers of Time",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "The Violet Eye",
-            "recipes": [
+                },
                 {
                     "name": "Greater Agility",
                     "spellID": 42620,
-                    "source": "Sold by Apprentice Darius in Deadwind Pass (Requires Exalted)",
+                    "source": "Sold by Apprentice Darius in Deadwind Pass\nRequires Exalted with The Violet Eye",
                     "icon": "spell_holy_greaterheal"
-                }
-            ]
-        },
-        {
-            "name": "Shattered Sun Offensive",
-            "recipes": [
+                },
                 {
                     "name": "Void Shatter",
                     "spellID": 45765,
-                    "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas (Requires Honored)",
+                    "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas\nRequires Honored with Shattered Sun Offensive",
                     "icon": "inv_enchant_shardprismaticlarge"
                 },
                 {
                     "name": "Dodge",
                     "spellID": 46594,
-                    "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas (Requires Honored)",
+                    "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas\nRequires Honored with Shattered Sun Offensive",
                     "icon": "spell_holy_greaterheal"
                 }
             ]
         },
         {
-            "name": "The August Celestials",
+            "name": "Reputation (Pandaria)",
             "recipes": [
                 {
                     "name": "Super Intellect",
@@ -2468,34 +2433,29 @@
                     "spellID": 104391,
                     "source": "Requires Revered with The August Celestials\nSold by Sage Lotusbloom in Vale of Eternal Blossoms (Horde)\nSold by Sage Whiteheart in Vale of Eternal Blossoms (Alliance)",
                     "icon": "trade_engraving"
-                }
-            ]
-        },
-        {
-            "name": "Shado-Pan",
-            "recipes": [
+                },
                 {
                     "name": "Jade Spirit",
                     "spellID": 104427,
-                    "source": "Sold by Rushi the Fox in Townlong Steppes (Requires Revered)",
+                    "source": "Sold by Rushi the Fox in Townlong Steppes\nRequires Revered with Shado-Pan",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "Dancing Steel",
                     "spellID": 104434,
-                    "source": "Sold by Rushi the Fox in Townlong Steppes (Requires Revered)",
+                    "source": "Sold by Rushi the Fox in Townlong Steppes\nRequires Revered with Shado-Pan",
                     "icon": "trade_engraving"
                 },
                 {
                     "name": "River's Song",
                     "spellID": 104442,
-                    "source": "Sold by Rushi the Fox in Townlong Steppes (Requires Revered)",
+                    "source": "Sold by Rushi the Fox in Townlong Steppes\nRequires Revered with Shado-Pan",
                     "icon": "trade_engraving"
                 }
             ]
         },
         {
-            "name": "Midsummer Fire Festival",
+            "name": "Midsummer",
             "recipes": [
                 {
                     "name": "Deathfrost",
