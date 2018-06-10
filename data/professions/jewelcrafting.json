@@ -1129,6 +1129,545 @@
             ]
         },
         {
+            "name": "Legion",
+            "recipes": [
+                {
+                    "name": "Ancient Maelstrom Amulet",
+                    "spellID": [
+                        195873,
+                        195919,
+                        195940
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_blue"
+                },
+                {
+                    "name": "Azsunite Loop",
+                    "spellID": [
+                        195858,
+                        195904,
+                        195925
+                    ],
+                    "source": [
+                        "Reward from Finishing Touches",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Azsunite Loop in Dalaran"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupring_yellow"
+                },
+                {
+                    "name": "Azsunite Pendant",
+                    "spellID": [
+                        195861,
+                        195907,
+                        195928
+                    ],
+                    "source": [
+                        "Reward from Bruls Before Jeweles in Val'sharah",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Azsunite Pendant in Azsuna"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupneck_yellow"
+                },
+                {
+                    "name": "Blessed Dawnlight Medallion",
+                    "spellID": [
+                        195866,
+                        195912,
+                        195933
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Dropped by Helya in Maw of Souls (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_yellow"
+                },
+                {
+                    "name": "Dawnlight Band",
+                    "spellID": [
+                        195864,
+                        195910,
+                        195931
+                    ],
+                    "source": [
+                        "Reward from The Raven's Wisdom in Dalaran",
+                        "Dropped by Wrath of Azshara in Eye of Azshara",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlring_yellow"
+                },
+                {
+                    "name": "Deep Amber Loop",
+                    "spellID": [
+                        195856,
+                        195902,
+                        195923
+                    ],
+                    "source": [
+                        "Reward from Finishing Touches",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Deep Amber Loop in Val'sharah"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupring_orange"
+                },
+                {
+                    "name": "Deep Amber Pendant",
+                    "spellID": [
+                        195859,
+                        195905,
+                        195926
+                    ],
+                    "source": [
+                        "Reward from Finishing Touches",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Deep Amber Loop in Val'sharah"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupneck_orange"
+                },
+                {
+                    "name": "Grim Furystone Gorget",
+                    "spellID": [
+                        195876,
+                        195922,
+                        195943
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Dropped by Dantalionax in Black Rook Hold"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_red"
+                },
+                {
+                    "name": "Intrepid Necklace of Prophecy",
+                    "spellID": [
+                        195872,
+                        195918,
+                        195939
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Dropped by Dargrul in Neltharion's Lair (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_orange"
+                },
+                {
+                    "name": "Maelstrom Band",
+                    "spellID": [
+                        195863,
+                        195909,
+                        195930
+                    ],
+                    "source": [
+                        "Reward from Jewel of the Heavens in Dalaran",
+                        "Drops in Assault on Violet Hold",
+                        "Obtained from fishing in Suramar"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlring_blue"
+                },
+                {
+                    "name": "Prophetic Band",
+                    "spellID": [
+                        195862,
+                        195908,
+                        195929
+                    ],
+                    "source": [
+                        "Reward from Spiriting Away in Dalaran",
+                        "Reward from Withered Army Training",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Exalted with Highmountain Tribe"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlring_orange"
+                },
+                {
+                    "name": "Queen's Opal Loop",
+                    "spellID": [
+                        209603,
+                        209606,
+                        209609
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Queen's Opal Loop in Stormheim"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupring_purple"
+                },
+                {
+                    "name": "Queen's Opal Pendant",
+                    "spellID": [
+                        209604,
+                        209607,
+                        209610
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Queen's Opal Pendant in Suramar"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupneck_purple"
+                },
+                {
+                    "name": "Raging Furystone Gorget",
+                    "spellID": [
+                        195875,
+                        195921,
+                        195942
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Dropped by Odyn in Halls of Valor (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_red"
+                },
+                {
+                    "name": "Righteous Dawnlight Medallion",
+                    "spellID": [
+                        195874,
+                        195920,
+                        195941
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier",
+                        "Dropped by Advisor Melandrus in Court of Stars (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_yellow"
+                },
+                {
+                    "name": "Shadowruby Band",
+                    "spellID": [
+                        209605,
+                        209608,
+                        209611
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Dropped by Dargrul in Neltharion's Lair",
+                        "Obtained from Highmountain Tauren archaeology digites"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlring_purple"
+                },
+                {
+                    "name": "Skystone Loop",
+                    "spellID": [
+                        195857,
+                        195903,
+                        195924
+                    ],
+                    "source": [
+                        "Reward from Finishing Touches",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Sold by Ransa Greyfeather in Highmountain\nRequires Honored with Highmountain Tribe"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupring_blue"
+                },
+                {
+                    "name": "Skystone Pendant",
+                    "spellID": [
+                        195860,
+                        195906,
+                        195927
+                    ],
+                    "source": [
+                        "Reward from Bruls Before Jewels in Val'sharah",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Reward from Work Order: Skystone Pendant in Highmountain"
+                    ],
+                    "icon": "inv_jewelcrafting_70_lvlupneck_blue"
+                },
+                {
+                    "name": "Sorcerous Shadowruby Pendant",
+                    "spellID": [
+                        195865,
+                        195911,
+                        195932
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Dazzik \"Proudmoore\" in Dalaran Sewers",
+                        "Dropped by Calamir in Azsuna"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_purple"
+                },
+                {
+                    "name": "Subtle Shadowruby Pendant",
+                    "spellID": [
+                        195868,
+                        195914,
+                        195935
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by The Widow in Dalaran Sewers",
+                        "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_purple"
+                },
+                {
+                    "name": "Sylvan Maelstrom Amulet",
+                    "spellID": [
+                        195871,
+                        195917,
+                        195938
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Dropped by Shade of Xavius in Darkheart Thicket (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_blue"
+                },
+                {
+                    "name": "Tranquil Necklace of Prophecy",
+                    "spellID": [
+                        195869,
+                        195915,
+                        195936
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Tiffany Cartier in Dalaran",
+                        "Dropped by Advisor Vandros in The Arcway (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_orange"
+                },
+                {
+                    "name": "Twisted Pandemonite Choker",
+                    "spellID": [
+                        195867,
+                        195913,
+                        195934
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Matthew Rabis in Dalaran Sewers",
+                        "Sold by Marin Bladewing in Azsuna\nRequires Exalted with Azsuna"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_green"
+                },
+                {
+                    "name": "Vindictive Pandemonite Choker",
+                    "spellID": [
+                        195870,
+                        195916,
+                        195937
+                    ],
+                    "source": [
+                        "Sold by Jabrul in Dalaran",
+                        "Sold by Oxana Demonslay in Dalaran Sewers",
+                        "Dropped by Cordana Felsong in Vault of the Wardens (Heroic)"
+                    ],
+                    "icon": "inv_jewelcrafting_70_maxlvlneck_green"
+                },
+                {
+                    "name": "Versatile Maelstrom Sapphire",
+                    "spellID": 195854,
+                    "source": "",
+                    "icon": "inv_jewelcrafting_70_cutgem03_blue"
+                },
+                {
+                    "name": "Versatile Skystone",
+                    "spellID": 195850,
+                    "source": "Reward from Lapidary Lessons in Dalaran",
+                    "icon": "inv_jewelcrafting_70_cutgem02_blue"
+                },
+                {
+                    "name": "Saber's Eye of Agility",
+                    "spellID": 195879,
+                    "source": "Sold by Jabrul in Dalaran",
+                    "icon": "inv_jewelcrafting_70_saberseye"
+                },
+                {
+                    "name": "Saber's Eye of Intellect",
+                    "spellID": 195880,
+                    "source": "Sold by Jabrul in Dalaran",
+                    "icon": "inv_jewelcrafting_70_saberseye"
+                },
+                {
+                    "name": "Saber's Eye of Strength",
+                    "spellID": 195878,
+                    "source": "Sold by Jabrul in Dalaran",
+                    "icon": "inv_jewelcrafting_70_saberseye"
+                },
+                {
+                    "name": "Saber's Eye",
+                    "spellID": 195877,
+                    "source": "Sold by Jabrul in Dalaran",
+                    "icon": "inv_jewelcrafting_70_saberseye"
+                },
+                {
+                    "name": "Quick Azsunite",
+                    "spellID": 195849,
+                    "source": "Reward from Making the Cut",
+                    "icon": "inv_jewelcrafting_70_cutgem02_yellow"
+                },
+                {
+                    "name": "Quick Dawnlight",
+                    "spellID": 195853,
+                    "source": "Reward from Eyes of Nashal",
+                    "icon": "inv_jewelcrafting_70_cutgem03_yellow"
+                },
+                {
+                    "name": "Mass Prospect Felslate",
+                    "spellID": 225904,
+                    "source": "Discovered by prospecting felslate",
+                    "icon": "inv_felslate"
+                },
+                {
+                    "name": "Mass Prospect Leystone",
+                    "spellID": 225902,
+                    "source": "Discovered by prospecting leystone",
+                    "icon": "inv_leystone"
+                },
+                {
+                    "name": "Masterful Argulite",
+                    "spellID": 247773,
+                    "source": "",
+                    "icon": "inv_jewelcrafting_argusgemcut_purple_miscicons"
+                },
+                {
+                    "name": "Masterful Queen's Opal",
+                    "spellID": 195851,
+                    "source": "Reward from Making the Cut",
+                    "icon": "inv_jewelcrafting_70_cutgem02_purple"
+                },
+                {
+                    "name": "Deadly Deep Amber",
+                    "spellID": 195848,
+                    "source": "Reward from Making the Cut",
+                    "icon": "inv_jewelcrafting_70_cutgem02_orange"
+                },
+                {
+                    "name": "Deadly Eye of Prophecy",
+                    "spellID": 195852,
+                    "source": "Reward from Eyes of Nashal",
+                    "icon": "inv_jewelcrafting_70_cutgem03_orange"
+                },
+                {
+                    "name": "Jeweled Lockpick",
+                    "spellID": 195881,
+                    "source": "Reward from Hidden Intentions in Dalaran",
+                    "icon": "inv_jewelcrafting_70_jeweledlockpick"
+                }
+            ]
+        },
+        {
+            "name": "Toys",
+            "recipes": [
+                {
+                    "name": "JewelCraft",
+                    "spellID": 195882,
+                    "source": "Reward from Socket to Me in Dalaran",
+                    "icon": "inv_jewelcrafting_70_jeweltoy"
+                },
+                {
+                    "name": "Chatterstone",
+                    "spellID": 195883,
+                    "source": "Reward from Mysterious of Nature in Stormheim",
+                    "icon": "inv_jewelcrafting_70_songcrystal"
+                }
+            ]
+        },
+        {
+            "name": "Argus",
+            "recipes": [
+                {
+                    "name": "Empyrial Cosmic Crown",
+                    "spellID": [
+                        247751,
+                        247754,
+                        247755
+                    ],
+                    "source": [
+                        "Reward from A Crowning Achievement on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Shatug in Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_helm_crown_c_02"
+                },
+                {
+                    "name": "Empyrial Deep Crown",
+                    "spellID": [
+                        247756,
+                        247757,
+                        247758
+                    ],
+                    "source": [
+                        "Reward from A Crowning Achievement on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Shatug in Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_helm_crown_c_02"
+                },
+                {
+                    "name": "Empyrial Elemental Crown",
+                    "spellID": [
+                        247762,
+                        247763,
+                        247764
+                    ],
+                    "source": [
+                        "Reward from A Crowning Achievement on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Shatug in Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_helm_crown_c_02"
+                },
+                {
+                    "name": "Empyrial Titan Crown",
+                    "spellID": [
+                        247765,
+                        247766,
+                        247767
+                    ],
+                    "source": [
+                        "Reward from A Crowning Achievement on Argus",
+                        "Sold by Vindicator Jaelaana on Argus",
+                        "Dropped by Shatug on Antorus, the Burning Throne"
+                    ],
+                    "icon": "inv_helm_crown_c_02"
+                },
+                {
+                    "name": "Versatile Labradorite",
+                    "spellID": 247774,
+                    "source": "Reward from A Colorful Key on Argus",
+                    "icon": "inv_jewelcrafting_argusgemcut_blue_miscicons"
+                },
+                {
+                    "name": "Quick Lightsphene",
+                    "spellID": 247772,
+                    "source": "Reward from A Colorful Key on Argus",
+                    "icon": "inv_jewelcrafting_argusgemcut_yellow_miscicons"
+                },
+                {
+                    "name": "Mass Prospect Empyrium",
+                    "spellID": 247761,
+                    "source": "Sold by Vindicator Jaelaana on Argus",
+                    "icon": "inv_misc_starmetal"
+                },
+                {
+                    "name": "Masterful Shadowruby",
+                    "spellID": 195855,
+                    "source": "Reward from A Colorful Key on Argus",
+                    "icon": "inv_jewelcrafting_70_cutgem03_purple"
+                },
+                {
+                    "name": "Deadly Deep Chemirine",
+                    "spellID": 247771,
+                    "source": "Reward from A Colorful Key on Argus",
+                    "icon": "inv_jewelcrafting_argusgemcut_orange_miscicons"
+                }
+            ]
+        },
+        {
             "name": "Mai the Jade Shaper (Trainer)",
             "recipes": [
                 {
