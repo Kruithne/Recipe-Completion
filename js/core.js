@@ -101,7 +101,7 @@ $(function() {
 					recipe.addClass('gnomish-engineering');
 
 				var spellID = recipeData.spellID;
-				if (Array.isArray(spellID)) {	
+				if (Array.isArray(spellID)) {
 					var knownRanks = 0;
 					var sourceString = recipeData.name;
 
