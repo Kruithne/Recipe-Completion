@@ -1774,6 +1774,17 @@
             ]
         },
         {
+            "name": "Mounts",
+            "recipes": [
+                {
+                    "name": "Fel Core Hound Harness",
+                    "spellID": 213916,
+                    "source": "Dropped by Tichondrius in The Nighthold",
+                    "icon": "inv_belt_45"
+                }
+            ]
+        },
+        {
             "name": "Pandaria Trainer",
             "recipes": [
                 {
