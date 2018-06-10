@@ -131,30 +131,6 @@
                     "icon": "inv_misc_bandage_05"
                 },
                 {
-                    "name": "Set Bone",
-                    "spellID": 211926,
-                    "source": "Learnt from a First Aid Trainer",
-                    "icon": "inv_misc_bone_01"
-                },
-                {
-                    "name": "Stabilize",
-                    "spellID": 211696,
-                    "source": "Learnt from a First Aid Trainer",
-                    "icon": "inv_first_aid_70_bandage"
-                },
-                {
-                    "name": "Treat Burns",
-                    "spellID": 212067,
-                    "source": "Learnt from a First Aid Trainer",
-                    "icon": "inv_firstaid_healingsalve"
-                },
-                {
-                    "name": "Treat Fever",
-                    "spellID": 211353,
-                    "source": "Learnt from a First Aid Trainer",
-                    "icon": "inv_first_aid_70_medicalkit"
-                },
-                {
                     "name": "Silkweave Splint",
                     "spellID": 202854,
                     "source": "Learnt from a First Aid Trainer",
@@ -228,6 +204,39 @@
                     "spellID": 172542,
                     "source": "Learnt with Draenor First Aid",
                     "icon": "inv_firstaid_healingsalve2"
+                }
+            ]
+        },
+        {
+            "name": "Medic (Untrackable)",
+            "recipes": [
+                {
+                    "name": "Set Bone",
+                    "spellID": 211926,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_misc_bone_01",
+                    "broken": true
+                },
+                {
+                    "name": "Stabilize",
+                    "spellID": 211696,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_bandage",
+                    "broken": true
+                },
+                {
+                    "name": "Treat Burns",
+                    "spellID": 212067,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_firstaid_healingsalve",
+                    "broken": true
+                },
+                {
+                    "name": "Treat Fever",
+                    "spellID": 211353,
+                    "source": "Learnt from a First Aid Trainer",
+                    "icon": "inv_first_aid_70_medicalkit",
+                    "broken": true
                 }
             ]
         }
