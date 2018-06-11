@@ -3098,56 +3098,56 @@
                 {
                     "name": "Leather Gauntlets of the Sun",
                     "spellID": 46132,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_24",
                     "iconIndex": 18
                 },
                 {
                     "name": "Fletcher's Gloves of the Phoenix",
                     "spellID": 46133,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_59",
                     "iconIndex": 270
                 },
                 {
                     "name": "Gloves of Immortal Dusk",
                     "spellID": 46134,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_28",
                     "iconIndex": 271
                 },
                 {
                     "name": "Sun-Drenched Scale Gloves",
                     "spellID": 46135,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_61",
                     "iconIndex": 272
                 },
                 {
                     "name": "Leather Chestguard of the Sun",
                     "spellID": 46136,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_chest_leather_01",
                     "iconIndex": 100
                 },
                 {
                     "name": "Embrace of the Phoenix",
                     "spellID": 46137,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_chest_chain_17",
                     "iconIndex": 273
                 },
                 {
                     "name": "Carapace of Sun and Shadow",
                     "spellID": 46138,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_chest_plate02",
                     "iconIndex": 274
                 },
                 {
                     "name": "Sun-Drenched Scale Chestguard",
                     "spellID": 46139,
-                    "source": "Learnt from a Blacksmithing Trainer",
+                    "source": "Drops in Sunwell Plateau",
                     "icon": "inv_chest_mail_04",
                     "iconIndex": 275
                 }
