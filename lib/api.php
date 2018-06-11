@@ -318,7 +318,7 @@
 		 * @param array|null $params
 		 * @return string
 		 */
-		public function formatEndpointURL($endpoint, $params = null) {
+		private function formatEndpointURL($endpoint, $params = null) {
 			$url = sprintf($this->selectedRegionURL, $endpoint);
 
 			if (is_array($params))
