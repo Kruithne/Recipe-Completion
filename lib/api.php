@@ -185,7 +185,9 @@
 			}
 
 			$res = $this->requestEndpoint(sprintf(ENDPOINT_CHARACTER, $realm, urlencode($character)), ['fields' => 'professions']);
-			file_put_json($characterFile, ['cacheTime' => time(), 'data' => $res]);
+
+			if ($res)
+				file_put_json($characterFile, ['cacheTime' => time(), 'data' => $res]);
 
 			return $res;
 		}
