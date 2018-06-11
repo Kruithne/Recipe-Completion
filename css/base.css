@@ -150,6 +150,48 @@ body {
 	cursor: pointer;
 }
 
+#export-panel {
+	position: fixed;
+	top: 100px;
+	bottom: 100px;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+	display: none;
+}
+
+#export-container {
+	display: flex;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0, 0, 0, 0.9);
+	flex-direction: column;
+}
+
+#export-close {
+	color: white;
+	text-shadow: 3px 3px 2px black;
+	font-size: 2em;
+	cursor: pointer;
+	margin-top: 20px;
+}
+
+#export {
+	color: white;
+	border: 1px solid rgba(255, 255, 255, 0.3);
+	box-shadow: 0 0 10px black inset;
+	background: rgba(0, 0, 0, 0.6);
+	width: 90%;
+	height: 80%;
+	resize: none;
+	padding: 15px;
+}
+
 #profession-display {
 	position: fixed;
 	top: 100px;

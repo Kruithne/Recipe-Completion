@@ -49,6 +49,7 @@ $(function() {
 	var professionDisplay = $('#profession-display');
 
 	var clearProfessions = function() {
+		exportBox.val('');
 		background.animate({ opacity: 0.5 }, 1000);
 		professionDisplay.empty();
 	};
@@ -68,6 +69,8 @@ $(function() {
 		var progressBarInner = $('<div/>').addClass('inner').appendTo(progressBar);
 		var progressBarText = $('<div/>').addClass('shadow').appendTo(progressBar);
 
+		container.attr('data-name', data.name);
+
 		var isEngineering = data.name === 'Engineering';
 		var hasGoblinEngineering = false;
 		var hasGnomishEngineering = false;
@@ -83,10 +86,14 @@ $(function() {
 			var isGoblinEngineering = isEngineering && sectionData.name === 'Goblin Engineering';
 			var isGnomishEngineering = isEngineering && sectionData.name === 'Gnomish Engineering';
 
+			section.attr('data-name', sectionData.name);
+
 			for (var r = 0; r < sectionData.recipes.length; r++) {
 				var recipeData = sectionData.recipes[r];
 				var recipe = $('<div/>').addClass('icon').appendTo(section);
 				var background = $('<div/>').addClass('background').appendTo(recipe);
+
+				var recipeName = recipeData.name;
 				var recipeWorth = 1;
 
 				background.css('background-image', 'url(images/' + data.image + ')');
@@ -109,7 +116,8 @@ $(function() {
 					}
 
 					var displayRank = Math.min(knownRanks, spellID.length - 1);
-					recipe.attr('data-tooltip', recipeData.name + ' (Rank ' + (displayRank + 1) + ')\n' + recipeData.source[displayRank]);
+					recipeName = recipeData.name + ' (Rank ' + (displayRank + 1 ) + ')';
+					recipe.attr('data-tooltip', recipeName + '\n' + recipeData.source[displayRank]);
 					totalObtainedCount += knownRanks;
 					recipeWorth = knownRanks;
 
@@ -124,7 +132,7 @@ $(function() {
 						recipe.addClass('unknown');
 					}
 				} else {
-					recipe.attr('data-tooltip', recipeData.name + '\n' + recipeData.source);
+					recipe.attr('data-tooltip', recipeName + '\n' + recipeData.source);
 
 					if (recipeIsKnown(spellID, recipes)) {
 						recipe.addClass('known');
@@ -138,6 +146,8 @@ $(function() {
 						recipe.addClass('unknown');
 					}
 				}
+
+				recipe.attr('data-name', recipeName);
 
 				var isInvalid = false;
 				if (typeof(recipeData.faction) !== 'undefined' && recipeData.faction !== character.faction)
@@ -392,5 +402,39 @@ $(function() {
 	// Wait for the background image to load before displaying.
 	loadImage('images/recipe-background.jpg', function(url) {
 		background.css('background-image', 'url(' + url + ')').fadeIn(1000);
+	});
+
+	// Register click listener for the export navigation button
+	var exportWindow = $('#export-panel');
+	var exportBox = $('#export');
+	$('#nav-export').on('click', function() {
+		var exportText = '';
+
+		$('.profession').each(function() {
+			var profession = $(this);
+			exportText += profession.attr('data-name') + '\n';
+
+			profession.find('.profession-block').each(function() {
+				var section = $(this);
+				var recipes = section.find('.icon.unknown,.icon.incomplete');
+
+				if (recipes.length > 0) {
+					exportText += '\t' + section.attr('data-name') + '\n';
+					recipes.each(function() {
+						var recipe = $(this);
+						if (!recipe.hasClass('invalid'))
+							exportText += '\t\t' + $(this).attr('data-name') + '\n';
+					});
+				}
+			});
+		});
+
+		exportBox.val(exportText);
+		exportWindow.show().css('display', 'flex');
+	});
+
+	// Register click listener for the export 'Close' button
+	$('#export-close').on('click', function() {
+		exportWindow.hide();
 	});
 });
