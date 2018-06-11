@@ -261,7 +261,7 @@
 				return false;
 
 			$characterNameLength = strlen($characterName);
-			if ($characterNameLength < 2 || $characterNameLength > 12)
+			if ($characterNameLength < 2 || $characterNameLength > 24)
 				return false;
 
 			return true;
