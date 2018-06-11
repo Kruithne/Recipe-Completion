@@ -93,6 +93,10 @@ $(function() {
 				var recipe = $('<div/>').addClass('icon').appendTo(section);
 				var background = $('<div/>').addClass('background').appendTo(recipe);
 
+				recipe.on('click', function() {
+					window.location.href = 'http://www.wowhead.com/spell=' + recipeData.spellID;
+				});
+
 				var recipeName = recipeData.name;
 				var recipeWorth = 1;
 
@@ -389,7 +393,7 @@ $(function() {
 					// Prepare primary professions..
 					for (var p = 0; p < professions.primary.length; p++)
 						prepareProfession(professions.primary[p], data.character);
-					
+
 					// Prepare secondary professions..
 					for (var s = 0; s < professions.secondary.length; s++)
 						prepareProfession(professions.secondary[s], data.character);
