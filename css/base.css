@@ -52,6 +52,7 @@ body {
 	top: 100px;
 	background: rgba(0, 0, 0, 0.81);
 	height: 50px;
+	z-index: 49;
 }
 
 #status.error {
