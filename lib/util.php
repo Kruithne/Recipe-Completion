@@ -37,7 +37,8 @@
 			return null;
 
 		// Remove invalid characters.
-		$value = preg_replace('/[^\p{L}-]/', '', $value);
+		$value = mb_ereg_replace("([^\w\s\d\-_~,;\[\]\(\).])", '', $value);
+		$value = mb_ereg_replace("([\.]{2,})", '', $value);
 
 		return strtolower(trim($value));
 	}

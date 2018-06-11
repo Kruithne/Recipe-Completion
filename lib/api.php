@@ -169,7 +169,7 @@
 		 */
 		public function getCharacter($character, $realm) {
 			$realmDir = sprintf(CHAR_DATA_DIR, $this->getSelectedRegionID(), $realm);
-			$characterFile = sprintf(CHAR_FILE, $realmDir, $character);
+			$characterFile = sprintf(CHAR_FILE, $realmDir, urlencode($character));
 
 			// Check if we have this character cached on disk.
 			if (file_exists($characterFile)) {
@@ -184,7 +184,7 @@
 					mkdir($realmDir);
 			}
 
-			$res = $this->requestEndpoint(sprintf(ENDPOINT_CHARACTER, $realm, $character), ['fields' => 'professions']);
+			$res = $this->requestEndpoint(sprintf(ENDPOINT_CHARACTER, $realm, urlencode($character)), ['fields' => 'professions']);
 			file_put_json($characterFile, ['cacheTime' => time(), 'data' => $res]);
 
 			return $res;
@@ -318,12 +318,12 @@
 		 * @param array|null $params
 		 * @return string
 		 */
-		private function formatEndpointURL($endpoint, $params = null) {
+		public function formatEndpointURL($endpoint, $params = null) {
 			$url = sprintf($this->selectedRegionURL, $endpoint);
 
 			if (is_array($params))
 				foreach ($params as $key => $value)
-					$url .= sprintf(URL_PARAM, $key, $value);
+					$url .= sprintf(URL_PARAM, $key, urlencode($value));
 
 			return $url;
 		}

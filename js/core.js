@@ -383,15 +383,19 @@ $(function() {
 				hideStatus();
 				clearProfessions();
 
-				var professions = data.character.professions;
+				if (data.character !== null) {
+					var professions = data.character.professions;
 
-				// Prepare primary professions..
-				for (var p = 0; p < professions.primary.length; p++)
-					prepareProfession(professions.primary[p], data.character);
-
-				// Prepare secondary professions..
-				for (var s = 0; s < professions.secondary.length; s++)
-					prepareProfession(professions.secondary[s], data.character);
+					// Prepare primary professions..
+					for (var p = 0; p < professions.primary.length; p++)
+						prepareProfession(professions.primary[p], data.character);
+					
+					// Prepare secondary professions..
+					for (var s = 0; s < professions.secondary.length; s++)
+						prepareProfession(professions.secondary[s], data.character);
+				} else {
+					setErrorStatus('Character not found');
+				}
 			} else {
 				console.error(data.errorMessage);
 				setErrorStatus('Unable to retrieve character.');
