@@ -2873,13 +2873,6 @@
                     "iconIndex": 10
                 },
                 {
-                    "name": "Breath of Multistrike",
-                    "spellID": 158880,
-                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "trade_engraving",
-                    "iconIndex": 10
-                },
-                {
                     "name": "Breath of Versatility",
                     "spellID": 158881,
                     "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
@@ -2903,13 +2896,6 @@
                 {
                     "name": "Gift of Mastery",
                     "spellID": 158886,
-                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "trade_engraving",
-                    "iconIndex": 10
-                },
-                {
-                    "name": "Gift of Multistrike",
-                    "spellID": 158887,
                     "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -2943,13 +2929,6 @@
                     "iconIndex": 10
                 },
                 {
-                    "name": "Breath of Multistrike",
-                    "spellID": 158895,
-                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "trade_engraving",
-                    "iconIndex": 10
-                },
-                {
                     "name": "Gift of Critical Strike",
                     "spellID": 158899,
                     "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
@@ -2966,13 +2945,6 @@
                 {
                     "name": "Gift of Mastery",
                     "spellID": 158901,
-                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "trade_engraving",
-                    "iconIndex": 10
-                },
-                {
-                    "name": "Gift of Multistrike",
-                    "spellID": 158902,
                     "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -3001,13 +2973,6 @@
                 {
                     "name": "Gift of Mastery",
                     "spellID": 158916,
-                    "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
-                    "icon": "trade_engraving",
-                    "iconIndex": 10
-                },
-                {
-                    "name": "Gift of Multistrike",
-                    "spellID": 158917,
                     "source": "Purchased with Secrets of Draenor Enchanting\nSold by enchanting vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -3083,13 +3048,6 @@
                 {
                     "name": "Breath of Mastery",
                     "spellID": 158909,
-                    "source": "Learnt with Draenor Enchanting",
-                    "icon": "trade_engraving",
-                    "iconIndex": 10
-                },
-                {
-                    "name": "Breath of Multistrike",
-                    "spellID": 158910,
                     "source": "Learnt with Draenor Enchanting",
                     "icon": "trade_engraving",
                     "iconIndex": 10
