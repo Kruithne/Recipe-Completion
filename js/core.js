@@ -93,9 +93,7 @@ $(function() {
 				var recipe = $('<div/>').addClass('icon').appendTo(section);
 				var background = $('<div/>').addClass('background').appendTo(recipe);
 
-				recipe.on('click', function() {
-					window.location.href = 'http://www.wowhead.com/spell=' + recipeData.spellID;
-				});
+				background.html('<a class="icon-link" href="http://www.wowhead.com/spell=' + recipeData.spellID + '"></a>');
 
 				var recipeName = recipeData.name;
 				var recipeWorth = 1;
