@@ -3485,14 +3485,16 @@
                     "spellID": 4096,
                     "source": "Sold by Tunkk in Arathi Highlands (Horde)",
                     "icon": "inv_chest_leather_04",
-                    "iconIndex": 25
+                    "iconIndex": 25,
+                    "faction": 1
                 },
                 {
                     "name": "Raptor Hide Belt",
                     "spellID": 4097,
                     "source": "Sold by Androd Fadran in Arathi Highlands (Alliance)",
                     "icon": "inv_belt_02",
-                    "iconIndex": 83
+                    "iconIndex": 83,
+                    "faction": 0
                 },
                 {
                     "name": "Murloc Scale Belt",
