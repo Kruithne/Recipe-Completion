@@ -244,6 +244,15 @@ body {
 	text-shadow: 3px 3px 2px black;
 }
 
+.profession h1 input {
+	margin-left: 15px;
+	margin-right: 7px;
+}
+
+.profession h1 span {
+	font-size: 0.5em;
+}
+
 .profession-block {
 	display: inline-block;
 	padding: 0 10px;

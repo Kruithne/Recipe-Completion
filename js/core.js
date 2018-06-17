@@ -69,6 +69,33 @@ $(function() {
 		var progressBarInner = $('<div/>').addClass('inner').appendTo(progressBar);
 		var progressBarText = $('<div/>').addClass('shadow').appendTo(progressBar);
 
+		var checkbox = $('<input type="checkbox"/>').appendTo(header);
+		var checkboxText = $('<span/>').text('Hide known recipes').appendTo(header);
+
+		checkbox.on('change', function() {
+
+			if (checkbox.is(':checked')) {
+				container.children('.profession-block').each(function() {
+					var section = $(this);
+					var recipes = section.children('.icon');
+					var recipeCount = recipes.length;
+
+					var known = recipes.filter('.known');
+
+					if (checkbox.is(':checked')) {
+						known.hide();
+						if (known.length === recipeCount)
+							section.hide();
+					} else {
+						known.show();
+						section.show();
+					}
+				});
+			} else {
+				container.find('.icon, .profession-block').show();
+			}
+		});
+
 		container.attr('data-name', data.name);
 
 		var isEngineering = data.name === 'Engineering';
