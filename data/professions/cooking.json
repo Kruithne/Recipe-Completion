@@ -1,6 +1,7 @@
 {
     "name": "Cooking",
     "image": "cooking-icons.jpg",
+    "order": 2,
     "sections": [
         {
             "name": "Trainer",

@@ -62,8 +62,35 @@ $(function() {
 		return $.inArray(recipeID, recipes) > -1;
 	};
 
+	var sortProfessions = function() {
+		var displays = professionDisplay.children('.profession');
+		displays.sort(function(a, b) {
+			var aOrder = a.getAttribute('data-order');
+			var bOrder = b.getAttribute('data-order');
+
+			if (aOrder > bOrder)
+				return 1;
+
+			if (aOrder < bOrder)
+				return -1;
+
+			var aName = a.getAttribute('data-name');
+			var bName = b.getAttribute('data-name');
+
+			if (aName > bName)
+				return 1;
+
+			if (aName < bName)
+				return -1;
+
+			return 0;
+		});
+
+		displays.detach().appendTo(professionDisplay);
+	};
+
 	var renderProfession = function(data, recipes, character) {
-		var container = $('<div/>').addClass('profession').appendTo(professionDisplay);
+		var container = $('<div/>').addClass('profession').attr('data-order', data.order).attr('data-name', data.name).appendTo(professionDisplay);
 		var header = $('<h1/>').appendTo(container).text(data.name);
 		var progressBar = $('<div/>').addClass('profession-pct-bar').appendTo(container);
 		var progressBarInner = $('<div/>').addClass('inner').appendTo(progressBar);
@@ -205,6 +232,8 @@ $(function() {
 		var pct = (totalObtainedCount / totalAvailableCount) * 100;
 		progressBarText.text(totalObtainedCount + ' / ' + totalAvailableCount + ' (' + Math.floor(pct) + '%)');
 		progressBarInner.animate({ width: pct + '%' }, 500);
+
+		sortProfessions();
 	};
 
 	var preparing = 0;

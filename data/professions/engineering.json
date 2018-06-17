@@ -1,6 +1,7 @@
 {
     "name": "Engineering",
     "image": "engineering-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

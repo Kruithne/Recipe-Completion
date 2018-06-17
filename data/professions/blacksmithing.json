@@ -1,6 +1,7 @@
 {
     "name": "Blacksmithing",
     "image": "blacksmithing-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

@@ -1,6 +1,7 @@
 {
     "name": "Leatherworking",
     "image": "leatherworking-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

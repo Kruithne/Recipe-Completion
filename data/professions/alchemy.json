@@ -1,6 +1,7 @@
 {
     "name": "Alchemy",
     "image": "alchemy-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

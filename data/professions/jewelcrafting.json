@@ -1,6 +1,7 @@
 {
     "name": "Jewelcrafting",
     "image": "jewelcrafting-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

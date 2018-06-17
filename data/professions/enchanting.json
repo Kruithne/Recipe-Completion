@@ -1,6 +1,7 @@
 {
     "name": "Enchanting",
     "image": "enchanting-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

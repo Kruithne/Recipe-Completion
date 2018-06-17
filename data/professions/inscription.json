@@ -1,6 +1,7 @@
 {
     "name": "Inscription",
     "image": "inscription-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",

@@ -1,6 +1,7 @@
 {
     "name": "Tailoring",
     "image": "tailoring-icons.jpg",
+    "order": 1,
     "sections": [
         {
             "name": "Trainer",
