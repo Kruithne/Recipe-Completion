@@ -1724,13 +1724,6 @@
             "name": "Research: Ink of Dreams",
             "recipes": [
                 {
-                    "name": "Glyph of Crimson Banish",
-                    "spellID": 64250,
-                    "source": "Learnt by researching Ink of Dreams",
-                    "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 86
-                },
-                {
                     "name": "Glyph of Lesser Proportion",
                     "spellID": 58301,
                     "source": "Learnt by researching Ink of Dreams",
