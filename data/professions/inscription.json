@@ -1705,13 +1705,6 @@
                     "iconIndex": 84
                 },
                 {
-                    "name": "Glyph of Shadowy Friends",
-                    "spellID": 126800,
-                    "source": "Learnt by researching Celestial Ink",
-                    "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
-                },
-                {
                     "name": "Glyph of the Weaponmaster",
                     "spellID": 148292,
                     "source": "Learnt by researching Celestial Ink",
