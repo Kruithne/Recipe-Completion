@@ -1210,25 +1210,18 @@
                     "iconIndex": 70
                 },
                 {
-                    "name": "Mass Mill Astral Glory",
-                    "spellID": 247861,
-                    "source": "Sold by Toraan the Revered on Argus",
-                    "icon": "70_inscription_pigment_sallow",
-                    "iconIndex": 71
-                },
-                {
                     "name": "Mass Mill Dreamleaf",
                     "spellID": 209659,
                     "source": "Discovered from milling Dreamleaf\nMust have completed Mass Milling Techniques quest",
                     "icon": "inv_misc_herb_ragveilcap",
-                    "iconIndex": 72
+                    "iconIndex": 71
                 },
                 {
                     "name": "Mass Mill Felwort",
                     "spellID": 209664,
                     "source": "Discovered from milling Felwort\nMust have completed Mass Milling Techniques quest",
                     "icon": "70_inscription_pigment_sallow",
-                    "iconIndex": 71
+                    "iconIndex": 72
                 },
                 {
                     "name": "Mass Mill Fjarnskaggl",
@@ -1577,6 +1570,46 @@
                     ],
                     "icon": "70_inscription_vantus_rune_tomb",
                     "iconIndex": 78
+                }
+            ]
+        },
+        {
+            "name": "Argus",
+            "recipes": [
+                {
+                    "name": "Mass Mill Astral Glory",
+                    "spellID": 247861,
+                    "source": "Sold by Toraan the Revered on Argus",
+                    "icon": "70_inscription_pigment_sallow",
+                    "iconIndex": 72
+                },
+                {
+                    "name": "Glyph of Dark Absolution",
+                    "spellID": 254238,
+                    "source": "Dropped in The Seat of the Triumvirate",
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 79
+                },
+                {
+                    "name": "Glyph of the Voidling",
+                    "spellID": 254231,
+                    "source": "Dropped by Ataxon in Mac'Aree",
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 79
+                },
+                {
+                    "name": "Glyph of the Lightspawn",
+                    "spellID": 254227,
+                    "source": "Sold by Vindicator Jaelaana\nRequires Friendly with Army of the Light",
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 79
+                },
+                {
+                    "name": "Glyph of Fel-Touched Shards",
+                    "spellID": 246999,
+                    "source": "Dropped by Inquisitor Verthroz in Antoran Wastes",
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 80
                 },
                 {
                     "name": "Vantus Rune: Antorus, the Burning Throne",
@@ -1591,7 +1624,7 @@
                         "Zone drop in Antorus, the Burning Throne"
                     ],
                     "icon": "achievement_dungeon_outland_dungeonmaster",
-                    "iconIndex": 79
+                    "iconIndex": 81
                 }
             ]
         },
@@ -1603,14 +1636,14 @@
                     "spellID": 192838,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 },
                 {
                     "name": "Glyph of Fel Imp",
                     "spellID": 192839,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 81
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Sparkles",
@@ -1736,7 +1769,7 @@
                     "spellID": 225554,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 81
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of the Blazing Savior",
@@ -1751,6 +1784,18 @@
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorwarrior",
                     "iconIndex": 60
+                }
+            ]
+        },
+        {
+            "name": "World Drops",
+            "recipes": [
+                {
+                    "name": "Glyph of the Doe",
+                    "spellID": 225531,
+                    "source": "Drops from Stags, Fawns and Does in the Broken Isles",
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 84
                 }
             ]
         },
@@ -1816,7 +1861,7 @@
                     "spellID": 148278,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 }
             ]
         },
@@ -1861,7 +1906,7 @@
                     "spellID": 107907,
                     "source": "Learnt by researching Celestial Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 },
                 {
                     "name": "Glyph of the Weaponmaster",
@@ -1894,7 +1939,7 @@
                     "spellID": 126696,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 },
                 {
                     "name": "Glyph of Pillar of Light",
@@ -1920,7 +1965,7 @@
                     "spellID": 58341,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 81
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Mighty Victory",
@@ -1955,7 +2000,7 @@
                     "spellID": 64250,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 81
+                    "iconIndex": 80
                 }
             ]
         },
@@ -2009,14 +2054,14 @@
                     "spellID": 124466,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 },
                 {
                     "name": "Glyph of Shadowy Friends",
                     "spellID": 126800,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 }
             ]
         },
@@ -2028,14 +2073,14 @@
                     "spellID": 57263,
                     "source": "Learnt by researching Etheral Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 81
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of the Sha",
                     "spellID": 148276,
                     "source": "Learnt by researching Etheral Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 }
             ]
         },
@@ -2061,7 +2106,7 @@
                     "spellID": 148275,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 },
                 {
                     "name": "Glyph of Honor",
@@ -2087,7 +2132,7 @@
                     "spellID": 58320,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 80
+                    "iconIndex": 79
                 },
                 {
                     "name": "Glyph of Rising Tiger Kick",
