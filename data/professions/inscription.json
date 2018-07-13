@@ -1596,6 +1596,165 @@
             ]
         },
         {
+            "name": "Vendor",
+            "recipes": [
+                {
+                    "name": "Glyph of Ghostly Fade",
+                    "spellID": 192838,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorpriest",
+                    "iconIndex": 80
+                },
+                {
+                    "name": "Glyph of Fel Imp",
+                    "spellID": 192839,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 81
+                },
+                {
+                    "name": "Glyph of Sparkles",
+                    "spellID": 192840,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minormage",
+                    "iconIndex": 82
+                },
+                {
+                    "name": "Glyph of Blackout",
+                    "spellID": 192841,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorrogue",
+                    "iconIndex": 83
+                },
+                {
+                    "name": "Glyph of the Sentinel",
+                    "spellID": 192842,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 84
+                },
+                {
+                    "name": "Glyph of Crackling Crane Lightning",
+                    "spellID": 192843,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minormonk",
+                    "iconIndex": 85
+                },
+                {
+                    "name": "Glyph of the Spectral Raptor",
+                    "spellID": 192844,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorshaman",
+                    "iconIndex": 86
+                },
+                {
+                    "name": "Glyph of Stellar Fire",
+                    "spellID": 192845,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorhunter",
+                    "iconIndex": 87
+                },
+                {
+                    "name": "Glyph of the Queen",
+                    "spellID": 192846,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorpaladin",
+                    "iconIndex": 88
+                },
+                {
+                    "name": "Glyph of the Wraith Walker",
+                    "spellID": 192848,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minordeathknight",
+                    "iconIndex": 89
+                },
+                {
+                    "name": "Glyph of Cracked Ice",
+                    "spellID": 225522,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minordeathknight",
+                    "iconIndex": 89
+                },
+                {
+                    "name": "Glyph of the Crimson Shell",
+                    "spellID": 225525,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minordeathknight",
+                    "iconIndex": 89
+                },
+                {
+                    "name": "Glyph og Fel-Enemies",
+                    "spellID": 225528,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "70_inscription_glyph_demonhunter_minor",
+                    "iconIndex": 90
+                },
+                {
+                    "name": "Glyph of Mana Touched Souls",
+                    "spellID": 225529,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "70_inscription_glyph_demonhunter_minor",
+                    "iconIndex": 90
+                },
+                {
+                    "name": "Glyph of the Feral Chameleon",
+                    "spellID": 225532,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 84
+                },
+                {
+                    "name": "Glyph of the Autumnal Bloom",
+                    "spellID": 225534,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minordruid",
+                    "iconIndex": 84
+                },
+                {
+                    "name": "Glyph of the Bullseye",
+                    "spellID": 225537,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorhunter",
+                    "iconIndex": 87
+                },
+                {
+                    "name": "Glyph of the Dire Stable",
+                    "spellID": 225538,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorhunter",
+                    "iconIndex": 87
+                },
+                {
+                    "name": "Glyph of Yu'lon's Grace",
+                    "spellID": 225547,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minormonk",
+                    "iconIndex": 85
+                },
+                {
+                    "name": "Glyph of the Inquisitor's Eye",
+                    "spellID": 225554,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorwarlock",
+                    "iconIndex": 81
+                },
+                {
+                    "name": "Glyph of the Blazing Savior",
+                    "spellID": 225560,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
+                },
+                {
+                    "name": "Glyph of Falling Thunder",
+                    "spellID": 228381,
+                    "source": "Sold by Jang Quillpaw in Dalaran",
+                    "icon": "inv_glyph_minorwarrior",
+                    "iconIndex": 60
+                }
+            ]
+        },
+        {
             "name": "Research: Lion's Ink",
             "recipes": [
                 {
@@ -1603,7 +1762,7 @@
                     "spellID": 57209,
                     "source": "Learnt by researching Lion's Ink",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 80
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Blazing Trail",
@@ -1617,14 +1776,14 @@
                     "spellID": 148271,
                     "source": "Learnt by researching Lion's Ink",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 81
+                    "iconIndex": 82
                 },
                 {
                     "name": "Glyph of Spirit Raptors",
                     "spellID": 148281,
                     "source": "Learnt by researching Lion's Ink",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 82
+                    "iconIndex": 86
                 }
             ]
         },
@@ -1636,28 +1795,28 @@
                     "spellID": 56965,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 83
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Foul Menagerie",
                     "spellID": 57224,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 80
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Spectral Wolf",
                     "spellID": 58332,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 82
+                    "iconIndex": 86
                 },
                 {
                     "name": "Glyph of Inspired Hymns",
                     "spellID": 148278,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 }
             ]
         },
@@ -1669,21 +1828,21 @@
                     "spellID": 58312,
                     "source": "Learnt by researching Midnight ink",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 85
+                    "iconIndex": 88
                 },
                 {
                     "name": "Glyph of the Skeleton",
                     "spellID": 148266,
                     "source": "Learnt by researching Midnight ink",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 80
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Lingering Ancestors",
                     "spellID": 148282,
                     "source": "Learnt by researching Midnight ink",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 82
+                    "iconIndex": 86
                 }
             ]
         },
@@ -1695,14 +1854,14 @@
                     "spellID": 58316,
                     "source": "Learnt by researching Celestial Ink",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 85
+                    "iconIndex": 88
                 },
                 {
                     "name": "Glyph of Shadow",
                     "spellID": 107907,
                     "source": "Learnt by researching Celestial Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of the Weaponmaster",
@@ -1728,28 +1887,28 @@
                     "spellID": 64261,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 82
+                    "iconIndex": 86
                 },
                 {
                     "name": "Glyph of the Val'kyr",
                     "spellID": 126696,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Pillar of Light",
                     "spellID": 148274,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 85
+                    "iconIndex": 88
                 },
                 {
                     "name": "Glyph of the Solstice",
                     "spellID": 182158,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 83
+                    "iconIndex": 84
                 }
             ]
         },
@@ -1761,7 +1920,7 @@
                     "spellID": 58341,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 86
+                    "iconIndex": 81
                 },
                 {
                     "name": "Glyph of Mighty Victory",
@@ -1789,14 +1948,14 @@
                     "spellID": 148270,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 81
+                    "iconIndex": 82
                 },
                 {
                     "name": "Glyph of Crimson Banish",
                     "spellID": 64250,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 86
+                    "iconIndex": 81
                 }
             ]
         },
@@ -1808,21 +1967,21 @@
                     "spellID": 56986,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 81
+                    "iconIndex": 82
                 },
                 {
                     "name": "Glyph of the Chameleon",
                     "spellID": 58287,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 83
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Disguise",
                     "spellID": 64260,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorrogue",
-                    "iconIndex": 88
+                    "iconIndex": 83
                 },
                 {
                     "name": "Glyph of Thunder Strike",
@@ -1843,21 +2002,21 @@
                     "spellID": 112462,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 89
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of the Heavens",
                     "spellID": 124466,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Shadowy Friends",
                     "spellID": 126800,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 }
             ]
         },
@@ -1869,14 +2028,14 @@
                     "spellID": 57263,
                     "source": "Learnt by researching Etheral Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 86
+                    "iconIndex": 81
                 },
                 {
                     "name": "Glyph of the Sha",
                     "spellID": 148276,
                     "source": "Learnt by researching Etheral Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 }
             ]
         },
@@ -1888,28 +2047,28 @@
                     "spellID": 56948,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 83
+                    "iconIndex": 84
                 },
                 {
                     "name": "Glyph of Fighting Pose",
                     "spellID": 112469,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 89
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of Angels",
                     "spellID": 148275,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Honor",
                     "spellID": 112464,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 89
+                    "iconIndex": 85
                 }
             ]
         },
@@ -1921,28 +2080,28 @@
                     "spellID": 57032,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 85
+                    "iconIndex": 88
                 },
                 {
                     "name": "Glyph of Shackle Undead",
                     "spellID": 58320,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 84
+                    "iconIndex": 80
                 },
                 {
                     "name": "Glyph of Rising Tiger Kick",
                     "spellID": 112466,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 89
+                    "iconIndex": 85
                 },
                 {
                     "name": "Glyph of the Cheetah",
                     "spellID": 131152,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 83
+                    "iconIndex": 84
                 }
             ]
         },
@@ -1961,49 +2120,49 @@
                     "spellID": 165804,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_wand_1h_draenorcrafted_d_01_a_horde",
-                    "iconIndex": 90
+                    "iconIndex": 91
                 },
                 {
                     "name": "Crystalfire Spellstaff",
                     "spellID": 166356,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_staff_2h_draenorcrafted_d_02_a_horde",
-                    "iconIndex": 91
+                    "iconIndex": 92
                 },
                 {
                     "name": "Etched-Blade Warstaff",
                     "spellID": 166359,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_staff_2h_draenorcrafted_d_02_a_alliance",
-                    "iconIndex": 92
+                    "iconIndex": 93
                 },
                 {
                     "name": "Shadowtome",
                     "spellID": 166363,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_offhand_1h_draenorcrafted_d_02a",
-                    "iconIndex": 93
+                    "iconIndex": 94
                 },
                 {
                     "name": "Weapon Crystal",
                     "spellID": 166366,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_datacrystal05",
-                    "iconIndex": 94
+                    "iconIndex": 95
                 },
                 {
                     "name": "Volatile Crystal",
                     "spellID": 166432,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_crystalepic2",
-                    "iconIndex": 95
+                    "iconIndex": 96
                 },
                 {
                     "name": "Ensorcelled Tarot",
                     "spellID": 178248,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_inscription_tarot_volcanoace",
-                    "iconIndex": 96
+                    "iconIndex": 97
                 }
             ]
         },
@@ -2015,28 +2174,28 @@
                     "spellID": 86646,
                     "source": "Drops from mobs in Uldum",
                     "icon": "inv_inscription_pigment_bug04",
-                    "iconIndex": 97
+                    "iconIndex": 98
                 },
                 {
                     "name": "Origami Slime",
                     "spellID": 86644,
                     "source": "Drops from mobs in Vash'jir",
                     "icon": "inv_misc_slime_02",
-                    "iconIndex": 98
+                    "iconIndex": 99
                 },
                 {
                     "name": "Origami Rock",
                     "spellID": 86645,
                     "source": "Drops from mobs in Deepholm",
                     "icon": "inv_stone_10",
-                    "iconIndex": 99
+                    "iconIndex": 100
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Medallion of Tenacity",
                     "spellID": 146638,
                     "source": "Drops in Pandaria zones, raids and dungeons",
                     "icon": "inv_jewelry_trinket_04",
-                    "iconIndex": 100
+                    "iconIndex": 101
                 }
             ]
         },
@@ -2048,77 +2207,77 @@
                     "spellID": 187494,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "oshugun_crystalfragments",
-                    "iconIndex": 101
+                    "iconIndex": 102
                 },
                 {
                     "name": "The Spirit of War",
                     "spellID": 182125,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_warpaint_blue",
-                    "iconIndex": 102
+                    "iconIndex": 103
                 },
                 {
                     "name": "Mighty Ensorcelled Tarot",
                     "spellID": 187495,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_misc_ticket_tarot_crusade",
-                    "iconIndex": 103
+                    "iconIndex": 104
                 },
                 {
                     "name": "Savage Ensorcelled Tarot",
                     "spellID": 187519,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_misc_ticket_tarot_crusade",
-                    "iconIndex": 103
+                    "iconIndex": 104
                 },
                 {
                     "name": "Savage Weapon Crystal",
                     "spellID": 187518,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "oshugun_crystalfragments",
-                    "iconIndex": 101
+                    "iconIndex": 102
                 },
                 {
                     "name": "Mass Mill Frostweed",
                     "spellID": 190381,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 104
+                    "iconIndex": 105
                 },
                 {
                     "name": "Mass Mill Fireweed",
                     "spellID": 190382,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 104
+                    "iconIndex": 105
                 },
                 {
                     "name": "Mass Mill Gorgrond Flytrap",
                     "spellID": 190383,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 104
+                    "iconIndex": 105
                 },
                 {
                     "name": "Mass Mill Starflower",
                     "spellID": 190384,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 104
+                    "iconIndex": 105
                 },
                 {
                     "name": "Mass Mill Nagrand Arrowbloom",
                     "spellID": 190385,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 104
+                    "iconIndex": 105
                 },
                 {
                     "name": "Mass Mill Talador Orchid",
                     "spellID": 190386,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 104
+                    "iconIndex": 105
                 }
             ]
         }
