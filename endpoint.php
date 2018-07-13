@@ -1,7 +1,8 @@
 <?php
 	error_reporting(0);
 
-	require_once(__DIR__ . '/lib/api.php');
+	require_once(__DIR__ . '/../../blizzard_api/lib/api.php');
+	require_once(__DIR__ . '/lib/professions.php');
 	require_once(__DIR__ . '/lib/response.php');
 
 	$response = new Response();
@@ -46,15 +47,15 @@
 						break;
 
 					case 'profession':
-						$api = new API();
+						$professions = new Professions();
 
 						$profession = validate_input_string($decoded->profession);
-						if (!$api->isValidProfession($profession)) {
+						if (!$professions->isValidProfession($profession)) {
 							$response->setError('ERR_PROFESSION', 'Invalid profession');
 							break;
 						}
 
-						$response->profession = $api->getProfession($profession);
+						$response->profession = $professions->getProfession($profession);
 						break;
 
 					default:

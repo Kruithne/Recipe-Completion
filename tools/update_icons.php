@@ -1,23 +1,20 @@
 <?php
-	require_once(__DIR__ . '/../lib/api.php');
+	require_once(__DIR__ . '/../../../blizzard_api/lib/api.php');
+	require_once(__DIR__ . '/../lib/professions.php');
+
 	define('DEFAULT_ICON', 'inv_misc_questionmark');
 	define('ICON_DIMENSION', 36);
 	define('ICON_MATRIX_PATH', __DIR__ . '/../images/%s');
 
+	$professions = new Professions();
 	$api = new API();
 
 	// Ensure the default icon has been downloaded.
-	$api->getIconImagePath(DEFAULT_ICON, true);
+	$api->getIconImagePath(DEFAULT_ICON, ICON_DIMENSION, true);
 
 	// Iterate over all available professions.
-	foreach ($api->getProfessions() as $profession) {
-		$data = $api->getProfession($profession);
-
-		// DEBUG: Remove this once we're done.
-		if (!isset($data->image)) {
-			printfln('No image file set for profession %s!', $data->name);
-			continue;
-		}
+	foreach ($professions->getProfessions() as $profession) {
+		$data = $professions->getProfession($profession);
 
 		$icons = [];
 		printfln('Updating icons for %s...', $data->name);
@@ -34,16 +31,16 @@
 					$recipe->icon = $recipeData->icon;
 
 					// If the icon cannot be downloaded, revert to default icon.
-					$icon = $api->getIconImagePath($recipe->icon, true);
+					$icon = $api->getIconImagePath($recipe->icon, ICON_DIMENSION, true);
 					if ($icon === null)
 						$recipe->icon = DEFAULT_ICON;
 				}
 
 				// Ensure an icon file for this recipe actually exists.
-				$iconPath = sprintf(ICON_FILE, $recipe->icon);
+				$iconPath = sprintf(ICON_FILE, ICON_DIMENSION, $recipe->icon);
 				if (!file_exists($iconPath)) {
 					$recipe->icon = DEFAULT_ICON;
-					$iconPath = sprintf(ICON_FILE, DEFAULT_ICON);
+					$iconPath = sprintf(ICON_FILE, ICON_DIMENSION, DEFAULT_ICON);
 				}
 
 				$key = array_search($iconPath, $icons, true);
@@ -72,5 +69,5 @@
 		imagejpeg($canvas, $outPath, 75);
 		printfln('Icon matrix output to %s with %d icons', $outPath, count($icons));
 
-		$api->saveProfession($profession, $data);
+		$professions->saveProfession($profession, $data);
 	}
