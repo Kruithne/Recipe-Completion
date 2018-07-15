@@ -3,7 +3,7 @@
 
 	require_once(__DIR__ . '/../../blizzard_api/lib/api.php');
 	require_once(__DIR__ . '/lib/professions.php');
-	require_once(__DIR__ . '/lib/response.php');
+	require_once(__DIR__ . '/../../blizzard_api/response.php');
 
 	$response = new Response();
 
