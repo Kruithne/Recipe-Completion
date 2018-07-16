@@ -1,4 +1,5 @@
 <?php
+	require_once(__DIR__ . '/../../../blizzard_api/lib/util.php');
 	define('PROF_DATA_DIR', __DIR__ . '/../data/professions');
 	define('PROF_DATA_FILE', PROF_DATA_DIR . '/%s.json');
 
