@@ -1782,13 +1782,6 @@
                     "iconIndex": 70
                 },
                 {
-                    "name": "Glyph of the Wraith Walker",
-                    "spellID": 192848,
-                    "source": "Sold by Jang Quillpaw in Dalaran",
-                    "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 90
-                },
-                {
                     "name": "Glyph of Cracked Ice",
                     "spellID": 225522,
                     "source": "Sold by Jang Quillpaw in Dalaran",
@@ -1829,13 +1822,6 @@
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minordruid",
                     "iconIndex": 69
-                },
-                {
-                    "name": "Glyph of the Bullseye",
-                    "spellID": 225537,
-                    "source": "Sold by Jang Quillpaw in Dalaran",
-                    "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Dire Stable",
