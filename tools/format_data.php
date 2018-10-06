@@ -1,5 +1,5 @@
 <?php
-	$dataString = str_replace("#", " ", ltrim($argv[1], ";"));
+	$dataString = str_replace("#", " ", ltrim(file_get_contents('input.txt'), ";"));
 	$recipes = explode(";", $dataString);
 
 	$sorted = [];
@@ -28,4 +28,4 @@
 		array_push($output, $node);
 	}
 
-	file_put_contents("output.json", json_encode(["recipes" => $output]));
+	file_put_contents("output.json", json_encode($output));
