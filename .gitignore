@@ -1,3 +1,5 @@
 # Minified (compressed) files
 *.min.js
 *.min.css
+/tools/input.txt
+/tools/output.json
