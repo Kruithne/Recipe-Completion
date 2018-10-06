@@ -212,6 +212,86 @@
             ]
         },
         {
+            "name": "Kul Tiran Mining",
+            "recipes": [
+                {
+                    "name": "Monelite Deposit",
+                    "spellID": [
+                        253333,
+                        253334,
+                        253335
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_ore_adamantium",
+                    "iconIndex": 29
+                },
+                {
+                    "name": "Storm Silver Deposit",
+                    "spellID": [
+                        253336,
+                        253337,
+                        253338
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_ore_adamantium",
+                    "iconIndex": 29
+                },
+                {
+                    "name": "Monelite Seam",
+                    "spellID": [
+                        253342,
+                        253343,
+                        253344
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_ore_adamantium",
+                    "iconIndex": 29
+                },
+                {
+                    "name": "Platinum Deposit",
+                    "spellID": [
+                        253341,
+                        253340,
+                        253339
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_ore_adamantium",
+                    "iconIndex": 29
+                },
+                {
+                    "name": "Storm Silver Seam",
+                    "spellID": [
+                        253345,
+                        253346,
+                        253347
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_ore_adamantium",
+                    "iconIndex": 29
+                }
+            ]
+        },
+        {
             "name": "Legion (Untrackable)",
             "recipes": [
                 {
@@ -228,7 +308,7 @@
                     ],
                     "icon": "inv_misc_starmetal",
                     "broken": true,
-                    "iconIndex": 29
+                    "iconIndex": 30
                 },
                 {
                     "name": "Empyrium Seam",
@@ -244,7 +324,7 @@
                     ],
                     "icon": "inv_misc_starmetal",
                     "broken": true,
-                    "iconIndex": 29
+                    "iconIndex": 30
                 },
                 {
                     "name": "Felslate Deposit",
@@ -260,7 +340,7 @@
                     ],
                     "icon": "inv_felslate",
                     "broken": true,
-                    "iconIndex": 30
+                    "iconIndex": 31
                 },
                 {
                     "name": "Felslate Seam",
@@ -276,7 +356,7 @@
                     ],
                     "icon": "inv_felslate",
                     "broken": true,
-                    "iconIndex": 30
+                    "iconIndex": 31
                 },
                 {
                     "name": "Infernal Brimstone",
@@ -292,7 +372,7 @@
                     ],
                     "icon": "inv_infernalbrimstone",
                     "broken": true,
-                    "iconIndex": 31
+                    "iconIndex": 32
                 },
                 {
                     "name": "Leystone Deposit",
@@ -308,7 +388,7 @@
                     ],
                     "icon": "inv_leystone",
                     "broken": true,
-                    "iconIndex": 32
+                    "iconIndex": 33
                 },
                 {
                     "name": "Leystone Seam",
@@ -324,7 +404,7 @@
                     ],
                     "icon": "inv_leystone",
                     "broken": true,
-                    "iconIndex": 32
+                    "iconIndex": 33
                 },
                 {
                     "name": "Living Felslate",
@@ -340,7 +420,7 @@
                     ],
                     "icon": "inv_felslate",
                     "broken": true,
-                    "iconIndex": 30
+                    "iconIndex": 31
                 },
                 {
                     "name": "Living Leystone",
@@ -356,7 +436,7 @@
                     ],
                     "icon": "inv_leystone",
                     "broken": true,
-                    "iconIndex": 32
+                    "iconIndex": 33
                 }
             ]
         },
@@ -368,7 +448,7 @@
                     "spellID": 22967,
                     "source": "Taught by Goblin's Guide to Elementium\nDrops in Blackwing Lair",
                     "icon": "inv_ingot_thorium",
-                    "iconIndex": 33
+                    "iconIndex": 34
                 }
             ]
         },
@@ -380,7 +460,7 @@
                     "spellID": 46353,
                     "source": "Taught by Study of Advanced Smelting\nDrops in Sunwell Plateau",
                     "icon": "inv_ingot_thorium",
-                    "iconIndex": 33
+                    "iconIndex": 34
                 }
             ]
         },
@@ -392,7 +472,7 @@
                     "spellID": 14891,
                     "source": "Taught by Gloom'rel in Blackrock Depths",
                     "icon": "inv_ingot_mithril",
-                    "iconIndex": 34
+                    "iconIndex": 35
                 }
             ]
         }
