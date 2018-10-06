@@ -344,7 +344,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_seasonedloins",
+                    "iconIndex": 40
                 },
                 {
                     "name": "Grilled Catfish",
@@ -357,12 +359,16 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_grilledsnapper",
+                    "iconIndex": 41
                 },
                 {
                     "name": "Heartsbane Hexwurst",
                     "spellID": 280282,
-                    "source": ""
+                    "source": "",
+                    "icon": "inv_holiday_beerfestsausage03",
+                    "iconIndex": 42
                 },
                 {
                     "name": "Kul Tiramisu",
@@ -375,7 +381,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_kultiramisu",
+                    "iconIndex": 43
                 },
                 {
                     "name": "Loa Loaf",
@@ -388,7 +396,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_loaloaf",
+                    "iconIndex": 44
                 },
                 {
                     "name": "Mon'Dazi",
@@ -401,7 +411,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_mondazi",
+                    "iconIndex": 45
                 },
                 {
                     "name": "Ravenberry Tarts",
@@ -414,7 +426,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_ravenberrytart",
+                    "iconIndex": 46
                 },
                 {
                     "name": "Honey-Glazed Haunches",
@@ -427,7 +441,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_honeyglazedhaunch",
+                    "iconIndex": 47
                 },
                 {
                     "name": "Sailor's Pie",
@@ -440,7 +456,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_sailorspie",
+                    "iconIndex": 48
                 },
                 {
                     "name": "Spiced Snapper",
@@ -453,7 +471,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_spicedcatfish",
+                    "iconIndex": 49
                 },
                 {
                     "name": "Swamp Fish 'n Chips",
@@ -466,7 +486,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_swampfishnchips",
+                    "iconIndex": 50
                 },
                 {
                     "name": "Bountiful Captain's Feast",
@@ -479,7 +501,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_majorfeast",
+                    "iconIndex": 51
                 },
                 {
                     "name": "Galley Banquet",
@@ -492,7 +516,9 @@
                         "",
                         "",
                         ""
-                    ]
+                    ],
+                    "icon": "inv_cooking_80_minorfeast",
+                    "iconIndex": 52
                 }
             ]
         },
@@ -519,7 +545,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_azsharisalad",
-                    "iconIndex": 40
+                    "iconIndex": 53
                 },
                 {
                     "name": "Barracuda Mrglgagh",
@@ -534,7 +560,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_barracudamrglgagh",
-                    "iconIndex": 41
+                    "iconIndex": 54
                 },
                 {
                     "name": "Bear Tartare",
@@ -549,7 +575,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_beartartare",
-                    "iconIndex": 42
+                    "iconIndex": 55
                 },
                 {
                     "name": "Crispy Bacon",
@@ -564,7 +590,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_baconcrispy",
-                    "iconIndex": 43
+                    "iconIndex": 56
                 },
                 {
                     "name": "Deep-Fried Mossgill",
@@ -579,7 +605,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_deepfriedmossgill",
-                    "iconIndex": 44
+                    "iconIndex": 57
                 },
                 {
                     "name": "Dried Mackerel Strips",
@@ -594,7 +620,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_driedmackerelstrips",
-                    "iconIndex": 45
+                    "iconIndex": 58
                 },
                 {
                     "name": "Drogbar-Style Salmon",
@@ -609,7 +635,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_drogbarstylesalmon",
-                    "iconIndex": 46
+                    "iconIndex": 59
                 },
                 {
                     "name": "Faronaar Fizz",
@@ -624,7 +650,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_faronaarfizz",
-                    "iconIndex": 47
+                    "iconIndex": 60
                 },
                 {
                     "name": "Fighter Chow",
@@ -639,7 +665,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_fighterchow",
-                    "iconIndex": 48
+                    "iconIndex": 61
                 },
                 {
                     "name": "Fishbrul Special",
@@ -654,7 +680,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_fishbrulspecial",
-                    "iconIndex": 49
+                    "iconIndex": 62
                 },
                 {
                     "name": "Hearty Feast",
@@ -669,7 +695,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_heartyfeast",
-                    "iconIndex": 50
+                    "iconIndex": 63
                 },
                 {
                     "name": "Nightborne Delicacy Platter",
@@ -684,7 +710,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_nightbornedelicacyplatter",
-                    "iconIndex": 51
+                    "iconIndex": 64
                 },
                 {
                     "name": "Pickled Stormray",
@@ -699,7 +725,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_pickledstormray",
-                    "iconIndex": 52
+                    "iconIndex": 65
                 },
                 {
                     "name": "Salt and Pepper Shank",
@@ -714,7 +740,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_saltpeppershank",
-                    "iconIndex": 53
+                    "iconIndex": 66
                 },
                 {
                     "name": "Seed-Battered Fish Plate",
@@ -729,7 +755,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_seedbatteredfishplate",
-                    "iconIndex": 54
+                    "iconIndex": 67
                 },
                 {
                     "name": "Spiced Rib Roast",
@@ -744,7 +770,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_spicedribroast",
-                    "iconIndex": 55
+                    "iconIndex": 68
                 },
                 {
                     "name": "Suramar Surf and Turf",
@@ -759,7 +785,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_suramarsurfandturf",
-                    "iconIndex": 56
+                    "iconIndex": 69
                 },
                 {
                     "name": "The Hungry Magister",
@@ -774,14 +800,14 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_thehungrymagistar",
-                    "iconIndex": 57
+                    "iconIndex": 70
                 },
                 {
                     "name": "Feast of the Fishes",
                     "spellID": 251258,
                     "source": "Sold by Keeper Raynae in Val'sharah",
                     "icon": "inv_misc_basket_04",
-                    "iconIndex": 58
+                    "iconIndex": 71
                 },
                 {
                     "name": "Koi-Scented Stormray",
@@ -796,7 +822,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_koiscentedstormray",
-                    "iconIndex": 59
+                    "iconIndex": 72
                 },
                 {
                     "name": "Lavish Suramar Feast",
@@ -811,7 +837,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_lavishsuramarfiest",
-                    "iconIndex": 60
+                    "iconIndex": 73
                 },
                 {
                     "name": "Leybeque Ribs",
@@ -826,7 +852,7 @@
                         "Discovered through Nomi's Test Kitchen in Dalaran"
                     ],
                     "icon": "inv_misc_food_legion_leybequeribs",
-                    "iconIndex": 61
+                    "iconIndex": 74
                 }
             ]
         },
@@ -845,14 +871,14 @@
                     "spellID": 2542,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_food_10",
-                    "iconIndex": 62
+                    "iconIndex": 75
                 },
                 {
                     "name": "Cooked Crab Claw",
                     "spellID": 2545,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_birdbeck_02",
-                    "iconIndex": 63
+                    "iconIndex": 76
                 },
                 {
                     "name": "Redridge Goulash",
@@ -866,14 +892,14 @@
                     "spellID": 2548,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_food_16",
-                    "iconIndex": 64
+                    "iconIndex": 77
                 },
                 {
                     "name": "Seasoned Wolf Kabob",
                     "spellID": 2549,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_food_16",
-                    "iconIndex": 64
+                    "iconIndex": 77
                 },
                 {
                     "name": "Beer Basted Boar Ribs",
@@ -887,14 +913,14 @@
                     "spellID": 3370,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Blood Sausage",
                     "spellID": 3371,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_food_49",
-                    "iconIndex": 66
+                    "iconIndex": 79
                 },
                 {
                     "name": "Murloc Fin Soup",
@@ -915,35 +941,35 @@
                     "spellID": 3376,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_egg_04",
-                    "iconIndex": 67
+                    "iconIndex": 80
                 },
                 {
                     "name": "Gooey Spider Cake",
                     "spellID": 3377,
                     "source": "Sold by Kendor Kabonka in Stormwind City (Alliance)",
                     "icon": "inv_misc_food_10",
-                    "iconIndex": 62
+                    "iconIndex": 75
                 },
                 {
                     "name": "Clam Chowder",
                     "spellID": 6501,
                     "source": "Sold by Kriggon Talsone in Westfall (Alliance)",
                     "icon": "inv_potion_01",
-                    "iconIndex": 68
+                    "iconIndex": 81
                 },
                 {
                     "name": "Loch Frenzy Delight",
                     "spellID": 7754,
                     "source": "Sold by Khara Deepwater in Loch Modan",
                     "icon": "inv_potion_01",
-                    "iconIndex": 68
+                    "iconIndex": 81
                 },
                 {
                     "name": "Mystery Stew",
                     "spellID": 15865,
                     "source": "Sold by Helenia Olden in Dustwallow Marsh (Alliance)\nSold by Janet Hommers in Desolace (Alliance)",
                     "icon": "inv_drink_19",
-                    "iconIndex": 69
+                    "iconIndex": 82
                 }
             ]
         },
@@ -962,14 +988,14 @@
                     "spellID": 6413,
                     "source": "Sold by Grimtak in Durotar (Horde)",
                     "icon": "inv_misc_food_10",
-                    "iconIndex": 62
+                    "iconIndex": 75
                 },
                 {
                     "name": "Roasted Kodo Meat",
                     "spellID": 6414,
                     "source": "Sold by Wunna Darkmane in Mulgore (Horde)",
                     "icon": "inv_misc_food_60",
-                    "iconIndex": 70
+                    "iconIndex": 83
                 },
                 {
                     "name": "Strider Stew",
@@ -983,14 +1009,14 @@
                     "spellID": 6418,
                     "source": "Sold by Tari'qa in Northern Barrens (Horde)",
                     "icon": "inv_misc_food_17",
-                    "iconIndex": 71
+                    "iconIndex": 84
                 },
                 {
                     "name": "Carrion Surprise",
                     "spellID": 15863,
                     "source": "Sold by Ogg'marr in Dustwallow Marsh (Horde)",
                     "icon": "inv_misc_food_49",
-                    "iconIndex": 66
+                    "iconIndex": 79
                 },
                 {
                     "name": "Heavy Crocolisk Stew",
@@ -1004,14 +1030,14 @@
                     "spellID": 15935,
                     "source": "Sold by Abigail Shiel in Tirisfal Glades (Horde)",
                     "icon": "inv_misc_food_46",
-                    "iconIndex": 72
+                    "iconIndex": 85
                 },
                 {
                     "name": "Lynx Steak",
                     "spellID": 33276,
                     "source": "Sold by Landraelanis in Eversong Woods (Horde)",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Bat Bites",
@@ -1030,98 +1056,98 @@
                     "spellID": 7213,
                     "source": "Sold by Kelsey Yance in Booty Bay",
                     "icon": "inv_ammo_firetar",
-                    "iconIndex": 73
+                    "iconIndex": 86
                 },
                 {
                     "name": "Cooked Glossy Mightfish",
                     "spellID": 18239,
                     "source": "Sold by Kelsey Yance in Booty Bay",
                     "icon": "inv_misc_monsterhead_03",
-                    "iconIndex": 74
+                    "iconIndex": 87
                 },
                 {
                     "name": "Filet of Redgill",
                     "spellID": 18241,
                     "source": "Sold by Kelsey Yance in Booty Bay",
                     "icon": "inv_misc_fish_06",
-                    "iconIndex": 75
+                    "iconIndex": 88
                 },
                 {
                     "name": "Hot Smoked Bass",
                     "spellID": 18242,
                     "source": "Sold by Kelsey Yance in Booty Bay",
                     "icon": "inv_misc_fish_03",
-                    "iconIndex": 76
+                    "iconIndex": 89
                 },
                 {
                     "name": "Mightfish Steak",
                     "spellID": 18246,
                     "source": "Sold by Kelsey Yance in Booty Bay",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Brilliant Smallfish",
                     "spellID": 7751,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_07",
-                    "iconIndex": 77
+                    "iconIndex": 90
                 },
                 {
                     "name": "Slitherskin Mackerel",
                     "spellID": 7752,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_24",
-                    "iconIndex": 78
+                    "iconIndex": 91
                 },
                 {
                     "name": "Longjaw Mud Snapper",
                     "spellID": 7753,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_32",
-                    "iconIndex": 79
+                    "iconIndex": 92
                 },
                 {
                     "name": "Bristle Whisker Catfish",
                     "spellID": 7755,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_30",
-                    "iconIndex": 80
+                    "iconIndex": 93
                 },
                 {
                     "name": "Rainbow Fin Albacore",
                     "spellID": 7827,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_27",
-                    "iconIndex": 81
+                    "iconIndex": 94
                 },
                 {
                     "name": "Rockscale Cod",
                     "spellID": 7828,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_04",
-                    "iconIndex": 82
+                    "iconIndex": 95
                 },
                 {
                     "name": "Mithril Head Trout",
                     "spellID": 20916,
                     "source": "Sold by fishing supplies vendors",
                     "icon": "inv_misc_fish_02",
-                    "iconIndex": 83
+                    "iconIndex": 96
                 },
                 {
                     "name": "Smoked Sagefish",
                     "spellID": 25704,
                     "source": "Sold by cooking supplies vendors",
                     "icon": "inv_misc_fish_20",
-                    "iconIndex": 84
+                    "iconIndex": 97
                 },
                 {
                     "name": "Sagefish Delight",
                     "spellID": 25954,
                     "source": "Sold by cooking supplies vendors",
                     "icon": "inv_misc_fish_21",
-                    "iconIndex": 85
+                    "iconIndex": 98
                 },
                 {
                     "name": "Smoked Bear Meat",
@@ -1135,7 +1161,7 @@
                     "spellID": 15855,
                     "source": "Sold by Hammon Karwn in Arathi Highlands (Alliance)\nSold by Keena in Arathi Highlands (Horde)",
                     "icon": "inv_misc_food_50",
-                    "iconIndex": 86
+                    "iconIndex": 99
                 },
                 {
                     "name": "Hot Wolf Ribs",
@@ -1156,7 +1182,7 @@
                     "spellID": 18247,
                     "source": "Sold by Sheendra Tallgrass in Feralas (Horde)\nSold by Vivianna in Feralas (Alliance)",
                     "icon": "inv_misc_fish_20",
-                    "iconIndex": 84
+                    "iconIndex": 97
                 },
                 {
                     "name": "Dragonbreath Chili",
@@ -1170,7 +1196,7 @@
                     "spellID": 15910,
                     "source": "Sold by Janet Hommers in Desolace (Alliance)\nSold by Kireena in Desolace (Horde)",
                     "icon": "inv_drink_19",
-                    "iconIndex": 69
+                    "iconIndex": 82
                 },
                 {
                     "name": "Spiced Chili Crab",
@@ -1191,7 +1217,7 @@
                     "spellID": 15933,
                     "source": "Sold by Himmik in Winterspring",
                     "icon": "inv_misc_food_06",
-                    "iconIndex": 87
+                    "iconIndex": 100
                 },
                 {
                     "name": "Undermine Clam Chowder",
@@ -1205,7 +1231,7 @@
                     "spellID": 22480,
                     "source": "Sold by Innkeeper Fizzgrimble in Tanaris",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Crunchy Spider Surprise",
@@ -1240,21 +1266,21 @@
                     "spellID": 33287,
                     "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_60",
-                    "iconIndex": 70
+                    "iconIndex": 83
                 },
                 {
                     "name": "Talbuk Steak",
                     "spellID": 33289,
                     "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_84_roastclefthoof",
-                    "iconIndex": 88
+                    "iconIndex": 101
                 },
                 {
                     "name": "Grilled Mudfish",
                     "spellID": 33293,
                     "source": "Sold by Nula the Butcher in Nagrand (Horde)\nSold by Uriku in Nagrand (Alliance)",
                     "icon": "inv_misc_food_78",
-                    "iconIndex": 89
+                    "iconIndex": 102
                 },
                 {
                     "name": "Poached Bluefish",
@@ -1268,14 +1294,14 @@
                     "spellID": 33290,
                     "source": "Sold by Doba in Zangarmarsh (Alliance)\nSold by Gambarinka in Zangarmarsh (Horde)",
                     "icon": "inv_misc_food_77",
-                    "iconIndex": 90
+                    "iconIndex": 103
                 },
                 {
                     "name": "Feltail Delight",
                     "spellID": 33291,
                     "source": "Sold by Doba in Zangarmarsh (Alliance)\nSold by Zurai in Zangarmarsh (Horde)",
                     "icon": "inv_misc_food_74",
-                    "iconIndex": 91
+                    "iconIndex": 104
                 },
                 {
                     "name": "Blackened Sporefish",
@@ -1289,21 +1315,21 @@
                     "spellID": 33296,
                     "source": "Sold by Inkeeper Biribi in Terokkar Forest (Alliance)\nSold by Rungor in Terokkar Forest (Horde)",
                     "icon": "inv_misc_fish_16",
-                    "iconIndex": 92
+                    "iconIndex": 105
                 },
                 {
                     "name": "Golden Fish Sticks",
                     "spellID": 33295,
                     "source": "Sold by Inkeeper Biribi in Terokkar Forest (Alliance)\nSold by Rungor in Terokkar Forest (Horde)",
                     "icon": "inv_misc_fish_18",
-                    "iconIndex": 93
+                    "iconIndex": 106
                 },
                 {
                     "name": "Clam Bar",
                     "spellID": 36210,
                     "source": "Sold by Mycah in Zangarmarsh",
                     "icon": "inv_misc_food_27",
-                    "iconIndex": 94
+                    "iconIndex": 107
                 },
                 {
                     "name": "Mok'Nathal Shortribs",
@@ -1336,7 +1362,7 @@
                     "spellID": 8238,
                     "source": "Drops from any mob in Northern\/Southern Barrens",
                     "icon": "inv_misc_monsterhead_04",
-                    "iconIndex": 95
+                    "iconIndex": 108
                 }
             ]
         },
@@ -1348,14 +1374,14 @@
                     "spellID": 58512,
                     "source": "Drops in Northrend zones, raids and dungeons",
                     "icon": "inv_valentineschocolate01",
-                    "iconIndex": 96
+                    "iconIndex": 109
                 },
                 {
                     "name": "Last Week's Mammoth",
                     "spellID": 58521,
                     "source": "Drops in Northrend zones, raids and dungeons",
                     "icon": "inv_misc_food_114_orcablubber",
-                    "iconIndex": 97
+                    "iconIndex": 110
                 },
                 {
                     "name": "Bad Clams",
@@ -1369,7 +1395,7 @@
                     "spellID": 58525,
                     "source": "Drops in Northrend zones, raids and dungeons",
                     "icon": "inv_misc_fish_66",
-                    "iconIndex": 98
+                    "iconIndex": 111
                 }
             ]
         },
@@ -1388,42 +1414,42 @@
                     "spellID": 33277,
                     "source": "Reward from 'The Great Moongraze Hunt' in Azuremyst Isle (Alliance)",
                     "icon": "inv_misc_food_60",
-                    "iconIndex": 70
+                    "iconIndex": 83
                 },
                 {
                     "name": "Buzzard Bites",
                     "spellID": 33279,
                     "source": "Reward from 'Smooth as Butter' in Hellfire Peninsula",
                     "icon": "inv_misc_food_85_stegadonbite",
-                    "iconIndex": 99
+                    "iconIndex": 112
                 },
                 {
                     "name": "Clamlette Magnifique",
                     "spellID": 64054,
                     "source": "Reward from 'Clamlette Suprise' in Tanaris",
                     "icon": "inv_misc_shell_03",
-                    "iconIndex": 100
+                    "iconIndex": 113
                 },
                 {
                     "name": "Noodle Cart Kit",
                     "spellID": 145038,
                     "source": "Reward from 'Catch and Carry' in Halfhill",
                     "icon": "inv_misc_noodle_cart_base_level",
-                    "iconIndex": 101
+                    "iconIndex": 114
                 },
                 {
                     "name": "Deluxe Noodle Cart Kit",
                     "spellID": 145061,
                     "source": "Reward from 'Is That A Real Measurement?' in Halfhill",
                     "icon": "inv_misc_noodle_cart_intermediate_level",
-                    "iconIndex": 102
+                    "iconIndex": 115
                 },
                 {
                     "name": "Pandaren Treasure Noodle Cart Kit",
                     "spellID": 145062,
                     "source": "Reward from 'The Secret Ingredient Is...' in Halfhill",
                     "icon": "inv_misc_noodle_cart_epic_level",
-                    "iconIndex": 103
+                    "iconIndex": 116
                 }
             ]
         },
@@ -1454,14 +1480,14 @@
                     "spellID": 125120,
                     "source": "Sold by Gina Mudclaw in Halfhill (Requires Exalted)",
                     "icon": "inv_misc_food_meat_cooked_06",
-                    "iconIndex": 104
+                    "iconIndex": 117
                 },
                 {
                     "name": "Spicy Vegetable Chips",
                     "spellID": 125123,
                     "source": "Sold by Gina Mudclaw in Halfhill (Requires Exalted)",
                     "icon": "inv_misc_food_vendor_poundedricecakes",
-                    "iconIndex": 105
+                    "iconIndex": 118
                 }
             ]
         },
@@ -1473,14 +1499,14 @@
                     "spellID": 88011,
                     "source": "Reward from guild achievement 'Set the Oven to \"Cataclysmic\"'",
                     "icon": "inv_misc_food_99",
-                    "iconIndex": 106
+                    "iconIndex": 119
                 },
                 {
                     "name": "Seafood Magnifique Feast",
                     "spellID": 88036,
                     "source": "Reward from guild achievement 'Thats a lot of bait'",
                     "icon": "inv_misc_food_meat_cooked_02",
-                    "iconIndex": 107
+                    "iconIndex": 120
                 }
             ]
         },
@@ -1492,49 +1518,49 @@
                     "spellID": 43707,
                     "source": "Contained in Barrel of Fish",
                     "icon": "inv_misc_food_63",
-                    "iconIndex": 108
+                    "iconIndex": 121
                 },
                 {
                     "name": "Stormchops",
                     "spellID": 43758,
                     "source": "Contained in Barrel of Fish\/Crate of Meat",
                     "icon": "inv_misc_food_91",
-                    "iconIndex": 109
+                    "iconIndex": 122
                 },
                 {
                     "name": "Broiled Bloodfin",
                     "spellID": 43761,
                     "source": "Contained in Barrel of Fish",
                     "icon": "inv_misc_fish_29",
-                    "iconIndex": 110
+                    "iconIndex": 123
                 },
                 {
                     "name": "Delicious Chocolate Cake",
                     "spellID": 43779,
                     "source": "Contained in Barrel of Fish\/Crate of Meat",
                     "icon": "inv_misc_celebrationcake_01",
-                    "iconIndex": 111
+                    "iconIndex": 124
                 },
                 {
                     "name": "Captain Rumsey's Lager",
                     "spellID": 45695,
                     "source": "Contained in Barrel of Fish\/Crate of Meat",
                     "icon": "inv_drink_03",
-                    "iconIndex": 112
+                    "iconIndex": 125
                 },
                 {
                     "name": "Kibler's Bits",
                     "spellID": 43772,
                     "source": "Contained in Barrel of Fish\/Crate of Meat",
                     "icon": "inv_misc_food_49",
-                    "iconIndex": 66
+                    "iconIndex": 79
                 },
                 {
                     "name": "Spicy Hot Talbuk",
                     "spellID": 43765,
                     "source": "Contained in Crate of Meat",
                     "icon": "inv_misc_food_84_roastclefthoof",
-                    "iconIndex": 88
+                    "iconIndex": 101
                 }
             ]
         },
@@ -1553,7 +1579,7 @@
                     "spellID": 45556,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_122_steak",
-                    "iconIndex": 113
+                    "iconIndex": 126
                 },
                 {
                     "name": "Spiced Worm Burger",
@@ -1567,7 +1593,7 @@
                     "spellID": 45558,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_60",
-                    "iconIndex": 70
+                    "iconIndex": 83
                 },
                 {
                     "name": "Mighty Rhino Dogs",
@@ -1581,63 +1607,63 @@
                     "spellID": 45567,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_77",
-                    "iconIndex": 90
+                    "iconIndex": 103
                 },
                 {
                     "name": "Firecracker Salmon",
                     "spellID": 45568,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_141_fish",
-                    "iconIndex": 114
+                    "iconIndex": 127
                 },
                 {
                     "name": "Spicy Blue Nettlefish",
                     "spellID": 45571,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_139_fish",
-                    "iconIndex": 115
+                    "iconIndex": 128
                 },
                 {
                     "name": "Imperial Manta Steak",
                     "spellID": 45570,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_121_buttermeat",
-                    "iconIndex": 116
+                    "iconIndex": 129
                 },
                 {
                     "name": "Kungaloosh",
                     "spellID": 53056,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_drink_21",
-                    "iconIndex": 117
+                    "iconIndex": 130
                 },
                 {
                     "name": "Northern Stew",
                     "spellID": 57421,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_117_heartysoup",
-                    "iconIndex": 118
+                    "iconIndex": 131
                 },
                 {
                     "name": "Fish Feast",
                     "spellID": 57423,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_fish_52",
-                    "iconIndex": 119
+                    "iconIndex": 132
                 },
                 {
                     "name": "Spicy Fried Herring",
                     "spellID": 57433,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_78",
-                    "iconIndex": 89
+                    "iconIndex": 102
                 },
                 {
                     "name": "Rhinolicious Wormsteak",
                     "spellID": 57434,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Critter Bites",
@@ -1651,56 +1677,56 @@
                     "spellID": 57436,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_115_condorsoup",
-                    "iconIndex": 120
+                    "iconIndex": 133
                 },
                 {
                     "name": "Snapper Extreme",
                     "spellID": 57437,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_129_fish",
-                    "iconIndex": 121
+                    "iconIndex": 134
                 },
                 {
                     "name": "Blackened Worg Steak",
                     "spellID": 57438,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_84_roastclefthoof",
-                    "iconIndex": 88
+                    "iconIndex": 101
                 },
                 {
                     "name": "Cuttlesteak",
                     "spellID": 57439,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_133_meat",
-                    "iconIndex": 122
+                    "iconIndex": 135
                 },
                 {
                     "name": "Spiced Mammoth Treats",
                     "spellID": 57440,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_123_roast",
-                    "iconIndex": 123
+                    "iconIndex": 136
                 },
                 {
                     "name": "Blackened Dragonfin",
                     "spellID": 57441,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_142_fish",
-                    "iconIndex": 124
+                    "iconIndex": 137
                 },
                 {
                     "name": "Dragonfin Filet",
                     "spellID": 57442,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_75",
-                    "iconIndex": 125
+                    "iconIndex": 138
                 },
                 {
                     "name": "Tracker Snacks",
                     "spellID": 57443,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_85_stegadonbite",
-                    "iconIndex": 99
+                    "iconIndex": 112
                 },
                 {
                     "name": "Gigantic Feast",
@@ -1721,63 +1747,63 @@
                     "spellID": 62350,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_71",
-                    "iconIndex": 126
+                    "iconIndex": 139
                 },
                 {
                     "name": "Baked Rockfish",
                     "spellID": 88003,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_155_fish_78",
-                    "iconIndex": 127
+                    "iconIndex": 140
                 },
                 {
                     "name": "Basilisk Liverdog",
                     "spellID": 88004,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_17",
-                    "iconIndex": 71
+                    "iconIndex": 84
                 },
                 {
                     "name": "Beer-Basted Crocolisk",
                     "spellID": 88005,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_08",
-                    "iconIndex": 128
+                    "iconIndex": 141
                 },
                 {
                     "name": "Broiled Mountain Trout",
                     "spellID": 88012,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_159_fish_82",
-                    "iconIndex": 129
+                    "iconIndex": 142
                 },
                 {
                     "name": "Chocolate Cookie",
                     "spellID": 88013,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_150_cookie",
-                    "iconIndex": 130
+                    "iconIndex": 143
                 },
                 {
                     "name": "Crocolisk Au Gratin",
                     "spellID": 88014,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_10",
-                    "iconIndex": 131
+                    "iconIndex": 144
                 },
                 {
                     "name": "Delicious Sagefish Tail",
                     "spellID": 88016,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_158_fish_81",
-                    "iconIndex": 132
+                    "iconIndex": 145
                 },
                 {
                     "name": "Feathered Lure",
                     "spellID": 88017,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "spell_magic_featherfall",
-                    "iconIndex": 133
+                    "iconIndex": 146
                 },
                 {
                     "name": "Fish Fry",
@@ -1791,140 +1817,140 @@
                     "spellID": 88020,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_122_steak",
-                    "iconIndex": 113
+                    "iconIndex": 126
                 },
                 {
                     "name": "Fortune Cookie",
                     "spellID": 88019,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_fortunecookie",
-                    "iconIndex": 134
+                    "iconIndex": 147
                 },
                 {
                     "name": "Hearty Seafood Soup",
                     "spellID": 88021,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_03",
-                    "iconIndex": 135
+                    "iconIndex": 148
                 },
                 {
                     "name": "Highland Spirits",
                     "spellID": 88022,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_drink_26_goatsmilk",
-                    "iconIndex": 136
+                    "iconIndex": 149
                 },
                 {
                     "name": "Lavascale Fillet",
                     "spellID": 88024,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_156_fish_79",
-                    "iconIndex": 137
+                    "iconIndex": 150
                 },
                 {
                     "name": "Lavascale Minestrone",
                     "spellID": 88025,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_154_fish_77",
-                    "iconIndex": 138
+                    "iconIndex": 151
                 },
                 {
                     "name": "Lightly Fried Lurker",
                     "spellID": 88028,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_157_fish_80",
-                    "iconIndex": 139
+                    "iconIndex": 152
                 },
                 {
                     "name": "Lurker Lunch",
                     "spellID": 88030,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_05",
-                    "iconIndex": 140
+                    "iconIndex": 153
                 },
                 {
                     "name": "Mushroom Sauce Mudfish",
                     "spellID": 88031,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_01",
-                    "iconIndex": 141
+                    "iconIndex": 154
                 },
                 {
                     "name": "Pickled Guppy",
                     "spellID": 88033,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_162_fish_90",
-                    "iconIndex": 142
+                    "iconIndex": 155
                 },
                 {
                     "name": "Blackbelly Sushi",
                     "spellID": 88034,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_161_fish_89",
-                    "iconIndex": 143
+                    "iconIndex": 156
                 },
                 {
                     "name": "Salted Eye",
                     "spellID": 88035,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_eye_04",
-                    "iconIndex": 144
+                    "iconIndex": 157
                 },
                 {
                     "name": "Seasoned Crab",
                     "spellID": 88037,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_birdbeck_02",
-                    "iconIndex": 63
+                    "iconIndex": 76
                 },
                 {
                     "name": "Severed Sagefish Head",
                     "spellID": 88039,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_160_fish_87",
-                    "iconIndex": 145
+                    "iconIndex": 158
                 },
                 {
                     "name": "Skewered Eel",
                     "spellID": 88042,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_163_fish_91",
-                    "iconIndex": 146
+                    "iconIndex": 159
                 },
                 {
                     "name": "South Island Iced Tea",
                     "spellID": 88044,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_goblincup01",
-                    "iconIndex": 147
+                    "iconIndex": 160
                 },
                 {
                     "name": "Starfire Espresso",
                     "spellID": 88045,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_drink_15",
-                    "iconIndex": 148
+                    "iconIndex": 161
                 },
                 {
                     "name": "Tender Baked Turtle",
                     "spellID": 88046,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_05",
-                    "iconIndex": 140
+                    "iconIndex": 153
                 },
                 {
                     "name": "Whitecrest Gumbo",
                     "spellID": 88047,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_meat_cooked_02",
-                    "iconIndex": 107
+                    "iconIndex": 120
                 },
                 {
                     "name": "Scalding Murglesnout",
                     "spellID": 96133,
                     "source": "Bought with Epicurean's Award from cooking dailies",
                     "icon": "inv_misc_food_159_fish_white",
-                    "iconIndex": 149
+                    "iconIndex": 162
                 }
             ]
         },
@@ -1936,14 +1962,14 @@
                     "spellID": 105190,
                     "source": "Bought with Ironpaw Tokens in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_general",
-                    "iconIndex": 150
+                    "iconIndex": 163
                 },
                 {
                     "name": "Great Pandaren Banquet",
                     "spellID": 105194,
                     "source": "Bought with Ironpaw Tokens in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_general",
-                    "iconIndex": 151
+                    "iconIndex": 164
                 }
             ]
         },
@@ -1955,126 +1981,126 @@
                     "spellID": 124223,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_168_ricecake01",
-                    "iconIndex": 152
+                    "iconIndex": 165
                 },
                 {
                     "name": "Yak Cheese Curds",
                     "spellID": 124224,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_yakcheesecurds",
-                    "iconIndex": 153
+                    "iconIndex": 166
                 },
                 {
                     "name": "Toasted Fish Jerky",
                     "spellID": 124225,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_toastedfishjerky",
-                    "iconIndex": 154
+                    "iconIndex": 167
                 },
                 {
                     "name": "Dried Peaches",
                     "spellID": 124226,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_leatherscrap_06",
-                    "iconIndex": 155
+                    "iconIndex": 168
                 },
                 {
                     "name": "Dried Needle Mushrooms",
                     "spellID": 124227,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_needlemushroom",
-                    "iconIndex": 156
+                    "iconIndex": 169
                 },
                 {
                     "name": "Boiled Silkworm Pupa",
                     "spellID": 124228,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_boiledsilkwormpupa",
-                    "iconIndex": 157
+                    "iconIndex": 170
                 },
                 {
                     "name": "Red Bean Bun",
                     "spellID": 124229,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_redbeanbun",
-                    "iconIndex": 158
+                    "iconIndex": 171
                 },
                 {
                     "name": "Tangy Yogurt",
                     "spellID": 124230,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_tangypeachyogurt",
-                    "iconIndex": 159
+                    "iconIndex": 172
                 },
                 {
                     "name": "Green Curry Fish",
                     "spellID": 124231,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_greenfishbonescurry",
-                    "iconIndex": 160
+                    "iconIndex": 173
                 },
                 {
                     "name": "Peach Pie",
                     "spellID": 124232,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_peachpie",
-                    "iconIndex": 161
+                    "iconIndex": 174
                 },
                 {
                     "name": "Blanched Needle Mushrooms",
                     "spellID": 124233,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_blanchedneedlemushroom",
-                    "iconIndex": 162
+                    "iconIndex": 175
                 },
                 {
                     "name": "Skewered Peanut Chicken",
                     "spellID": 124234,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_skeweredpeanutchicken",
-                    "iconIndex": 163
+                    "iconIndex": 176
                 },
                 {
                     "name": "Perfectly Cooked Instant Noodles",
                     "spellID": 125067,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_cookednoodles",
-                    "iconIndex": 164
+                    "iconIndex": 177
                 },
                 {
                     "name": "Roasted Barley Tea",
                     "spellID": 125078,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_roastedbarlytea",
-                    "iconIndex": 165
+                    "iconIndex": 178
                 },
                 {
                     "name": "Pearl Milk Tea",
                     "spellID": 125080,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_drink_milk_01",
-                    "iconIndex": 166
+                    "iconIndex": 179
                 },
                 {
                     "name": "Sliced Peaches",
                     "spellID": 125117,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_slicedpeaches",
-                    "iconIndex": 167
+                    "iconIndex": 180
                 },
                 {
                     "name": "Wildfowl Ginseng Soup",
                     "spellID": 125121,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_needlemushroomsoup",
-                    "iconIndex": 168
+                    "iconIndex": 181
                 },
                 {
                     "name": "Rice Pudding",
                     "spellID": 125122,
                     "source": "Taught by Sungshin Ironpaw in Halfhill",
                     "icon": "inv_misc_food_vendor_poundedricecake_1",
-                    "iconIndex": 169
+                    "iconIndex": 182
                 }
             ]
         },
@@ -2086,35 +2112,35 @@
                     "spellID": 125141,
                     "source": "Taught by Kol Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_grill",
-                    "iconIndex": 170
+                    "iconIndex": 183
                 },
                 {
                     "name": "Black Pepper Ribs and Shrimp",
                     "spellID": 104300,
                     "source": "Taught by Kol Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_golden_black_pepper_ribs_and_shrimp",
-                    "iconIndex": 171
+                    "iconIndex": 184
                 },
                 {
                     "name": "Charbroiled Tiger Steak",
                     "spellID": 104298,
                     "source": "Taught by Kol Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_tigersteak",
-                    "iconIndex": 172
+                    "iconIndex": 185
                 },
                 {
                     "name": "Eternal Blossom Fish",
                     "spellID": 104299,
                     "source": "Taught by Kol Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_eternalblossomfish",
-                    "iconIndex": 173
+                    "iconIndex": 186
                 },
                 {
                     "name": "Great Banquet of the Grill",
                     "spellID": 125142,
                     "source": "Taught by Kol Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_grill",
-                    "iconIndex": 174
+                    "iconIndex": 187
                 }
             ]
         },
@@ -2126,35 +2152,35 @@
                     "spellID": 125600,
                     "source": "Taught by Kian Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_oven",
-                    "iconIndex": 175
+                    "iconIndex": 188
                 },
                 {
                     "name": "Chun Tian Spring Rolls",
                     "spellID": 104312,
                     "source": "Taught by Kian Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_springrolls",
-                    "iconIndex": 176
+                    "iconIndex": 189
                 },
                 {
                     "name": "Great Banquet of the Oven",
                     "spellID": 125601,
                     "source": "Taught by Kian Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_oven",
-                    "iconIndex": 177
+                    "iconIndex": 190
                 },
                 {
                     "name": "Twin Fish Platter",
                     "spellID": 104311,
                     "source": "Taught by Kian Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_twinfishplatter",
-                    "iconIndex": 178
+                    "iconIndex": 191
                 },
                 {
                     "name": "Wildfowl Roast",
                     "spellID": 104310,
                     "source": "Taught by Kian Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_wildfowlroast",
-                    "iconIndex": 179
+                    "iconIndex": 192
                 }
             ]
         },
@@ -2166,35 +2192,35 @@
                     "spellID": 125596,
                     "source": "Taught by Mei Mei Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_pot",
-                    "iconIndex": 180
+                    "iconIndex": 193
                 },
                 {
                     "name": "Braised Turtle",
                     "spellID": 104305,
                     "source": "Taught by Mei Mei Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_braisedturtle",
-                    "iconIndex": 181
+                    "iconIndex": 194
                 },
                 {
                     "name": "Great Banquet of the Pot",
                     "spellID": 125597,
                     "source": "Taught by Mei Mei Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_pot",
-                    "iconIndex": 182
+                    "iconIndex": 195
                 },
                 {
                     "name": "Mogu Fish Stew",
                     "spellID": 104306,
                     "source": "Taught by Mei Mei Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_mogufishstew",
-                    "iconIndex": 183
+                    "iconIndex": 196
                 },
                 {
                     "name": "Swirling Mist Soup",
                     "spellID": 104304,
                     "source": "Taught by Mei Mei Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_swirlingmistsoup",
-                    "iconIndex": 184
+                    "iconIndex": 197
                 }
             ]
         },
@@ -2206,35 +2232,35 @@
                     "spellID": 125598,
                     "source": "Taught by Yan Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_steamer",
-                    "iconIndex": 185
+                    "iconIndex": 198
                 },
                 {
                     "name": "Fire Spirit Salmon",
                     "spellID": 104308,
                     "source": "Taught by Yan Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_firespiritsalmon",
-                    "iconIndex": 186
+                    "iconIndex": 199
                 },
                 {
                     "name": "Great Banquet of the Steamer",
                     "spellID": 125599,
                     "source": "Taught by Yan Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_steamer",
-                    "iconIndex": 187
+                    "iconIndex": 200
                 },
                 {
                     "name": "Shrimp Dumplings",
                     "spellID": 104307,
                     "source": "Taught by Yan Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_shrimpdumplings",
-                    "iconIndex": 188
+                    "iconIndex": 201
                 },
                 {
                     "name": "Steamed Crab Suprise",
                     "spellID": 104309,
                     "source": "Taught by Yan Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_steamcrabsurprise",
-                    "iconIndex": 189
+                    "iconIndex": 202
                 }
             ]
         },
@@ -2246,35 +2272,35 @@
                     "spellID": 125594,
                     "source": "Taught by Anthea Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_wok",
-                    "iconIndex": 190
+                    "iconIndex": 203
                 },
                 {
                     "name": "Great Banquet of the Wok",
                     "spellID": 125595,
                     "source": "Taught by Anthea Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_wok",
-                    "iconIndex": 191
+                    "iconIndex": 204
                 },
                 {
                     "name": "Sauteed Carrots",
                     "spellID": 104301,
                     "source": "Taught by Anthea Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_sauteedcarrots",
-                    "iconIndex": 192
+                    "iconIndex": 205
                 },
                 {
                     "name": "Sea Mist Rice Noodles",
                     "spellID": 104303,
                     "source": "Taught by Anthea Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_seamistricenoodles",
-                    "iconIndex": 193
+                    "iconIndex": 206
                 },
                 {
                     "name": "Valley Stir Fry",
                     "spellID": 104302,
                     "source": "Taught by Anthea Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_valleystirfry",
-                    "iconIndex": 194
+                    "iconIndex": 207
                 }
             ]
         },
@@ -2286,49 +2312,49 @@
                     "spellID": 125602,
                     "source": "Taught by Bobo Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_pabanquet_brew",
-                    "iconIndex": 195
+                    "iconIndex": 208
                 },
                 {
                     "name": "Ginseng Tea",
                     "spellID": 124052,
                     "source": "Taught by Bobo Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_ginsengtea",
-                    "iconIndex": 196
+                    "iconIndex": 209
                 },
                 {
                     "name": "Great Banquet of the Brew",
                     "spellID": 125603,
                     "source": "Taught by Bobo Ironpaw in Halfhill",
                     "icon": "inv_misc_food_cooked_greatpabanquet_brew",
-                    "iconIndex": 197
+                    "iconIndex": 210
                 },
                 {
                     "name": "Jade Witch Brew",
                     "spellID": 124053,
                     "source": "Taught by Bobo Ironpaw in Halfhill",
                     "icon": "inv_drink_31_embalmingfluid",
-                    "iconIndex": 198
+                    "iconIndex": 211
                 },
                 {
                     "name": "Mad Brewer's Breakfast",
                     "spellID": 124054,
                     "source": "Taught by Bobo Ironpaw in Halfhill",
                     "icon": "inv_drink_32_disgustingrotgut",
-                    "iconIndex": 199
+                    "iconIndex": 212
                 },
                 {
                     "name": "Four Senses Brew",
                     "spellID": 126654,
                     "source": "Treasure in Kun-Lai Summit",
                     "icon": "inv_misc_food_cooked_madbrewbreakfast",
-                    "iconIndex": 200
+                    "iconIndex": 213
                 },
                 {
                     "name": "Banana Infused Rum",
                     "spellID": 126655,
                     "source": "Treasure in Krasarang Wilds",
                     "icon": "inv_drink_01",
-                    "iconIndex": 201
+                    "iconIndex": 214
                 }
             ]
         },
@@ -2340,42 +2366,42 @@
                     "spellID": 145308,
                     "source": "Looted from Ancient Guo-Lai Cache",
                     "icon": "inv_misc_food_mango_ice",
-                    "iconIndex": 202
+                    "iconIndex": 215
                 },
                 {
                     "name": "Seasoned Pomfruit Slices",
                     "spellID": 145305,
                     "source": "Looted from Ancient Guo-Lai Cache",
                     "icon": "inv_misc_food_vendor_slicedpeaches",
-                    "iconIndex": 167
+                    "iconIndex": 180
                 },
                 {
                     "name": "Fluffy Silkfeather Omelet",
                     "spellID": 145311,
                     "source": "Looted from Ancient Guo-Lai Cache",
                     "icon": "inv_misc_food_06",
-                    "iconIndex": 87
+                    "iconIndex": 100
                 },
                 {
                     "name": "Spiced Blossom Soup",
                     "spellID": 145307,
                     "source": "Looted from Ancient Guo-Lai Cache",
                     "icon": "inv_misc_herb_frostlotus",
-                    "iconIndex": 203
+                    "iconIndex": 216
                 },
                 {
                     "name": "Farmer's Delight",
                     "spellID": 145309,
                     "source": "Looted from Ancient Guo-Lai Cache",
                     "icon": "inv_misc_food_117_heartysoup",
-                    "iconIndex": 118
+                    "iconIndex": 131
                 },
                 {
                     "name": "Stuffed Lushrooms",
                     "spellID": 145310,
                     "source": "Looted from Ancient Guo-Lai Cache",
                     "icon": "spell_druid_wildmushroom",
-                    "iconIndex": 204
+                    "iconIndex": 217
                 }
             ]
         },
@@ -2388,7 +2414,7 @@
                     "faction": 0,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_pumpkinpie",
-                    "iconIndex": 205
+                    "iconIndex": 218
                 },
                 {
                     "name": "Slow-Roasted Turkey (Alliance Version)",
@@ -2396,7 +2422,7 @@
                     "faction": 0,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_turkey",
-                    "iconIndex": 206
+                    "iconIndex": 219
                 },
                 {
                     "name": "Cranberry Chutney (Alliance Version)",
@@ -2404,7 +2430,7 @@
                     "faction": 0,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_cranberrysauce",
-                    "iconIndex": 207
+                    "iconIndex": 220
                 },
                 {
                     "name": "Spice Bread Stuffing (Alliance Version)",
@@ -2412,7 +2438,7 @@
                     "faction": 0,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_stuffing",
-                    "iconIndex": 208
+                    "iconIndex": 221
                 },
                 {
                     "name": "Candied Sweet Potato (Alliance Version)",
@@ -2420,7 +2446,7 @@
                     "faction": 0,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_sweetpotato",
-                    "iconIndex": 209
+                    "iconIndex": 222
                 },
                 {
                     "name": "Pumpkin Pie (Horde Version)",
@@ -2428,7 +2454,7 @@
                     "faction": 1,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_pumpkinpie",
-                    "iconIndex": 205
+                    "iconIndex": 218
                 },
                 {
                     "name": "Slow-Roasted Turkey (Horde Version)",
@@ -2436,7 +2462,7 @@
                     "faction": 1,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_turkey",
-                    "iconIndex": 206
+                    "iconIndex": 219
                 },
                 {
                     "name": "Cranberry Chutney (Horde Version)",
@@ -2444,7 +2470,7 @@
                     "faction": 1,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_cranberrysauce",
-                    "iconIndex": 207
+                    "iconIndex": 220
                 },
                 {
                     "name": "Spice Bread Stuffing (Horde Version)",
@@ -2452,7 +2478,7 @@
                     "faction": 1,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_stuffing",
-                    "iconIndex": 208
+                    "iconIndex": 221
                 },
                 {
                     "name": "Candied Sweet Potato (Horde Version)",
@@ -2460,7 +2486,7 @@
                     "faction": 1,
                     "source": "Learnt from a Bountiful Cookbook",
                     "icon": "inv_thanksgiving_sweetpotato",
-                    "iconIndex": 209
+                    "iconIndex": 222
                 }
             ]
         },
@@ -2472,7 +2498,7 @@
                     "spellID": 65454,
                     "source": "Sold by Chapman in main cities",
                     "icon": "inv_misc_breadofthedead",
-                    "iconIndex": 210
+                    "iconIndex": 223
                 }
             ]
         },
@@ -2484,21 +2510,21 @@
                     "spellID": 21143,
                     "source": "Sold by Smokywood Pastures vendors",
                     "icon": "inv_misc_food_62",
-                    "iconIndex": 211
+                    "iconIndex": 224
                 },
                 {
                     "name": "Winter Veil Egg Nog",
                     "spellID": 21144,
                     "source": "Sold by Smokywood Pastures vendors",
                     "icon": "inv_drink_04",
-                    "iconIndex": 212
+                    "iconIndex": 225
                 },
                 {
                     "name": "Hot Apple Cider",
                     "spellID": 45022,
                     "source": "Sold by Smokywood Pastures vendors",
                     "icon": "inv_drink_23",
-                    "iconIndex": 213
+                    "iconIndex": 226
                 }
             ]
         },
@@ -2510,21 +2536,21 @@
                     "spellID": 185704,
                     "source": "Sold at the Darkmoon Faire",
                     "icon": "inv_misc_food_78",
-                    "iconIndex": 89
+                    "iconIndex": 102
                 },
                 {
                     "name": "Fancy Darkmoon Feast",
                     "spellID": 185705,
                     "source": "Sold at the Darkmoon Faire",
                     "icon": "inv_misc_food_157_fish_80",
-                    "iconIndex": 139
+                    "iconIndex": 152
                 },
                 {
                     "name": "Sugar-Crusted Fish Feast",
                     "spellID": 185708,
                     "source": "Sold at the Darkmoon Faire",
                     "icon": "inv_misc_food_draenor_grilledsaberfish",
-                    "iconIndex": 214
+                    "iconIndex": 227
                 }
             ]
         },
@@ -2536,14 +2562,14 @@
                     "spellID": 161001,
                     "source": "Learnt with Draenor Cooking",
                     "icon": "inv_misc_food_draenor_saberfishbroth",
-                    "iconIndex": 215
+                    "iconIndex": 228
                 },
                 {
                     "name": "Grilled Saberfish",
                     "spellID": 161002,
                     "source": "Learnt with Draenor Cooking",
                     "icon": "inv_misc_food_draenor_grilledsaberfish",
-                    "iconIndex": 214
+                    "iconIndex": 227
                 }
             ]
         },
@@ -2555,140 +2581,140 @@
                     "spellID": 160958,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_heartyelekksteak",
-                    "iconIndex": 216
+                    "iconIndex": 229
                 },
                 {
                     "name": "Blackrock Ham",
                     "spellID": 160962,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_blackrockham",
-                    "iconIndex": 217
+                    "iconIndex": 230
                 },
                 {
                     "name": "Pan-Seared Talbuk",
                     "spellID": 160966,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_panseardtalbuk",
-                    "iconIndex": 218
+                    "iconIndex": 231
                 },
                 {
                     "name": "Braised Riverbeast",
                     "spellID": 160968,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_braisedriverbeast",
-                    "iconIndex": 219
+                    "iconIndex": 232
                 },
                 {
                     "name": "Rylak Crepes",
                     "spellID": 160969,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_rylakcrepes",
-                    "iconIndex": 220
+                    "iconIndex": 233
                 },
                 {
                     "name": "Clefthoof Sausages",
                     "spellID": 160971,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_clefhoofsausages",
-                    "iconIndex": 221
+                    "iconIndex": 234
                 },
                 {
                     "name": "Steamed Scorpion",
                     "spellID": 160973,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_food_draenor_steamedscorpion",
-                    "iconIndex": 222
+                    "iconIndex": 235
                 },
                 {
                     "name": "Grilled Gulper",
                     "spellID": 160978,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_food_draenor_grilledgulper",
-                    "iconIndex": 223
+                    "iconIndex": 236
                 },
                 {
                     "name": "Sturgeon Stew",
                     "spellID": 160979,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_food_draenor_sturgeonstew",
-                    "iconIndex": 224
+                    "iconIndex": 237
                 },
                 {
                     "name": "Fat Sleeper Cakes",
                     "spellID": 160981,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_food_draenor_fatsleepercakes",
-                    "iconIndex": 225
+                    "iconIndex": 238
                 },
                 {
                     "name": "Fiery Calamari",
                     "spellID": 160982,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_food_draenor_fierycalamari",
-                    "iconIndex": 226
+                    "iconIndex": 239
                 },
                 {
                     "name": "Skulker Chowder",
                     "spellID": 160983,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_food_draenor_whiptailchowder",
-                    "iconIndex": 227
+                    "iconIndex": 240
                 },
                 {
                     "name": "Talador Surf and Turf",
                     "spellID": 160984,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_taladorsurfandturf",
-                    "iconIndex": 228
+                    "iconIndex": 241
                 },
                 {
                     "name": "Blackrock Barbecue",
                     "spellID": 160986,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_blackrockbarbeque",
-                    "iconIndex": 229
+                    "iconIndex": 242
                 },
                 {
                     "name": "Frosty Stew",
                     "spellID": 160987,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_frostystew",
-                    "iconIndex": 230
+                    "iconIndex": 243
                 },
                 {
                     "name": "Sleeper Surprise",
                     "spellID": 160989,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_sleepersurprise",
-                    "iconIndex": 231
+                    "iconIndex": 244
                 },
                 {
                     "name": "Calamari Crepes",
                     "spellID": 160999,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_calamaricrepes",
-                    "iconIndex": 232
+                    "iconIndex": 245
                 },
                 {
                     "name": "Gorgrond Chowder",
                     "spellID": 161000,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_misc_gorgrondchowder",
-                    "iconIndex": 233
+                    "iconIndex": 246
                 },
                 {
                     "name": "Feast of Blood",
                     "spellID": 173978,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_tradeskill_cooking_feastofblood",
-                    "iconIndex": 234
+                    "iconIndex": 247
                 },
                 {
                     "name": "Feast of the Waters",
                     "spellID": 173979,
                     "source": "Learnt while cooking Draenor recipes",
                     "icon": "inv_tradeskill_cooking_feastofthewater",
-                    "iconIndex": 235
+                    "iconIndex": 248
                 }
             ]
         },
@@ -2701,7 +2727,7 @@
                     "broken": true,
                     "source": "Sold by the cook in Frostwall\/Lunarfall",
                     "icon": "inv_misc_food_15",
-                    "iconIndex": 236
+                    "iconIndex": 249
                 },
                 {
                     "name": "Salty Squid Roll",
@@ -2709,7 +2735,7 @@
                     "broken": true,
                     "source": "Sold by the cook in Frostwall\/Lunarfall",
                     "icon": "inv_misc_food_15",
-                    "iconIndex": 236
+                    "iconIndex": 249
                 },
                 {
                     "name": "Buttered Sturgeon",
@@ -2717,7 +2743,7 @@
                     "broken": true,
                     "source": "Sold by the cook in Frostwall\/Lunarfall",
                     "icon": "inv_misc_food_15",
-                    "iconIndex": 236
+                    "iconIndex": 249
                 },
                 {
                     "name": "Jumbo Sea Dog",
@@ -2725,7 +2751,7 @@
                     "broken": true,
                     "source": "Sold by the cook in Frostwall\/Lunarfall",
                     "icon": "inv_misc_food_15",
-                    "iconIndex": 236
+                    "iconIndex": 249
                 },
                 {
                     "name": "Sleeper Sushi",
@@ -2733,7 +2759,7 @@
                     "broken": true,
                     "source": "Sold by the cook in Frostwall\/Lunarfall",
                     "icon": "inv_misc_food_15",
-                    "iconIndex": 236
+                    "iconIndex": 249
                 },
                 {
                     "name": "Whiptail Fillet",
@@ -2741,7 +2767,7 @@
                     "broken": true,
                     "source": "Sold by the cook in Frostwall\/Lunarfall",
                     "icon": "inv_misc_food_15",
-                    "iconIndex": 236
+                    "iconIndex": 249
                 }
             ]
         },
@@ -2756,7 +2782,7 @@
                     ],
                     "source": "Sold by Smudge Thunderwood in Hillsbrad Foothills",
                     "icon": "inv_drink_milk_05",
-                    "iconIndex": 237
+                    "iconIndex": 250
                 }
             ]
         },
@@ -2768,14 +2794,14 @@
                     "spellID": 22761,
                     "source": "Drops from Pusillin in Dire Maul",
                     "icon": "inv_misc_food_63",
-                    "iconIndex": 108
+                    "iconIndex": 121
                 },
                 {
                     "name": "Fel Eggs and Ham",
                     "spellID": 190788,
                     "source": "Drops from Lok'goron Hashslinger in Tanaan Jungle",
                     "icon": "inv_misc_questionmark",
-                    "iconIndex": 238
+                    "iconIndex": 251
                 }
             ]
         },
@@ -2787,21 +2813,21 @@
                     "spellID": 3397,
                     "source": "Auction House",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Lean Venison",
                     "spellID": 6419,
                     "source": "Auction House",
                     "icon": "inv_misc_organ_06",
-                    "iconIndex": 239
+                    "iconIndex": 252
                 },
                 {
                     "name": "Lean Wolf Steak",
                     "spellID": 15853,
                     "source": "Auction House",
                     "icon": "inv_misc_food_47",
-                    "iconIndex": 65
+                    "iconIndex": 78
                 },
                 {
                     "name": "Dirge's Kickin' Chimaerok Chops",
@@ -2815,7 +2841,7 @@
                     "spellID": 13028,
                     "source": "Currently Unobtainable",
                     "icon": "inv_drink_15",
-                    "iconIndex": 148
+                    "iconIndex": 161
                 }
             ]
         }
