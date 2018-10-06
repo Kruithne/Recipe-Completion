@@ -331,6 +331,172 @@
             ]
         },
         {
+            "name": "Kul Tiran Cusisine",
+            "recipes": [
+                {
+                    "name": "Seasoned Loins",
+                    "spellID": [
+                        259434,
+                        259435,
+                        259433
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Grilled Catfish",
+                    "spellID": [
+                        259432,
+                        259431,
+                        259430
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Heartsbane Hexwurst",
+                    "spellID": 280282,
+                    "source": ""
+                },
+                {
+                    "name": "Kul Tiramisu",
+                    "spellID": [
+                        259413,
+                        259412,
+                        259411
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Loa Loaf",
+                    "spellID": [
+                        259438,
+                        259437,
+                        259436
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Mon'Dazi",
+                    "spellID": [
+                        259444,
+                        259443,
+                        259442
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Ravenberry Tarts",
+                    "spellID": [
+                        259426,
+                        259425,
+                        259424
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Honey-Glazed Haunches",
+                    "spellID": [
+                        259415,
+                        259416,
+                        259414
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Sailor's Pie",
+                    "spellID": [
+                        259440,
+                        259441,
+                        259439
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Spiced Snapper",
+                    "spellID": [
+                        259446,
+                        259447,
+                        259445
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Swamp Fish 'n Chips",
+                    "spellID": [
+                        259428,
+                        259429,
+                        259427
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Bountiful Captain's Feast",
+                    "spellID": [
+                        259421,
+                        259422,
+                        259423
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Galley Banquet",
+                    "spellID": [
+                        259419,
+                        259420,
+                        259418
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Legion Cooking",
             "recipes": [
                 {
