@@ -2066,7 +2066,7 @@
                     "spellID": 2673,
                     "source": "Drops in level 10-35 zones",
                     "icon": "inv_chest_chain_09",
-                    "iconIndex": 237
+                    "iconIndex": 215
                 },
                 {
                     "name": "Deadly Bronze Poniard",
@@ -2080,7 +2080,7 @@
                     "spellID": 3297,
                     "source": "Drops in level 20-40 zones",
                     "icon": "inv_hammer_04",
-                    "iconIndex": 238
+                    "iconIndex": 216
                 },
                 {
                     "name": "Copper Chain Vest",
@@ -2101,7 +2101,7 @@
                     "spellID": 3330,
                     "source": "Drops in level 10-31 zones",
                     "icon": "inv_shoulder_09",
-                    "iconIndex": 239
+                    "iconIndex": 217
                 },
                 {
                     "name": "Green Iron Boots",
@@ -2122,21 +2122,21 @@
                     "spellID": 3493,
                     "source": "Drops in level 25-47 zones",
                     "icon": "inv_sword_36",
-                    "iconIndex": 240
+                    "iconIndex": 218
                 },
                 {
                     "name": "Golden Iron Destroyer",
                     "spellID": 3495,
                     "source": "Drops in level 25-47 zones",
                     "icon": "inv_hammer_04",
-                    "iconIndex": 238
+                    "iconIndex": 216
                 },
                 {
                     "name": "Frost Tiger Blade",
                     "spellID": 3497,
                     "source": "Drops in level 30-58 zones",
                     "icon": "inv_sword_05",
-                    "iconIndex": 241
+                    "iconIndex": 219
                 },
                 {
                     "name": "Shadow Crescent Axe",
@@ -2150,14 +2150,14 @@
                     "spellID": 3504,
                     "source": "Drops in level 25-47 zones",
                     "icon": "inv_shoulder_09",
-                    "iconIndex": 239
+                    "iconIndex": 217
                 },
                 {
                     "name": "Golden Scale Shoulders",
                     "spellID": 3505,
                     "source": "Drops in level 28-31 zones",
                     "icon": "inv_shoulder_09",
-                    "iconIndex": 239
+                    "iconIndex": 217
                 },
                 {
                     "name": "Golden Scale Leggings",
@@ -2171,7 +2171,7 @@
                     "spellID": 3511,
                     "source": "Drops in level 30-51 zones",
                     "icon": "inv_chest_chain_06",
-                    "iconIndex": 242
+                    "iconIndex": 220
                 },
                 {
                     "name": "Polished Steel Boots",
@@ -2192,28 +2192,28 @@
                     "spellID": 6518,
                     "source": "Drops in level 20-40 zones",
                     "icon": "inv_hammer_05",
-                    "iconIndex": 243
+                    "iconIndex": 221
                 },
                 {
                     "name": "Iron Shield Spike",
                     "spellID": 7221,
                     "source": "Drops in level 20-40 zones",
                     "icon": "inv_misc_armorkit_01",
-                    "iconIndex": 244
+                    "iconIndex": 222
                 },
                 {
                     "name": "Iron Counterweight",
                     "spellID": 7222,
                     "source": "Drops in level 25-47 zones",
                     "icon": "inv_misc_orb_01",
-                    "iconIndex": 245
+                    "iconIndex": 223
                 },
                 {
                     "name": "Steel Weapon Chain",
                     "spellID": 7224,
                     "source": "Drops in level 35-40 zones",
                     "icon": "spell_frost_chainsofice",
-                    "iconIndex": 246
+                    "iconIndex": 224
                 },
                 {
                     "name": "Heavy Mithril Pants",
@@ -2227,56 +2227,56 @@
                     "spellID": 9939,
                     "source": "Drops in level 37-56 zones",
                     "icon": "inv_misc_armorkit_02",
-                    "iconIndex": 247
+                    "iconIndex": 225
                 },
                 {
                     "name": "Mithril Spurs",
                     "spellID": 9964,
                     "source": "Drops in level 40-60 zones",
                     "icon": "ability_rogue_sprint",
-                    "iconIndex": 248
+                    "iconIndex": 226
                 },
                 {
                     "name": "Mithril Scale Shoulders",
                     "spellID": 9966,
                     "source": "Drops in level 45-55 zones",
                     "icon": "inv_shoulder_12",
-                    "iconIndex": 249
+                    "iconIndex": 227
                 },
                 {
                     "name": "Heavy Mithril Helm",
                     "spellID": 9970,
                     "source": "Drops in level 40-60 zones",
                     "icon": "inv_helmet_10",
-                    "iconIndex": 250
+                    "iconIndex": 228
                 },
                 {
                     "name": "Blue Glittering Axe",
                     "spellID": 9995,
                     "source": "Drops in level 35-56 zones",
                     "icon": "inv_axe_03",
-                    "iconIndex": 251
+                    "iconIndex": 229
                 },
                 {
                     "name": "Wicked Mithril Blade",
                     "spellID": 9997,
                     "source": "Drops in level 35-56 zones",
                     "icon": "inv_sword_10",
-                    "iconIndex": 252
+                    "iconIndex": 230
                 },
                 {
                     "name": "Dazzling Mithril Rapier",
                     "spellID": 10005,
                     "source": "Drops in level 40-60 zones",
                     "icon": "inv_sword_30",
-                    "iconIndex": 253
+                    "iconIndex": 231
                 },
                 {
                     "name": "Runed Mithril Hammer",
                     "spellID": 10009,
                     "source": "Drops in level 45-60 zones",
                     "icon": "inv_hammer_17",
-                    "iconIndex": 254
+                    "iconIndex": 232
                 },
                 {
                     "name": "Silvered Bronze Leggings",
@@ -2297,63 +2297,63 @@
                     "spellID": 16650,
                     "source": "Drops in level 44-60 zones",
                     "icon": "inv_chest_chain_12",
-                    "iconIndex": 255
+                    "iconIndex": 233
                 },
                 {
                     "name": "Thorium Shield Spike",
                     "spellID": 16651,
                     "source": "Drops in level 46-60 zones",
                     "icon": "inv_misc_armorkit_20",
-                    "iconIndex": 256
+                    "iconIndex": 234
                 },
                 {
                     "name": "Dawnbringer Shoulders",
                     "spellID": 16660,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_shoulder_20",
-                    "iconIndex": 257
+                    "iconIndex": 235
                 },
                 {
                     "name": "Whitesoul Helm",
                     "spellID": 16724,
                     "source": "Drops in level 50-60 zones",
                     "icon": "inv_helmet_13",
-                    "iconIndex": 258
+                    "iconIndex": 236
                 },
                 {
                     "name": "Storm Gauntlets",
                     "spellID": 16661,
                     "source": "Drops in level 53-58 zones",
                     "icon": "inv_gauntlets_30",
-                    "iconIndex": 259
+                    "iconIndex": 237
                 },
                 {
                     "name": "Helm of the Great Chief",
                     "spellID": 16728,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_helmet_24",
-                    "iconIndex": 260
+                    "iconIndex": 238
                 },
                 {
                     "name": "Lionheart Helm",
                     "spellID": 16729,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_helmet_36",
-                    "iconIndex": 261
+                    "iconIndex": 239
                 },
                 {
                     "name": "Stronghold Gauntlets",
                     "spellID": 16741,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_gauntlets_30",
-                    "iconIndex": 259
+                    "iconIndex": 237
                 },
                 {
                     "name": "Invulnerable Mail",
                     "spellID": 16746,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_chest_chain_07",
-                    "iconIndex": 262
+                    "iconIndex": 240
                 },
                 {
                     "name": "Volcanic Hammer",
@@ -2367,7 +2367,7 @@
                     "spellID": 16992,
                     "source": "Drops from Foreman Marcrid (Rare) in Eastern Plaguelands",
                     "icon": "inv_sword_11",
-                    "iconIndex": 263
+                    "iconIndex": 241
                 },
                 {
                     "name": "Darkrune Gauntlets",
@@ -2381,7 +2381,7 @@
                     "spellID": 24913,
                     "source": "Looted from Decoded True Believer Clippings",
                     "icon": "inv_helmet_10",
-                    "iconIndex": 250
+                    "iconIndex": 228
                 },
                 {
                     "name": "Darkrune Breastplate",
@@ -2402,14 +2402,14 @@
                     "spellID": 27830,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_hammer_08",
-                    "iconIndex": 264
+                    "iconIndex": 242
                 },
                 {
                     "name": "Sageblade",
                     "spellID": 27832,
                     "source": "Drops in level 60~ zones",
                     "icon": "inv_sword_51",
-                    "iconIndex": 265
+                    "iconIndex": 243
                 }
             ]
         },
@@ -2421,21 +2421,21 @@
                     "spellID": 29622,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 },
                 {
                     "name": "Khorium Belt",
                     "spellID": 29628,
                     "source": "Drops from Murkblood Raiders in Nagrand",
                     "icon": "inv_belt_11",
-                    "iconIndex": 267
+                    "iconIndex": 245
                 },
                 {
                     "name": "Khorium Pants",
                     "spellID": 29629,
                     "source": "Drops from Deathforge Guardians in Shadowmoon Valley",
                     "icon": "inv_pants_plate_04",
-                    "iconIndex": 268
+                    "iconIndex": 246
                 },
                 {
                     "name": "Ragesteel Gloves",
@@ -2449,7 +2449,7 @@
                     "spellID": 29630,
                     "source": "Drops from Disembodied Protectors in Netherstorm",
                     "icon": "inv_boots_chain_01",
-                    "iconIndex": 269
+                    "iconIndex": 247
                 },
                 {
                     "name": "Ragesteel Helm",
@@ -2463,7 +2463,7 @@
                     "spellID": 29645,
                     "source": "Drops from Ashtounge Warriors in Shadowmoon Valley",
                     "icon": "inv_chest_chain_16",
-                    "iconIndex": 270
+                    "iconIndex": 248
                 },
                 {
                     "name": "Felfury Gauntlets",
@@ -2477,28 +2477,28 @@
                     "spellID": 29662,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 },
                 {
                     "name": "Storm Helm",
                     "spellID": 29663,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_helmet_29",
-                    "iconIndex": 271
+                    "iconIndex": 249
                 },
                 {
                     "name": "Helm of the Stalwart Defender",
                     "spellID": 29664,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_helmet_08",
-                    "iconIndex": 272
+                    "iconIndex": 250
                 },
                 {
                     "name": "Oathkeeper's Helm",
                     "spellID": 29668,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_helmet_38",
-                    "iconIndex": 273
+                    "iconIndex": 251
                 },
                 {
                     "name": "Black Felsteel Bracers",
@@ -2526,42 +2526,42 @@
                     "spellID": 29692,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_sword_59",
-                    "iconIndex": 274
+                    "iconIndex": 252
                 },
                 {
                     "name": "Khorium Champion",
                     "spellID": 29693,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_sword_08",
-                    "iconIndex": 275
+                    "iconIndex": 253
                 },
                 {
                     "name": "Fel Edged Battleaxe",
                     "spellID": 29694,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_axe_15",
-                    "iconIndex": 276
+                    "iconIndex": 254
                 },
                 {
                     "name": "Felsteel Reaper",
                     "spellID": 29695,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_axe_02",
-                    "iconIndex": 277
+                    "iconIndex": 255
                 },
                 {
                     "name": "Runic Hammer",
                     "spellID": 29696,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_hammer_09",
-                    "iconIndex": 278
+                    "iconIndex": 256
                 },
                 {
                     "name": "Fel Hardened Maul",
                     "spellID": 29697,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_hammer_17",
-                    "iconIndex": 254
+                    "iconIndex": 232
                 },
                 {
                     "name": "Eternium Runed Blade",
@@ -2582,35 +2582,35 @@
                     "spellID": 29700,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_mace_16",
-                    "iconIndex": 279
+                    "iconIndex": 257
                 },
                 {
                     "name": "Greater Ward of Shielding",
                     "spellID": 29729,
                     "source": "Drops from Sunfury Bloodwarders in Netherstorm",
                     "icon": "inv_misc_rune_13",
-                    "iconIndex": 280
+                    "iconIndex": 258
                 },
                 {
                     "name": "Ragesteel Shoulders",
                     "spellID": 42662,
                     "source": "Drops from Enraged Spirits in Shadowmoon Valley",
                     "icon": "inv_shoulder_16",
-                    "iconIndex": 281
+                    "iconIndex": 259
                 },
                 {
                     "name": "Adamantite Weapon Chain",
                     "spellID": 42688,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "spell_frost_chainsofice",
-                    "iconIndex": 246
+                    "iconIndex": 224
                 },
                 {
                     "name": "Hammer of Righteous Might",
                     "spellID": 43846,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_mace_41",
-                    "iconIndex": 282
+                    "iconIndex": 260
                 }
             ]
         },
@@ -2655,14 +2655,14 @@
                     "spellID": 143255,
                     "source": "Drops in Pandaria zones, raids and dungeons",
                     "icon": "inv_ingot_trillium_balanced",
-                    "iconIndex": 283
+                    "iconIndex": 261
                 },
                 {
                     "name": "Accelerated Balanced Trillium Ingot",
                     "spellID": 146921,
                     "source": "Drops in Pandaria zones, raids and dungeons",
                     "icon": "inv_ingot_trillium_balanced",
-                    "iconIndex": 283
+                    "iconIndex": 261
                 }
             ]
         },
@@ -2674,28 +2674,28 @@
                     "spellID": 10007,
                     "source": "Drops from Banshees in Stratholme",
                     "icon": "inv_sword_40",
-                    "iconIndex": 284
+                    "iconIndex": 262
                 },
                 {
                     "name": "Serenity",
                     "spellID": 16983,
                     "source": "Looted from Blacksmithing Plans in Blackrock Depths\/Stratholme",
                     "icon": "inv_mace_02",
-                    "iconIndex": 285
+                    "iconIndex": 263
                 },
                 {
                     "name": "Corruption",
                     "spellID": 16985,
                     "source": "Looted from Blacksmithing Plans in Blackrock Depths\/Stratholme",
                     "icon": "inv_sword_07",
-                    "iconIndex": 286
+                    "iconIndex": 264
                 },
                 {
                     "name": "Hammer of the Titans",
                     "spellID": 16988,
                     "source": "Drops from Maleki the Pallid in Stratholme",
                     "icon": "inv_hammer_09",
-                    "iconIndex": 278
+                    "iconIndex": 256
                 },
                 {
                     "name": "Annihilator",
@@ -2709,14 +2709,14 @@
                     "spellID": 16994,
                     "source": "Drops from Bannok Grimaxe in Blackrock Spire",
                     "icon": "inv_axe_09",
-                    "iconIndex": 287
+                    "iconIndex": 265
                 },
                 {
                     "name": "Heartseeker",
                     "spellID": 16995,
                     "source": "Drops from Willey Hopebreaker in Stratholme",
                     "icon": "inv_sword_17",
-                    "iconIndex": 288
+                    "iconIndex": 266
                 }
             ]
         },
@@ -2728,14 +2728,14 @@
                     "spellID": 29619,
                     "source": "Drops from Auchenai Monks in Auchenai Crypts",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 },
                 {
                     "name": "Felsteel Leggings",
                     "spellID": 29620,
                     "source": "Drops from Unchained Doombringers in The Arcatraz",
                     "icon": "inv_pants_plate_06",
-                    "iconIndex": 289
+                    "iconIndex": 267
                 },
                 {
                     "name": "Felsteel Helm",
@@ -2749,7 +2749,7 @@
                     "spellID": 29648,
                     "source": "Drops from Nexus Stalkers in Mana-Tombs",
                     "icon": "inv_gauntlets_17",
-                    "iconIndex": 290
+                    "iconIndex": 268
                 },
                 {
                     "name": "Earthpeace Breastplate",
@@ -2768,7 +2768,7 @@
                     "spellID": 22757,
                     "source": "Drops from bosses in Molten Core",
                     "icon": "inv_stone_02",
-                    "iconIndex": 291
+                    "iconIndex": 269
                 }
             ]
         },
@@ -2780,14 +2780,14 @@
                     "spellID": 27587,
                     "source": "Drops from The Prophet Skeram in Temple of Ahn'Qiraj",
                     "icon": "inv_chest_chain_17",
-                    "iconIndex": 292
+                    "iconIndex": 270
                 },
                 {
                     "name": "Black Grasp of the Destroyer",
                     "spellID": 27589,
                     "source": "Drops from Moam in Ruins of Ahn'Qiraj",
                     "icon": "inv_gauntlets_31",
-                    "iconIndex": 293
+                    "iconIndex": 271
                 }
             ]
         },
@@ -2799,28 +2799,28 @@
                     "spellID": 36389,
                     "source": "Drops in Serpentshrine Cavern \/ The Eye",
                     "icon": "inv_belt_28",
-                    "iconIndex": 294
+                    "iconIndex": 272
                 },
                 {
                     "name": "Red Belt of Battle",
                     "spellID": 36390,
                     "source": "Drops in Serpentshrine Cavern \/ The Eye",
                     "icon": "inv_belt_13",
-                    "iconIndex": 295
+                    "iconIndex": 273
                 },
                 {
                     "name": "Boots of the Protector",
                     "spellID": 36391,
                     "source": "Drops in Serpentshrine Cavern \/ The Eye",
                     "icon": "inv_boots_plate_03",
-                    "iconIndex": 296
+                    "iconIndex": 274
                 },
                 {
                     "name": "Red Havoc Boots",
                     "spellID": 36392,
                     "source": "Drops in Serpentshrine Cavern \/ The Eye",
                     "icon": "inv_boots_chain_04",
-                    "iconIndex": 297
+                    "iconIndex": 275
                 }
             ]
         },
@@ -2832,14 +2832,14 @@
                     "spellID": 41132,
                     "source": "Drops in Hyjal Summit",
                     "icon": "inv_bracer_15",
-                    "iconIndex": 298
+                    "iconIndex": 276
                 },
                 {
                     "name": "Dawnsteel Shoulders",
                     "spellID": 41135,
                     "source": "Drops in Hyjal Summit",
                     "icon": "inv_shoulder_66",
-                    "iconIndex": 299
+                    "iconIndex": 277
                 }
             ]
         },
@@ -2851,14 +2851,14 @@
                     "spellID": 41133,
                     "source": "Drops in Black Temple",
                     "icon": "inv_shoulder_29",
-                    "iconIndex": 300
+                    "iconIndex": 278
                 },
                 {
                     "name": "Dawnsteel Bracers",
                     "spellID": 41134,
                     "source": "Drops in Black Temple",
                     "icon": "inv_bracer_02",
-                    "iconIndex": 301
+                    "iconIndex": 279
                 }
             ]
         },
@@ -2870,21 +2870,21 @@
                     "spellID": 46140,
                     "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_20",
-                    "iconIndex": 302
+                    "iconIndex": 280
                 },
                 {
                     "name": "Hard Khorium Battlefists",
                     "spellID": 46141,
                     "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_62",
-                    "iconIndex": 303
+                    "iconIndex": 281
                 },
                 {
                     "name": "Sunblessed Breastplate",
                     "spellID": 46142,
                     "source": "Drops in Sunwell Plateau",
                     "icon": "inv_chest_plate02",
-                    "iconIndex": 304
+                    "iconIndex": 282
                 },
                 {
                     "name": "Hard Khorium Battleplate",
@@ -2903,21 +2903,21 @@
                     "spellID": 63187,
                     "source": "Dropped by bosses in Ulduar",
                     "icon": "inv_belt_34",
-                    "iconIndex": 305
+                    "iconIndex": 283
                 },
                 {
                     "name": "Battlelord's Plate Boots",
                     "spellID": 63188,
                     "source": "Dropped by bosses in Ulduar",
                     "icon": "inv_boots_plate_06",
-                    "iconIndex": 306
+                    "iconIndex": 284
                 },
                 {
                     "name": "Plate Girdle of Righteousness",
                     "spellID": 63189,
                     "source": "Dropped by bosses in Ulduar",
                     "icon": "inv_belt_28",
-                    "iconIndex": 294
+                    "iconIndex": 272
                 },
                 {
                     "name": "Treads of Destiny",
@@ -2931,14 +2931,14 @@
                     "spellID": 63191,
                     "source": "Dropped by bosses in Ulduar",
                     "icon": "inv_belt_45a",
-                    "iconIndex": 307
+                    "iconIndex": 285
                 },
                 {
                     "name": "Spiked Deathdealers",
                     "spellID": 63192,
                     "source": "Dropped by bosses in Ulduar",
                     "icon": "inv_boots_plate_06",
-                    "iconIndex": 306
+                    "iconIndex": 284
                 }
             ]
         },
@@ -2951,7 +2951,7 @@
                     "faction": 0,
                     "source": "Dropped by bosses in Trial of the Crusader (Alliance Only)",
                     "icon": "inv_chest_plate_24",
-                    "iconIndex": 308
+                    "iconIndex": 286
                 },
                 {
                     "name": "Saronite Swordbreakers",
@@ -2959,7 +2959,7 @@
                     "faction": 0,
                     "source": "Dropped by bosses in Trial of the Crusader (Alliance Only)",
                     "icon": "inv_bracer_32a",
-                    "iconIndex": 309
+                    "iconIndex": 287
                 },
                 {
                     "name": "Titanium Razorplate",
@@ -2967,7 +2967,7 @@
                     "faction": 0,
                     "source": "Dropped by bosses in Trial of the Crusader (Alliance Only)",
                     "icon": "inv_chest_plate18",
-                    "iconIndex": 310
+                    "iconIndex": 288
                 },
                 {
                     "name": "Titanium Spikeguards",
@@ -2975,7 +2975,7 @@
                     "faction": 0,
                     "source": "Dropped by bosses in Trial of the Crusader (Alliance Only)",
                     "icon": "inv_bracer_37",
-                    "iconIndex": 311
+                    "iconIndex": 289
                 },
                 {
                     "name": "Sunforged Breastplate",
@@ -2983,7 +2983,7 @@
                     "faction": 0,
                     "source": "Dropped by bosses in Trial of the Crusader (Alliance Only)",
                     "icon": "inv_chest_plate_22",
-                    "iconIndex": 312
+                    "iconIndex": 290
                 },
                 {
                     "name": "Sunforged Bracers",
@@ -2991,7 +2991,7 @@
                     "faction": 0,
                     "source": "Dropped by bosses in Trial of the Crusader (Alliance Only)",
                     "icon": "inv_bracer_32a",
-                    "iconIndex": 309
+                    "iconIndex": 287
                 },
                 {
                     "name": "Breastplate of the White Knight",
@@ -2999,7 +2999,7 @@
                     "faction": 1,
                     "source": "Dropped by bosses in Trial of the Crusader (Horde Only)",
                     "icon": "inv_chest_plate20",
-                    "iconIndex": 313
+                    "iconIndex": 291
                 },
                 {
                     "name": "Saronite Swordbreakers",
@@ -3007,7 +3007,7 @@
                     "faction": 1,
                     "source": "Dropped by bosses in Trial of the Crusader (Horde Only)",
                     "icon": "inv_bracer_30b",
-                    "iconIndex": 314
+                    "iconIndex": 292
                 },
                 {
                     "name": "Titanium Razorplate",
@@ -3015,7 +3015,7 @@
                     "faction": 1,
                     "source": "Dropped by bosses in Trial of the Crusader (Horde Only)",
                     "icon": "inv_chest_plate_24",
-                    "iconIndex": 308
+                    "iconIndex": 286
                 },
                 {
                     "name": "Titanium Spikeguards",
@@ -3023,7 +3023,7 @@
                     "faction": 1,
                     "source": "Dropped by bosses in Trial of the Crusader (Horde Only)",
                     "icon": "inv_bracer_26b",
-                    "iconIndex": 315
+                    "iconIndex": 293
                 },
                 {
                     "name": "Sunforged Breastplate",
@@ -3031,7 +3031,7 @@
                     "faction": 1,
                     "source": "Dropped by bosses in Trial of the Crusader (Horde Only)",
                     "icon": "inv_chest_plate_23",
-                    "iconIndex": 316
+                    "iconIndex": 294
                 },
                 {
                     "name": "Sunforged Bracers",
@@ -3039,7 +3039,7 @@
                     "faction": 1,
                     "source": "Dropped by bosses in Trial of the Crusader (Horde Only)",
                     "icon": "inv_bracer_32",
-                    "iconIndex": 317
+                    "iconIndex": 295
                 }
             ]
         },
@@ -3051,42 +3051,42 @@
                     "spellID": 99439,
                     "source": "Dropped by bosses in Firelands",
                     "icon": "inv_glove_plate_raidwarrior_j_01",
-                    "iconIndex": 318
+                    "iconIndex": 296
                 },
                 {
                     "name": "Eternal Elementium Handguards",
                     "spellID": 99440,
                     "source": "Dropped by bosses in Firelands",
                     "icon": "inv_glove_plate_raiddeathknight_j_01",
-                    "iconIndex": 319
+                    "iconIndex": 297
                 },
                 {
                     "name": "Holy Flame Gauntlets",
                     "spellID": 99441,
                     "source": "Dropped by bosses in Firelands",
                     "icon": "inv_gauntlets_plate_raidpaladin_j_01",
-                    "iconIndex": 320
+                    "iconIndex": 298
                 },
                 {
                     "name": "Warboots of Mighty Lords",
                     "spellID": 99452,
                     "source": "Dropped by bosses in Firelands",
                     "icon": "inv_boots_plate_raidwarrior_j_01",
-                    "iconIndex": 321
+                    "iconIndex": 299
                 },
                 {
                     "name": "Mirrored Boots",
                     "spellID": 99453,
                     "source": "Dropped by bosses in Firelands",
                     "icon": "inv_boot_plate_raiddeathknight_j_01",
-                    "iconIndex": 322
+                    "iconIndex": 300
                 },
                 {
                     "name": "Emberforged Elementium Boots",
                     "spellID": 99454,
                     "source": "Dropped by bosses in Firelands",
                     "icon": "inv_boots_plate_raidpaladin_j_01",
-                    "iconIndex": 323
+                    "iconIndex": 301
                 }
             ]
         },
@@ -3098,35 +3098,35 @@
                     "spellID": 101924,
                     "source": "Dropped by bosses in Dragon Soul",
                     "icon": "inv_pants_plate_raidpaladin_k_01",
-                    "iconIndex": 324
+                    "iconIndex": 302
                 },
                 {
                     "name": "Foundations of Courage",
                     "spellID": 101928,
                     "source": "Dropped by bosses in Dragon Soul",
                     "icon": "inv_pants_plate_raidwarrior_k_01",
-                    "iconIndex": 325
+                    "iconIndex": 303
                 },
                 {
                     "name": "Soul Redeemer Bracers",
                     "spellID": 101929,
                     "source": "Dropped by bosses in Dragon Soul",
                     "icon": "inv_bracer_plate_raidpaladin_k_01",
-                    "iconIndex": 326
+                    "iconIndex": 304
                 },
                 {
                     "name": "Bracers of Destructive Strength",
                     "spellID": 101931,
                     "source": "Dropped by bosses in Dragon Soul",
                     "icon": "inv_bracer_plate_raiddeathknight_k_01",
-                    "iconIndex": 327
+                    "iconIndex": 305
                 },
                 {
                     "name": "Titanguard Wristplates",
                     "spellID": 101932,
                     "source": "Dropped by bosses in Dragon Soul",
                     "icon": "inv_bracer_plate_raidwarrior_k_01",
-                    "iconIndex": 328
+                    "iconIndex": 306
                 }
             ]
         },
@@ -3138,42 +3138,42 @@
                     "spellID": 126850,
                     "source": "Drops in Pandaria raids",
                     "icon": "inv_chest_plate_raidwarrior_l_01",
-                    "iconIndex": 329
+                    "iconIndex": 307
                 },
                 {
                     "name": "Gauntlets of Battle Command",
                     "spellID": 126851,
                     "source": "Drops in Pandaria raids",
                     "icon": "inv_gauntlets_plate_raiddeathknight_l_01",
-                    "iconIndex": 330
+                    "iconIndex": 308
                 },
                 {
                     "name": "Ornate Battleplate of the Master",
                     "spellID": 126852,
                     "source": "Drops in Pandaria raids",
                     "icon": "inv_chest_plate_raiddeathknight_l_01",
-                    "iconIndex": 331
+                    "iconIndex": 309
                 },
                 {
                     "name": "Bloodforged Warfists",
                     "spellID": 126853,
                     "source": "Drops in Pandaria raids",
                     "icon": "inv_gauntlet_plate_raidwarrior_l_01",
-                    "iconIndex": 332
+                    "iconIndex": 310
                 },
                 {
                     "name": "Chestplate of Limitless Faith",
                     "spellID": 126854,
                     "source": "Drops in Pandaria raids",
                     "icon": "inv_chest_plate_raidpaladin_l_01",
-                    "iconIndex": 333
+                    "iconIndex": 311
                 },
                 {
                     "name": "Gauntlets of Unbound Devotion",
                     "spellID": 126855,
                     "source": "Drops in Pandaria raids",
                     "icon": "inv_glove_plate_raidpaladin_l_01",
-                    "iconIndex": 334
+                    "iconIndex": 312
                 }
             ]
         },
@@ -3185,28 +3185,28 @@
                     "spellID": 15292,
                     "source": "Drops from Grizzle in Blackrock Depths",
                     "icon": "inv_hammer_09",
-                    "iconIndex": 278
+                    "iconIndex": 256
                 },
                 {
                     "name": "Dark Iron Mail",
                     "spellID": 15293,
                     "source": "Looted from Blacksmithing Plans in Blackrock Depths",
                     "icon": "inv_chest_chain_16",
-                    "iconIndex": 270
+                    "iconIndex": 248
                 },
                 {
                     "name": "Dark Iron Sunderer",
                     "spellID": 15294,
                     "source": "Drops from Hammered Patron in Blackrock Depths",
                     "icon": "inv_weapon_halberd_02",
-                    "iconIndex": 335
+                    "iconIndex": 313
                 },
                 {
                     "name": "Dark Iron Shoulders",
                     "spellID": 15295,
                     "source": "Looted from Blacksmithing Plans in Blackrock Depths",
                     "icon": "inv_shoulder_09",
-                    "iconIndex": 239
+                    "iconIndex": 217
                 },
                 {
                     "name": "Dark Iron Plate",
@@ -3234,7 +3234,7 @@
                     "spellID": 20890,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_sword_48",
-                    "iconIndex": 336
+                    "iconIndex": 314
                 },
                 {
                     "name": "Dark Iron Destroyer",
@@ -3255,7 +3255,7 @@
                     "spellID": 23637,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_gauntlets_22",
-                    "iconIndex": 337
+                    "iconIndex": 315
                 },
                 {
                     "name": "Dark Iron Boots",
@@ -3274,14 +3274,14 @@
                     "spellID": 16645,
                     "source": "Drops in level 50-55 zones",
                     "icon": "inv_belt_11",
-                    "iconIndex": 267
+                    "iconIndex": 245
                 },
                 {
                     "name": "Radiant Breastplate",
                     "spellID": 16648,
                     "source": "Drops in level 44-60 zones",
                     "icon": "inv_chest_plate16",
-                    "iconIndex": 338
+                    "iconIndex": 316
                 },
                 {
                     "name": "Radiant Gloves",
@@ -3295,14 +3295,14 @@
                     "spellID": 16656,
                     "source": "Drops in level 44-60 zones",
                     "icon": "inv_boots_plate_03",
-                    "iconIndex": 296
+                    "iconIndex": 274
                 },
                 {
                     "name": "Radiant Circlet",
                     "spellID": 16659,
                     "source": "Drops in level 53-56 zones",
                     "icon": "inv_crown_01",
-                    "iconIndex": 339
+                    "iconIndex": 317
                 },
                 {
                     "name": "Radiant Leggings",
@@ -3321,7 +3321,7 @@
                     "spellID": 16664,
                     "source": "Sold by Dramm Riverhorn in Un'goro Crater",
                     "icon": "inv_shoulder_23",
-                    "iconIndex": 340
+                    "iconIndex": 318
                 },
                 {
                     "name": "Runic Plate Boots",
@@ -3354,28 +3354,28 @@
                     "spellID": 29566,
                     "source": "Sold by Aaron Hollman in Shattrath City",
                     "icon": "inv_mace_14",
-                    "iconIndex": 341
+                    "iconIndex": 319
                 },
                 {
                     "name": "Adamantite Cleaver",
                     "spellID": 29568,
                     "source": "Sold by Aaron Hollman in Shattrath City",
                     "icon": "inv_axe_09",
-                    "iconIndex": 287
+                    "iconIndex": 265
                 },
                 {
                     "name": "Adamantite Dagger",
                     "spellID": 29569,
                     "source": "Sold by Aaron Hollman in Shattrath City",
                     "icon": "inv_sword_12",
-                    "iconIndex": 342
+                    "iconIndex": 320
                 },
                 {
                     "name": "Adamantite Rapier",
                     "spellID": 29571,
                     "source": "Sold by Aaron Hollman in Shattrath City",
                     "icon": "inv_sword_30",
-                    "iconIndex": 253
+                    "iconIndex": 231
                 },
                 {
                     "name": "Adamantite Plate Bracers",
@@ -3389,7 +3389,7 @@
                     "spellID": 29605,
                     "source": "Sold by Krek Cragcrush in Shadowmoon Valley (Horde)\nSold by Loolruna in Zangarmarsh (Alliance)",
                     "icon": "inv_gauntlets_30",
-                    "iconIndex": 259
+                    "iconIndex": 237
                 },
                 {
                     "name": "Adamantite Breastplate",
@@ -3415,28 +3415,28 @@
                     "spellID": 3494,
                     "source": "Sold by Jannos Ironwill in Arathi Highlands (Alliance)\nSold by Muuran in Desolace (Horde)",
                     "icon": "inv_hammer_07",
-                    "iconIndex": 343
+                    "iconIndex": 321
                 },
                 {
                     "name": "Moonsteel Broadsword",
                     "spellID": 3496,
                     "source": "Sold by Zarena Cromwind in Booty Bay",
                     "icon": "inv_sword_25",
-                    "iconIndex": 344
+                    "iconIndex": 322
                 },
                 {
                     "name": "Massive Iron Axe",
                     "spellID": 3498,
                     "source": "Sold by Jaquilina Dramet in Northern Stranglethorn",
                     "icon": "inv_throwingaxe_05",
-                    "iconIndex": 345
+                    "iconIndex": 323
                 },
                 {
                     "name": "Golden Scale Coif",
                     "spellID": 3503,
                     "source": "Sold by Krinkle Goodsteel in Tanaris",
                     "icon": "inv_helmet_36",
-                    "iconIndex": 261
+                    "iconIndex": 239
                 },
                 {
                     "name": "Mithril Scale Bracers",
@@ -3457,42 +3457,42 @@
                     "spellID": 20872,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_belt_13",
-                    "iconIndex": 295
+                    "iconIndex": 273
                 },
                 {
                     "name": "Fiery Chain Shoulders",
                     "spellID": 20873,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_shoulder_23",
-                    "iconIndex": 340
+                    "iconIndex": 318
                 },
                 {
                     "name": "Black Amnesty",
                     "spellID": 23638,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_weapon_shortblade_12",
-                    "iconIndex": 346
+                    "iconIndex": 324
                 },
                 {
                     "name": "Blackfury",
                     "spellID": 23639,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_spear_08",
-                    "iconIndex": 347
+                    "iconIndex": 325
                 },
                 {
                     "name": "Ebon Hand",
                     "spellID": 23650,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_hammer_19",
-                    "iconIndex": 348
+                    "iconIndex": 326
                 },
                 {
                     "name": "Blackguard",
                     "spellID": 23652,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_sword_39",
-                    "iconIndex": 349
+                    "iconIndex": 327
                 },
                 {
                     "name": "Nightfall",
@@ -3506,7 +3506,7 @@
                     "spellID": 29728,
                     "source": "Sold by Mari Stonehand in Shadowmoon Valley (Alliance)\nSold by Rohok in Hellfire Peninsula (Horde)",
                     "icon": "inv_misc_rune_12",
-                    "iconIndex": 350
+                    "iconIndex": 328
                 }
             ]
         },
@@ -3518,238 +3518,238 @@
                     "spellID": 76439,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_belt_83",
-                    "iconIndex": 351
+                    "iconIndex": 329
                 },
                 {
                     "name": "Pyrium Shield Spike",
                     "spellID": 76440,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_shield_08",
-                    "iconIndex": 352
+                    "iconIndex": 330
                 },
                 {
                     "name": "Pyrium Weapon Chain",
                     "spellID": 76442,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_misc_steelweaponchain",
-                    "iconIndex": 353
+                    "iconIndex": 331
                 },
                 {
                     "name": "Hardened Elementium Hauberk",
                     "spellID": 76443,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_chest_plate_raidwarrior_i_01",
-                    "iconIndex": 354
+                    "iconIndex": 332
                 },
                 {
                     "name": "Hardened Elementium Girdle",
                     "spellID": 76444,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_belt_plate_raidwarrior_i_01",
-                    "iconIndex": 355
+                    "iconIndex": 333
                 },
                 {
                     "name": "Elementium Deathplate",
                     "spellID": 76445,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_chest_plate_raidwarrior_i_01",
-                    "iconIndex": 354
+                    "iconIndex": 332
                 },
                 {
                     "name": "Elementium Girdle of Pain",
                     "spellID": 76446,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_belt_plate_raidwarrior_i_01",
-                    "iconIndex": 355
+                    "iconIndex": 333
                 },
                 {
                     "name": "Light Elementium Chestguard",
                     "spellID": 76447,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_chest_plate_raidpaladin_i_01",
-                    "iconIndex": 356
+                    "iconIndex": 334
                 },
                 {
                     "name": "Light Elementium Belt",
                     "spellID": 76448,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_belt_plate_raidpaladin_i_01",
-                    "iconIndex": 357
+                    "iconIndex": 335
                 },
                 {
                     "name": "Elementium Spellblade",
                     "spellID": 76449,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_knife_1h_grimbatolraid_d_03",
-                    "iconIndex": 358
+                    "iconIndex": 336
                 },
                 {
                     "name": "Elementium Hammer",
                     "spellID": 76450,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_mace_1h_cataclysm_c_03",
-                    "iconIndex": 359
+                    "iconIndex": 337
                 },
                 {
                     "name": "Elementium Poleaxe",
                     "spellID": 76451,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_polearm_2h_cataclysm_b_02",
-                    "iconIndex": 360
+                    "iconIndex": 338
                 },
                 {
                     "name": "Elementium Bonesplitter",
                     "spellID": 76452,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_mace_10",
-                    "iconIndex": 361
+                    "iconIndex": 339
                 },
                 {
                     "name": "Elementium Shank",
                     "spellID": 76453,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_knife_1h_grimbatolraid_d_01",
-                    "iconIndex": 362
+                    "iconIndex": 340
                 },
                 {
                     "name": "Elementium Earthguard",
                     "spellID": 76454,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_shield_grimbatolraid_d_02",
-                    "iconIndex": 363
+                    "iconIndex": 341
                 },
                 {
                     "name": "Elementium Stormshield",
                     "spellID": 76455,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_shield_bwdraid_d_02",
-                    "iconIndex": 364
+                    "iconIndex": 342
                 },
                 {
                     "name": "Vicious Pyrium Bracers",
                     "spellID": 76456,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_bracer_plate_dungeonplate_c_04",
-                    "iconIndex": 365
+                    "iconIndex": 343
                 },
                 {
                     "name": "Vicious Pyrium Gauntlets",
                     "spellID": 76457,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_gauntlets_plate_dungeonplate_c_04",
-                    "iconIndex": 366
+                    "iconIndex": 344
                 },
                 {
                     "name": "Vicious Pyrium Belt",
                     "spellID": 76458,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_belt_plate_dungeonplate_c_04",
-                    "iconIndex": 367
+                    "iconIndex": 345
                 },
                 {
                     "name": "Vicious Pyrium Boots",
                     "spellID": 76459,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_boots_plate_dungeonplate_c_04",
-                    "iconIndex": 368
+                    "iconIndex": 346
                 },
                 {
                     "name": "Vicious Pyrium Shoulders",
                     "spellID": 76461,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_shoulder_plate_dungeonplate_c_04",
-                    "iconIndex": 369
+                    "iconIndex": 347
                 },
                 {
                     "name": "Vicious Pyrium Legguards",
                     "spellID": 76462,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_pants_plate_dungeonplate_c_04",
-                    "iconIndex": 370
+                    "iconIndex": 348
                 },
                 {
                     "name": "Vicious Pyrium Helm",
                     "spellID": 76463,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_helmet_plate_dungeonplage_c_04",
-                    "iconIndex": 371
+                    "iconIndex": 349
                 },
                 {
                     "name": "Vicious Pyrium Breastplate",
                     "spellID": 76464,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_chest_plate_dungeonplate_c_04",
-                    "iconIndex": 372
+                    "iconIndex": 350
                 },
                 {
                     "name": "Vicious Ornate Pyrium Bracers",
                     "spellID": 76465,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_bracer_plate_dungeonplate_c_04",
-                    "iconIndex": 365
+                    "iconIndex": 343
                 },
                 {
                     "name": "Vicious Ornate Pyrium Gauntlets",
                     "spellID": 76466,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_gauntlets_plate_dungeonplate_c_04",
-                    "iconIndex": 366
+                    "iconIndex": 344
                 },
                 {
                     "name": "Vicious Ornate Pyrium Belt",
                     "spellID": 76467,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_belt_plate_dungeonplate_c_04",
-                    "iconIndex": 367
+                    "iconIndex": 345
                 },
                 {
                     "name": "Vicious Ornate Pyrium Boots",
                     "spellID": 76468,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_boots_plate_dungeonplate_c_04",
-                    "iconIndex": 368
+                    "iconIndex": 346
                 },
                 {
                     "name": "Vicious Ornate Pyrium Shoulders",
                     "spellID": 76469,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_shoulder_plate_dungeonplate_c_04",
-                    "iconIndex": 369
+                    "iconIndex": 347
                 },
                 {
                     "name": "Vicious Ornate Pyrium Legguards",
                     "spellID": 76470,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_pants_plate_dungeonplate_c_04",
-                    "iconIndex": 370
+                    "iconIndex": 348
                 },
                 {
                     "name": "Vicious Ornate Pyrium Helm",
                     "spellID": 76471,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_helmet_plate_dungeonplage_c_04",
-                    "iconIndex": 371
+                    "iconIndex": 349
                 },
                 {
                     "name": "Vicious Ornate Pyrium Breastplate",
                     "spellID": 76472,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_chest_plate_dungeonplate_c_04",
-                    "iconIndex": 372
+                    "iconIndex": 350
                 },
                 {
                     "name": "Elementium Gutslicer",
                     "spellID": 94718,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_axe_1h_bwdraid_d_01",
-                    "iconIndex": 373
+                    "iconIndex": 351
                 },
                 {
                     "name": "Forged Elementium Mindcrusher",
                     "spellID": 94732,
                     "source": "Sold by blacksmithing supplies in major cities",
                     "icon": "inv_mace_46",
-                    "iconIndex": 374
+                    "iconIndex": 352
                 }
             ]
         },
@@ -3761,7 +3761,7 @@
                     "spellID": 99652,
                     "source": "Sold by Damlek Bloombeard in Molten Front",
                     "icon": "inv_knife_1h_bwdraid_d_01",
-                    "iconIndex": 375
+                    "iconIndex": 353
                 },
                 {
                     "name": "Lightforged Elementium Hammer",
@@ -3782,21 +3782,21 @@
                     "spellID": 99655,
                     "source": "Sold by Damlek Bloombeard in Molten Front",
                     "icon": "inv_axe_1h_pvp400_c_01",
-                    "iconIndex": 376
+                    "iconIndex": 354
                 },
                 {
                     "name": "Pyrium Spellward",
                     "spellID": 99656,
                     "source": "Sold by Damlek Bloombeard in Molten Front",
                     "icon": "inv_sword_1h_cataclysm_c_06",
-                    "iconIndex": 377
+                    "iconIndex": 355
                 },
                 {
                     "name": "Unbreakable Guardian",
                     "spellID": 99657,
                     "source": "Sold by Damlek Bloombeard in Molten Front",
                     "icon": "inv_sword_1h_cataclysm_c_04",
-                    "iconIndex": 378
+                    "iconIndex": 356
                 },
                 {
                     "name": "Masterwork Elementium Deathblade",
@@ -3810,7 +3810,7 @@
                     "spellID": 99660,
                     "source": "Sold by Damlek Bloombeard in Molten Front",
                     "icon": "inv_polearm_2h_bwdraid_d_01",
-                    "iconIndex": 379
+                    "iconIndex": 357
                 }
             ]
         },
@@ -3822,168 +3822,168 @@
                     "spellID": 122592,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_helmet_plate_dungeonplate_c_07",
-                    "iconIndex": 380
+                    "iconIndex": 358
                 },
                 {
                     "name": "Masterwork Spiritguard Shoulders",
                     "spellID": 122593,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_shoulder_plate_dungeonplate_c_07",
-                    "iconIndex": 381
+                    "iconIndex": 359
                 },
                 {
                     "name": "Masterwork Spiritguard Breastplate",
                     "spellID": 122594,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_chest_plate_dungeonplate_c_07",
-                    "iconIndex": 382
+                    "iconIndex": 360
                 },
                 {
                     "name": "Masterwork Spiritguard Gauntlets",
                     "spellID": 122595,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_gauntlets_plate_dungeonplate_c_07",
-                    "iconIndex": 383
+                    "iconIndex": 361
                 },
                 {
                     "name": "Masterwork Spiritguard Legplates",
                     "spellID": 122596,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_pants_plate_dungeonplate_c_07",
-                    "iconIndex": 384
+                    "iconIndex": 362
                 },
                 {
                     "name": "Masterwork Spiritguard Bracers",
                     "spellID": 122597,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_bracer_plate_dungeonplate_c_07",
-                    "iconIndex": 385
+                    "iconIndex": 363
                 },
                 {
                     "name": "Masterwork Spiritguard Boots",
                     "spellID": 122598,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_boots_plate_dungeonplate_c_07",
-                    "iconIndex": 386
+                    "iconIndex": 364
                 },
                 {
                     "name": "Masterwork Spiritguard Belt",
                     "spellID": 122599,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_belt_plate_dungeonplate_c_07",
-                    "iconIndex": 387
+                    "iconIndex": 365
                 },
                 {
                     "name": "Contender's Revenant Helm",
                     "spellID": 122616,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_helmet_plate_dungeonplate_c_07",
-                    "iconIndex": 380
+                    "iconIndex": 358
                 },
                 {
                     "name": "Contender's Revenant Shoulders",
                     "spellID": 122617,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_shoulder_plate_dungeonplate_c_07",
-                    "iconIndex": 381
+                    "iconIndex": 359
                 },
                 {
                     "name": "Contender's Revenant Breastplate",
                     "spellID": 122618,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_chest_plate_dungeonplate_c_07",
-                    "iconIndex": 382
+                    "iconIndex": 360
                 },
                 {
                     "name": "Contender's Revenant Gauntlets",
                     "spellID": 122619,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_gauntlets_plate_dungeonplate_c_07",
-                    "iconIndex": 383
+                    "iconIndex": 361
                 },
                 {
                     "name": "Contender's Revenant Legplates",
                     "spellID": 122620,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_pants_plate_dungeonplate_c_07",
-                    "iconIndex": 384
+                    "iconIndex": 362
                 },
                 {
                     "name": "Contender's Revenant Bracers",
                     "spellID": 122621,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_bracer_plate_dungeonplate_c_07",
-                    "iconIndex": 385
+                    "iconIndex": 363
                 },
                 {
                     "name": "Contender's Revenant Boots",
                     "spellID": 122622,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_boots_plate_dungeonplate_c_07",
-                    "iconIndex": 386
+                    "iconIndex": 364
                 },
                 {
                     "name": "Contender's Revenant Belt",
                     "spellID": 122623,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_belt_plate_dungeonplate_c_07",
-                    "iconIndex": 387
+                    "iconIndex": 365
                 },
                 {
                     "name": "Contender's Spirit Helm",
                     "spellID": 122624,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_helmet_plate_dungeonplate_c_07",
-                    "iconIndex": 380
+                    "iconIndex": 358
                 },
                 {
                     "name": "Contender's Spirit Breastplate",
                     "spellID": 122626,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_chest_plate_dungeonplate_c_07",
-                    "iconIndex": 382
+                    "iconIndex": 360
                 },
                 {
                     "name": "Contender's Spirit Shoulders",
                     "spellID": 122625,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_shoulder_plate_dungeonplate_c_07",
-                    "iconIndex": 381
+                    "iconIndex": 359
                 },
                 {
                     "name": "Contender's Spirit Gauntlets",
                     "spellID": 122627,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_gauntlets_plate_dungeonplate_c_07",
-                    "iconIndex": 383
+                    "iconIndex": 361
                 },
                 {
                     "name": "Contender's Spirit Legplates",
                     "spellID": 122628,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_pants_plate_dungeonplate_c_07",
-                    "iconIndex": 384
+                    "iconIndex": 362
                 },
                 {
                     "name": "Contender's Spirit Boots",
                     "spellID": 122630,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_boots_plate_dungeonplate_c_07",
-                    "iconIndex": 386
+                    "iconIndex": 364
                 },
                 {
                     "name": "Contender's Spirit Belt",
                     "spellID": 122631,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_belt_plate_dungeonplate_c_07",
-                    "iconIndex": 387
+                    "iconIndex": 365
                 },
                 {
                     "name": "Contender's Spirit Bracers",
                     "spellID": 122629,
                     "source": "Sold by Cullen Hammerbrow in Shrine of Seven Stars (Alliance)\nSold by Jorunga Stonehoof in Shrine of Two Moons (Horde)",
                     "icon": "inv_bracer_plate_dungeonplate_c_07",
-                    "iconIndex": 385
+                    "iconIndex": 363
                 },
                 {
                     "name": "Masterwork Lightsteel Shield",
@@ -4009,14 +4009,14 @@
                     "spellID": 23628,
                     "source": "Sold by Meilosh in Felwood (Requires Honored)",
                     "icon": "inv_belt_16",
-                    "iconIndex": 388
+                    "iconIndex": 366
                 },
                 {
                     "name": "Heavy Timbermaw Boots",
                     "spellID": 23629,
                     "source": "Sold by Meilosh in Felwood (Requires Revered)",
                     "icon": "inv_boots_chain_10",
-                    "iconIndex": 389
+                    "iconIndex": 367
                 }
             ]
         },
@@ -4028,14 +4028,14 @@
                     "spellID": 23632,
                     "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Honored)",
                     "icon": "inv_belt_11",
-                    "iconIndex": 267
+                    "iconIndex": 245
                 },
                 {
                     "name": "Gloves of the Dawn",
                     "spellID": 23633,
                     "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Revered)",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 }
             ]
         },
@@ -4047,28 +4047,28 @@
                     "spellID": 27585,
                     "source": "Sold by Vargus in Silithus (Requires Friendly)",
                     "icon": "inv_belt_16",
-                    "iconIndex": 388
+                    "iconIndex": 366
                 },
                 {
                     "name": "Jagged Obsidian Shield",
                     "spellID": 27586,
                     "source": "Sold by Lieutenant General Andorov in Ruins of Ahn'Qiraj (Requires Revered)",
                     "icon": "inv_shield_22",
-                    "iconIndex": 390
+                    "iconIndex": 368
                 },
                 {
                     "name": "Light Obsidian Belt",
                     "spellID": 27588,
                     "source": "Sold by Vargus in Silithus (Requires Friendly)",
                     "icon": "inv_belt_16",
-                    "iconIndex": 388
+                    "iconIndex": 366
                 },
                 {
                     "name": "Obsidian Mail Tunic",
                     "spellID": 27590,
                     "source": "Sold by Lieutenant General Andorov in Ruins of Ahn'Qiraj (Requires Exalted)",
                     "icon": "inv_chest_chain_17",
-                    "iconIndex": 292
+                    "iconIndex": 270
                 },
                 {
                     "name": "Ironvine Breastplate",
@@ -4082,7 +4082,7 @@
                     "spellID": 28462,
                     "source": "Sold by Vargus in Silithus (Requires Honored)",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 },
                 {
                     "name": "Ironvine Belt",
@@ -4108,7 +4108,7 @@
                     "spellID": 29608,
                     "source": "Sold by Quartermaster Enuril in Shattrath City (Requires Friendly)",
                     "icon": "inv_belt_29",
-                    "iconIndex": 391
+                    "iconIndex": 369
                 },
                 {
                     "name": "Enchanted Adamantite Boots",
@@ -4155,7 +4155,7 @@
                     "spellID": 29617,
                     "source": "Sold by Quartermaster Endarin in Shattrath City (Requires Revered)",
                     "icon": "inv_chest_plate16",
-                    "iconIndex": 338
+                    "iconIndex": 316
                 }
             ]
         },
@@ -4167,21 +4167,21 @@
                     "spellID": 29656,
                     "source": "Sold by Fedryen Swiftspear (Requires Honored) in Zangarmarsh",
                     "icon": "inv_stone_sharpeningstone_07",
-                    "iconIndex": 392
+                    "iconIndex": 370
                 },
                 {
                     "name": "Greater Rune of Warding",
                     "spellID": 32285,
                     "source": "Sold by Fedryen Swiftspear (Requires Honored) in Zangarmarsh",
                     "icon": "inv_misc_rune_10",
-                    "iconIndex": 393
+                    "iconIndex": 371
                 },
                 {
                     "name": "Adamantite Weightstone",
                     "spellID": 34608,
                     "source": "Sold by Fedryen Swiftspear (Requires Honored) in Zangarmarsh",
                     "icon": "inv_stone_weightstone_07",
-                    "iconIndex": 394
+                    "iconIndex": 372
                 },
                 {
                     "name": "Wildguard Breastplate",
@@ -4214,7 +4214,7 @@
                     "spellID": 29657,
                     "source": "Sold by Logistics Officer Ulrike in Honor Hold (Requires Exalted)\nSold by Quartermaster Urgronn in Thrallmar (Requires Exalted)",
                     "icon": "inv_misc_armorkit_27",
-                    "iconIndex": 395
+                    "iconIndex": 373
                 }
             ]
         },
@@ -4233,7 +4233,7 @@
                     "spellID": 38478,
                     "source": "Sold by Koren in Karazhan (Requires Revered)",
                     "icon": "inv_pants_plate_10",
-                    "iconIndex": 396
+                    "iconIndex": 374
                 },
                 {
                     "name": "Iceguard Helm",
@@ -4266,7 +4266,7 @@
                     "spellID": 40035,
                     "source": "Sold by Okuno in Black Temple (Requires Honored)",
                     "icon": "inv_pants_plate_21",
-                    "iconIndex": 397
+                    "iconIndex": 375
                 },
                 {
                     "name": "Shadesteel Girdle",
@@ -4285,7 +4285,7 @@
                     "spellID": 62202,
                     "source": "Sold by Logistics Officer Brighton in Howling Fjord (Alliance) (Requires Exalted)\nSold by Gara Skullcrush in Borean Tundra (Horde) (Requires Exalted)",
                     "icon": "inv_shield_19",
-                    "iconIndex": 398
+                    "iconIndex": 376
                 }
             ]
         },
@@ -4297,42 +4297,42 @@
                     "spellID": 70562,
                     "source": "Sold by Alchemist Finklestein in Icecrown Citadel (Requires Revered)",
                     "icon": "inv_pants_plate_33",
-                    "iconIndex": 399
+                    "iconIndex": 377
                 },
                 {
                     "name": "Protectors of Life",
                     "spellID": 70563,
                     "source": "Sold by Alchemist Finklestein in Icecrown Citadel (Requires Honored)",
                     "icon": "inv_boots_plate_14",
-                    "iconIndex": 400
+                    "iconIndex": 378
                 },
                 {
                     "name": "Legplates of Painful Death",
                     "spellID": 70565,
                     "source": "Sold by Alchemist Finklestein in Icecrown Citadel (Requires Revered)",
                     "icon": "inv_pants_plate_32",
-                    "iconIndex": 401
+                    "iconIndex": 379
                 },
                 {
                     "name": "Hellfrozen Bonegrinders",
                     "spellID": 70566,
                     "source": "Sold by Alchemist Finklestein in Icecrown Citadel (Requires Honored)",
                     "icon": "inv_boots_plate_12",
-                    "iconIndex": 402
+                    "iconIndex": 380
                 },
                 {
                     "name": "Pillars of Might",
                     "spellID": 70567,
                     "source": "Sold by Alchemist Finklestein in Icecrown Citadel (Requires Revered)",
                     "icon": "inv_pants_plate_32",
-                    "iconIndex": 401
+                    "iconIndex": 379
                 },
                 {
                     "name": "Boots of Kingly Upheaval",
                     "spellID": 70568,
                     "source": "Sold by Alchemist Finklestein in Icecrown Citadel (Requires Honored)",
                     "icon": "inv_boots_plate_12",
-                    "iconIndex": 402
+                    "iconIndex": 380
                 }
             ]
         },
@@ -4344,7 +4344,7 @@
                     "spellID": 122632,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_belt_robe_pvpmage_d_01",
-                    "iconIndex": 403
+                    "iconIndex": 381
                 },
                 {
                     "name": "Masterwork Forgewire Axe",
@@ -4379,56 +4379,56 @@
                     "spellID": 122649,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_chest_plate_reputation_c_01",
-                    "iconIndex": 404
+                    "iconIndex": 382
                 },
                 {
                     "name": "Ghost Reaver's Gauntlets",
                     "spellID": 122650,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_glove_plate_reputation_c_01",
-                    "iconIndex": 405
+                    "iconIndex": 383
                 },
                 {
                     "name": "Living Steel Breastplate",
                     "spellID": 122651,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_chest_plate_raidpaladin_l_01",
-                    "iconIndex": 333
+                    "iconIndex": 311
                 },
                 {
                     "name": "Living Steel Gauntlets",
                     "spellID": 122652,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_glove_plate_raidpaladin_l_01",
-                    "iconIndex": 334
+                    "iconIndex": 312
                 },
                 {
                     "name": "Breastplate of Ancient Steel",
                     "spellID": 122653,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_chest_plate_raidwarrior_l_01",
-                    "iconIndex": 329
+                    "iconIndex": 307
                 },
                 {
                     "name": "Gauntlets of Ancient Steel",
                     "spellID": 122654,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_gauntlet_plate_raidwarrior_l_01",
-                    "iconIndex": 332
+                    "iconIndex": 310
                 },
                 {
                     "name": "Ghost Iron Shield Spike",
                     "spellID": 131928,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_shield_63",
-                    "iconIndex": 406
+                    "iconIndex": 384
                 },
                 {
                     "name": "Living Steel Weapon Chain",
                     "spellID": 131929,
                     "source": "Sold by Ambersmith Zikk in Dread Wastes (Requires Honored)",
                     "icon": "inv_misc_steelweaponchain",
-                    "iconIndex": 353
+                    "iconIndex": 331
                 },
                 {
                     "name": "Masterwork Ghost-Forged Blade",
@@ -4454,14 +4454,14 @@
                     "spellID": 43549,
                     "source": "Reward from 'Supplying the Front' in Ironforge (Alliance)",
                     "icon": "inv_sword_25",
-                    "iconIndex": 344
+                    "iconIndex": 322
                 },
                 {
                     "name": "Barbaric Iron Shoulders",
                     "spellID": 9811,
                     "source": "Reward from 'On Iron Pauldrons' in Orgrimmar (Horde)",
                     "icon": "inv_shoulder_23",
-                    "iconIndex": 340
+                    "iconIndex": 318
                 },
                 {
                     "name": "Barbaric Iron Breastplate",
@@ -4475,7 +4475,7 @@
                     "spellID": 9814,
                     "source": "Reward from 'Horns of Frenzy' in Orgrimmar (Horde)",
                     "icon": "inv_helmet_25",
-                    "iconIndex": 407
+                    "iconIndex": 385
                 },
                 {
                     "name": "Barbaric Iron Boots",
@@ -4489,14 +4489,14 @@
                     "spellID": 9820,
                     "source": "Reward from 'Joys of Omosh' in Orgrimmar (Horde)",
                     "icon": "inv_gauntlets_31",
-                    "iconIndex": 293
+                    "iconIndex": 271
                 },
                 {
                     "name": "Sulfuron Hammer",
                     "spellID": 21161,
                     "source": "Reward from 'A Binding Contract' in Blackrock Depths",
                     "icon": "inv_hammer_unique_sulfuras",
-                    "iconIndex": 408
+                    "iconIndex": 386
                 }
             ]
         },
@@ -4508,35 +4508,35 @@
                     "spellID": 137766,
                     "source": "Reward from 'Lightning Steel' in Isle of Thunder",
                     "icon": "inv_boot_plate_raidpaladin_m_01",
-                    "iconIndex": 409
+                    "iconIndex": 387
                 },
                 {
                     "name": "Haunted Steel Headcover",
                     "spellID": 137767,
                     "source": "Reward from 'Lightning Steel' in Isle of Thunder",
                     "icon": "inv_helmet_plate_raidpaladin_m_01",
-                    "iconIndex": 410
+                    "iconIndex": 388
                 },
                 {
                     "name": "Haunted Steel Treads",
                     "spellID": 137768,
                     "source": "Reward from 'Lightning Steel' in Isle of Thunder",
                     "icon": "inv_boots_plate_raidwarrior_m_01",
-                    "iconIndex": 411
+                    "iconIndex": 389
                 },
                 {
                     "name": "Haunted Steel Greathelm",
                     "spellID": 137769,
                     "source": "Reward from 'Lightning Steel' in Isle of Thunder",
                     "icon": "inv_helmet_plate_raidwarrior_m_01",
-                    "iconIndex": 412
+                    "iconIndex": 390
                 },
                 {
                     "name": "Haunted Steel Headguard",
                     "spellID": 137771,
                     "source": "Reward from 'Lightning Steel' in Isle of Thunder",
                     "icon": "inv_helmet_plate_deathknight_m_01",
-                    "iconIndex": 413
+                    "iconIndex": 391
                 }
             ]
         },
@@ -4548,364 +4548,364 @@
                     "spellID": 137770,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_boots_plate_deathknight_m_01",
-                    "iconIndex": 414
+                    "iconIndex": 392
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Scaled Gauntlets",
                     "spellID": 137772,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_gauntlets_plate_pvppaladin_e_01",
-                    "iconIndex": 415
+                    "iconIndex": 393
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Scaled Helm",
                     "spellID": 137773,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_helmet_plate_pvppaladin_e_01",
-                    "iconIndex": 416
+                    "iconIndex": 394
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Scaled Legguards",
                     "spellID": 137774,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_pants_plate_pvppaladin_e_01",
-                    "iconIndex": 417
+                    "iconIndex": 395
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Scaled Shoulders",
                     "spellID": 137775,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_shoulder_plate_pvppaladin_e_01",
-                    "iconIndex": 418
+                    "iconIndex": 396
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Clasp of Cruelty",
                     "spellID": 137776,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_belt_plate_pvppaladin_e_01",
-                    "iconIndex": 419
+                    "iconIndex": 397
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Clasp of Meditation",
                     "spellID": 137777,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_belt_plate_pvppaladin_e_01",
-                    "iconIndex": 419
+                    "iconIndex": 397
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Greaves of Alacrity",
                     "spellID": 137778,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_boots_plate_pvppaladin_e_01",
-                    "iconIndex": 420
+                    "iconIndex": 398
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Greaves of Meditation",
                     "spellID": 137779,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_boots_plate_pvppaladin_e_01",
-                    "iconIndex": 420
+                    "iconIndex": 398
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Bracers of Prowess",
                     "spellID": 137780,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_bracer_plate_pvppaladin_e_01",
-                    "iconIndex": 421
+                    "iconIndex": 399
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Bracers of Meditation",
                     "spellID": 137781,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_bracer_plate_pvppaladin_e_01",
-                    "iconIndex": 421
+                    "iconIndex": 399
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Ornamented Chestguard",
                     "spellID": 137782,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_chest_plate_pvppaladin_e_01",
-                    "iconIndex": 422
+                    "iconIndex": 400
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Ornamented Gloves",
                     "spellID": 137783,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_gauntlets_plate_pvppaladin_e_01",
-                    "iconIndex": 415
+                    "iconIndex": 393
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Ornamented Headcover",
                     "spellID": 137784,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_helmet_plate_pvppaladin_e_01",
-                    "iconIndex": 416
+                    "iconIndex": 394
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Ornamented Legplates",
                     "spellID": 137785,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_pants_plate_pvppaladin_e_01",
-                    "iconIndex": 417
+                    "iconIndex": 395
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Ornamented Spaulders",
                     "spellID": 137786,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_shoulder_plate_pvppaladin_e_01",
-                    "iconIndex": 418
+                    "iconIndex": 396
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Girdle of Accuracy",
                     "spellID": 137787,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_belt_plate_pvpdeathknight_e_01",
-                    "iconIndex": 423
+                    "iconIndex": 401
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Girdle of Prowess",
                     "spellID": 137788,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_belt_plate_pvpwarrior_e_01",
-                    "iconIndex": 424
+                    "iconIndex": 402
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Warboots of Cruelty",
                     "spellID": 137789,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_boot_plate_pvpdeathknight_e_01",
-                    "iconIndex": 425
+                    "iconIndex": 403
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Warboots of Alacrity",
                     "spellID": 137790,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_boots_plate_pvpwarrior_e_01",
-                    "iconIndex": 426
+                    "iconIndex": 404
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Armplates of Proficiency",
                     "spellID": 137791,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_bracer_plate_pvpdeathknight_e_01",
-                    "iconIndex": 427
+                    "iconIndex": 405
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Armplates of Alacrity",
                     "spellID": 137792,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_bracer_plate_pvpwarrior_e_01",
-                    "iconIndex": 428
+                    "iconIndex": 406
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Plate Chestpiece",
                     "spellID": 137793,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_chest_plate_pvpwarrior_e_01",
-                    "iconIndex": 429
+                    "iconIndex": 407
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Plate Gauntlets",
                     "spellID": 137794,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_gauntlets_plate_pvpwarrior_e_01",
-                    "iconIndex": 430
+                    "iconIndex": 408
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Plate Helm",
                     "spellID": 137795,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_helmet_plate_pvpwarrior_e_01",
-                    "iconIndex": 431
+                    "iconIndex": 409
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Plate Legguards",
                     "spellID": 137796,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_plate_pants_pvpwarrior_e_01",
-                    "iconIndex": 432
+                    "iconIndex": 410
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Plate Shoulders",
                     "spellID": 137797,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_shoulder_plate_pvpwarrior_e_01",
-                    "iconIndex": 433
+                    "iconIndex": 411
                 },
                 {
                     "name": "Lightning Steel Ingot",
                     "spellID": 138646,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_ingot_manticyte",
-                    "iconIndex": 434
+                    "iconIndex": 412
                 },
                 {
                     "name": "The Planar Edge, Reborn",
                     "spellID": 138876,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_axe_1h_blacksmithing_01",
-                    "iconIndex": 435
+                    "iconIndex": 413
                 },
                 {
                     "name": "Lunar Crescent, Reborn",
                     "spellID": 138877,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_axe_50",
-                    "iconIndex": 436
+                    "iconIndex": 414
                 },
                 {
                     "name": "Black Planar Edge, Reborn",
                     "spellID": 138878,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_axe_1h_blacksmithing_02",
-                    "iconIndex": 437
+                    "iconIndex": 415
                 },
                 {
                     "name": "Mooncleaver, Reborn",
                     "spellID": 138879,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_axe_51",
-                    "iconIndex": 438
+                    "iconIndex": 416
                 },
                 {
                     "name": "Wicked Edge of the Planes, Reborn",
                     "spellID": 138880,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_axe_1h_blacksmithing_03",
-                    "iconIndex": 439
+                    "iconIndex": 417
                 },
                 {
                     "name": "Bloodmoon, Reborn",
                     "spellID": 138881,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_axe_52",
-                    "iconIndex": 440
+                    "iconIndex": 418
                 },
                 {
                     "name": "Drakefist Hammer, Reborn",
                     "spellID": 138882,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_mace_37",
-                    "iconIndex": 441
+                    "iconIndex": 419
                 },
                 {
                     "name": "Thunder, Reborn",
                     "spellID": 138883,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_mace_2h_blacksmithing_01",
-                    "iconIndex": 442
+                    "iconIndex": 420
                 },
                 {
                     "name": "Deep Thunder, Reborn",
                     "spellID": 138884,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_mace_2h_blacksmithing_02",
-                    "iconIndex": 443
+                    "iconIndex": 421
                 },
                 {
                     "name": "Dragonmaw, Reborn",
                     "spellID": 138885,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_mace_38",
-                    "iconIndex": 444
+                    "iconIndex": 422
                 },
                 {
                     "name": "Dragonstrike, Reborn",
                     "spellID": 138886,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_mace_39",
-                    "iconIndex": 445
+                    "iconIndex": 423
                 },
                 {
                     "name": "Stormherald, Reborn",
                     "spellID": 138887,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_mace_2h_blacksmithing_03",
-                    "iconIndex": 446
+                    "iconIndex": 424
                 },
                 {
                     "name": "Fireguard, Reborn",
                     "spellID": 138888,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_sword_1h_blacksmithing_01",
-                    "iconIndex": 447
+                    "iconIndex": 425
                 },
                 {
                     "name": "Lionheart Blade, Reborn",
                     "spellID": 138889,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_sword_2h_blacksmithing_01",
-                    "iconIndex": 448
+                    "iconIndex": 426
                 },
                 {
                     "name": "Blazeguard, Reborn",
                     "spellID": 138890,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_sword_1h_blacksmithing_02",
-                    "iconIndex": 449
+                    "iconIndex": 427
                 },
                 {
                     "name": "Lionheart Champion, Reborn",
                     "spellID": 138891,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_sword_2h_blacksmithing_02",
-                    "iconIndex": 450
+                    "iconIndex": 428
                 },
                 {
                     "name": "Blazefury, Reborn",
                     "spellID": 138892,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_sword_1h_blacksmithing_03",
-                    "iconIndex": 451
+                    "iconIndex": 429
                 },
                 {
                     "name": "Lionheart Executioner, Reborn",
                     "spellID": 138893,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_sword_2h_blacksmithing_03",
-                    "iconIndex": 452
+                    "iconIndex": 430
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Scaled Chestpiece",
                     "spellID": 140841,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_chest_plate_pvppaladin_e_01",
-                    "iconIndex": 422
+                    "iconIndex": 400
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Dreadplate Shoulders",
                     "spellID": 140842,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_shoulder_plate_pvpdeathknight_e_01",
-                    "iconIndex": 453
+                    "iconIndex": 431
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Dreadplate Legguards",
                     "spellID": 140843,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_pants_plate_pvpdeathknight_e_01",
-                    "iconIndex": 454
+                    "iconIndex": 432
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Dreadplate Helm",
                     "spellID": 140844,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_helmet_plate_pvpdeathknight_e_01",
-                    "iconIndex": 455
+                    "iconIndex": 433
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Dreadplate Gauntlets",
                     "spellID": 140845,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_glove_plate_pvpdeathknight_e_01",
-                    "iconIndex": 456
+                    "iconIndex": 434
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Dreadplate Chestpiece",
                     "spellID": 140846,
                     "source": "Discovered through Lightning Steel",
                     "icon": "inv_chest_plate_pvpdeathknight_e_01",
-                    "iconIndex": 457
+                    "iconIndex": 435
                 }
             ]
         },
@@ -4917,287 +4917,287 @@
                     "spellID": 142954,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_pants_plate_41v1",
-                    "iconIndex": 458
+                    "iconIndex": 436
                 },
                 {
                     "name": "Protector's Trillium Legguards",
                     "spellID": 142958,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_pants_plate_40",
-                    "iconIndex": 459
+                    "iconIndex": 437
                 },
                 {
                     "name": "Avenger's Trillium Legplates",
                     "spellID": 142959,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_pants_plate_40v3",
-                    "iconIndex": 460
+                    "iconIndex": 438
                 },
                 {
                     "name": "Blessed Trillium Belt",
                     "spellID": 142963,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_96v1",
-                    "iconIndex": 461
+                    "iconIndex": 439
                 },
                 {
                     "name": "Protector's Trillium Waistguard",
                     "spellID": 142967,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_93",
-                    "iconIndex": 462
+                    "iconIndex": 440
                 },
                 {
                     "name": "Avenger's Trillium Waistplate",
                     "spellID": 142968,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_93v3",
-                    "iconIndex": 463
+                    "iconIndex": 441
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Dreadplate Chestpiece",
                     "spellID": 143163,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_chest_plate_pvpdeathknight_e_01",
-                    "iconIndex": 457
+                    "iconIndex": 435
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Dreadplate Gauntlets",
                     "spellID": 143164,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_glove_plate_pvpdeathknight_e_01",
-                    "iconIndex": 456
+                    "iconIndex": 434
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Dreadplate Helm",
                     "spellID": 143165,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_helmet_plate_pvpdeathknight_e_01",
-                    "iconIndex": 455
+                    "iconIndex": 433
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Dreadplate Legguards",
                     "spellID": 143166,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_pants_plate_pvpdeathknight_e_01",
-                    "iconIndex": 454
+                    "iconIndex": 432
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Dreadplate Shoulders",
                     "spellID": 143167,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shoulder_plate_pvpdeathknight_e_01",
-                    "iconIndex": 453
+                    "iconIndex": 431
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Scaled Chestpiece",
                     "spellID": 143168,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_chest_plate_pvppaladin_e_01",
-                    "iconIndex": 422
+                    "iconIndex": 400
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Scaled Gauntlets",
                     "spellID": 143169,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_gauntlets_plate_pvppaladin_e_01",
-                    "iconIndex": 415
+                    "iconIndex": 393
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Scaled Helm",
                     "spellID": 143170,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_helmet_plate_pvppaladin_e_01",
-                    "iconIndex": 416
+                    "iconIndex": 394
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Scaled Legguards",
                     "spellID": 143171,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_pants_plate_pvppaladin_e_01",
-                    "iconIndex": 417
+                    "iconIndex": 395
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Scaled Shoulders",
                     "spellID": 143172,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shoulder_plate_pvppaladin_e_01",
-                    "iconIndex": 418
+                    "iconIndex": 396
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Clasp of Cruelty",
                     "spellID": 143173,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_plate_pvppaladin_e_01",
-                    "iconIndex": 419
+                    "iconIndex": 397
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Clasp of Meditation",
                     "spellID": 143174,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_plate_pvppaladin_e_01",
-                    "iconIndex": 419
+                    "iconIndex": 397
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Greaves of Alacrity",
                     "spellID": 143175,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_boots_plate_pvppaladin_e_01",
-                    "iconIndex": 420
+                    "iconIndex": 398
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Greaves of Meditation",
                     "spellID": 143176,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_boots_plate_pvppaladin_e_01",
-                    "iconIndex": 420
+                    "iconIndex": 398
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Bracers of Prowess",
                     "spellID": 143177,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_bracer_plate_pvppaladin_e_01",
-                    "iconIndex": 421
+                    "iconIndex": 399
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Bracers of Meditation",
                     "spellID": 143178,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_bracer_plate_pvppaladin_e_01",
-                    "iconIndex": 421
+                    "iconIndex": 399
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Ornamented Chestguard",
                     "spellID": 143179,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_chest_plate_pvppaladin_e_01",
-                    "iconIndex": 422
+                    "iconIndex": 400
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Ornamented Gloves",
                     "spellID": 143180,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_gauntlets_plate_pvppaladin_e_01",
-                    "iconIndex": 415
+                    "iconIndex": 393
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Ornamented Headcover",
                     "spellID": 143181,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_helmet_plate_pvppaladin_e_01",
-                    "iconIndex": 416
+                    "iconIndex": 394
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Ornamented Legplates",
                     "spellID": 143182,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_pants_plate_pvppaladin_e_01",
-                    "iconIndex": 417
+                    "iconIndex": 395
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Ornamented Spaulders",
                     "spellID": 143183,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shoulder_plate_pvppaladin_e_01",
-                    "iconIndex": 418
+                    "iconIndex": 396
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Girdle of Accuracy",
                     "spellID": 143184,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_plate_pvpdeathknight_e_01",
-                    "iconIndex": 423
+                    "iconIndex": 401
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Girdle of Prowess",
                     "spellID": 143185,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_belt_plate_pvpwarrior_e_01",
-                    "iconIndex": 424
+                    "iconIndex": 402
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Warboots of Cruelty",
                     "spellID": 143186,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_boot_plate_pvpdeathknight_e_01",
-                    "iconIndex": 425
+                    "iconIndex": 403
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Warboots of Alacrity",
                     "spellID": 143187,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_boots_plate_pvpwarrior_e_01",
-                    "iconIndex": 426
+                    "iconIndex": 404
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Armplates of Proficiency",
                     "spellID": 143188,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_bracer_plate_pvpdeathknight_e_01",
-                    "iconIndex": 427
+                    "iconIndex": 405
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Armplates of Alacrity",
                     "spellID": 143189,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_bracer_plate_pvpwarrior_e_01",
-                    "iconIndex": 428
+                    "iconIndex": 406
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Plate Chestpiece",
                     "spellID": 143190,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_chest_plate_pvpwarrior_e_01",
-                    "iconIndex": 429
+                    "iconIndex": 407
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Plate Gauntlets",
                     "spellID": 143191,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_gauntlets_plate_pvpwarrior_e_01",
-                    "iconIndex": 430
+                    "iconIndex": 408
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Plate Helm",
                     "spellID": 143192,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_helmet_plate_pvpwarrior_e_01",
-                    "iconIndex": 431
+                    "iconIndex": 409
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Plate Legguards",
                     "spellID": 143193,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_plate_pants_pvpwarrior_e_01",
-                    "iconIndex": 432
+                    "iconIndex": 410
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Plate Shoulders",
                     "spellID": 143194,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shoulder_plate_pvpwarrior_e_01",
-                    "iconIndex": 433
+                    "iconIndex": 411
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Barrier",
                     "spellID": 143195,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shield_pvppandarias1_c_02",
-                    "iconIndex": 464
+                    "iconIndex": 442
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Redoubt",
                     "spellID": 143196,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shield_pvppandarias1_c_02",
-                    "iconIndex": 464
+                    "iconIndex": 442
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Shield Wall",
                     "spellID": 143197,
                     "source": "Discovered through Balanced Trillium",
                     "icon": "inv_shield_pvppandarias1_c_01",
-                    "iconIndex": 465
+                    "iconIndex": 443
                 }
             ]
         },
@@ -5209,35 +5209,35 @@
                     "spellID": 171690,
                     "source": "Learnt with Draenor Blacksmithing",
                     "icon": "inv_misc_trueironingot",
-                    "iconIndex": 466
+                    "iconIndex": 444
                 },
                 {
                     "name": "Smoldering Helm",
                     "spellID": 171691,
                     "source": "Learnt with Draenor Blacksmithing",
                     "icon": "inv_plate_draenorcrafted_d_01helm",
-                    "iconIndex": 467
+                    "iconIndex": 445
                 },
                 {
                     "name": "Smoldering Breastplate",
                     "spellID": 171692,
                     "source": "Learnt with Draenor Blacksmithing",
                     "icon": "inv_plate_draenorcrafted_d_01chest",
-                    "iconIndex": 468
+                    "iconIndex": 446
                 },
                 {
                     "name": "Smoldering Greaves",
                     "spellID": 171693,
                     "source": "Learnt with Draenor Blacksmithing",
                     "icon": "inv_plate_draenorcrafted_d_01pant",
-                    "iconIndex": 469
+                    "iconIndex": 447
                 },
                 {
                     "name": "Secrets of Draenor Blacksmithing",
                     "spellID": 176090,
                     "source": "Learnt with Draenor Blacksmithing",
                     "icon": "inv_misc_book_11",
-                    "iconIndex": 470
+                    "iconIndex": 448
                 }
             ]
         },
@@ -5249,35 +5249,35 @@
                     "spellID": 171694,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_axe_2h_draenorcrafted_d_01_a",
-                    "iconIndex": 471
+                    "iconIndex": 449
                 },
                 {
                     "name": "Steelforged Saber",
                     "spellID": 171695,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_sword_1h_draenorcrafted_d_02_a_alliance",
-                    "iconIndex": 472
+                    "iconIndex": 450
                 },
                 {
                     "name": "Steelforged Dagger",
                     "spellID": 171696,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_knife_1h_draenorcrafted_d_01_a_alliance",
-                    "iconIndex": 473
+                    "iconIndex": 451
                 },
                 {
                     "name": "Steelforged Hammer",
                     "spellID": 171697,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_mace_1h_draenorcrafted_d_01_a",
-                    "iconIndex": 474
+                    "iconIndex": 452
                 },
                 {
                     "name": "Steelforged Shield",
                     "spellID": 171698,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_shield_draenorcrafted_d_01_a_alliance",
-                    "iconIndex": 475
+                    "iconIndex": 453
                 },
                 {
                     "name": "Truesteel Grinder",
@@ -5291,49 +5291,49 @@
                     "spellID": 171700,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01shoulder",
-                    "iconIndex": 476
+                    "iconIndex": 454
                 },
                 {
                     "name": "Truesteel Helm",
                     "spellID": 171701,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01helm",
-                    "iconIndex": 467
+                    "iconIndex": 445
                 },
                 {
                     "name": "Truesteel Greaves",
                     "spellID": 171702,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01pant",
-                    "iconIndex": 469
+                    "iconIndex": 447
                 },
                 {
                     "name": "Truesteel Gauntlets",
                     "spellID": 171703,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01glove",
-                    "iconIndex": 477
+                    "iconIndex": 455
                 },
                 {
                     "name": "Truesteel Breastplate",
                     "spellID": 171704,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01chest",
-                    "iconIndex": 468
+                    "iconIndex": 446
                 },
                 {
                     "name": "Truesteel Armguards",
                     "spellID": 171705,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01bracer",
-                    "iconIndex": 478
+                    "iconIndex": 456
                 },
                 {
                     "name": "Truesteel Boots",
                     "spellID": 171706,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_plate_draenorcrafted_d_01boot",
-                    "iconIndex": 479
+                    "iconIndex": 457
                 },
                 {
                     "name": "Truesteel Waistguard",
@@ -5347,42 +5347,42 @@
                     "spellID": 171708,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_blacksmithdye_green",
-                    "iconIndex": 480
+                    "iconIndex": 458
                 },
                 {
                     "name": "Steelforged Essence",
                     "spellID": 171710,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_blacksmithdye_gray",
-                    "iconIndex": 481
+                    "iconIndex": 459
                 },
                 {
                     "name": "Truesteel Reshaper",
                     "spellID": 173355,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_blacksmith_anvil",
-                    "iconIndex": 482
+                    "iconIndex": 460
                 },
                 {
                     "name": "Soul of the Forge",
                     "spellID": 177169,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "achievement_dungeon_blackrockcaverns",
-                    "iconIndex": 483
+                    "iconIndex": 461
                 },
                 {
                     "name": "Steelforged Axe",
                     "spellID": 178243,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_axe_1h_draenorcrafted_d_01_a_alliance",
-                    "iconIndex": 484
+                    "iconIndex": 462
                 },
                 {
                     "name": "Steelforged Aegis",
                     "spellID": 178245,
                     "source": "Purchased with Secrets of Draenor Blacksmithing\nSold by blacksmithing vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "shield_draenorcrafted_d_02_a_alliance",
-                    "iconIndex": 485
+                    "iconIndex": 463
                 }
             ]
         },
@@ -5394,35 +5394,35 @@
                     "spellID": 182116,
                     "source": "Sold by Alexi Hackercam in Lunarfall (Alliance)\nSold by Trixxy Volt in Frostwall (Horde)",
                     "icon": "inv_misc_trueironingot",
-                    "iconIndex": 466
+                    "iconIndex": 444
                 },
                 {
                     "name": "Mighty Steelforged Essence",
                     "spellID": 187490,
                     "source": "Sold by Alexi Hackercam in Lunarfall (Alliance)\nSold by Trixxy Volt in Frostwall (Horde)",
                     "icon": "inv_blacksmithdye_red",
-                    "iconIndex": 486
+                    "iconIndex": 464
                 },
                 {
                     "name": "Mighty Truesteel Essence",
                     "spellID": 187491,
                     "source": "Sold by Alexi Hackercam in Lunarfall (Alliance)\nSold by Trixxy Volt in Frostwall (Horde)",
                     "icon": "inv_blacksmithdye_red",
-                    "iconIndex": 486
+                    "iconIndex": 464
                 },
                 {
                     "name": "Savage Steelforged Essence",
                     "spellID": 187514,
                     "source": "Sold by Alexi Hackercam in Lunarfall (Alliance)\nSold by Trixxy Volt in Frostwall (Horde)",
                     "icon": "inv_blacksmithdye_red",
-                    "iconIndex": 486
+                    "iconIndex": 464
                 },
                 {
                     "name": "Savage Truesteel Essence",
                     "spellID": 187515,
                     "source": "Sold by Alexi Hackercam in Lunarfall (Alliance)\nSold by Trixxy Volt in Frostwall (Horde)",
                     "icon": "inv_blacksmithdye_red",
-                    "iconIndex": 486
+                    "iconIndex": 464
                 }
             ]
         },
@@ -5434,7 +5434,7 @@
                     "spellID": 11454,
                     "source": "Recipe created by Gnomish Engineers",
                     "icon": "inv_musket_01",
-                    "iconIndex": 487
+                    "iconIndex": 465
                 }
             ]
         },
@@ -5446,7 +5446,7 @@
                     "spellID": 21913,
                     "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "inv_axe_06",
-                    "iconIndex": 488
+                    "iconIndex": 466
                 }
             ]
         },
@@ -5458,42 +5458,42 @@
                     "spellID": 11643,
                     "source": "Auction House",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 },
                 {
                     "name": "Dawn's Edge",
                     "spellID": 16970,
                     "source": "Auction House",
                     "icon": "inv_axe_05",
-                    "iconIndex": 489
+                    "iconIndex": 467
                 },
                 {
                     "name": "Enchanted Battlehammer",
                     "spellID": 16973,
                     "source": "Auction House",
                     "icon": "inv_hammer_05",
-                    "iconIndex": 243
+                    "iconIndex": 221
                 },
                 {
                     "name": "Blazing Rapier",
                     "spellID": 16978,
                     "source": "Auction House",
                     "icon": "inv_sword_30",
-                    "iconIndex": 253
+                    "iconIndex": 231
                 },
                 {
                     "name": "Arcanite Champion",
                     "spellID": 16990,
                     "source": "Auction House",
                     "icon": "inv_sword_39",
-                    "iconIndex": 349
+                    "iconIndex": 327
                 },
                 {
                     "name": "Masterwork Stormhammer",
                     "spellID": 16993,
                     "source": "Auction House",
                     "icon": "inv_hammer_04",
-                    "iconIndex": 238
+                    "iconIndex": 216
                 },
                 {
                     "name": "Runic Breastplate",
@@ -5514,21 +5514,21 @@
                     "spellID": 9950,
                     "source": "Currently Unobtainable",
                     "icon": "inv_gauntlets_31",
-                    "iconIndex": 293
+                    "iconIndex": 271
                 },
                 {
                     "name": "Ornate Mithril Shoulder",
                     "spellID": 9952,
                     "source": "Currently Unobtainable",
                     "icon": "inv_shoulder_09",
-                    "iconIndex": 239
+                    "iconIndex": 217
                 },
                 {
                     "name": "Truesilver Gauntlets",
                     "spellID": 9954,
                     "source": "Currently Unobtainable",
                     "icon": "inv_gauntlets_29",
-                    "iconIndex": 266
+                    "iconIndex": 244
                 },
                 {
                     "name": "Orcish War Leggings",
@@ -5549,7 +5549,7 @@
                     "spellID": 9974,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_plate04",
-                    "iconIndex": 490
+                    "iconIndex": 468
                 },
                 {
                     "name": "Ornate Mithril Boots",
@@ -5563,7 +5563,7 @@
                     "spellID": 9980,
                     "source": "Currently Unobtainable",
                     "icon": "inv_helmet_10",
-                    "iconIndex": 250
+                    "iconIndex": 228
                 },
                 {
                     "name": "The Shatterer",
@@ -5577,14 +5577,14 @@
                     "spellID": 10011,
                     "source": "Currently Unobtainable",
                     "icon": "inv_spear_07",
-                    "iconIndex": 491
+                    "iconIndex": 469
                 },
                 {
                     "name": "Truesilver Champion",
                     "spellID": 10015,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_19",
-                    "iconIndex": 492
+                    "iconIndex": 470
                 },
                 {
                     "name": "Fiery Plate Gauntlets",
@@ -5605,7 +5605,7 @@
                     "spellID": 16742,
                     "source": "Currently Unobtainable",
                     "icon": "inv_helmet_02",
-                    "iconIndex": 493
+                    "iconIndex": 471
                 },
                 {
                     "name": "Enchanted Thorium Leggings",
@@ -5633,14 +5633,14 @@
                     "spellID": 24137,
                     "source": "Currently Unobtainable",
                     "icon": "inv_shoulder_15",
-                    "iconIndex": 494
+                    "iconIndex": 472
                 },
                 {
                     "name": "Bloodsoul Gauntlets",
                     "spellID": 24138,
                     "source": "Currently Unobtainable",
                     "icon": "inv_gauntlets_31",
-                    "iconIndex": 293
+                    "iconIndex": 271
                 },
                 {
                     "name": "Darksoul Breastplate",
@@ -5654,14 +5654,14 @@
                     "spellID": 24140,
                     "source": "Currently Unobtainable",
                     "icon": "inv_pants_plate_21",
-                    "iconIndex": 397
+                    "iconIndex": 375
                 },
                 {
                     "name": "Darksoul Shoulders",
                     "spellID": 24141,
                     "source": "Currently Unobtainable",
                     "icon": "inv_shoulder_01",
-                    "iconIndex": 495
+                    "iconIndex": 473
                 },
                 {
                     "name": "Icebane Breastplate",
@@ -5689,21 +5689,21 @@
                     "spellID": 34529,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_chain_17",
-                    "iconIndex": 292
+                    "iconIndex": 270
                 },
                 {
                     "name": "Twisting Nether Chain Shirt",
                     "spellID": 34530,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_chain_17",
-                    "iconIndex": 292
+                    "iconIndex": 270
                 },
                 {
                     "name": "Breastplate of Kings",
                     "spellID": 34533,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_plate14",
-                    "iconIndex": 496
+                    "iconIndex": 474
                 },
                 {
                     "name": "Bulwark of Kings",
@@ -5717,112 +5717,112 @@
                     "spellID": 34535,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_1h_blacksmithing_01",
-                    "iconIndex": 447
+                    "iconIndex": 425
                 },
                 {
                     "name": "Blazeguard",
                     "spellID": 34537,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_1h_blacksmithing_02",
-                    "iconIndex": 449
+                    "iconIndex": 427
                 },
                 {
                     "name": "Lionheart Blade",
                     "spellID": 34538,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_2h_blacksmithing_01",
-                    "iconIndex": 448
+                    "iconIndex": 426
                 },
                 {
                     "name": "Lionheart Champion",
                     "spellID": 34540,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_2h_blacksmithing_02",
-                    "iconIndex": 450
+                    "iconIndex": 428
                 },
                 {
                     "name": "The Planar Edge",
                     "spellID": 34541,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_1h_blacksmithing_01",
-                    "iconIndex": 435
+                    "iconIndex": 413
                 },
                 {
                     "name": "Lunar Crescent",
                     "spellID": 34543,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_50",
-                    "iconIndex": 436
+                    "iconIndex": 414
                 },
                 {
                     "name": "Mooncleaver",
                     "spellID": 34544,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_51",
-                    "iconIndex": 438
+                    "iconIndex": 416
                 },
                 {
                     "name": "Drakefist Hammer",
                     "spellID": 34545,
                     "source": "Currently Unobtainable",
                     "icon": "inv_mace_37",
-                    "iconIndex": 441
+                    "iconIndex": 419
                 },
                 {
                     "name": "Dragonmaw",
                     "spellID": 34546,
                     "source": "Currently Unobtainable",
                     "icon": "inv_mace_38",
-                    "iconIndex": 444
+                    "iconIndex": 422
                 },
                 {
                     "name": "Thunder",
                     "spellID": 34547,
                     "source": "Currently Unobtainable",
                     "icon": "inv_mace_2h_blacksmithing_01",
-                    "iconIndex": 442
+                    "iconIndex": 420
                 },
                 {
                     "name": "Deep Thunder",
                     "spellID": 34548,
                     "source": "Currently Unobtainable",
                     "icon": "inv_mace_2h_blacksmithing_02",
-                    "iconIndex": 443
+                    "iconIndex": 421
                 },
                 {
                     "name": "Earthforged Leggings",
                     "spellID": 36122,
                     "source": "Currently Unobtainable",
                     "icon": "inv_pants_plate_17",
-                    "iconIndex": 497
+                    "iconIndex": 475
                 },
                 {
                     "name": "Windforged Leggings",
                     "spellID": 36124,
                     "source": "Currently Unobtainable",
                     "icon": "inv_pants_mail_10",
-                    "iconIndex": 498
+                    "iconIndex": 476
                 },
                 {
                     "name": "Light Earthforged Blade",
                     "spellID": 36125,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_draenei_01",
-                    "iconIndex": 499
+                    "iconIndex": 477
                 },
                 {
                     "name": "Light Skyforged Axe",
                     "spellID": 36126,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_67",
-                    "iconIndex": 500
+                    "iconIndex": 478
                 },
                 {
                     "name": "Light Emberforged Hammer",
                     "spellID": 36128,
                     "source": "Currently Unobtainable",
                     "icon": "inv_hammer_21",
-                    "iconIndex": 501
+                    "iconIndex": 479
                 },
                 {
                     "name": "Heavy Earthforged Breastplate",
@@ -5836,133 +5836,133 @@
                     "spellID": 36130,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_chain_17",
-                    "iconIndex": 292
+                    "iconIndex": 270
                 },
                 {
                     "name": "Windforged Rapier",
                     "spellID": 36131,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_30",
-                    "iconIndex": 253
+                    "iconIndex": 231
                 },
                 {
                     "name": "Stoneforged Claymore",
                     "spellID": 36133,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_37",
-                    "iconIndex": 502
+                    "iconIndex": 480
                 },
                 {
                     "name": "Stormforged Axe",
                     "spellID": 36134,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_39",
-                    "iconIndex": 503
+                    "iconIndex": 481
                 },
                 {
                     "name": "Skyforged Great Axe",
                     "spellID": 36135,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_46",
-                    "iconIndex": 504
+                    "iconIndex": 482
                 },
                 {
                     "name": "Lavaforged Warhammer",
                     "spellID": 36136,
                     "source": "Currently Unobtainable",
                     "icon": "inv_hammer_17",
-                    "iconIndex": 254
+                    "iconIndex": 232
                 },
                 {
                     "name": "Great Earthforged Hammer",
                     "spellID": 36137,
                     "source": "Currently Unobtainable",
                     "icon": "inv_hammer_09",
-                    "iconIndex": 278
+                    "iconIndex": 256
                 },
                 {
                     "name": "Embrace of the Twisting Nether",
                     "spellID": 36256,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_chain_17",
-                    "iconIndex": 292
+                    "iconIndex": 270
                 },
                 {
                     "name": "Blazefury",
                     "spellID": 36258,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_1h_blacksmithing_03",
-                    "iconIndex": 451
+                    "iconIndex": 429
                 },
                 {
                     "name": "Bulwark of the Ancient Kings",
                     "spellID": 36257,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_plate16",
-                    "iconIndex": 338
+                    "iconIndex": 316
                 },
                 {
                     "name": "Wicked Edge of the Planes",
                     "spellID": 36260,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_1h_blacksmithing_03",
-                    "iconIndex": 439
+                    "iconIndex": 417
                 },
                 {
                     "name": "Bloodmoon",
                     "spellID": 36261,
                     "source": "Currently Unobtainable",
                     "icon": "inv_axe_52",
-                    "iconIndex": 440
+                    "iconIndex": 418
                 },
                 {
                     "name": "Dragonstrike",
                     "spellID": 36262,
                     "source": "Currently Unobtainable",
                     "icon": "inv_mace_39",
-                    "iconIndex": 445
+                    "iconIndex": 423
                 },
                 {
                     "name": "Lionheart Executioner",
                     "spellID": 36259,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_2h_blacksmithing_03",
-                    "iconIndex": 452
+                    "iconIndex": 430
                 },
                 {
                     "name": "Stormherald",
                     "spellID": 36263,
                     "source": "Currently Unobtainable",
                     "icon": "inv_mace_2h_blacksmithing_03",
-                    "iconIndex": 446
+                    "iconIndex": 424
                 },
                 {
                     "name": "Corroded Saronite Edge",
                     "spellID": 55183,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_97",
-                    "iconIndex": 505
+                    "iconIndex": 483
                 },
                 {
                     "name": "Corroded Saronite Woundbringer",
                     "spellID": 55184,
                     "source": "Currently Unobtainable",
                     "icon": "inv_sword_97",
-                    "iconIndex": 505
+                    "iconIndex": 483
                 },
                 {
                     "name": "Chestplate of Conquest",
                     "spellID": 55186,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_plate13",
-                    "iconIndex": 506
+                    "iconIndex": 484
                 },
                 {
                     "name": "Legplates of Conquest",
                     "spellID": 55187,
                     "source": "Currently Unobtainable",
                     "icon": "inv_pants_plate_02",
-                    "iconIndex": 507
+                    "iconIndex": 485
                 }
             ]
         }
