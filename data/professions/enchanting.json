@@ -1290,6 +1290,366 @@
             ]
         },
         {
+            "name": "Kul Tiran Enchanting",
+            "recipes": [
+                {
+                    "name": "Kul Tiran Crafting",
+                    "spellID": 255070,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Kul Tiran Herbalism",
+                    "spellID": 255035,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Kul Tiran Mining",
+                    "spellID": 255040,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Kul Tiran Skinning",
+                    "spellID": 255065,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Kul Tiran Surveying",
+                    "spellID": 255066,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Seal of Critical Strike",
+                    "spellID": [
+                        255094,
+                        255086,
+                        255071
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Seal of Haste",
+                    "spellID": [
+                        255095,
+                        255087,
+                        255072
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Seal of Mastery",
+                    "spellID": [
+                        255096,
+                        255088,
+                        255073
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Seal of Versatility",
+                    "spellID": [
+                        255097,
+                        255089,
+                        255074
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Cooled Hearthing",
+                    "spellID": 271433,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Safe Hearthing",
+                    "spellID": 271366,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Swift Hearthing",
+                    "spellID": 255068,
+                    "source": "",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Enchanter's Umbral Wand",
+                    "spellID": 265106,
+                    "source": "",
+                    "icon": "inv_wand_1h_zandalarquest_b_01",
+                    "iconIndex": 17
+                },
+                {
+                    "name": "Pact of Critical Strike",
+                    "spellID": [
+                        255098,
+                        255090,
+                        255075
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Pact of Haste",
+                    "spellID": [
+                        255099,
+                        255091,
+                        255076
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Pact of Mastery",
+                    "spellID": [
+                        255092,
+                        255100,
+                        255077
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Pact of Versatility",
+                    "spellID": [
+                        255101,
+                        255093,
+                        255078
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Deadly Navigation",
+                    "spellID": [
+                        268908,
+                        268909,
+                        268907
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Masterful Navigation",
+                    "spellID": [
+                        268902,
+                        268903,
+                        268901
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Quick Navigation",
+                    "spellID": [
+                        268897,
+                        268895,
+                        268894
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Stalwart Navigation",
+                    "spellID": [
+                        268915,
+                        268914,
+                        268913
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Versatile Navigation",
+                    "spellID": [
+                        268878,
+                        268879,
+                        268852
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Coastal Surge",
+                    "spellID": [
+                        255105,
+                        255104,
+                        255103
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Gale-Force Striking",
+                    "spellID": [
+                        255143,
+                        255142,
+                        255141
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Siphoning",
+                    "spellID": [
+                        255112,
+                        255111,
+                        255110
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Weapon Enchant - Torrent of Elements",
+                    "spellID": [
+                        255131,
+                        255130,
+                        255129
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Enchanter's Sorcerous Scepter",
+                    "spellID": [
+                        265112,
+                        265111,
+                        265110
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_wand_1h_battledungeon_c_01",
+                    "iconIndex": 18
+                },
+                {
+                    "name": "Honorable Combatant's Sorcerous Scepter",
+                    "spellID": [
+                        269719,
+                        269716,
+                        269715
+                    ],
+                    "source": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "icon": "inv_wand_1h_warfrontshorde_c_01",
+                    "iconIndex": 19
+                },
+                {
+                    "name": "Disenchanting Rod",
+                    "spellID": 278418,
+                    "source": "",
+                    "icon": "inv_rod_enchantedeternium",
+                    "iconIndex": 20
+                }
+            ]
+        },
+        {
             "name": "Legion",
             "recipes": [
                 {
@@ -1395,7 +1755,7 @@
                         "World drop from creatures\/treasures on Broken Isles"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Mark of the Claw",
@@ -1410,7 +1770,7 @@
                         "World drop from creatures\/treasures on Broken Isles"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Mark of the Deadly",
@@ -1425,7 +1785,7 @@
                         "Emissary reward from Dreamweavers"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Mark of the Distant Army",
@@ -1455,7 +1815,7 @@
                         "Dropped by Ursoc in The Emerald Nightmare"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Mark of the Hidden Satyr",
@@ -1485,7 +1845,7 @@
                         "Emissary reward from The Valarjar"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Mark of the Quick",
@@ -1500,7 +1860,7 @@
                         "Emissary reward from The Court of Farondis"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Mark of the Trained Soldier",
@@ -1530,7 +1890,7 @@
                         "Emissary reward from Highmountain Tribes"
                     ],
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 17
+                    "iconIndex": 21
                 },
                 {
                     "name": "Binding of Critical Strike",
@@ -1685,14 +2045,14 @@
                     "spellID": 209509,
                     "source": "World drop from creatures on Broken Isles",
                     "icon": "inv_enchanting_wod_essence3",
-                    "iconIndex": 18
+                    "iconIndex": 22
                 },
                 {
                     "name": "Soul Fibril",
                     "spellID": 209507,
                     "source": "Sold by Xur'ios in Dalaran",
                     "icon": "inv_rod_enchantedeternium",
-                    "iconIndex": 19
+                    "iconIndex": 20
                 },
                 {
                     "name": "Boon of the Scavenger",
@@ -1706,14 +2066,14 @@
                     "spellID": 252106,
                     "source": "Sold by Toraan the Revered on Argus",
                     "icon": "inv_enchanting_70_leylightcrystal",
-                    "iconIndex": 20
+                    "iconIndex": 23
                 },
                 {
                     "name": "Ley Shatter",
                     "spellID": 224199,
                     "source": "Sold by Ildine Sorrowspear in Dalaran",
                     "icon": "inv_enchanting_70_arkhana",
-                    "iconIndex": 21
+                    "iconIndex": 24
                 }
             ]
         },
@@ -1725,28 +2085,28 @@
                     "spellID": 191074,
                     "source": "Sold by Tigrid the Charmer in Stormheim",
                     "icon": "inv_enchanting_70_pet_cauldron",
-                    "iconIndex": 22
+                    "iconIndex": 25
                 },
                 {
                     "name": "Enchanted Torch",
                     "spellID": 191075,
                     "source": "Sold by Tigrid the Charmer in Stormheim",
                     "icon": "inv_enchanting_70_pet_torch",
-                    "iconIndex": 23
+                    "iconIndex": 26
                 },
                 {
                     "name": "Enchanted Pen",
                     "spellID": 191076,
                     "source": "Reward from Revenge of Enchantress in Stormheim",
                     "icon": "inv_enchanting_70_pet_pen",
-                    "iconIndex": 24
+                    "iconIndex": 27
                 },
                 {
                     "name": "Leylight Brazier",
                     "spellID": 191078,
                     "source": "Sold by K'huta in Dalaran Sewers",
                     "icon": "spell_fire_twilightfire",
-                    "iconIndex": 25
+                    "iconIndex": 28
                 }
             ]
         },
@@ -1758,56 +2118,56 @@
                     "spellID": 217650,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "inv_offhand_1h_pandariatradeskill_c_01",
-                    "iconIndex": 26
+                    "iconIndex": 29
                 },
                 {
                     "name": "Tome of Illusions: Cataclysm",
                     "spellID": 217645,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "inv_offhand_1h_deathwingraid_d_01",
-                    "iconIndex": 27
+                    "iconIndex": 30
                 },
                 {
                     "name": "Tome of Illusions: Northrend",
                     "spellID": 217644,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "inv_offhand_pvp330_d_02",
-                    "iconIndex": 28
+                    "iconIndex": 31
                 },
                 {
                     "name": "Tome of Illusions: Outland",
                     "spellID": 217641,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "inv_offhand_sunwell_d_01",
-                    "iconIndex": 29
+                    "iconIndex": 32
                 },
                 {
                     "name": "Tome of Illusions: Azeroth",
                     "spellID": 217637,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "inv_offhand_hyjal_d_01",
-                    "iconIndex": 30
+                    "iconIndex": 33
                 },
                 {
                     "name": "Tome of Illusions: Draenor",
                     "spellID": 217655,
                     "source": "Sold by Bob in Stormshield (Alliance)\nSold by Ged'kah in Warspear (Horde)",
                     "icon": "inv_offhand_1h_draenorcrafted_d_02c",
-                    "iconIndex": 31
+                    "iconIndex": 34
                 },
                 {
                     "name": "Tome of Illusions: Secrets of the Shado-Pan",
                     "spellID": 217651,
                     "source": "Sold by Rushi the Fox in Townlong Steppes\nRequires Revered with Shado-Pan",
                     "icon": "passive_monk_teachingsofmonastery",
-                    "iconIndex": 32
+                    "iconIndex": 35
                 },
                 {
                     "name": "Tome of Illusions: Elemental Lords",
                     "spellID": 217649,
                     "source": "Reward from Controlling the Elements in Deepholm",
                     "icon": "inv_misc_book_07",
-                    "iconIndex": 33
+                    "iconIndex": 36
                 }
             ]
         },
@@ -2168,7 +2528,7 @@
                     "spellID": 15596,
                     "source": "Dropped by Lord Roccor in Blackrock Depths",
                     "icon": "inv_misc_gem_bloodstone_01",
-                    "iconIndex": 34
+                    "iconIndex": 37
                 },
                 {
                     "name": "Superior Striking",
@@ -2485,35 +2845,35 @@
                     "spellID": 25124,
                     "source": "Sold by Enchanting Supplies vendors",
                     "icon": "inv_poison_mindnumbing",
-                    "iconIndex": 35
+                    "iconIndex": 38
                 },
                 {
                     "name": "Minor Mana Oil",
                     "spellID": 25125,
                     "source": "Sold by Enchanting Supplies vendors",
                     "icon": "inv_potion_98",
-                    "iconIndex": 36
+                    "iconIndex": 39
                 },
                 {
                     "name": "Lesser Wizard Oil",
                     "spellID": 25126,
                     "source": "Sold by Enchanting Supplies vendors",
                     "icon": "inv_potion_103",
-                    "iconIndex": 37
+                    "iconIndex": 40
                 },
                 {
                     "name": "Lesser Mana Oil",
                     "spellID": 25127,
                     "source": "Sold by Kania in Silithus",
                     "icon": "inv_potion_99",
-                    "iconIndex": 38
+                    "iconIndex": 41
                 },
                 {
                     "name": "Wizard Oil",
                     "spellID": 25128,
                     "source": "Sold by Kania in Silithus",
                     "icon": "inv_potion_104",
-                    "iconIndex": 39
+                    "iconIndex": 42
                 },
                 {
                     "name": "Intellect",
@@ -2527,21 +2887,21 @@
                     "spellID": 28016,
                     "source": "Sold by Madame Ruby in Shattrath City (Neutral)\nSold by Egomis in The Exodar (Alliance)\nSold by Lyna in Silvermoon City(Horde)",
                     "icon": "inv_potion_101",
-                    "iconIndex": 40
+                    "iconIndex": 43
                 },
                 {
                     "name": "Superior Wizard Oil",
                     "spellID": 28019,
                     "source": "Sold by Madame Ruby in Shattrath City (Neutral)\nSold by Egomis in The Exodar (Alliance)\nSold by Lyna in Silvermoon City(Horde)",
                     "icon": "inv_potion_141",
-                    "iconIndex": 41
+                    "iconIndex": 44
                 },
                 {
                     "name": "Large Prismatic Shard",
                     "spellID": 28022,
                     "source": "Sold by Madame Ruby in Shattrath City (Neutral)\nSold by Egomis in The Exodar (Alliance)\nSold by Lyna in Silvermoon City(Horde)",
                     "icon": "inv_enchant_shardprismaticlarge",
-                    "iconIndex": 42
+                    "iconIndex": 45
                 },
                 {
                     "name": "Major Stamina",
@@ -2562,7 +2922,7 @@
                     "spellID": 182129,
                     "source": "Sold by dust trader in Lunarfall\/Frostwall",
                     "icon": "inv_enchanting_wod_crystalshard4",
-                    "iconIndex": 43
+                    "iconIndex": 46
                 }
             ]
         },
@@ -2837,7 +3197,7 @@
                     "faction": 1,
                     "source": "Sold by enchanting supplies vendors",
                     "icon": "inv_misc_lantern_01",
-                    "iconIndex": 44
+                    "iconIndex": 47
                 },
                 {
                     "name": "Magic Lamp",
@@ -2845,7 +3205,7 @@
                     "faction": 0,
                     "source": "Sold by enchanting supplies vendors",
                     "icon": "inv_shield_26",
-                    "iconIndex": 45
+                    "iconIndex": 48
                 }
             ]
         },
@@ -3079,28 +3439,28 @@
                     "spellID": 162948,
                     "source": "Learnt with Draenor Enchanting",
                     "icon": "inv_enchant_dustspirit",
-                    "iconIndex": 46
+                    "iconIndex": 49
                 },
                 {
                     "name": "Luminous Shard",
                     "spellID": 169091,
                     "source": "Learnt with Draenor Enchanting",
                     "icon": "inv_enchanting_wod_crystalshard3",
-                    "iconIndex": 47
+                    "iconIndex": 50
                 },
                 {
                     "name": "Temporal Crystal",
                     "spellID": 169092,
                     "source": "Learnt with Draenor Enchanting",
                     "icon": "inv_enchanting_wod_crystal",
-                    "iconIndex": 48
+                    "iconIndex": 51
                 },
                 {
                     "name": "Secrets of Draenor Enchanting",
                     "spellID": 177043,
                     "source": "Learnt with Draenor Enchanting",
                     "icon": "inv_misc_book_08",
-                    "iconIndex": 49
+                    "iconIndex": 52
                 }
             ]
         },
@@ -3208,7 +3568,7 @@
                     "spellID": 45765,
                     "source": "Sold by Eldara Dawnrunner on Isle of Quel'Danas\nRequires Honored with Shattered Sun Offensive",
                     "icon": "inv_enchant_shardprismaticlarge",
-                    "iconIndex": 42
+                    "iconIndex": 45
                 },
                 {
                     "name": "Dodge",
@@ -3319,14 +3679,14 @@
                     "spellID": 25129,
                     "source": "Currently Unobtainable",
                     "icon": "inv_potion_105",
-                    "iconIndex": 50
+                    "iconIndex": 53
                 },
                 {
                     "name": "Brilliant Mana Oil",
                     "spellID": 25130,
                     "source": "Currently Unobtainable",
                     "icon": "inv_potion_100",
-                    "iconIndex": 51
+                    "iconIndex": 54
                 }
             ]
         }
