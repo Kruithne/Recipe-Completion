@@ -4,6 +4,7 @@
 
 	define('DEFAULT_ICON', 'inv_misc_questionmark');
 	define('ICON_DIMENSION', 36);
+	define('ICON_FILE', __DIR__ . '/../../../blizzard_api/icons/%d/%s.jpg');
 	define('ICON_MATRIX_PATH', __DIR__ . '/../images/%s');
 
 	$professions = new Professions();
