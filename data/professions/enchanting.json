@@ -1295,35 +1295,35 @@
                 {
                     "name": "Kul Tiran Crafting",
                     "spellID": 255070,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Kul Tiran Herbalism",
                     "spellID": 255035,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Kul Tiran Mining",
                     "spellID": 255040,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Kul Tiran Skinning",
                     "spellID": 255065,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Kul Tiran Surveying",
                     "spellID": 255066,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
@@ -1335,9 +1335,9 @@
                         255071
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1350,9 +1350,9 @@
                         255072
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Reward from Work Order: Enchant Ring - Seal of Haste world quest"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1365,9 +1365,9 @@
                         255073
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Reward from Work Order: Enchant Ring - Seal of Mastery world quest"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1380,9 +1380,9 @@
                         255074
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1390,28 +1390,28 @@
                 {
                     "name": "Cooled Hearthing",
                     "spellID": 271433,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Safe Hearthing",
                     "spellID": 271366,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Swift Hearthing",
                     "spellID": 255068,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
                 },
                 {
                     "name": "Enchanter's Umbral Wand",
                     "spellID": 265106,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "inv_wand_1h_zandalarquest_b_01",
                     "iconIndex": 17
                 },
@@ -1423,9 +1423,9 @@
                         255075
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1438,9 +1438,9 @@
                         255076
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1453,9 +1453,9 @@
                         255077
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1468,9 +1468,9 @@
                         255078
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1483,9 +1483,9 @@
                         268907
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1498,9 +1498,9 @@
                         268901
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1513,9 +1513,9 @@
                         268894
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Reward from Work Order: Enchant Weapon - Quick Navigation world quest"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1528,9 +1528,9 @@
                         268913
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1543,9 +1543,9 @@
                         268852
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1558,9 +1558,9 @@
                         255103
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Reward from Work Order: Enchant Weapon - Coastal Surge world quest"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1573,9 +1573,9 @@
                         255141
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1588,9 +1588,9 @@
                         255110
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1603,9 +1603,9 @@
                         255129
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Reward from Work Order: Enchant Weapon - Torrent of Elements world quest"
                     ],
                     "icon": "trade_engraving",
                     "iconIndex": 10
@@ -1618,9 +1618,9 @@
                         265110
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Learnt from an enchanting trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_wand_1h_battledungeon_c_01",
                     "iconIndex": 18
@@ -1633,9 +1633,9 @@
                         269715
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an enchanting trainer",
+                        "Sold by an enchanting trainer for 2 Marks of Honor",
+                        "Sold by an enchanting trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_wand_1h_warfrontshorde_c_01",
                     "iconIndex": 19
@@ -1643,7 +1643,7 @@
                 {
                     "name": "Disenchanting Rod",
                     "spellID": 278418,
-                    "source": "",
+                    "source": "Learnt from an enchanting trainer",
                     "icon": "inv_rod_enchantedeternium",
                     "iconIndex": 20
                 }
