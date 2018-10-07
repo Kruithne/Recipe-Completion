@@ -1533,28 +1533,28 @@
                 {
                     "name": "Embroidered Deep Sea Satin",
                     "spellID": 272440,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_tailoring_80_embroidereddeepseasatin",
                     "iconIndex": 132
                 },
                 {
                     "name": "Discreet Spellthread",
                     "spellID": 279183,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "trade_tailoring",
                     "iconIndex": 133
                 },
                 {
                     "name": "Feathery Spellthread",
                     "spellID": 279184,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "trade_tailoring",
                     "iconIndex": 133
                 },
                 {
                     "name": "Resilient Spellthread",
                     "spellID": 279182,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "trade_tailoring",
                     "iconIndex": 133
                 },
@@ -1566,9 +1566,9 @@
                         257125
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Learnt from a tailoring trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_tailoring_80_deepseabag",
                     "iconIndex": 134
@@ -1581,9 +1581,9 @@
                         257130
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "World drop in Battle for Azeroth",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers",
+                        "Drops from Zul in Uldir"
                     ],
                     "icon": "inv_tailoring_80_embroidereddeepseabag",
                     "iconIndex": 135
@@ -1591,42 +1591,42 @@
                 {
                     "name": "Emblazoned Deep Sea Breeches",
                     "spellID": 257124,
-                    "source": "",
+                    "source": "Discovered when crafting Imbued Deep Sea Breeches",
                     "icon": "inv_pant_cloth_nazmirraidmythic_d_01",
                     "iconIndex": 136
                 },
                 {
                     "name": "Emblazoned Deep Sea Gloves",
                     "spellID": 257121,
-                    "source": "",
+                    "source": "Discovered when crafting Imbued Deep Sea Gloves",
                     "icon": "inv_glove_cloth_nazmirraidmythic_d_01",
                     "iconIndex": 137
                 },
                 {
                     "name": "Imbued Deep Sea Breeches",
                     "spellID": 257123,
-                    "source": "",
+                    "source": "Discovered when crafting Embroidered Deep Sea Breeches",
                     "icon": "inv_pant_cloth_nazmirraid_d_01",
                     "iconIndex": 138
                 },
                 {
                     "name": "Imbued Deep Sea Gloves",
                     "spellID": 257120,
-                    "source": "",
+                    "source": "Discovered when crafting Embroidered Deep Sea Gloves",
                     "icon": "inv_glove_cloth_nazmirraid_d_01",
                     "iconIndex": 139
                 },
                 {
                     "name": "Embroidered Deep Sea Breeches",
                     "spellID": 257122,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_pant_cloth_nazmirraid_d_01",
                     "iconIndex": 138
                 },
                 {
                     "name": "Embroidered Deep Sea Gloves",
                     "spellID": 257118,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_glove_cloth_nazmirraid_d_01",
                     "iconIndex": 139
                 },
@@ -1638,9 +1638,9 @@
                         257114
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Learnt from a tailoring trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_cape_cloth_zandalardungeon_c_01",
                     "iconIndex": 140
@@ -1653,9 +1653,9 @@
                         269608
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Sold by a tailoring trainer for 2 Marks of Honor",
+                        "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_belt_cloth_warfrontshorde_b_01",
                     "iconIndex": 141
@@ -1668,9 +1668,9 @@
                         269599
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Sold by a tailoring trainer for 2 Marks of Honor",
+                        "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_boot_cloth_warfrontshorde_b_01",
                     "iconIndex": 142
@@ -1683,9 +1683,9 @@
                         269611
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Sold by a tailoring trainer for 2 Marks of Honor",
+                        "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_bracer_cloth_warfrontshorde_b_01",
                     "iconIndex": 143
@@ -1698,9 +1698,9 @@
                         269596
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Sold by a tailoring trainer for 2 Marks of Honor",
+                        "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_cape_cloth_warfrontshorde_d_01",
                     "iconIndex": 144
@@ -1713,9 +1713,9 @@
                         269602
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Sold by a tailoring trainer for 2 Marks of Honor",
+                        "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_glove_cloth_warfrontshorde_b_01",
                     "iconIndex": 145
@@ -1728,9 +1728,9 @@
                         269605
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Sold by a tailoring trainer for 2 Marks of Honor",
+                        "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_pant_cloth_warfrontshorde_b_01",
                     "iconIndex": 146
@@ -1738,63 +1738,63 @@
                 {
                     "name": "Tidespray Linen Cloak",
                     "spellID": 257107,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cape_cloth_zandalarquest_b_01",
                     "iconIndex": 147
                 },
                 {
                     "name": "Tidespray Linen Hood",
                     "spellID": 257097,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_helm_cloth_zandalarquest_b_01",
                     "iconIndex": 148
                 },
                 {
                     "name": "Tidespray Linen Robe",
                     "spellID": 257104,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_chest_cloth_zandalarquest_b_01",
                     "iconIndex": 149
                 },
                 {
                     "name": "Tidespray Linen Spaulders",
                     "spellID": 257101,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_shoulder_cloth_zandalarquest_b_01",
                     "iconIndex": 150
                 },
                 {
                     "name": "Tidespray Linen Belt",
                     "spellID": 257102,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_belt_cloth_zandalarquest_b_01",
                     "iconIndex": 151
                 },
                 {
                     "name": "Tidespray Linen Bracers",
                     "spellID": 257103,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_bracer_cloth_zandalarquest_b_01",
                     "iconIndex": 152
                 },
                 {
                     "name": "Tidespray Linen Mittens",
                     "spellID": 257096,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_glove_cloth_zandalarquest_b_01",
                     "iconIndex": 153
                 },
                 {
                     "name": "Tidespray Linen Pants",
                     "spellID": 257099,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_robe_cloth_zandalarquest_b_01",
                     "iconIndex": 154
                 },
                 {
                     "name": "Tidespray Linen Sandals",
                     "spellID": 257095,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_boot_cloth_zandalarquest_b_01",
                     "iconIndex": 155
                 },
@@ -1806,9 +1806,9 @@
                         257134
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Learnt from a tailoring trainer",
+                        "Reward from Work Order: Battle Flag: Phalanx Defense world quest"
                     ],
                     "icon": "spell_tailor_defenceup01",
                     "iconIndex": 156
@@ -1821,9 +1821,9 @@
                         257137
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Learnt from a tailoring trainer",
+                        "Reward from Work Order: Battle Flag: Rallying Swiftness world quest"
                     ],
                     "icon": "spell_tailor_mountspeedup01",
                     "iconIndex": 157
@@ -1836,9 +1836,9 @@
                         257131
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a tailoring trainer",
+                        "Learnt from a tailoring trainer",
+                        "Reward from Work Order: Battle Flag: Spirit of Freedom world quest"
                     ],
                     "icon": "spell_tailor_ccreduce01",
                     "iconIndex": 158
@@ -1846,35 +1846,35 @@
                 {
                     "name": "Hooked Deep Sea Net",
                     "spellID": 268983,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_net_01",
                     "iconIndex": 103
                 },
                 {
                     "name": "Tidespray Linen Net",
                     "spellID": 268982,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_net_01",
                     "iconIndex": 103
                 },
                 {
                     "name": "Deep Sea Bandage",
                     "spellID": 267202,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv__firstaid_deepseasatin",
                     "iconIndex": 159
                 },
                 {
                     "name": "Tidespray Linen Bandage",
                     "spellID": 267201,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv__firstaid_sun-bleachedlinen",
                     "iconIndex": 160
                 },
                 {
                     "name": "Rough-hooked Tidespray Linen",
                     "spellID": 278414,
-                    "source": "",
+                    "source": "Learnt from a tailoring trainer",
                     "icon": "inv_belt_42",
                     "iconIndex": 161
                 }
