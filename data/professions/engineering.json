@@ -1078,9 +1078,9 @@
                 {
                     "name": "F.R.I.E.D.",
                     "spellID": [
-                        255394,
+                        255392,
                         255393,
-                        255392
+                        255394
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1093,9 +1093,9 @@
                 {
                     "name": "Organic Discombobulation Grenade",
                     "spellID": [
-                        255409,
+                        255407,
                         255408,
-                        255407
+                        255409
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1108,9 +1108,9 @@
                 {
                     "name": "Thermo-Accelerated Plague Spreader",
                     "spellID": [
-                        255397,
+                        255395,
                         255396,
-                        255395
+                        255397
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1151,9 +1151,9 @@
                 {
                     "name": "Deployable Attire Rearranger",
                     "spellID": [
-                        256156,
+                        256154,
                         256155,
-                        256154
+                        256156
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1166,9 +1166,9 @@
                 {
                     "name": "Electroshock Mount Motivator",
                     "spellID": [
-                        256072,
+                        256070,
                         256071,
-                        256070
+                        256072
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1181,9 +1181,9 @@
                 {
                     "name": "Interdimensional Companion Repository",
                     "spellID": [
-                        256084,
+                        256080,
                         256082,
-                        256080
+                        256084
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1196,12 +1196,12 @@
                 {
                     "name": "Magical Intrusion Dampener",
                     "spellID": [
-                        280734,
-                        280734,
-                        280733,
-                        280733,
                         280732,
-                        280732
+                        280732,
+                        280733,
+                        280733,
+                        280734,
+                        280734
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1214,9 +1214,9 @@
                 {
                     "name": "XA-1000 Surface Skimmer",
                     "spellID": [
-                        256075,
+                        256073,
                         256074,
-                        256073
+                        256075
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1229,9 +1229,9 @@
                 {
                     "name": "AZ3-R1-T3 Bionic Bifocals",
                     "spellID": [
-                        272064,
+                        272062,
                         272063,
-                        272062
+                        272064
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1244,9 +1244,9 @@
                 {
                     "name": "AZ3-R1-T3 Gearspun Goggles",
                     "spellID": [
-                        272061,
+                        272059,
                         272060,
-                        272059
+                        272061
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1289,9 +1289,9 @@
                 {
                     "name": "Finely-Tuned Stormsteel Destroyer",
                     "spellID": [
-                        255459,
+                        255457,
                         255458,
-                        255457
+                        255459
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1349,9 +1349,9 @@
                 {
                     "name": "Crow's Nest Scope",
                     "spellID": [
-                        264962,
+                        264960,
                         264961,
-                        264960
+                        264962
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1364,9 +1364,9 @@
                 {
                     "name": "Frost-Laced Ammunition",
                     "spellID": [
-                        265102,
+                        265100,
                         265101,
-                        265100
+                        265102
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1379,9 +1379,9 @@
                 {
                     "name": "Incendiary Ammunition",
                     "spellID": [
-                        265099,
+                        265097,
                         265098,
-                        265097
+                        265099
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
@@ -1394,9 +1394,9 @@
                 {
                     "name": "Monelite Scope of Alacrity",
                     "spellID": [
-                        264967,
+                        264964,
                         264966,
-                        264964
+                        264967
                     ],
                     "source": [
                         "Learnt from an engineering trainer",

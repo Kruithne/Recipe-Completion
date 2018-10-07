@@ -336,9 +336,9 @@
                 {
                     "name": "Seasoned Loins",
                     "spellID": [
+                        259433,
                         259434,
-                        259435,
-                        259433
+                        259435
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -351,9 +351,9 @@
                 {
                     "name": "Grilled Catfish",
                     "spellID": [
-                        259432,
+                        259430,
                         259431,
-                        259430
+                        259432
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -373,9 +373,9 @@
                 {
                     "name": "Kul Tiramisu",
                     "spellID": [
-                        259413,
+                        259411,
                         259412,
-                        259411
+                        259413
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -388,9 +388,9 @@
                 {
                     "name": "Loa Loaf",
                     "spellID": [
-                        259438,
+                        259436,
                         259437,
-                        259436
+                        259438
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -403,9 +403,9 @@
                 {
                     "name": "Mon'Dazi",
                     "spellID": [
-                        259444,
+                        259442,
                         259443,
-                        259442
+                        259444
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -418,9 +418,9 @@
                 {
                     "name": "Ravenberry Tarts",
                     "spellID": [
-                        259426,
+                        259424,
                         259425,
-                        259424
+                        259426
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -433,9 +433,9 @@
                 {
                     "name": "Honey-Glazed Haunches",
                     "spellID": [
+                        259414,
                         259415,
-                        259416,
-                        259414
+                        259416
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -448,9 +448,9 @@
                 {
                     "name": "Sailor's Pie",
                     "spellID": [
+                        259439,
                         259440,
-                        259441,
-                        259439
+                        259441
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -463,9 +463,9 @@
                 {
                     "name": "Spiced Snapper",
                     "spellID": [
+                        259445,
                         259446,
-                        259447,
-                        259445
+                        259447
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -478,9 +478,9 @@
                 {
                     "name": "Swamp Fish 'n Chips",
                     "spellID": [
+                        259427,
                         259428,
-                        259429,
-                        259427
+                        259429
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
@@ -508,9 +508,9 @@
                 {
                     "name": "Galley Banquet",
                     "spellID": [
+                        259418,
                         259419,
-                        259420,
-                        259418
+                        259420
                     ],
                     "source": [
                         "Learnt from a cooking trainer",

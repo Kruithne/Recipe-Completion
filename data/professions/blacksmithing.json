@@ -1905,9 +1905,9 @@
                 {
                     "name": "Honorable Combatant's Plate Boots",
                     "spellID": [
-                        269426,
+                        269424,
                         269425,
-                        269424
+                        269426
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -1920,9 +1920,9 @@
                 {
                     "name": "Honorable Combatant's Plate Greaves",
                     "spellID": [
-                        269447,
+                        269444,
                         269446,
-                        269444
+                        269447
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -1935,9 +1935,9 @@
                 {
                     "name": "Honorable Combatant's Plate Waistguard",
                     "spellID": [
-                        269450,
+                        269448,
                         269449,
-                        269448
+                        269450
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -1950,9 +1950,9 @@
                 {
                     "name": "Honorable Combatant's Shield",
                     "spellID": [
-                        269460,
+                        269458,
                         269459,
-                        269458
+                        269460
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -1965,9 +1965,9 @@
                 {
                     "name": "Stormsteel Shield",
                     "spellID": [
-                        253118,
+                        253116,
                         253117,
-                        253116
+                        253118
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -1980,9 +1980,9 @@
                 {
                     "name": "Honorable Combatant's Plate Armguards",
                     "spellID": [
-                        269453,
+                        269451,
                         269452,
-                        269451
+                        269453
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -1995,9 +1995,9 @@
                 {
                     "name": "Honorable Combatant's Plate Gauntlets",
                     "spellID": [
-                        269423,
+                        269421,
                         269422,
-                        269421
+                        269423
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -2010,8 +2010,8 @@
                 {
                     "name": "Honorable Combatant's Deckpounder",
                     "spellID": [
-                        269471,
                         269470,
+                        269471,
                         269472
                     ],
                     "source": [
@@ -2025,9 +2025,9 @@
                 {
                     "name": "Honorable Combatant's Polearm",
                     "spellID": [
-                        269481,
+                        269479,
                         269480,
-                        269479
+                        269481
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -2040,9 +2040,9 @@
                 {
                     "name": "Stormsteel Dagger",
                     "spellID": [
-                        253158,
+                        253156,
                         253157,
-                        253156
+                        253158
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -2055,9 +2055,9 @@
                 {
                     "name": "Stormsteel Spear",
                     "spellID": [
-                        253161,
+                        253159,
                         253160,
-                        253159
+                        253161
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -2070,9 +2070,9 @@
                 {
                     "name": "Honorable Combatant's Cutlass",
                     "spellID": [
-                        269466,
+                        269464,
                         269465,
-                        269464
+                        269466
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
@@ -2085,9 +2085,9 @@
                 {
                     "name": "Honorable Combatant's Shanker",
                     "spellID": [
-                        269478,
+                        269476,
                         269477,
-                        269476
+                        269478
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",

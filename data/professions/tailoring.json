@@ -1561,14 +1561,14 @@
                 {
                     "name": "Deep Sea Bag",
                     "spellID": [
-                        257127,
+                        257125,
                         257126,
-                        257125
+                        257127
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
                         "Learnt from a tailoring trainer",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_tailoring_80_deepseabag",
                     "iconIndex": 134
@@ -1582,7 +1582,7 @@
                     ],
                     "source": [
                         "World drop in Battle for Azeroth",
-                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers",
                         "Drops from Zul in Uldir"
                     ],
                     "icon": "inv_tailoring_80_embroidereddeepseabag",
@@ -1633,14 +1633,14 @@
                 {
                     "name": "Embroidered Deep Sea Cloak",
                     "spellID": [
+                        257114,
                         257115,
-                        257116,
-                        257114
+                        257116
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
                         "Learnt from a tailoring trainer",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_cape_cloth_zandalardungeon_c_01",
                     "iconIndex": 140
@@ -1648,9 +1648,9 @@
                 {
                     "name": "Honorable Combatant's Satin Belt",
                     "spellID": [
-                        269610,
+                        269608,
                         269609,
-                        269608
+                        269610
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1663,9 +1663,9 @@
                 {
                     "name": "Honorable Combatant's Satin Boots",
                     "spellID": [
-                        269601,
+                        269599,
                         269600,
-                        269599
+                        269601
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1678,9 +1678,9 @@
                 {
                     "name": "Honorable Combatant's Satin Bracers",
                     "spellID": [
-                        269613,
+                        269611,
                         269612,
-                        269611
+                        269613
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1693,9 +1693,9 @@
                 {
                     "name": "Honorable Combatant's Satin Cloak",
                     "spellID": [
-                        269598,
+                        269596,
                         269597,
-                        269596
+                        269598
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1708,9 +1708,9 @@
                 {
                     "name": "Honorable Combatant's Satin Mittens",
                     "spellID": [
-                        269604,
+                        269602,
                         269603,
-                        269602
+                        269604
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1723,9 +1723,9 @@
                 {
                     "name": "Honorable Combatant's Satin Pants",
                     "spellID": [
-                        269607,
+                        269605,
                         269606,
-                        269605
+                        269607
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1801,9 +1801,9 @@
                 {
                     "name": "Battle Flag: Phalanx Defense",
                     "spellID": [
-                        257136,
+                        257134,
                         257135,
-                        257134
+                        257136
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1816,9 +1816,9 @@
                 {
                     "name": "Battle Flag: Rallying Swiftness",
                     "spellID": [
+                        257137,
                         257138,
-                        257139,
-                        257137
+                        257139
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",
@@ -1831,9 +1831,9 @@
                 {
                     "name": "Battle Flag: Spirit of Freedom",
                     "spellID": [
+                        257131,
                         257132,
-                        257133,
-                        257131
+                        257133
                     ],
                     "source": [
                         "Learnt from a tailoring trainer",

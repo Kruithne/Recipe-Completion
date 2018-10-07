@@ -1330,9 +1330,9 @@
                 {
                     "name": "Seal of Critical Strike",
                     "spellID": [
-                        255094,
+                        255071,
                         255086,
-                        255071
+                        255094
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1345,9 +1345,9 @@
                 {
                     "name": "Seal of Haste",
                     "spellID": [
-                        255095,
+                        255072,
                         255087,
-                        255072
+                        255095
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1360,9 +1360,9 @@
                 {
                     "name": "Seal of Mastery",
                     "spellID": [
-                        255096,
+                        255073,
                         255088,
-                        255073
+                        255096
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1375,9 +1375,9 @@
                 {
                     "name": "Seal of Versatility",
                     "spellID": [
-                        255097,
+                        255074,
                         255089,
-                        255074
+                        255097
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1418,9 +1418,9 @@
                 {
                     "name": "Pact of Critical Strike",
                     "spellID": [
-                        255098,
+                        255075,
                         255090,
-                        255075
+                        255098
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1433,9 +1433,9 @@
                 {
                     "name": "Pact of Haste",
                     "spellID": [
-                        255099,
+                        255076,
                         255091,
-                        255076
+                        255099
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1448,9 +1448,9 @@
                 {
                     "name": "Pact of Mastery",
                     "spellID": [
+                        255077,
                         255092,
-                        255100,
-                        255077
+                        255100
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1463,9 +1463,9 @@
                 {
                     "name": "Pact of Versatility",
                     "spellID": [
-                        255101,
+                        255078,
                         255093,
-                        255078
+                        255101
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1478,9 +1478,9 @@
                 {
                     "name": "Weapon Enchant - Deadly Navigation",
                     "spellID": [
+                        268907,
                         268908,
-                        268909,
-                        268907
+                        268909
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1493,9 +1493,9 @@
                 {
                     "name": "Weapon Enchant - Masterful Navigation",
                     "spellID": [
+                        268901,
                         268902,
-                        268903,
-                        268901
+                        268903
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1508,9 +1508,9 @@
                 {
                     "name": "Weapon Enchant - Quick Navigation",
                     "spellID": [
-                        268897,
+                        268894,
                         268895,
-                        268894
+                        268897
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1523,9 +1523,9 @@
                 {
                     "name": "Weapon Enchant - Stalwart Navigation",
                     "spellID": [
-                        268915,
+                        268913,
                         268914,
-                        268913
+                        268915
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1538,9 +1538,9 @@
                 {
                     "name": "Weapon Enchant - Versatile Navigation",
                     "spellID": [
+                        268852,
                         268878,
-                        268879,
-                        268852
+                        268879
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1553,9 +1553,9 @@
                 {
                     "name": "Weapon Enchant - Coastal Surge",
                     "spellID": [
-                        255105,
+                        255103,
                         255104,
-                        255103
+                        255105
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1568,9 +1568,9 @@
                 {
                     "name": "Weapon Enchant - Gale-Force Striking",
                     "spellID": [
-                        255143,
+                        255141,
                         255142,
-                        255141
+                        255143
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1583,9 +1583,9 @@
                 {
                     "name": "Weapon Enchant - Siphoning",
                     "spellID": [
-                        255112,
+                        255110,
                         255111,
-                        255110
+                        255112
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1598,9 +1598,9 @@
                 {
                     "name": "Weapon Enchant - Torrent of Elements",
                     "spellID": [
-                        255131,
+                        255129,
                         255130,
-                        255129
+                        255131
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1613,9 +1613,9 @@
                 {
                     "name": "Enchanter's Sorcerous Scepter",
                     "spellID": [
-                        265112,
+                        265110,
                         265111,
-                        265110
+                        265112
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",
@@ -1628,9 +1628,9 @@
                 {
                     "name": "Honorable Combatant's Sorcerous Scepter",
                     "spellID": [
-                        269719,
+                        269715,
                         269716,
-                        269715
+                        269719
                     ],
                     "source": [
                         "Learnt from an enchanting trainer",

@@ -1414,14 +1414,14 @@
                 {
                     "name": "Amberblaze Loop",
                     "spellID": [
-                        256515,
+                        256510,
                         256514,
-                        256510
+                        256515
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
                         "Learnt from a jewelecrafting trainer",
-                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_orange",
                     "iconIndex": 116
@@ -1429,14 +1429,14 @@
                 {
                     "name": "Owlseye Loop",
                     "spellID": [
+                        256511,
                         256516,
-                        256517,
-                        256511
+                        256517
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
                         "Learnt from a jewelecrafting trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_yellow",
                     "iconIndex": 117
@@ -1444,14 +1444,14 @@
                 {
                     "name": "Royal Quartz Loop",
                     "spellID": [
-                        256521,
+                        256513,
                         256520,
-                        256513
+                        256521
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
                         "Learnt from a jewelecrafting trainer",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_blue",
                     "iconIndex": 118
@@ -1459,14 +1459,14 @@
                 {
                     "name": "Tidal Amethyst Loop",
                     "spellID": [
-                        256519,
+                        256512,
                         256518,
-                        256512
+                        256519
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
                         "Learnt from a jewelecrafting trainer",
-                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_purple",
                     "iconIndex": 119
@@ -1502,9 +1502,9 @@
                 {
                     "name": "Honorable Combatant's Staff of Intuition",
                     "spellID": [
-                        269736,
+                        269734,
                         269735,
-                        269734
+                        269736
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
@@ -1517,14 +1517,14 @@
                 {
                     "name": "Laribole Staff of Alacrity",
                     "spellID": [
-                        256257,
+                        256255,
                         256256,
-                        256255
+                        256257
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
                         "Learnt from a jewelecrafting trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124
@@ -1532,14 +1532,14 @@
                 {
                     "name": "Scarlet Diamond Staff of Intuition",
                     "spellID": [
-                        256260,
+                        256258,
                         256259,
-                        256258
+                        256260
                     ],
                     "source": [
                         "Learnt from a jewelecrafting trainer",
                         "Learnt from a jewelecrafting trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124

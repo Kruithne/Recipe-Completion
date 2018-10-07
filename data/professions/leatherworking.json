@@ -1750,9 +1750,9 @@
                 {
                     "name": "Honorable Combatant's Leather Armguards",
                     "spellID": [
-                        269530,
+                        269528,
                         269529,
-                        269528
+                        269530
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1765,9 +1765,9 @@
                 {
                     "name": "Honorable Combatant's Leather Gauntlets",
                     "spellID": [
-                        269521,
+                        269519,
                         269520,
-                        269519
+                        269521
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1780,9 +1780,9 @@
                 {
                     "name": "Honorable Combatant's Leather Leggings",
                     "spellID": [
-                        269524,
+                        269522,
                         269523,
-                        269522
+                        269524
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1795,9 +1795,9 @@
                 {
                     "name": "Honorable Combatant's Leather Treads",
                     "spellID": [
-                        269518,
+                        269516,
                         269517,
-                        269516
+                        269518
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1810,9 +1810,9 @@
                 {
                     "name": "Honorable Combatant's Leather Waistguard",
                     "spellID": [
-                        269527,
+                        269525,
                         269526,
-                        269525
+                        269527
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1895,9 +1895,9 @@
                 {
                     "name": "Honorable Combatant's Mail Armguards",
                     "spellID": [
-                        269545,
+                        269543,
                         269544,
-                        269543
+                        269545
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1910,9 +1910,9 @@
                 {
                     "name": "Honorable Combatant's Mail Gauntlets",
                     "spellID": [
-                        269536,
+                        269534,
                         269535,
-                        269534
+                        269536
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1925,9 +1925,9 @@
                 {
                     "name": "Honorable Combatant's Mail Leggings",
                     "spellID": [
-                        269539,
+                        269537,
                         269538,
-                        269537
+                        269539
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1940,9 +1940,9 @@
                 {
                     "name": "Honorable Combatant's Mail Treads",
                     "spellID": [
-                        269533,
+                        269531,
                         269532,
-                        269531
+                        269533
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -1955,9 +1955,9 @@
                 {
                     "name": "Honorable Combatant's Mail Waistguard",
                     "spellID": [
-                        269542,
+                        269540,
                         269541,
-                        269540
+                        269542
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -2026,14 +2026,14 @@
                 {
                     "name": "Hardened Tempest Knuckles",
                     "spellID": [
+                        256782,
                         256783,
-                        256784,
-                        256782
+                        256784
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
                         "Learnt from a leatherworking trainer",
-                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_hand_1h_trollshaman_c_01",
                     "iconIndex": 200
@@ -2041,9 +2041,9 @@
                 {
                     "name": "Honorable Combatant's Bow",
                     "spellID": [
-                        269554,
+                        269552,
                         269553,
-                        269552
+                        269554
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
@@ -2056,14 +2056,14 @@
                 {
                     "name": "Mistscale Knuckles",
                     "spellID": [
+                        256779,
                         256780,
-                        256781,
-                        256779
+                        256781
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
                         "Learnt from a leatherworking trainer",
-                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_hand_1h_trollshaman_c_01",
                     "iconIndex": 200
@@ -2071,14 +2071,14 @@
                 {
                     "name": "Recurve Bow of the Strands",
                     "spellID": [
+                        256787,
                         256788,
-                        256789,
-                        256787
+                        256789
                     ],
                     "source": [
                         "Learnt from a leatherworking trainer",
                         "Learnt from a leatherworking trainer",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_bow_1h_battledungeon_c_01",
                     "iconIndex": 202

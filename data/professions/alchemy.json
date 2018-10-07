@@ -988,9 +988,9 @@
                 {
                     "name": "Battle Potion of Agility",
                     "spellID": [
-                        279161,
+                        279159,
                         279160,
-                        279159
+                        279161
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1003,9 +1003,9 @@
                 {
                     "name": "Battle Potion of Intellect",
                     "spellID": [
-                        279164,
+                        279162,
                         279163,
-                        279162
+                        279164
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1018,9 +1018,9 @@
                 {
                     "name": "Battle Potion of Stamina",
                     "spellID": [
-                        279167,
+                        279165,
                         279166,
-                        279165
+                        279167
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1033,9 +1033,9 @@
                 {
                     "name": "Battle Potion of Strength",
                     "spellID": [
-                        279170,
+                        279168,
                         279169,
-                        279168
+                        279170
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1048,9 +1048,9 @@
                 {
                     "name": "Potion of Bursting Blood",
                     "spellID": [
-                        252343,
+                        252341,
                         252342,
-                        252341
+                        252343
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1063,9 +1063,9 @@
                 {
                     "name": "Potion of Replenishment",
                     "spellID": [
-                        252340,
+                        252337,
                         252339,
-                        252337
+                        252340
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1078,9 +1078,9 @@
                 {
                     "name": "Potion of Rising Death",
                     "spellID": [
-                        252346,
+                        252344,
                         252345,
-                        252344
+                        252346
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1093,9 +1093,9 @@
                 {
                     "name": "Steelskin Potion",
                     "spellID": [
-                        252336,
+                        252334,
                         252335,
-                        252334
+                        252336
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1108,9 +1108,9 @@
                 {
                     "name": "Coastal Mana Potion",
                     "spellID": [
-                        252387,
+                        252385,
                         252386,
-                        252385
+                        252387
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1123,9 +1123,9 @@
                 {
                     "name": "Coastal Healing Potion",
                     "spellID": [
-                        252384,
+                        252382,
                         252383,
-                        252382
+                        252384
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1138,9 +1138,9 @@
                 {
                     "name": "Coastal Rejuvenation Potion",
                     "spellID": [
-                        252390,
+                        252388,
                         252389,
-                        252388
+                        252390
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1153,9 +1153,9 @@
                 {
                     "name": "Demitri's Draught of Deception",
                     "spellID": [
-                        252393,
+                        252391,
                         252392,
-                        252391
+                        252393
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1168,9 +1168,9 @@
                 {
                     "name": "Lightfoot Potion",
                     "spellID": [
-                        252396,
+                        252394,
                         252395,
-                        252394
+                        252396
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1183,9 +1183,9 @@
                 {
                     "name": "Potion of Concealment",
                     "spellID": [
-                        252402,
+                        252400,
                         252401,
-                        252400
+                        252402
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1198,9 +1198,9 @@
                 {
                     "name": "Sea Mist Potion",
                     "spellID": [
-                        252399,
+                        252397,
                         252398,
-                        252397
+                        252399
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1213,9 +1213,9 @@
                 {
                     "name": "Flask of Endless Fathoms",
                     "spellID": [
+                        252351,
                         252352,
-                        252353,
-                        252351
+                        252353
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1228,9 +1228,9 @@
                 {
                     "name": "Flask of the Currents",
                     "spellID": [
+                        252348,
                         252349,
-                        252350,
-                        252348
+                        252350
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1243,9 +1243,9 @@
                 {
                     "name": "Flask of the Undertow",
                     "spellID": [
-                        252359,
+                        252357,
                         252358,
-                        252357
+                        252359
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1258,9 +1258,9 @@
                 {
                     "name": "Flask of the Vast Horizon",
                     "spellID": [
-                        252356,
+                        252354,
                         252355,
-                        252354
+                        252356
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1336,9 +1336,9 @@
                 {
                     "name": "Endless Tincture of Fractional Power",
                     "spellID": [
-                        252378,
+                        252376,
                         252377,
-                        252376
+                        252378
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1351,9 +1351,9 @@
                 {
                     "name": "Surging Alchemist Stone",
                     "spellID": [
+                        252379,
                         252380,
-                        252381,
-                        252379
+                        252381
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1366,9 +1366,9 @@
                 {
                     "name": "Endless Tincture of Renewed Combat",
                     "spellID": [
-                        252363,
+                        252361,
                         252362,
-                        252361
+                        252363
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",
@@ -1381,9 +1381,9 @@
                 {
                     "name": "Siren's Alchemist Stone",
                     "spellID": [
-                        252370,
+                        252368,
                         252369,
-                        252368
+                        252370
                     ],
                     "source": [
                         "Learnt from an alchemy trainer",

@@ -1092,9 +1092,9 @@
                 {
                     "name": "Tome of the Quiet Mind",
                     "spellID": [
-                        256237,
+                        256235,
                         256236,
-                        256235
+                        256237
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1107,9 +1107,9 @@
                 {
                     "name": "Codex of the Quiet Mind",
                     "spellID": [
+                        256232,
                         256233,
-                        256234,
-                        256232
+                        256234
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1150,9 +1150,9 @@
                 {
                     "name": "Contract: Champions of Azeroth",
                     "spellID": [
-                        256299,
+                        256297,
                         256298,
-                        256297
+                        256299
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1165,9 +1165,9 @@
                 {
                     "name": "Contract: Tortollan Seekers",
                     "spellID": [
-                        256296,
+                        256294,
                         256295,
-                        256294
+                        256296
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1181,9 +1181,9 @@
                     "name": "Contract: Order of Embers",
                     "faction": 0,
                     "spellID": [
-                        256280,
+                        256278,
                         256279,
-                        256278
+                        256280
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1197,9 +1197,9 @@
                     "name": "Contract: Proudmoore Admiralty",
                     "faction": 0,
                     "spellID": [
-                        256277,
+                        256275,
                         256276,
-                        256275
+                        256277
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1213,9 +1213,9 @@
                     "name": "Contract: Storm's Wake",
                     "faction": 0,
                     "spellID": [
-                        256283,
+                        256281,
                         256282,
-                        256281
+                        256283
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1276,9 +1276,9 @@
                 {
                     "name": "Darkmoon Card of War",
                     "spellID": [
-                        278527,
                         256245,
-                        256246
+                        256246,
+                        278527
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1291,9 +1291,9 @@
                 {
                     "name": "Honorable Combatant's Etched Vessel",
                     "spellID": [
-                        269742,
+                        269740,
                         269741,
-                        269740
+                        269742
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1306,9 +1306,9 @@
                 {
                     "name": "Inscribed Vessel of Mysticism",
                     "spellID": [
+                        256247,
                         256248,
-                        256249,
-                        256247
+                        256249
                     ],
                     "source": [
                         "Learnt from an inscription trainer",
@@ -1370,9 +1370,9 @@
                 {
                     "name": "Vantus Rune: Uldir",
                     "spellID": [
-                        256305,
+                        256303,
                         256304,
-                        256303
+                        256305
                     ],
                     "source": [
                         "Drops from MOTHER in Uldir",
