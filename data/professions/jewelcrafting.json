@@ -1323,91 +1323,91 @@
                 {
                     "name": "Kraken's Eye of Agility",
                     "spellID": 256701,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_specialgemcut01",
                     "iconIndex": 105
                 },
                 {
                     "name": "Kraken's Eye of Intellect",
                     "spellID": 256702,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_specialgemcut01",
                     "iconIndex": 105
                 },
                 {
                     "name": "Kraken's Eye of Strength",
                     "spellID": 256700,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_specialgemcut01",
                     "iconIndex": 105
                 },
                 {
                     "name": "Deadly Amberblaze",
                     "spellID": 256696,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem02_orange",
                     "iconIndex": 106
                 },
                 {
                     "name": "Masterful Tidal Amethyst",
                     "spellID": 256698,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem02_purple",
                     "iconIndex": 107
                 },
                 {
                     "name": "Quick Owlseye",
                     "spellID": 256699,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem02_yellow",
                     "iconIndex": 108
                 },
                 {
                     "name": "Versatile Royal Quartz",
                     "spellID": 256695,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem02_blue",
                     "iconIndex": 109
                 },
                 {
                     "name": "Deadly Solstone",
                     "spellID": 256689,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem01_orange",
                     "iconIndex": 110
                 },
                 {
                     "name": "Insightful Rubellite",
                     "spellID": 256693,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem01_red",
                     "iconIndex": 111
                 },
                 {
                     "name": "Masterful Kubiline",
                     "spellID": 256692,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem01_purple",
                     "iconIndex": 112
                 },
                 {
                     "name": "Quick Golden Beryl",
                     "spellID": 256694,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem01_yellow",
                     "iconIndex": 113
                 },
                 {
                     "name": "Straddling Viridium",
                     "spellID": 256691,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem01_green",
                     "iconIndex": 114
                 },
                 {
                     "name": "Versatile Kyanite",
                     "spellID": 256690,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_cutgem01_blue",
                     "iconIndex": 115
                 },
@@ -1419,9 +1419,9 @@
                         256510
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_orange",
                     "iconIndex": 116
@@ -1434,9 +1434,9 @@
                         256511
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_yellow",
                     "iconIndex": 117
@@ -1449,9 +1449,9 @@
                         256513
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_blue",
                     "iconIndex": 118
@@ -1464,9 +1464,9 @@
                         256512
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_jewelcrafting_80_maxlvlring_purple",
                     "iconIndex": 119
@@ -1474,28 +1474,28 @@
                 {
                     "name": "Golden Beryl Ring",
                     "spellID": 272227,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_lvlupring_yellow",
                     "iconIndex": 120
                 },
                 {
                     "name": "Kubiline Ring",
                     "spellID": 272228,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_lvlupring_purple",
                     "iconIndex": 121
                 },
                 {
                     "name": "Kyanite Ring",
                     "spellID": 272230,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_lvlupring_blue",
                     "iconIndex": 122
                 },
                 {
                     "name": "Solstone Ring",
                     "spellID": 272226,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_80_lvlupring_orange",
                     "iconIndex": 123
                 },
@@ -1507,9 +1507,9 @@
                         269734
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by a jewelcrafting trainer for 2 Marks of Honor",
+                        "Sold by a jewelcrafting trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124
@@ -1522,9 +1522,9 @@
                         256255
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124
@@ -1537,9 +1537,9 @@
                         256258
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a jewelecrafting trainer",
+                        "Learnt from a jewelecrafting trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124
@@ -1547,21 +1547,21 @@
                 {
                     "name": "Rubellite Staff of Intuition",
                     "spellID": 256254,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124
                 },
                 {
                     "name": "Viridium Staff of Alacrity",
                     "spellID": 256253,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_staff_2h_jcprofession_c_01",
                     "iconIndex": 124
                 },
                 {
                     "name": "Kaleidoscopic Lens",
                     "spellID": 278419,
-                    "source": "",
+                    "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_dragonseye02",
                     "iconIndex": 125
                 }
