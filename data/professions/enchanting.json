@@ -1448,7 +1448,16 @@
                 },
                 {
                     "name": "Swift Hearthing",
+                    "faction": 0,
                     "spellID": 255068,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Swift Hearthing",
+                    "faction": 1,
+                    "spellID": 267495,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
