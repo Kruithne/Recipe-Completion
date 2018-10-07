@@ -1071,21 +1071,21 @@
                 {
                     "name": "Crimson Ink",
                     "spellID": 264777,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_crimsonink",
                     "iconIndex": 61
                 },
                 {
                     "name": "Ultramarine Ink",
                     "spellID": 264776,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_ultramarineink",
                     "iconIndex": 62
                 },
                 {
                     "name": "Viridescent Ink",
                     "spellID": 264778,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_viridescentink",
                     "iconIndex": 63
                 },
@@ -1097,9 +1097,9 @@
                         256235
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Learnt from an inscription trainer",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_relics_libramofgrace",
                     "iconIndex": 64
@@ -1112,9 +1112,9 @@
                         256232
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Learnt from an inscription trainer",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_7xp_inscription_talenttome01",
                     "iconIndex": 65
@@ -1122,28 +1122,28 @@
                 {
                     "name": "War-Scroll of Battle Shout",
                     "spellID": 264767,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_warscroll_battleshout",
                     "iconIndex": 66
                 },
                 {
                     "name": "War-Scroll of Fortitude",
                     "spellID": 264769,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_warscroll_fortitude",
                     "iconIndex": 67
                 },
                 {
                     "name": "War-Scroll of Intellect",
                     "spellID": 264766,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_warscroll_intellect",
                     "iconIndex": 68
                 },
                 {
                     "name": "Scroll of Unlocking",
                     "spellID": 269065,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_inscription_80_scroll",
                     "iconIndex": 69
                 },
@@ -1155,57 +1155,12 @@
                         256297
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Honored with Tortollan Seekers",
+                        "Reward from Work Order: Contract: Champions of Azeroth world quest"
                     ],
                     "icon": "inv_inscription_80_contract_champions",
                     "iconIndex": 70
-                },
-                {
-                    "name": "Contract: Order of Embers",
-                    "spellID": [
-                        256280,
-                        256279,
-                        256278
-                    ],
-                    "source": [
-                        "",
-                        "",
-                        ""
-                    ],
-                    "icon": "inv_inscription_80_contract_embers",
-                    "iconIndex": 71
-                },
-                {
-                    "name": "Contract: Proudmoore Admiralty",
-                    "spellID": [
-                        256277,
-                        256276,
-                        256275
-                    ],
-                    "source": [
-                        "",
-                        "",
-                        ""
-                    ],
-                    "icon": "inv_inscription_80_contract_kultiran",
-                    "iconIndex": 72
-                },
-                {
-                    "name": "Contract: Storm's Wake",
-                    "spellID": [
-                        256283,
-                        256282,
-                        256281
-                    ],
-                    "source": [
-                        "",
-                        "",
-                        ""
-                    ],
-                    "icon": "inv_inscription_80_contract_stormswake",
-                    "iconIndex": 73
                 },
                 {
                     "name": "Contract: Tortollan Seekers",
@@ -1215,12 +1170,108 @@
                         256294
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Honored with Tortollan Seekers",
+                        "Reward from Work Order: Contract: Tortollan Seekers"
                     ],
                     "icon": "inv_inscription_80_contract_tortollan",
+                    "iconIndex": 71
+                },
+                {
+                    "name": "Contract: Order of Embers",
+                    "faction": 0,
+                    "spellID": [
+                        256280,
+                        256279,
+                        256278
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Quartermaster Alcorn in Drustvar\nRequires Honored with Order of Embers",
+                        "Reward from Work Order: Contract: Order of Embers world quest"
+                    ],
+                    "icon": "inv_inscription_80_contract_embers",
+                    "iconIndex": 72
+                },
+                {
+                    "name": "Contract: Proudmoore Admiralty",
+                    "faction": 0,
+                    "spellID": [
+                        256277,
+                        256276,
+                        256275
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Provisoner Fray in Tiragarde Sound\nRequires Honored with Proudmoore Admiralty",
+                        "Reward from Work Order: Contract: Proudmoore Admiralty world quest"
+                    ],
+                    "icon": "inv_inscription_80_contract_kultiran",
+                    "iconIndex": 73
+                },
+                {
+                    "name": "Contract: Storm's Wake",
+                    "faction": 0,
+                    "spellID": [
+                        256283,
+                        256282,
+                        256281
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley\nRequires Honored with Storm's Wake",
+                        "Reward from Work Order: Contract: Storm's Wake world quest"
+                    ],
+                    "icon": "inv_inscription_80_contract_stormswake",
                     "iconIndex": 74
+                },
+                {
+                    "name": "Contract: Talanji's Expedition",
+                    "faction": 1,
+                    "spellID": [
+                        256287,
+                        256288,
+                        256289
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Provisioner Lija in Nazmir\nRequires Honored with Talanji's Expedition",
+                        "Reward from Work Order: Contract: Talanji's Expedition world quest"
+                    ],
+                    "icon": "inv_inscription_80_contract_talanji",
+                    "iconIndex": 75
+                },
+                {
+                    "name": "Contract: Voldunai",
+                    "faction": 1,
+                    "spellID": [
+                        256290,
+                        256291,
+                        256293
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Hoarder Jena in Vol'dun\nRequires Honored with Voldunai",
+                        "Reward from Work Order: Contract: Voldunai world quest"
+                    ],
+                    "icon": "inv_inscription_80_contract_vulpera",
+                    "iconIndex": 76
+                },
+                {
+                    "name": "Contract: Zandalari Empire",
+                    "faction": 1,
+                    "spellID": [
+                        256284,
+                        256285,
+                        256286
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Natal'hakata in Zuldazar\nRequires Honored wtih Zandalari Empire",
+                        "Reward from Work Order: Contract: Zandalari Empire world quest"
+                    ],
+                    "icon": "inv_inscription_80_contract_zandalari",
+                    "iconIndex": 77
                 },
                 {
                     "name": "Darkmoon Card of War",
@@ -1230,12 +1281,12 @@
                         256246
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Learnt from an inscription trainer",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_inscription_80_deck_war",
-                    "iconIndex": 75
+                    "iconIndex": 78
                 },
                 {
                     "name": "Honorable Combatant's Etched Vessel",
@@ -1245,12 +1296,12 @@
                         269740
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Sold by an inscription trainer for 2 Marks of Honor",
+                        "Sold by an inscription trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_offhand_1h_warfrontshorde_c_01",
-                    "iconIndex": 76
+                    "iconIndex": 79
                 },
                 {
                     "name": "Inscribed Vessel of Mysticism",
@@ -1260,61 +1311,61 @@
                         256247
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an inscription trainer",
+                        "Learnt from an inscription trainer",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_offhand_1h_battledungeon_c_02",
-                    "iconIndex": 77
+                    "iconIndex": 80
                 },
                 {
                     "name": "Mass Mill Akunda's Bite",
                     "spellID": 256219,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_akundasbite",
-                    "iconIndex": 78
+                    "iconIndex": 81
                 },
                 {
                     "name": "Mass Mill Anchor Weed",
                     "spellID": 256308,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_anchorweed",
-                    "iconIndex": 79
+                    "iconIndex": 82
                 },
                 {
                     "name": "Mass Mill Riverbud",
                     "spellID": 256217,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_riverbud",
-                    "iconIndex": 80
+                    "iconIndex": 83
                 },
                 {
                     "name": "Mass Mill Sea Stalk",
                     "spellID": 256223,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_seastalk",
-                    "iconIndex": 81
+                    "iconIndex": 84
                 },
                 {
                     "name": "Mass Mill Siren's Pollen",
                     "spellID": 256221,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_pollen",
-                    "iconIndex": 82
+                    "iconIndex": 85
                 },
                 {
                     "name": "Mass Mill Star Moss",
                     "spellID": 256218,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_starmoss",
-                    "iconIndex": 83
+                    "iconIndex": 86
                 },
                 {
                     "name": "Mass Mill Winter's Kiss",
                     "spellID": 256220,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_herb_winterskiss",
-                    "iconIndex": 84
+                    "iconIndex": 87
                 },
                 {
                     "name": "Vantus Rune: Uldir",
@@ -1324,40 +1375,40 @@
                         256303
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Drops from MOTHER in Uldir",
+                        "Drops from MOTHER in Uldir",
+                        "Drops from MOTHER in Uldir"
                     ],
                     "icon": "inv_inscription_80_vantusrune_uldir",
-                    "iconIndex": 85
+                    "iconIndex": 88
                 },
                 {
                     "name": "Glyph of the Humble Flyer",
                     "spellID": 276121,
-                    "source": "",
+                    "source": "Taught by Old Jen'tay in Dazar'alor (Horde)\nTaught by Grumpy Grimble in Boralas (Alliance)",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Dolphin",
                     "spellID": 276059,
-                    "source": "",
+                    "source": "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Tideskipper",
                     "spellID": 276088,
-                    "source": "",
+                    "source": "Drops from Corrupted Tideskipper in Stormsong Valley",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Crimson Ink Well",
                     "spellID": 278422,
-                    "source": "",
+                    "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_fireink",
-                    "iconIndex": 87
+                    "iconIndex": 90
                 }
             ]
         },
@@ -1407,35 +1458,35 @@
                         "Sold by Professor Thaddeus Paleo on Darkmoon Island"
                     ],
                     "icon": "inv_misc_dmc_destructiondeck",
-                    "iconIndex": 88
+                    "iconIndex": 91
                 },
                 {
                     "name": "Aqual Mark",
                     "spellID": 209510,
                     "source": "Dropped by Wrath of Azshara in Eye of Azshara (Heroic)",
                     "icon": "inv_inscription_minorglyph12",
-                    "iconIndex": 89
+                    "iconIndex": 92
                 },
                 {
                     "name": "Scroll of Forgotten Knowledge",
                     "spellID": 192802,
                     "source": "Reward from Ancient Vrykul Mastered in Stormheim",
                     "icon": "inv_misc_enchantedscroll",
-                    "iconIndex": 90
+                    "iconIndex": 93
                 },
                 {
                     "name": "Steamy Romance Novel Kit",
                     "spellID": 192804,
                     "source": "Reward from The Legacy Passed On in Tirisfal Glades",
                     "icon": "70_inscription_steamy_romance_novel_kit",
-                    "iconIndex": 91
+                    "iconIndex": 94
                 },
                 {
                     "name": "Straszan Mark",
                     "spellID": 209511,
                     "source": "Sold by Xur'ios in Dalaran",
                     "icon": "inv_inscription_majorglyph12",
-                    "iconIndex": 92
+                    "iconIndex": 95
                 },
                 {
                     "name": "Tome of the Tranquil Mind",
@@ -1449,42 +1500,42 @@
                     "spellID": 222408,
                     "source": "Dropped by Sael'orn in Violet Hold",
                     "icon": "spell_paladin_divinecircle",
-                    "iconIndex": 93
+                    "iconIndex": 96
                 },
                 {
                     "name": "Glyph of Twilight Bloom",
                     "spellID": 233278,
                     "source": "Dropped by High Botanist Tel'arn in Nighthold",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Trusted Steed",
                     "spellID": 232275,
                     "source": "Dropped by Mana Devourer in Return to Karazhan",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 94
+                    "iconIndex": 97
                 },
                 {
                     "name": "Glyph of Crackling Ox Lightning",
                     "spellID": 232274,
                     "source": "Dropped by Mana Devourer in Return to Karazhan",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 },
                 {
                     "name": "Glyph of the Observer",
                     "spellID": 225555,
                     "source": "Dropped by Broggok in The Blood Furnace",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Glyph of Polymorphic Proportions",
                     "spellID": 225545,
                     "source": "Dropped by The Rat King in The Arcway",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 97
+                    "iconIndex": 100
                 }
             ]
         },
@@ -1496,28 +1547,28 @@
                     "spellID": 192850,
                     "source": "Reward from Runes of Power in Azsuna",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of Fallow Wings",
                     "spellID": 192851,
                     "source": "Reward from Containing the Demon Within in Azsuna",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of Fel Touched Souls",
                     "spellID": 192849,
                     "source": "Reward from The Price of Power in Azsuna",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of Tattered Wings",
                     "spellID": 192852,
                     "source": "Reward from The Burdens of Hunting in Azsuna",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 }
             ]
         },
@@ -1529,14 +1580,14 @@
                     "spellID": 225559,
                     "source": "Sold by Warmage Kath'leen at Deliverance Point",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Glyph of the Shadow Succubus",
                     "spellID": 240272,
                     "source": "Sold by Warmage Kath'leen at Deliverance Point",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 }
             ]
         },
@@ -1548,21 +1599,21 @@
                     "spellID": 210653,
                     "source": "Taught by Professor Pallin in Dalaran",
                     "icon": "70_professions_scroll_01",
-                    "iconIndex": 99
+                    "iconIndex": 102
                 },
                 {
                     "name": "Songs of the Legion",
                     "spellID": 210656,
                     "source": "Taught by Thoth in The Exodar (Alliance)\nTaught by Zantasia in Silvermoon City (Horde)",
                     "icon": "70_professions_scroll_01",
-                    "iconIndex": 99
+                    "iconIndex": 102
                 },
                 {
                     "name": "Songs of Peace",
                     "spellID": 210654,
                     "source": "Learnt from an inscription trainer",
                     "icon": "70_professions_scroll_01",
-                    "iconIndex": 99
+                    "iconIndex": 102
                 },
                 {
                     "name": "Songs of the Alliance",
@@ -1570,7 +1621,7 @@
                     "source": "Taught by Catarina Stanford in Stormwind City",
                     "faction": 0,
                     "icon": "70_professions_scroll_01",
-                    "iconIndex": 99
+                    "iconIndex": 102
                 },
                 {
                     "name": "Songs of the Horde",
@@ -1578,7 +1629,7 @@
                     "source": "Taught by Nerog in Orgrimmar",
                     "faction": 1,
                     "icon": "70_professions_scroll_01",
-                    "iconIndex": 99
+                    "iconIndex": 102
                 }
             ]
         },
@@ -1590,49 +1641,49 @@
                     "spellID": 209658,
                     "source": "Discovered from milling Aethril\nMust have completed Mass Milling Techniques quest",
                     "icon": "inv_jewelcrafting_70_gem01_white",
-                    "iconIndex": 100
+                    "iconIndex": 103
                 },
                 {
                     "name": "Mass Mill Dreamleaf",
                     "spellID": 209659,
                     "source": "Discovered from milling Dreamleaf\nMust have completed Mass Milling Techniques quest",
                     "icon": "inv_misc_herb_ragveilcap",
-                    "iconIndex": 101
+                    "iconIndex": 104
                 },
                 {
                     "name": "Mass Mill Felwort",
                     "spellID": 209664,
                     "source": "Discovered from milling Felwort\nMust have completed Mass Milling Techniques quest",
                     "icon": "70_inscription_pigment_sallow",
-                    "iconIndex": 102
+                    "iconIndex": 105
                 },
                 {
                     "name": "Mass Mill Fjarnskaggl",
                     "spellID": 209661,
                     "source": "Reward from Fjarnsk in Dalaran\nMust have completed Mass Milling Techniques quest",
                     "icon": "70_inscription_pigment_roseate",
-                    "iconIndex": 103
+                    "iconIndex": 106
                 },
                 {
                     "name": "Mass Mill Foxflower",
                     "spellID": 209660,
                     "source": "Discovered from milling Foxflower\nMust have completed Mass Milling Techniques quest",
                     "icon": "inv_herbalism_70_yserallineseed",
-                    "iconIndex": 104
+                    "iconIndex": 107
                 },
                 {
                     "name": "Mass Mill Starlight Rose",
                     "spellID": 209662,
                     "source": "Discovered from milling Starlight Rose\nMust have completed Mass Milling Techniques quest",
                     "icon": "70_inscription_pigment_roseate",
-                    "iconIndex": 103
+                    "iconIndex": 106
                 },
                 {
                     "name": "Mass Mill Yseralline Seeds",
                     "spellID": 210116,
                     "source": "Reward from Mass Milling Techniques in Dalaran",
                     "icon": "70_inscription_pigment_roseate",
-                    "iconIndex": 103
+                    "iconIndex": 106
                 }
             ]
         },
@@ -1652,7 +1703,7 @@
                         "Reward from Vantus Rune Work Order: Nythendra in Stormheim"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Il'gynoth, The Heart of Corruption",
@@ -1667,7 +1718,7 @@
                         "Reward from Vantus Rune Work Order: Il'gynoth, The Heart of Corruption in Dalaran"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Ursoc",
@@ -1682,7 +1733,7 @@
                         "Reward from Vantus Rune Work Order: Ursoc in Highmountain"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Dragons of Nightmare",
@@ -1697,7 +1748,7 @@
                         "Reward from Vantus Rune Work Order: Dragons of Nightmare in Val'sharah"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Elerethe Renferal",
@@ -1712,7 +1763,7 @@
                         "Reward from Vantus Rune Work Order: Elerethe Renferal in Azsuna"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Cenarius",
@@ -1727,7 +1778,7 @@
                         "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Xavius",
@@ -1742,7 +1793,7 @@
                         "Reward from Vantus Rune Work Order: Xavius in Suramar"
                     ],
                     "icon": "70_inscription_vantus_rune_nightmare",
-                    "iconIndex": 105
+                    "iconIndex": 108
                 },
                 {
                     "name": "Vantus Rune: Chronomatic Anomaly",
@@ -1757,7 +1808,7 @@
                         "Obtained by fishing in Azsuna"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: High Botanist Tel'arn",
@@ -1772,7 +1823,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Krosus",
@@ -1787,7 +1838,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Skorpyron",
@@ -1802,7 +1853,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Spellblade Aluriel",
@@ -1817,7 +1868,7 @@
                         "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Star Augur Etraeus",
@@ -1832,7 +1883,7 @@
                         "Sold by Marin Bladewing in Azsuna\nRequires Revered with The Wardens"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Tichondrius",
@@ -1847,7 +1898,7 @@
                         "Dropped by Ana-Mouz in Suramar"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Trilliax",
@@ -1862,7 +1913,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Revered with Court of Farondis"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Grand Magistrix Elisande",
@@ -1877,7 +1928,7 @@
                         "Obtained from Highborne archaeology digsites"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Gul'dan",
@@ -1892,7 +1943,7 @@
                         "Reward from Vantus Mastery in Dalaran"
                     ],
                     "icon": "70_inscription_vantus_rune_suramar",
-                    "iconIndex": 106
+                    "iconIndex": 109
                 },
                 {
                     "name": "Vantus Rune: Odyn",
@@ -1907,7 +1958,7 @@
                         "Dropped by Nithogg in Stormheim"
                     ],
                     "icon": "70_inscription_vantus_rune_odyn",
-                    "iconIndex": 107
+                    "iconIndex": 110
                 },
                 {
                     "name": "Vantus Rune: Guarm",
@@ -1922,7 +1973,7 @@
                         "Dropped by Drugon the Frostblood in Highmountain"
                     ],
                     "icon": "70_inscription_vantus_rune_odyn",
-                    "iconIndex": 107
+                    "iconIndex": 110
                 },
                 {
                     "name": "Vantus Rune: Helya",
@@ -1937,7 +1988,7 @@
                         "Dropped by Levantus in Azsuna"
                     ],
                     "icon": "70_inscription_vantus_rune_odyn",
-                    "iconIndex": 107
+                    "iconIndex": 110
                 },
                 {
                     "name": "Vantus Rune: Tomb of Sargeras",
@@ -1952,7 +2003,7 @@
                         "Zone drop in Tomb of Sargeras"
                     ],
                     "icon": "70_inscription_vantus_rune_tomb",
-                    "iconIndex": 108
+                    "iconIndex": 111
                 }
             ]
         },
@@ -1964,35 +2015,35 @@
                     "spellID": 247861,
                     "source": "Sold by Toraan the Revered on Argus",
                     "icon": "70_inscription_pigment_sallow",
-                    "iconIndex": 102
+                    "iconIndex": 105
                 },
                 {
                     "name": "Glyph of Dark Absolution",
                     "spellID": 254238,
                     "source": "Dropped in The Seat of the Triumvirate",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of the Voidling",
                     "spellID": 254231,
                     "source": "Dropped by Ataxon in Mac'Aree",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of the Lightspawn",
                     "spellID": 254227,
                     "source": "Sold by Vindicator Jaelaana\nRequires Friendly with Army of the Light",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of Fel-Touched Shards",
                     "spellID": 246999,
                     "source": "Dropped by Inquisitor Verthroz in Antoran Wastes",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Vantus Rune: Antorus, the Burning Throne",
@@ -2007,7 +2058,7 @@
                         "Zone drop in Antorus, the Burning Throne"
                     ],
                     "icon": "achievement_dungeon_outland_dungeonmaster",
-                    "iconIndex": 110
+                    "iconIndex": 113
                 }
             ]
         },
@@ -2019,126 +2070,126 @@
                     "spellID": 192838,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of Fel Imp",
                     "spellID": 192839,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Glyph of Sparkles",
                     "spellID": 192840,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 97
+                    "iconIndex": 100
                 },
                 {
                     "name": "Glyph of Blackout",
                     "spellID": 192841,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorrogue",
-                    "iconIndex": 111
+                    "iconIndex": 114
                 },
                 {
                     "name": "Glyph of the Sentinel",
                     "spellID": 192842,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Crackling Crane Lightning",
                     "spellID": 192843,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 },
                 {
                     "name": "Glyph of the Spectral Raptor",
                     "spellID": 192844,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 },
                 {
                     "name": "Glyph of Stellar Fire",
                     "spellID": 192845,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of the Queen",
                     "spellID": 192846,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 94
+                    "iconIndex": 97
                 },
                 {
                     "name": "Glyph of Cracked Ice",
                     "spellID": 225522,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of the Crimson Shell",
                     "spellID": 225525,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of Fel-Enemies",
                     "spellID": 225528,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of Mana Touched Souls",
                     "spellID": 225529,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of the Feral Chameleon",
                     "spellID": 225532,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Autumnal Bloom",
                     "spellID": 225534,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of the Dire Stable",
                     "spellID": 225538,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of Yu'lon's Grace",
                     "spellID": 225547,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 },
                 {
                     "name": "Glyph of the Inquisitor's Eye",
                     "spellID": 225554,
                     "source": "Sold by Jang Quillpaw in Dalaran",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Glyph of the Blazing Savior",
@@ -2159,70 +2210,70 @@
                     "spellID": 225530,
                     "source": "Sold by Oxana Demonslay in Dalaran Sewers",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of Burnout",
                     "spellID": 225548,
                     "source": "Sold by Cravitz Lorent in Dalaran Sewers",
                     "icon": "inv_glyph_minorrogue",
-                    "iconIndex": 111
+                    "iconIndex": 114
                 },
                 {
                     "name": "Glyph of Flash Bang",
                     "spellID": 225549,
                     "source": "Sold by The Widow in Dalaran Sewers",
                     "icon": "inv_glyph_minorrogue",
-                    "iconIndex": 111
+                    "iconIndex": 114
                 },
                 {
                     "name": "Glyph of the Forest Path",
                     "spellID": 225533,
                     "source": "Sold by Lorelae Wintersong",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Nesingwary's Nemeses",
                     "spellID": 225536,
                     "source": "Sold by Lucas Sigmund in Highmountain",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of the Headhunter",
                     "spellID": 225540,
                     "source": "Sold by Lucas Sigmund in Highmountain",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of the Goblin Anto-Grav Flare",
                     "spellID": 225539,
                     "source": "Sold by Hobart Grapplehammer in Dalaran",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of Critterhex",
                     "spellID": 225550,
                     "source": "Sold by K'huta in Dalaran",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 },
                 {
                     "name": "Glyph of Flickering",
                     "spellID": 225551,
                     "source": "Sold by Elementalist Sharvak in Nagrand (Outland)",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 },
                 {
                     "name": "Glyph of the Voidlord",
                     "spellID": 225558,
                     "source": "Sold by Matthew Rabis in Dalaran Sewers",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 }
             ]
         },
@@ -2234,84 +2285,84 @@
                     "spellID": 225523,
                     "source": "Drops from humanoids on the Broken Isles",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of the Chilled Shell",
                     "spellID": 225524,
                     "source": "Drops from water elementals on the Broken Isles",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of the Unholy Wraith",
                     "spellID": 225526,
                     "source": "Drops from ghosts on the Broken Isles",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of the Doe",
                     "spellID": 225531,
                     "source": "Drops from Stags, Fawns and Does on the Broken Isles",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Fel Wings",
                     "spellID": 225527,
                     "source": "Dropped by demon beasts on the Broken Isles",
                     "icon": "70_inscription_glyph_demonhunter_minor",
-                    "iconIndex": 98
+                    "iconIndex": 101
                 },
                 {
                     "name": "Glyph of Arachnophobia",
                     "spellID": 225535,
                     "source": "Drops from creatures on the Broken Isles",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of the Hook",
                     "spellID": 225541,
                     "source": "Drops from murlocs on the Broken Isles",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of the Skullseye",
                     "spellID": 225542,
                     "source": "Drops from undead on the Broken Isles",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of the Trident",
                     "spellID": 225543,
                     "source": "Drops from naga on the Broken Isles",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of Smolder",
                     "spellID": 225546,
                     "source": "Drops from fire and earth elementals on the Broken Isles",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 97
+                    "iconIndex": 100
                 },
                 {
                     "name": "Glyph of Pebbles",
                     "spellID": 225552,
                     "source": "Drops from drogbar on the Broken Isles",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 },
                 {
                     "name": "Glyph of the Shivarra",
                     "spellID": 225556,
                     "source": "Drops from humanoid demons on the Broken Isles",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 }
             ]
         },
@@ -2323,7 +2374,7 @@
                     "spellID": 57209,
                     "source": "Learnt by researching Lion's Ink",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of the Blazing Trail",
@@ -2337,14 +2388,14 @@
                     "spellID": 148271,
                     "source": "Learnt by researching Lion's Ink",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 97
+                    "iconIndex": 100
                 },
                 {
                     "name": "Glyph of Spirit Raptors",
                     "spellID": 148281,
                     "source": "Learnt by researching Lion's Ink",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 }
             ]
         },
@@ -2356,28 +2407,28 @@
                     "spellID": 56965,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Foul Menagerie",
                     "spellID": 57224,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of the Spectral Wolf",
                     "spellID": 58332,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 },
                 {
                     "name": "Glyph of Inspired Hymns",
                     "spellID": 148278,
                     "source": "Learnt by researching Moonglow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 }
             ]
         },
@@ -2389,21 +2440,21 @@
                     "spellID": 58312,
                     "source": "Learnt by researching Midnight ink",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 94
+                    "iconIndex": 97
                 },
                 {
                     "name": "Glyph of the Skeleton",
                     "spellID": 148266,
                     "source": "Learnt by researching Midnight ink",
                     "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 114
+                    "iconIndex": 117
                 },
                 {
                     "name": "Glyph of Lingering Ancestors",
                     "spellID": 148282,
                     "source": "Learnt by researching Midnight ink",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 }
             ]
         },
@@ -2415,14 +2466,14 @@
                     "spellID": 58316,
                     "source": "Learnt by researching Celestial Ink",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 94
+                    "iconIndex": 97
                 },
                 {
                     "name": "Glyph of Shadow",
                     "spellID": 107907,
                     "source": "Learnt by researching Celestial Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of the Weaponmaster",
@@ -2441,35 +2492,35 @@
                     "spellID": 58301,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 113
+                    "iconIndex": 116
                 },
                 {
                     "name": "Glyph of Deluge",
                     "spellID": 64261,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorshaman",
-                    "iconIndex": 112
+                    "iconIndex": 115
                 },
                 {
                     "name": "Glyph of the Val'kyr",
                     "spellID": 126696,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of Pillar of Light",
                     "spellID": 148274,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 94
+                    "iconIndex": 97
                 },
                 {
                     "name": "Glyph of the Solstice",
                     "spellID": 182158,
                     "source": "Learnt by researching Ink of Dreams",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 }
             ]
         },
@@ -2481,7 +2532,7 @@
                     "spellID": 58341,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Glyph of Mighty Victory",
@@ -2509,14 +2560,14 @@
                     "spellID": 148270,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 97
+                    "iconIndex": 100
                 },
                 {
                     "name": "Glyph of Crimson Banish",
                     "spellID": 64250,
                     "source": "Learnt by researching Jadefire Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 }
             ]
         },
@@ -2528,21 +2579,21 @@
                     "spellID": 56986,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minormage",
-                    "iconIndex": 97
+                    "iconIndex": 100
                 },
                 {
                     "name": "Glyph of the Chameleon",
                     "spellID": 58287,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Disguise",
                     "spellID": 64260,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorrogue",
-                    "iconIndex": 111
+                    "iconIndex": 114
                 },
                 {
                     "name": "Glyph of Thunder Strike",
@@ -2563,21 +2614,21 @@
                     "spellID": 112462,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 },
                 {
                     "name": "Glyph of the Heavens",
                     "spellID": 124466,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of Shadowy Friends",
                     "spellID": 126800,
                     "source": "Learnt by researching Blackfallow Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 }
             ]
         },
@@ -2589,14 +2640,14 @@
                     "spellID": 57263,
                     "source": "Learnt by researching Etheral Ink",
                     "icon": "inv_glyph_minorwarlock",
-                    "iconIndex": 96
+                    "iconIndex": 99
                 },
                 {
                     "name": "Glyph of the Sha",
                     "spellID": 148276,
                     "source": "Learnt by researching Etheral Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 }
             ]
         },
@@ -2608,28 +2659,28 @@
                     "spellID": 56948,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 },
                 {
                     "name": "Glyph of Fighting Pose",
                     "spellID": 112469,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 },
                 {
                     "name": "Glyph of Angels",
                     "spellID": 148275,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of Honor",
                     "spellID": 112464,
                     "source": "Learnt by researching Ink of the Sea",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 }
             ]
         },
@@ -2641,28 +2692,28 @@
                     "spellID": 57032,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minorpaladin",
-                    "iconIndex": 94
+                    "iconIndex": 97
                 },
                 {
                     "name": "Glyph of Shackle Undead",
                     "spellID": 58320,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minorpriest",
-                    "iconIndex": 109
+                    "iconIndex": 112
                 },
                 {
                     "name": "Glyph of Rising Tiger Kick",
                     "spellID": 112466,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minormonk",
-                    "iconIndex": 95
+                    "iconIndex": 98
                 },
                 {
                     "name": "Glyph of the Cheetah",
                     "spellID": 131152,
                     "source": "Learnt by researching Shimmering Ink",
                     "icon": "inv_glyph_minordruid",
-                    "iconIndex": 86
+                    "iconIndex": 89
                 }
             ]
         },
@@ -2681,49 +2732,49 @@
                     "spellID": 165804,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_wand_1h_draenorcrafted_d_01_a_horde",
-                    "iconIndex": 115
+                    "iconIndex": 118
                 },
                 {
                     "name": "Crystalfire Spellstaff",
                     "spellID": 166356,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_staff_2h_draenorcrafted_d_02_a_horde",
-                    "iconIndex": 116
+                    "iconIndex": 119
                 },
                 {
                     "name": "Etched-Blade Warstaff",
                     "spellID": 166359,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_staff_2h_draenorcrafted_d_02_a_alliance",
-                    "iconIndex": 117
+                    "iconIndex": 120
                 },
                 {
                     "name": "Shadowtome",
                     "spellID": 166363,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_offhand_1h_draenorcrafted_d_02a",
-                    "iconIndex": 118
+                    "iconIndex": 121
                 },
                 {
                     "name": "Weapon Crystal",
                     "spellID": 166366,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_datacrystal05",
-                    "iconIndex": 119
+                    "iconIndex": 122
                 },
                 {
                     "name": "Volatile Crystal",
                     "spellID": 166432,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_crystalepic2",
-                    "iconIndex": 120
+                    "iconIndex": 123
                 },
                 {
                     "name": "Ensorcelled Tarot",
                     "spellID": 178248,
                     "source": "Purchased with Secrets of Draenor Inscription\nSold by Inscription vendor in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_inscription_tarot_volcanoace",
-                    "iconIndex": 121
+                    "iconIndex": 124
                 }
             ]
         },
@@ -2735,28 +2786,28 @@
                     "spellID": 86646,
                     "source": "Drops from mobs in Uldum",
                     "icon": "inv_inscription_pigment_bug04",
-                    "iconIndex": 122
+                    "iconIndex": 125
                 },
                 {
                     "name": "Origami Slime",
                     "spellID": 86644,
                     "source": "Drops from mobs in Vash'jir",
                     "icon": "inv_misc_slime_02",
-                    "iconIndex": 123
+                    "iconIndex": 126
                 },
                 {
                     "name": "Origami Rock",
                     "spellID": 86645,
                     "source": "Drops from mobs in Deepholm",
                     "icon": "inv_stone_10",
-                    "iconIndex": 124
+                    "iconIndex": 127
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Medallion of Tenacity",
                     "spellID": 146638,
                     "source": "Drops in Pandaria zones, raids and dungeons",
                     "icon": "inv_jewelry_trinket_04",
-                    "iconIndex": 125
+                    "iconIndex": 128
                 }
             ]
         },
@@ -2768,77 +2819,77 @@
                     "spellID": 187494,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "oshugun_crystalfragments",
-                    "iconIndex": 126
+                    "iconIndex": 129
                 },
                 {
                     "name": "The Spirit of War",
                     "spellID": 182125,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_warpaint_blue",
-                    "iconIndex": 127
+                    "iconIndex": 130
                 },
                 {
                     "name": "Mighty Ensorcelled Tarot",
                     "spellID": 187495,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_misc_ticket_tarot_crusade",
-                    "iconIndex": 128
+                    "iconIndex": 131
                 },
                 {
                     "name": "Savage Ensorcelled Tarot",
                     "spellID": 187519,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_misc_ticket_tarot_crusade",
-                    "iconIndex": 128
+                    "iconIndex": 131
                 },
                 {
                     "name": "Savage Weapon Crystal",
                     "spellID": 187518,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "oshugun_crystalfragments",
-                    "iconIndex": 126
+                    "iconIndex": 129
                 },
                 {
                     "name": "Mass Mill Frostweed",
                     "spellID": 190381,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 129
+                    "iconIndex": 132
                 },
                 {
                     "name": "Mass Mill Fireweed",
                     "spellID": 190382,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 129
+                    "iconIndex": 132
                 },
                 {
                     "name": "Mass Mill Gorgrond Flytrap",
                     "spellID": 190383,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 129
+                    "iconIndex": 132
                 },
                 {
                     "name": "Mass Mill Starflower",
                     "spellID": 190384,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 129
+                    "iconIndex": 132
                 },
                 {
                     "name": "Mass Mill Nagrand Arrowbloom",
                     "spellID": 190385,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 129
+                    "iconIndex": 132
                 },
                 {
                     "name": "Mass Mill Talador Orchid",
                     "spellID": 190386,
                     "source": "Sold by Lunarfall\/Frostwall Herb Trader",
                     "icon": "inv_inscription_pigment_cerulean",
-                    "iconIndex": 129
+                    "iconIndex": 132
                 }
             ]
         }
