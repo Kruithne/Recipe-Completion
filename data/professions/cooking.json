@@ -341,9 +341,9 @@
                         259433
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_seasonedloins",
                     "iconIndex": 40
@@ -356,9 +356,9 @@
                         259430
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_grilledsnapper",
                     "iconIndex": 41
@@ -366,7 +366,7 @@
                 {
                     "name": "Heartsbane Hexwurst",
                     "spellID": 280282,
-                    "source": "",
+                    "source": "Drops from Raal the Gluttonous in Waycrest Manor",
                     "icon": "inv_holiday_beerfestsausage03",
                     "iconIndex": 42
                 },
@@ -378,9 +378,9 @@
                         259411
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Kul Tiramisu world quest"
                     ],
                     "icon": "inv_cooking_80_kultiramisu",
                     "iconIndex": 43
@@ -393,9 +393,9 @@
                         259436
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Loa Loaf world quest"
                     ],
                     "icon": "inv_cooking_80_loaloaf",
                     "iconIndex": 44
@@ -408,9 +408,9 @@
                         259442
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Mon'Dazi world quest"
                     ],
                     "icon": "inv_cooking_80_mondazi",
                     "iconIndex": 45
@@ -423,9 +423,9 @@
                         259424
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Ravenberry Tarts world quest"
                     ],
                     "icon": "inv_cooking_80_ravenberrytart",
                     "iconIndex": 46
@@ -438,9 +438,9 @@
                         259414
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Honey-Glazed Haunches world quest"
                     ],
                     "icon": "inv_cooking_80_honeyglazedhaunch",
                     "iconIndex": 47
@@ -453,9 +453,9 @@
                         259439
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Sailor's Pie world quest"
                     ],
                     "icon": "inv_cooking_80_sailorspie",
                     "iconIndex": 48
@@ -468,9 +468,9 @@
                         259445
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Spiced Snapper world quest"
                     ],
                     "icon": "inv_cooking_80_spicedcatfish",
                     "iconIndex": 49
@@ -483,9 +483,9 @@
                         259427
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Reward from Work Order: Swamp Fish 'n Chips world quest"
                     ],
                     "icon": "inv_cooking_80_swampfishnchips",
                     "iconIndex": 50
@@ -498,9 +498,9 @@
                         259423
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Honored with Tortollan Seekers",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_majorfeast",
                     "iconIndex": 51
@@ -513,9 +513,9 @@
                         259418
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a cooking trainer",
+                        "Learnt from a cooking trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_minorfeast",
                     "iconIndex": 52
