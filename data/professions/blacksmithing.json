@@ -1729,63 +1729,63 @@
                 {
                     "name": "Monel-Hardened Breastplate",
                     "spellID": 253162,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_chest_plate_zandalarquest_b_01",
                     "iconIndex": 188
                 },
                 {
                     "name": "Monel-Hardened Greaves",
                     "spellID": 253174,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_pants_plate_zandalarquest_b_01",
                     "iconIndex": 189
                 },
                 {
                     "name": "Monel-Hardened Pauldrons",
                     "spellID": 253177,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_shoulders_plate_zandalarquest_b_01",
                     "iconIndex": 190
                 },
                 {
                     "name": "Monel-Hardened Helm",
                     "spellID": 253171,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_helm_plate_zandalarquest_b_01",
                     "iconIndex": 191
                 },
                 {
                     "name": "Monel-Hardened Shield",
                     "spellID": 253113,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_shield_1h_kultirasquest_b_01",
                     "iconIndex": 192
                 },
                 {
                     "name": "Monel-Hardened Boots",
                     "spellID": 253165,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_boots_plate_zandalarquest_b_01",
                     "iconIndex": 193
                 },
                 {
                     "name": "Monel-Hardened Gauntlets",
                     "spellID": 253168,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_glove_plate_zandalarquest_b_01",
                     "iconIndex": 194
                 },
                 {
                     "name": "Monel-Hardened Waistguard",
                     "spellID": 253180,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_belt_plate_zandalarquest_b_01",
                     "iconIndex": 195
                 },
                 {
                     "name": "Monel-Hardened Armguards",
                     "spellID": 253183,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_bracer_plate_zandalarquest_b_01",
                     "iconIndex": 196
                 },
@@ -1797,9 +1797,9 @@
                         278133
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_sword_1h_battledungeon_c_01",
                     "iconIndex": 197
@@ -1807,98 +1807,98 @@
                 {
                     "name": "Monel-Hardened Claymore",
                     "spellID": 253135,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_sword_2h_zandalarquest_b_01",
                     "iconIndex": 198
                 },
                 {
                     "name": "Monel-Hardened Deckpounder",
                     "spellID": 253132,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_2h_zandalarquest_b_01",
                     "iconIndex": 199
                 },
                 {
                     "name": "Monel-Hardened Polearm",
                     "spellID": 253141,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_polearm_2h_zandalari_b_01",
                     "iconIndex": 200
                 },
                 {
                     "name": "Monel-Hardened Cutlass",
                     "spellID": 253125,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_sword_1h_zandalarquest_b_01",
                     "iconIndex": 201
                 },
                 {
                     "name": "Monel-Hardened Shanker",
                     "spellID": 253138,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_knife_1h_zandalarquest_b_01",
                     "iconIndex": 202
                 },
                 {
                     "name": "Monel-Hardened Hoofplates",
                     "spellID": 253110,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_blacksmith_leystonehoofplates",
                     "iconIndex": 203
                 },
                 {
                     "name": "Monel-Hardened Stirrups",
                     "spellID": 253112,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_blacksmith_demonsteelstirrups",
                     "iconIndex": 204
                 },
                 {
                     "name": "Monelite Skeleton Key",
                     "spellID": 269064,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_misc_key_04",
                     "iconIndex": 205
                 },
                 {
                     "name": "Emblazoned Stormsteel Girdle",
                     "spellID": 253192,
-                    "source": "",
+                    "source": "Discovered from crafting Imbued Stormsteel Girdle",
                     "icon": "inv_belt_plate_nazmirraidmythic_d_01",
                     "iconIndex": 206
                 },
                 {
                     "name": "Emblazoned Stormsteel Legguards",
                     "spellID": 253188,
-                    "source": "",
+                    "source": "Discovered from crafting Imbued Stormsteel Legguards",
                     "icon": "inv_pant_plate_nazmirraidmythic_d_01",
                     "iconIndex": 207
                 },
                 {
                     "name": "Imbued Stormsteel Girdle",
                     "spellID": 253191,
-                    "source": "",
+                    "source": "Discovered from crafting Stormsteel Girdle",
                     "icon": "inv_belt_plate_nazmirraid_d_01",
                     "iconIndex": 208
                 },
                 {
                     "name": "Imbued Stormsteel Legguards",
                     "spellID": 253187,
-                    "source": "",
+                    "source": "Discovered from crafting Stormsteel Legguards",
                     "icon": "inv_pant_plate_nazmirraid_d_01",
                     "iconIndex": 209
                 },
                 {
                     "name": "Stormsteel Girdle",
                     "spellID": 253190,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_belt_plate_nazmirraid_d_01",
                     "iconIndex": 208
                 },
                 {
                     "name": "Stormsteel Legguards",
                     "spellID": 253186,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_pant_plate_nazmirraid_d_01",
                     "iconIndex": 209
                 },
@@ -1910,9 +1910,9 @@
                         269424
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_plate_boot_warfrontshorde_b_01",
                     "iconIndex": 210
@@ -1925,9 +1925,9 @@
                         269444
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_plate_pants_warfrontshorde_b_01",
                     "iconIndex": 211
@@ -1940,9 +1940,9 @@
                         269448
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_plate_belt_warfrontshorde_b_01",
                     "iconIndex": 212
@@ -1955,9 +1955,9 @@
                         269458
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_shield_1h_warfrontshorde_c_02",
                     "iconIndex": 213
@@ -1970,9 +1970,9 @@
                         253116
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_shield_1h_battledungeon_c_02",
                     "iconIndex": 214
@@ -1985,9 +1985,9 @@
                         269451
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_plate_bracer_warfrontshorde_d_01",
                     "iconIndex": 215
@@ -2000,9 +2000,9 @@
                         269421
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_plate_glove_warfrontshorde_b_01",
                     "iconIndex": 216
@@ -2015,9 +2015,9 @@
                         269472
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_mace_2h_warfrontshorde_c_01",
                     "iconIndex": 217
@@ -2030,9 +2030,9 @@
                         269479
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_polearm_2h_warfrontshorde_c_01red",
                     "iconIndex": 218
@@ -2045,9 +2045,9 @@
                         253156
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_knife_1h_battledungeon_c_02",
                     "iconIndex": 219
@@ -2060,9 +2060,9 @@
                         253159
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_polearm_2h_zandalariguard_b_01",
                     "iconIndex": 220
@@ -2075,9 +2075,9 @@
                         269464
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_sword_1h_warfrontshorde_c_01",
                     "iconIndex": 221
@@ -2090,9 +2090,9 @@
                         269476
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_knife_1h_warfrontshorde_c_01",
                     "iconIndex": 222
@@ -2105,9 +2105,9 @@
                         256786
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a blacksmithing trainer",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_knife_1h_warfrontsalliance_c_01",
                     "iconIndex": 223
@@ -2115,21 +2115,21 @@
                 {
                     "name": "Magnetic Mining Pick",
                     "spellID": 278416,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_axe_1h_6dr_pickaxe_a_01",
                     "iconIndex": 224
                 },
                 {
                     "name": "Platinum Whetstone",
                     "spellID": 278417,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "inv_stone_grindingstone_05",
                     "iconIndex": 54
                 },
                 {
                     "name": "Storm Silver Spurs",
                     "spellID": 278415,
-                    "source": "",
+                    "source": "Learnt from a blacksmithing trainer",
                     "icon": "ability_rogue_sprint",
                     "iconIndex": 225
                 }
