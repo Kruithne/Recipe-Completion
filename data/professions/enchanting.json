@@ -1294,6 +1294,7 @@
             "recipes": [
                 {
                     "name": "Kul Tiran Crafting",
+                    "faction": 0,
                     "spellID": 255070,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
@@ -1301,6 +1302,7 @@
                 },
                 {
                     "name": "Kul Tiran Herbalism",
+                    "faction": 0,
                     "spellID": 255035,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
@@ -1308,6 +1310,7 @@
                 },
                 {
                     "name": "Kul Tiran Mining",
+                    "faction": 0,
                     "spellID": 255040,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
@@ -1315,6 +1318,7 @@
                 },
                 {
                     "name": "Kul Tiran Skinning",
+                    "faction": 0,
                     "spellID": 255065,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
@@ -1322,7 +1326,48 @@
                 },
                 {
                     "name": "Kul Tiran Surveying",
+                    "faction": 0,
                     "spellID": 255066,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Zandalari Crafting",
+                    "faction": 1,
+                    "spellID": 267498,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Zandalari Herbalism",
+                    "faction": 1,
+                    "spellID": 267458,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Zandalari Mining",
+                    "faction": 1,
+                    "spellID": 267482,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Zandalari Skinning",
+                    "faction": 1,
+                    "spellID": 267486,
+                    "source": "Learnt from an enchanting trainer",
+                    "icon": "trade_engraving",
+                    "iconIndex": 10
+                },
+                {
+                    "name": "Zandalari Surveying",
+                    "faction": 1,
+                    "spellID": 267490,
                     "source": "Learnt from an enchanting trainer",
                     "icon": "trade_engraving",
                     "iconIndex": 10
