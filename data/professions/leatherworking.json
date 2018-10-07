@@ -1736,14 +1736,14 @@
                 {
                     "name": "Hardened Tempest Boots",
                     "spellID": 256765,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_leather_nazmirraid_d_01boot",
                     "iconIndex": 170
                 },
                 {
                     "name": "Hardened Tempest Leggings",
                     "spellID": 256768,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_leather_nazmirraid_d_01pant",
                     "iconIndex": 171
                 },
@@ -1755,9 +1755,9 @@
                         269528
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_leather_warfrontshorde_d_01_bracer",
                     "iconIndex": 172
@@ -1770,9 +1770,9 @@
                         269519
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_leather_warfrontshorde_b_01_gloves",
                     "iconIndex": 173
@@ -1785,9 +1785,9 @@
                         269522
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_leather_warfrontshorde_d_01_pants",
                     "iconIndex": 174
@@ -1800,9 +1800,9 @@
                         269516
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_leather_warfrontshorde_b_01_boot",
                     "iconIndex": 175
@@ -1815,9 +1815,9 @@
                         269525
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_buckle_leather_warfrontshorde_b_01",
                     "iconIndex": 176
@@ -1825,70 +1825,70 @@
                 {
                     "name": "Coarse Leather Helm",
                     "spellID": 256751,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_helm_leather_zandalarquest_b_01",
                     "iconIndex": 177
                 },
                 {
                     "name": "Coarse Leather Pauldrons",
                     "spellID": 256754,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_shoulder_leather_zandalarquest_b_01",
                     "iconIndex": 178
                 },
                 {
                     "name": "Coarse Leather Vest",
                     "spellID": 256749,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_chest_leather_zandalarquest_b_01",
                     "iconIndex": 179
                 },
                 {
                     "name": "Coarse Leather Armguards",
                     "spellID": 256756,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_bracer_leather_zandalarquest_b_01",
                     "iconIndex": 180
                 },
                 {
                     "name": "Coarse Leather Gauntlets",
                     "spellID": 256750,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_glove_leather_zandalarquest_b_01",
                     "iconIndex": 181
                 },
                 {
                     "name": "Coarse Leather Leggings",
                     "spellID": 256752,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_pant_leather_zandalarquest_b_01",
                     "iconIndex": 182
                 },
                 {
                     "name": "Coarse Leather Treads",
                     "spellID": 256748,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_boot_leather_zandalarquest_b_01",
                     "iconIndex": 183
                 },
                 {
                     "name": "Coarse Leather Waistguard",
                     "spellID": 256755,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_belt_leather_zandalarquest_b_01",
                     "iconIndex": 184
                 },
                 {
                     "name": "Mistscale Boots",
                     "spellID": 256771,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_boots_mail_nazmirraid_d_01",
                     "iconIndex": 185
                 },
                 {
                     "name": "Mistscale Leggings",
                     "spellID": 256774,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_pants_mail_nazmirraid_d_01",
                     "iconIndex": 186
                 },
@@ -1900,9 +1900,9 @@
                         269543
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_bracer_mail_warfrontshorde_b_01",
                     "iconIndex": 187
@@ -1915,9 +1915,9 @@
                         269534
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_glove_mail_warfrontshorde_b_01",
                     "iconIndex": 188
@@ -1930,9 +1930,9 @@
                         269537
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_pant_mail_warfrontshorde_b_01",
                     "iconIndex": 189
@@ -1945,9 +1945,9 @@
                         269531
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_boot_mail_warfrontshorde_b_01",
                     "iconIndex": 190
@@ -1960,9 +1960,9 @@
                         269540
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_belt_mail_warfrontshorde_b_01",
                     "iconIndex": 191
@@ -1970,56 +1970,56 @@
                 {
                     "name": "Shimmerscale Helm",
                     "spellID": 256761,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_helm_mail_zandalarquest_b_01",
                     "iconIndex": 192
                 },
                 {
                     "name": "Shimmerscale Pauldrons",
                     "spellID": 256759,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_shoulder_mail_zandalarquest_b_01",
                     "iconIndex": 193
                 },
                 {
                     "name": "Shimmerscale Vest",
                     "spellID": 256763,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_chest_mail_zandalarquest_b_01",
                     "iconIndex": 194
                 },
                 {
                     "name": "Shimmerscale Armguards",
                     "spellID": 256757,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_bracer_mail_zandalarquest_b_01",
                     "iconIndex": 195
                 },
                 {
                     "name": "Shimmerscale Gauntlets",
                     "spellID": 256762,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_glove_mail_zandalarquest_b_01",
                     "iconIndex": 196
                 },
                 {
                     "name": "Shimmerscale Leggings",
                     "spellID": 256760,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_pants_mail_zandalarquest_b_01",
                     "iconIndex": 197
                 },
                 {
                     "name": "Shimmerscale Treads",
                     "spellID": 256764,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_boots_mail_zandalarquest_b_01",
                     "iconIndex": 198
                 },
                 {
                     "name": "Shimmerscale Waistguard",
                     "spellID": 256758,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_belt_mail_zandalarquest_b_01",
                     "iconIndex": 199
                 },
@@ -2031,9 +2031,9 @@
                         256782
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Learnt from a leatherworking trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_hand_1h_trollshaman_c_01",
                     "iconIndex": 200
@@ -2046,9 +2046,9 @@
                         269552
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a leatherworking trainer for 2 Marks of Honor",
+                        "Sold by a leatherworking trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_bow_1h_warfrontshorde_c_01",
                     "iconIndex": 201
@@ -2061,9 +2061,9 @@
                         256779
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Learnt from a leatherworking trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_hand_1h_trollshaman_c_01",
                     "iconIndex": 200
@@ -2076,9 +2076,9 @@
                         256787
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from a leatherworking trainer",
+                        "Learnt from a leatherworking trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_bow_1h_battledungeon_c_01",
                     "iconIndex": 202
@@ -2086,119 +2086,119 @@
                 {
                     "name": "Coarse Leather Cestus",
                     "spellID": 256778,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_hand_1h_zandalarquest_b_01",
                     "iconIndex": 203
                 },
                 {
                     "name": "Shimmerscale Striker",
                     "spellID": 256777,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_hand_1h_zandalarquest_b_01",
                     "iconIndex": 203
                 },
                 {
                     "name": "Drums of the Maelstrom",
                     "spellID": 256791,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_leatherworking_drumsofthemaestrom",
                     "iconIndex": 204
                 },
                 {
                     "name": "Coarse Leather Barding",
                     "spellID": 256790,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_leatherworking_coarseleatherbarding",
                     "iconIndex": 205
                 },
                 {
                     "name": "Shimmerscale Diving Helmet",
                     "spellID": 256793,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_leatherworking_shimmerscaledivinghelmet",
                     "iconIndex": 206
                 },
                 {
                     "name": "Shimmerscale Diving Suit",
                     "spellID": 256792,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_leatherworking_shimmerscaledivingsuit",
                     "iconIndex": 207
                 },
                 {
                     "name": "Hardened Tempest Hide",
                     "spellID": 272278,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_skinning_80_hardenedtempesthide",
                     "iconIndex": 208
                 },
                 {
                     "name": "Amber Rallying Horn",
                     "spellID": 278423,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_misc_horn_05",
                     "iconIndex": 209
                 },
                 {
                     "name": "Tempest Hide Pouch",
                     "spellID": 276256,
-                    "source": "",
+                    "source": "Learnt from a leatherworking trainer",
                     "icon": "inv_misc_bag_06",
                     "iconIndex": 210
                 },
                 {
                     "name": "Emblazoned Tempest Boots",
                     "spellID": 256767,
-                    "source": "",
+                    "source": "Discovered when crafting Imbued Tempest Boots",
                     "icon": "inv_leather_nazmirraidmythic_d_01boot",
                     "iconIndex": 211
                 },
                 {
                     "name": "Emblazoned Tempest Leggings",
                     "spellID": 256770,
-                    "source": "",
+                    "source": "Discovered when crafting Imbued Tempest Leggings",
                     "icon": "inv_leather_nazmirraidmythic_d_01pant",
                     "iconIndex": 212
                 },
                 {
                     "name": "Imbued Tempest Boots",
                     "spellID": 256766,
-                    "source": "",
+                    "source": "Discovered when crafting Tempest Boots",
                     "icon": "inv_leather_nazmirraid_d_01boot",
                     "iconIndex": 170
                 },
                 {
                     "name": "Imbued Tempest Leggings",
                     "spellID": 256769,
-                    "source": "",
+                    "source": "Discovered when crafting Tempest Leggings",
                     "icon": "inv_leather_nazmirraid_d_01pant",
                     "iconIndex": 171
                 },
                 {
                     "name": "Emblazoned Mistscale Boots",
                     "spellID": 256773,
-                    "source": "",
+                    "source": "Discovered when crafting Imbued Mistscale Boots",
                     "icon": "inv_boots_mail_nazmirraidmythic_d_01",
                     "iconIndex": 213
                 },
                 {
                     "name": "Emblazoned Mistscale Leggings",
                     "spellID": 256776,
-                    "source": "",
+                    "source": "Discovered when crafting Imbued Mistscale Leggings",
                     "icon": "inv_pants_mail_nazmirraidmythic_d_01",
                     "iconIndex": 214
                 },
                 {
                     "name": "Imbued Mistscale Boots",
                     "spellID": 256772,
-                    "source": "",
+                    "source": "Discovered when crafting Mistscale Boots",
                     "icon": "inv_boots_mail_nazmirraid_d_01",
                     "iconIndex": 185
                 },
                 {
                     "name": "Imbued Mistscale Leggings",
                     "spellID": 256775,
-                    "source": "",
+                    "source": "Discovered when crafting Mistscale Leggings",
                     "icon": "inv_pants_mail_nazmirraid_d_01",
                     "iconIndex": 186
                 }
