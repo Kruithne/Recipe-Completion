@@ -1100,7 +1100,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_eng_bombpolymorph",
                     "iconIndex": 110
@@ -1158,7 +1158,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_eng_deployableattirerearranger",
                     "iconIndex": 113
@@ -1188,7 +1188,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_eng_interdimensionalcompanionrepository",
                     "iconIndex": 115
@@ -1235,8 +1235,8 @@
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
-                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Honored with Proudmoore Admiralty / Talanji's Expedition",
-                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Honored with Proudmoore Admiralty \/ Talanji's Expedition",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1250,8 +1250,8 @@
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Honored with Storm's Wake / Zandalari Empire",
-                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Honored with Storm's Wake \/ Zandalari Empire",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1265,8 +1265,8 @@
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Honored with Order of Embers / Voldunai",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Honored with Order of Embers \/ Voldunai",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1280,8 +1280,8 @@
                     ],
                     "source": [
                         "Learnt from an engineering trainer",
-                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Honored with 7th Legion / The Honorbound",
-                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Honored with 7th Legion \/ The Honorbound",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1296,7 +1296,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_firearm_2h_rifle_kultirasquest_b_01",
                     "iconIndex": 119
@@ -1341,7 +1341,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_mace_1h_enprofession_c_01",
                     "iconIndex": 112
@@ -1371,7 +1371,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_eng_frostlacedammunition",
                     "iconIndex": 122
@@ -1401,7 +1401,7 @@
                     "source": [
                         "Learnt from an engineering trainer",
                         "Learnt from an engineering trainer",
-                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_eng_monalitescopeofalacrity",
                     "iconIndex": 124

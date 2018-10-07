@@ -343,7 +343,7 @@
                     "source": [
                         "Learnt from a cooking trainer",
                         "Learnt from a cooking trainer",
-                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_seasonedloins",
                     "iconIndex": 40
@@ -358,7 +358,7 @@
                     "source": [
                         "Learnt from a cooking trainer",
                         "Learnt from a cooking trainer",
-                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_grilledsnapper",
                     "iconIndex": 41
@@ -499,8 +499,8 @@
                     ],
                     "source": [
                         "Learnt from a cooking trainer",
-                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Honored with Tortollan Seekers",
-                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Honored with Tortollan Seekers",
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_majorfeast",
                     "iconIndex": 51
@@ -515,7 +515,7 @@
                     "source": [
                         "Learnt from a cooking trainer",
                         "Learnt from a cooking trainer",
-                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
+                        "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_cooking_80_minorfeast",
                     "iconIndex": 52
