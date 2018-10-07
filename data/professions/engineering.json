@@ -1083,9 +1083,9 @@
                         255392
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Reward from Work Order: F.R.I.E.D world quest"
                     ],
                     "icon": "inv_eng_bombfire",
                     "iconIndex": 109
@@ -1098,9 +1098,9 @@
                         255407
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_eng_bombpolymorph",
                     "iconIndex": 110
@@ -1113,9 +1113,9 @@
                         255395
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Reward from Work Order: Thermo-Accelerated Plague Spreader world quest"
                     ],
                     "icon": "inv_eng_bombpoison",
                     "iconIndex": 111
@@ -1123,28 +1123,28 @@
                 {
                     "name": "Magnetic Discombobulator",
                     "spellID": 253122,
-                    "source": "",
+                    "source": "Learnt from an engineering trainer",
                     "icon": "inv_mace_1h_enprofession_c_01",
                     "iconIndex": 112
                 },
                 {
                     "name": "Belt Enchant: Holographic Horror Projector",
                     "spellID": 255936,
-                    "source": "",
+                    "source": "Learnt from an engineering trainer",
                     "icon": "trade_engineering",
                     "iconIndex": 58
                 },
                 {
                     "name": "Belt Enchant: Miniaturized Plasma Shield",
                     "spellID": 269123,
-                    "source": "",
+                    "source": "Learnt from an engineering trainer",
                     "icon": "trade_engineering",
                     "iconIndex": 58
                 },
                 {
                     "name": "Belt Enchant: Personal Space Amplifier",
                     "spellID": 255940,
-                    "source": "",
+                    "source": "Learnt from an engineering trainer",
                     "icon": "trade_engineering",
                     "iconIndex": 58
                 },
@@ -1156,9 +1156,9 @@
                         256154
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_eng_deployableattirerearranger",
                     "iconIndex": 113
@@ -1171,9 +1171,9 @@
                         256070
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Reward from Work Order: Electroshock Mount Motivator world quest"
                     ],
                     "icon": "inv_eng_electroshockmountmotivator",
                     "iconIndex": 114
@@ -1186,9 +1186,9 @@
                         256080
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_eng_interdimensionalcompanionrepository",
                     "iconIndex": 115
@@ -1204,9 +1204,9 @@
                         280732
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer"
                     ],
                     "icon": "inv_eng_magicalintrusiondampener",
                     "iconIndex": 116
@@ -1219,9 +1219,9 @@
                         256073
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Reward from Work Order: XA-1000 Surface Skimmer world quest"
                     ],
                     "icon": "inv_eng_xa1000surfaceskimmer",
                     "iconIndex": 117
@@ -1234,9 +1234,9 @@
                         272062
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Honored with Proudmoore Admiralty / Talanji's Expedition",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1249,9 +1249,9 @@
                         272059
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Honored with Storm's Wake / Zandalari Empire",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1264,9 +1264,9 @@
                         272067
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Honored with Order of Embers / Voldunai",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1279,9 +1279,9 @@
                         272058
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Honored with 7th Legion / The Honorbound",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_helm_goggles_draenortradeskill_d_01",
                     "iconIndex": 118
@@ -1294,9 +1294,9 @@
                         255457
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_firearm_2h_rifle_kultirasquest_b_01",
                     "iconIndex": 119
@@ -1309,9 +1309,9 @@
                         269726
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Sold by an engineering trainer for 2 Marks of Honor",
+                        "Sold by an engineering trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_mace_1h_enprofession_c_01",
                     "iconIndex": 112
@@ -1324,9 +1324,9 @@
                         269729
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Sold by an engineering trainer for 2 Marks of Honor",
+                        "Sold by an engineering trainer for 4 Marks of Honor"
                     ],
                     "icon": "inv_firearm_2h_warfrontshorde_c_01",
                     "iconIndex": 120
@@ -1339,9 +1339,9 @@
                         253152
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_mace_1h_enprofession_c_01",
                     "iconIndex": 112
@@ -1354,9 +1354,9 @@
                         264960
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Reward from Work Order: Crow's Nest Scope world quest"
                     ],
                     "icon": "inv_eng_crowsnestscope",
                     "iconIndex": 121
@@ -1369,9 +1369,9 @@
                         265100
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_eng_frostlacedammunition",
                     "iconIndex": 122
@@ -1384,9 +1384,9 @@
                         265097
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Reward from Work Order: Incendiary Ammunition world quest"
                     ],
                     "icon": "inv_eng_incendiaryammunition",
                     "iconIndex": 123
@@ -1399,9 +1399,9 @@
                         264964
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an engineering trainer",
+                        "Learnt from an engineering trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_eng_monalitescopeofalacrity",
                     "iconIndex": 124
@@ -1409,21 +1409,21 @@
                 {
                     "name": "Mecha-Mogul Mk2",
                     "spellID": 274621,
-                    "source": "",
+                    "source": "Dropped by Mogul Razdunk in The MOTHERLODE!!",
                     "icon": "achievement_dungeon_mogulrazdunk",
                     "iconIndex": 125
                 },
                 {
                     "name": "Makeshift Azerite Detector",
                     "spellID": 278411,
-                    "source": "",
+                    "source": "Learnt from an engineering trainer",
                     "icon": "inv_misc_enggizmos_14",
                     "iconIndex": 126
                 },
                 {
                     "name": "Monelite Fish Finder",
                     "spellID": 278413,
-                    "source": "",
+                    "source": "Learnt from an engineering trainer",
                     "icon": "inv_misc_enggizmos_20",
                     "iconIndex": 127
                 }
