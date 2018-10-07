@@ -978,9 +978,9 @@
                         276977
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Drops from Battle for Azeroth Dungeons (Mythic)",
+                        "Drops from bosses in Uldir"
                     ],
                     "icon": "inv_misc_cauldron_arcane",
                     "iconIndex": 127
@@ -993,9 +993,9 @@
                         279159
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "trade_alchemy_potionc6",
                     "iconIndex": 128
@@ -1008,9 +1008,9 @@
                         279162
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "trade_alchemy_potionc4",
                     "iconIndex": 129
@@ -1023,9 +1023,9 @@
                         279165
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "trade_alchemy_potionc3",
                     "iconIndex": 130
@@ -1038,9 +1038,9 @@
                         279168
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "trade_alchemy_potionc2",
                     "iconIndex": 131
@@ -1053,9 +1053,9 @@
                         252341
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_alchemy_80_elixir01purple",
                     "iconIndex": 132
@@ -1068,9 +1068,9 @@
                         252337
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_alchemy_80_elixir01orange",
                     "iconIndex": 133
@@ -1083,9 +1083,9 @@
                         252344
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_alchemy_80_elixir01blue",
                     "iconIndex": 134
@@ -1098,9 +1098,9 @@
                         252334
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_alchemy_80_elixir01green",
                     "iconIndex": 135
@@ -1113,9 +1113,9 @@
                         252385
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_alchemy_80_potion01blue",
                     "iconIndex": 136
@@ -1128,9 +1128,9 @@
                         252382
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_alchemy_80_potion01red",
                     "iconIndex": 137
@@ -1143,9 +1143,9 @@
                         252388
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_alchemy_80_potion01purple",
                     "iconIndex": 138
@@ -1158,9 +1158,9 @@
                         252391
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Reward from Work Order: Demitri's Draught of Deception world quest in Tiragarde Sound"
                     ],
                     "icon": "inv_alchemy_80_potion02orange",
                     "iconIndex": 139
@@ -1173,9 +1173,9 @@
                         252394
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Reward from Work Order: Lightfoot Potion world quest in Stormsong Valley"
                     ],
                     "icon": "inv_alchemy_80_potion02blue",
                     "iconIndex": 140
@@ -1188,9 +1188,9 @@
                         252400
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Reward from Work Order: Potion of Concealment world quest in Drustvar"
                     ],
                     "icon": "inv_alchemy_80_potion02yellow",
                     "iconIndex": 141
@@ -1203,9 +1203,9 @@
                         252397
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Reward from Work Order: Sea Mist Potion world quest in Tiragarde Sound"
                     ],
                     "icon": "inv_alchemy_80_potion02green",
                     "iconIndex": 142
@@ -1218,9 +1218,9 @@
                         252351
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake / Zandalari Empire"
                     ],
                     "icon": "inv_alchemy_80_flask01purple",
                     "iconIndex": 143
@@ -1233,9 +1233,9 @@
                         252348
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_alchemy_80_flask01green",
                     "iconIndex": 144
@@ -1248,9 +1248,9 @@
                         252357
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers / Voldunai"
                     ],
                     "icon": "inv_alchemy_80_flask01orange",
                     "iconIndex": 145
@@ -1263,9 +1263,9 @@
                         252354
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty / Talanji's Expedition"
                     ],
                     "icon": "inv_alchemy_80_flask01red",
                     "iconIndex": 146
@@ -1273,63 +1273,63 @@
                 {
                     "name": "Transmute: Expulsom",
                     "spellID": 251832,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_expulsom",
                     "iconIndex": 147
                 },
                 {
                     "name": "Transmute: Cloth to Skins",
                     "spellID": 251314,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_tradeskill_skinning_shaleatherscraps",
                     "iconIndex": 148
                 },
                 {
                     "name": "Transmute: Fish to Gems",
                     "spellID": 251822,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_tailoring_70_silkweavebag",
                     "iconIndex": 149
                 },
                 {
                     "name": "Transmute: Herbs to Cloth",
                     "spellID": 251306,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_fabric_silk_03",
                     "iconIndex": 150
                 },
                 {
                     "name": "Transmute: Herbs to Ore",
                     "spellID": 251305,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_ore_adamantite_nugget",
                     "iconIndex": 151
                 },
                 {
                     "name": "Transmute: Meat to Pet",
                     "spellID": 251808,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_misc_food_114_orcablubber",
                     "iconIndex": 152
                 },
                 {
                     "name": "Transmute: Ore to Cloth",
                     "spellID": 251310,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_fabric_silk_03",
                     "iconIndex": 150
                 },
                 {
                     "name": "Transmute: Ore to Gems",
                     "spellID": 251311,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_tailoring_70_silkweavebag",
                     "iconIndex": 149
                 },
                 {
                     "name": "Transmute: Ore to Herbs",
                     "spellID": 251309,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "achievement_guildperk_bountifulbags",
                     "iconIndex": 153
                 },
@@ -1341,9 +1341,9 @@
                         252376
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_trinket_80_alchemy02",
                     "iconIndex": 154
@@ -1356,9 +1356,9 @@
                         252379
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion / The Honorbound"
                     ],
                     "icon": "inv_alchemy_80_alchemiststone02",
                     "iconIndex": 155
@@ -1371,9 +1371,9 @@
                         252361
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_trinket_80_alchemy01",
                     "iconIndex": 156
@@ -1386,9 +1386,9 @@
                         252368
                     ],
                     "source": [
-                        "",
-                        "",
-                        ""
+                        "Learnt from an alchemy trainer",
+                        "Learnt from an alchemy trainer",
+                        "Sold by Collector Kojo in Stormsong Valley / Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_alchemy_80_alchemiststone01",
                     "iconIndex": 157
@@ -1396,7 +1396,7 @@
                 {
                     "name": "Potion of Herb Tracking",
                     "spellID": 278420,
-                    "source": "",
+                    "source": "Learnt from an alchemy trainer",
                     "icon": "inv_alchemy_potion_01",
                     "iconIndex": 158
                 }
