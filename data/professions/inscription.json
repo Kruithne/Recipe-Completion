@@ -1409,6 +1409,60 @@
                     "source": "Learnt from an inscription trainer",
                     "icon": "inv_misc_fireink",
                     "iconIndex": 90
+                },
+                {
+                    "name": "Sinsister Combatant's Etched Vessel",
+                    "spellID": [
+                        282803,
+                        282804,
+                        282805
+                    ],
+                    "source": [
+                        "Learnt from a jewelcrafting trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Contract: 7th Legion",
+                    "faction": 0,
+                    "spellID": [
+                        284292,
+                        284293,
+                        284294
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Vindicator Jaelaana\nRequires Friendly with Army of the Light",
+                        "Contained in 7th Legion Supplies"
+                    ]
+                },
+                {
+                    "name": "Contract: The Honorbound",
+                    "faction": 1,
+                    "spellID": [
+                        284295,
+                        284296,
+                        284297
+                    ],
+                    "source": [
+                        "Learnt from an inscription trainer",
+                        "Sold by Ransa Greyfeather\nRequires Friendly with The Honorbound",
+                        "Contained in Honorbound Supplies"
+                    ]
+                },
+                {
+                    "name": "Vantus Rune: Battle of Dazar'alor",
+                    "spellID": [
+                        285639,
+                        285640,
+                        285641
+                    ],
+                    "source": [
+                        "Dropped in Battle of Dazar'alor",
+                        "Dropped in Battle of Dazar'alor",
+                        "Dropped in Battle of Dazar'alor"
+                    ]
                 }
             ]
         },
