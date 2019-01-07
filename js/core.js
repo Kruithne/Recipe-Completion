@@ -238,23 +238,25 @@ $(function() {
 
 	var preparing = 0;
 	var prepareProfession = function(data, character) {
-		setPendingStatus('Obtaining profession data...');
-		preparing++;
+		if (data.recipes.length > 0) {
+			setPendingStatus('Obtaining profession data...');
+			preparing++;
 
-		api({
-			action: 'profession',
-			profession: getProfessionNameSlug(data.name)
-		}, function(res) {
-			// Render the profession if we have data for it.
-			if (res.error === false)
-				renderProfession(res.profession, data.recipes, character);
+			api({
+				action: 'profession',
+				profession: getProfessionNameSlug(data.name)
+			}, function (res) {
+				// Render the profession if we have data for it.
+				if (res.error === false)
+					renderProfession(res.profession, data.recipes, character);
 
-			preparing--;
+				preparing--;
 
-			// Only hide the pending status if all downloads are done.
-			if (preparing === 0)
-				hideStatus();
-		});
+				// Only hide the pending status if all downloads are done.
+				if (preparing === 0)
+					hideStatus();
+			});
+		}
 	};
 
 	var selectedRealm = null;
