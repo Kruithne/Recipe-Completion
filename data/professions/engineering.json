@@ -1426,6 +1426,45 @@
                     "source": "Learnt from an engineering trainer",
                     "icon": "inv_misc_enggizmos_20",
                     "iconIndex": 127
+                },
+                {
+                    "name": "Sinister Combatant's Discombobulator",
+                    "spellID": [
+                        282806,
+                        282807,
+                        282808
+                    ],
+                    "source": [
+                        "Learnt from an engineering trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Stormsteel Destroyer",
+                    "spellID": [
+                        282809,
+                        282810,
+                        282811
+                    ],
+                    "source": [
+                        "Learnt from an engineering trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Unstable Temporal Time Shifter",
+                    "spellID": [
+                        283914,
+                        283915,
+                        283916
+                    ],
+                    "source": [
+                        "Learnt from an engineering trainer",
+                        "Sold by Natal'hakata in Zuldazar (Horde)\nSold by Provisioner Fray in Tiragarde Sound (Alliance)\nRequires Exalted with Zandalari Empire \/ Requires Exalted with Proudmoore Admiralty\n",
+                        "Dropped by High Tinker Mekkatorque in Battle of Dazar'alor"
+                    ]
                 }
             ]
         },
