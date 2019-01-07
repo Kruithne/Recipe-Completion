@@ -2201,6 +2201,159 @@
                     "source": "Discovered when crafting Mistscale Leggings",
                     "icon": "inv_pants_mail_nazmirraid_d_01",
                     "iconIndex": 186
+                },
+                {
+                    "name": "Scarlet Herring Lure",
+                    "source": "Sold by Xanjo in Zuldazar",
+                    "spellID": 285895
+                }
+            ]
+        },
+        {
+            "name": "Sinister Combatant",
+            "recipes": [
+                {
+                    "name": "Sinsister Combatant's Bow",
+                    "spellID": [
+                        282277,
+                        282278,
+                        282281
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Leather Armguards",
+                    "spellID": [
+                        282312,
+                        282313,
+                        282314
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Leather Gauntlets",
+                    "spellID": [
+                        282324,
+                        282325,
+                        282326
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Leather Leggings",
+                    "spellID": [
+                        282321,
+                        282322,
+                        282323
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Leather Treads",
+                    "spellID": [
+                        282327,
+                        282328,
+                        282329
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Leather Waistguard",
+                    "spellID": [
+                        282318,
+                        282319,
+                        282320
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Mail Armguards",
+                    "spellID": [
+                        282287,
+                        282288,
+                        282289
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Mail Gauntlets",
+                    "spellID": [
+                        282306,
+                        282307,
+                        282308
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Mail Leggings",
+                    "spellID": [
+                        282302,
+                        282303,
+                        282305
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Mail Treads",
+                    "spellID": [
+                        282309,
+                        282310,
+                        282311
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinsister Combatant's Mail Waistguard",
+                    "spellID": [
+                        282290,
+                        282291,
+                        282292
+                    ],
+                    "source": [
+                        "Learnt from a leatherworking trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
                 }
             ]
         },
