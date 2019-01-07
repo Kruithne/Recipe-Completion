@@ -1564,6 +1564,19 @@
                     "source": "Learnt from a jewelecrafting trainer",
                     "icon": "inv_jewelcrafting_dragonseye02",
                     "iconIndex": 125
+                },
+                {
+                    "name": "Sinsister Combatant's Intuitive Staff",
+                    "spellID": [
+                        282343,
+                        282344,
+                        282345
+                    ],
+                    "source": [
+                        "Learnt from a jewelcrafting trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ],
                 }
             ]
         },
