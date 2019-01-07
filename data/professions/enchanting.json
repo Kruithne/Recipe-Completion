@@ -1700,6 +1700,24 @@
                     "source": "Learnt from an enchanting trainer",
                     "icon": "inv_rod_enchantedeternium",
                     "iconIndex": 20
+                },
+                {
+                    "name": "Enchanted Tiki Mask",
+                    "spellID": 285644,
+                    "source": "Dropped by King Rastakhan in Battle of Dazar'alor"
+                },
+                {
+                    "name": "Sinister Combatant's Sorcerous Scepter",
+                    "spellID": [
+                        9999,
+                        9999,
+                        9999
+                    ],
+                    "source": [
+                        "Learnt from an enchanting trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor"
+                    ]
                 }
             ]
         },
