@@ -1528,6 +1528,89 @@
             ]
         },
         {
+            "name": "Sinister Combatant",
+            "recipes": [
+                {
+                    "name": "Sinister Combatant's Satin Belt",
+                    "spellID": [
+                        282168,
+                        282169,
+                        282170
+                    ],
+                    "source": [
+                        "Learnt from a tailoring trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor",
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Satin Boots",
+                    "spellID": [
+                        282194,
+                        282195,
+                        282196
+                    ],
+                    "source": [
+                        "Learnt from a tailoring trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor",
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Satin Bracers",
+                    "spellID": [
+                        282164,
+                        282165,
+                        282166
+                    ],
+                    "source": [
+                        "Learnt from a tailoring trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor",
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Satin Cloak",
+                    "spellID": [
+                        282204,
+                        282275,
+                        282276
+                    ],
+                    "source": [
+                        "Learnt from a tailoring trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor",
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Satin Mittens",
+                    "spellID": [
+                        282191,
+                        282192,
+                        282193
+                    ],
+                    "source": [
+                        "Learnt from a tailoring trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor",
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Satin Pants",
+                    "spellID": [
+                        282175,
+                        282176,
+                        282177
+                    ],
+                    "source": [
+                        "Learnt from a tailoring trainer",
+                        "Sold by a PvP Profession Liaison for 2 Marks of Honor",
+                        "Sold by a PvP Profession Liaison for 4 Marks of Honor",
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Kul Tiran Patterns",
             "recipes": [
                 {
