@@ -2343,23 +2343,9 @@
             "name": "Broken Isles World Drops",
             "recipes": [
                 {
-                    "name": "Glyph of the Blood Wraith",
-                    "spellID": 225523,
-                    "source": "Drops from humanoids on the Broken Isles",
-                    "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 118
-                },
-                {
                     "name": "Glyph of the Chilled Shell",
                     "spellID": 225524,
                     "source": "Drops from water elementals on the Broken Isles",
-                    "icon": "inv_glyph_minordeathknight",
-                    "iconIndex": 118
-                },
-                {
-                    "name": "Glyph of the Unholy Wraith",
-                    "spellID": 225526,
-                    "source": "Drops from ghosts on the Broken Isles",
                     "icon": "inv_glyph_minordeathknight",
                     "iconIndex": 118
                 },
@@ -2388,13 +2374,6 @@
                     "name": "Glyph of the Hook",
                     "spellID": 225541,
                     "source": "Drops from murlocs on the Broken Isles",
-                    "icon": "inv_glyph_minorhunter",
-                    "iconIndex": 117
-                },
-                {
-                    "name": "Glyph of the Skullseye",
-                    "spellID": 225542,
-                    "source": "Drops from undead on the Broken Isles",
                     "icon": "inv_glyph_minorhunter",
                     "iconIndex": 117
                 },
