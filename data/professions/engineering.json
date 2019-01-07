@@ -1438,7 +1438,9 @@
                         "Learnt from an engineering trainer",
                         "Sold by a PvP Profession Liaison for 2 Marks of Honor",
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
-                    ]
+                    ],
+                    "icon": "inv_mace_1h_enprofession_c_01",
+                    "iconIndex": 112
                 },
                 {
                     "name": "Sinister Combatant's Stormsteel Destroyer",
@@ -1451,7 +1453,9 @@
                         "Learnt from an engineering trainer",
                         "Sold by a PvP Profession Liaison for 2 Marks of Honor",
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
-                    ]
+                    ],
+                    "icon": "inv_firearm_2h_warfrontshorde_c_01",
+                    "iconIndex": 120
                 },
                 {
                     "name": "Unstable Temporal Time Shifter",
@@ -1464,7 +1468,9 @@
                         "Learnt from an engineering trainer",
                         "Sold by Natal'hakata in Zuldazar (Horde)\nSold by Provisioner Fray in Tiragarde Sound (Alliance)\nRequires Exalted with Zandalari Empire \/ Requires Exalted with Proudmoore Admiralty\n",
                         "Dropped by High Tinker Mekkatorque in Battle of Dazar'alor"
-                    ]
+                    ],
+                    "icon": "inv_misc_questionmark",
+                    "iconIndex": 128
                 }
             ]
         },
@@ -1476,49 +1482,49 @@
                     "spellID": 198981,
                     "source": "Reward from Trigger Happy in Dalaran",
                     "icon": "inv_robotpet",
-                    "iconIndex": 128
+                    "iconIndex": 129
                 },
                 {
                     "name": "Blingtron's Circuit Design Tutorial",
                     "spellID": 198980,
                     "source": "Reward from Short Circuit in Dalaran",
                     "icon": "inv_engineering_blingtronscircuitdesigntutorial",
-                    "iconIndex": 129
+                    "iconIndex": 130
                 },
                 {
                     "name": "Gunshoes",
                     "spellID": 198978,
                     "source": "Reward from Going Out With a Bang in Azsuna",
                     "icon": "inv_engineering_gunshoes",
-                    "iconIndex": 130
+                    "iconIndex": 131
                 },
                 {
                     "name": "Intra-Dalaran Wormhole Generator",
                     "spellID": 198979,
                     "source": "Sold by Hobart Grapplehammer in Dalaran",
                     "icon": "inv_engineering_intradalaranwormholegenerator",
-                    "iconIndex": 131
+                    "iconIndex": 132
                 },
                 {
                     "name": "Sonic Environment Enhancer",
                     "spellID": 200466,
                     "source": "Reward from The Shell, You Say? in Azsuna",
                     "icon": "inv_engineering_sonicenvironmentenhancer",
-                    "iconIndex": 132
+                    "iconIndex": 133
                 },
                 {
                     "name": "Leystone Buoy",
                     "spellID": 209645,
                     "source": "Dropped by Bitterbrine monsters in Azsuna",
                     "icon": "inv_engineering_leystonebuoy",
-                    "iconIndex": 133
+                    "iconIndex": 134
                 },
                 {
                     "name": "Mecha-Bond Imprint Matrix",
                     "spellID": 209646,
                     "source": "Sold by Xur'ios in Dalaran",
                     "icon": "inv_engineering_mechabondimprintmatrix",
-                    "iconIndex": 134
+                    "iconIndex": 135
                 },
                 {
                     "name": "The Felic",
@@ -1532,7 +1538,7 @@
                     "spellID": 209502,
                     "source": "Dropped by storm dragons monsters in Stormheim",
                     "icon": "spell_nature_stormreach",
-                    "iconIndex": 135
+                    "iconIndex": 136
                 },
                 {
                     "name": "Auto-Hammer",
@@ -1547,7 +1553,7 @@
                         "Reward from Work Order: Auto-Hammer in Highmountain"
                     ],
                     "icon": "inv_engineering_autohammer",
-                    "iconIndex": 136
+                    "iconIndex": 137
                 },
                 {
                     "name": "Blink-Trigger Headgun",
@@ -1562,7 +1568,7 @@
                         "Reward from Work Order: Blink-Trigger Headgun in Azsuna"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Bolt-Action Headgun",
@@ -1577,7 +1583,7 @@
                         "Reward from The Latest Fashion: Headguns! in Azsuna"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Deployable Bullet Dispenser",
@@ -1592,7 +1598,7 @@
                         "Reward from Work Order: Deployable Bullet Dispenser in Suramar"
                     ],
                     "icon": "inv_engineering_deployablebulletdispenser",
-                    "iconIndex": 138
+                    "iconIndex": 139
                 },
                 {
                     "name": "Double-Barreled Cranial Cannon",
@@ -1607,7 +1613,7 @@
                         "Dropped by elite vrykul on the Broken Isles"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Failure Detection Pylon",
@@ -1622,7 +1628,7 @@
                         "Reward from Work Order: Failure Detection Pylon in Dalaran"
                     ],
                     "icon": "inv_engineering_failuredetectionpylon",
-                    "iconIndex": 139
+                    "iconIndex": 140
                 },
                 {
                     "name": "Gunpack",
@@ -1637,7 +1643,7 @@
                         "Reward from Work Order: Gunpack in Stormheim"
                     ],
                     "icon": "inv_engineering_gunpack",
-                    "iconIndex": 140
+                    "iconIndex": 141
                 },
                 {
                     "name": "Gunpowder Charge",
@@ -1652,7 +1658,7 @@
                         "Sold by The Widow in Dalaran Sewers"
                     ],
                     "icon": "inv_engineering_gunpowdercharge",
-                    "iconIndex": 141
+                    "iconIndex": 142
                 },
                 {
                     "name": "Ironsight Cranial Cannon",
@@ -1667,7 +1673,7 @@
                         "Looted from Small Treasure Chest in Withered Army Training"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Pump-Action Bandage Gun",
@@ -1682,7 +1688,7 @@
                         "Reward from Work Order: Pump-Action Bandage Gun in Val'sharah"
                     ],
                     "icon": "inv_engineering_pumpactionbandagegun",
-                    "iconIndex": 142
+                    "iconIndex": 143
                 },
                 {
                     "name": "Reinforced Headgun",
@@ -1697,7 +1703,7 @@
                         "Sold by Marin Bladewing in Azsuna\nRequires Honored with The Wardens"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Sawed-Off Cranial Cannon",
@@ -1712,7 +1718,7 @@
                         "Sold by Marin Bladewing in Azsuna\nRequires Exalted with The Wardens"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Semi-Automagic Cranial Cannon",
@@ -1727,7 +1733,7 @@
                         "Sold by Marin Bladewing in Azsuna\nRequires Exalted with The Wardens"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Tactical Headgun",
@@ -1742,7 +1748,7 @@
                         "Dropped by Advisor Vandros in The Arcway"
                     ],
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 }
             ]
         },
@@ -1754,63 +1760,63 @@
                     "spellID": 235775,
                     "source": "Reward from Time for a Recharge in Dalaran",
                     "icon": "inv_engineering_reavesbattery",
-                    "iconIndex": 143
+                    "iconIndex": 144
                 },
                 {
                     "name": "Reaves Module: Bling Mode",
                     "spellID": 198989,
                     "source": "Reward from Oil Rags to Riches in Dalaran",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Module: Failure Detection Mode",
                     "spellID": 198985,
                     "source": "Reward from Assault of Violet Hold: Cheating Death in Dalaran",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Module: Fireworks Display Mode",
                     "spellID": 198987,
                     "source": "Reward from Here Comes the BOOM! in Dalaran",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Module: Piloted Combat Mode",
                     "spellID": 198990,
                     "source": "Reward from It's On With Automatons in Dalaran",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Module: Repair Mode",
                     "spellID": 198984,
                     "source": "Dropped by Latosius in Black Rook Hold",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Module: Snack Distribution Mode",
                     "spellID": 198988,
                     "source": "Reward from Modular Modifications in Dalaran",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Module: Wormhole Generator Mode",
                     "spellID": 198983,
                     "source": "Fished up in Legion zones",
                     "icon": "inv_engineering_reavesmodule",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Reaves Battery",
                     "spellID": 198982,
                     "source": "Reward from Always the Last Thing in Dalaran",
                     "icon": "inv_engineering_reavesbattery",
-                    "iconIndex": 143
+                    "iconIndex": 144
                 }
             ]
         },
@@ -1822,14 +1828,14 @@
                     "spellID": 247744,
                     "source": "Reward from Extraterrestrial Exploration in Mac'Aree",
                     "icon": "spell_shadow_demoniccircleteleport",
-                    "iconIndex": 145
+                    "iconIndex": 146
                 },
                 {
                     "name": "Gravitational Reduction Slippers",
                     "spellID": 247717,
                     "source": "Reward from A Harsh Mistress in Mac'Aree",
                     "icon": "inv_engineering_gravitationalreductionslippers",
-                    "iconIndex": 146
+                    "iconIndex": 147
                 }
             ]
         },
@@ -1841,28 +1847,28 @@
                     "spellID": 235755,
                     "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Heavy Skullblasters",
                     "spellID": 235756,
                     "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Rugged Skullblasters",
                     "spellID": 235754,
                     "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Tailored Skullblasters",
                     "spellID": 235753,
                     "source": "Chance to drop when using Boon of the Builder enchant\nEnchant is sold by Hobart Grapplehammer in Dalaran",
                     "icon": "inv_helm_goggles_legiontradeskill_d_01",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 }
             ]
         },
@@ -1874,21 +1880,21 @@
                     "spellID": 30568,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_gizmo_gnomishflameturret",
-                    "iconIndex": 147
+                    "iconIndex": 148
                 },
                 {
                     "name": "Gnomish Death Ray",
                     "spellID": 12759,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_gizmo_08",
-                    "iconIndex": 148
+                    "iconIndex": 149
                 },
                 {
                     "name": "Inlaid Mithril Cylinder Plans",
                     "spellID": 12895,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_scroll_05",
-                    "iconIndex": 149
+                    "iconIndex": 150
                 },
                 {
                     "name": "Gnomish Goggles",
@@ -1902,35 +1908,35 @@
                     "spellID": 12899,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_gizmo_09",
-                    "iconIndex": 150
+                    "iconIndex": 151
                 },
                 {
                     "name": "Gnomish Net-o-Matic Projector",
                     "spellID": 12902,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_misc_net_01",
-                    "iconIndex": 151
+                    "iconIndex": 152
                 },
                 {
                     "name": "Gnomish Harm Prevention Belt",
                     "spellID": 12903,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_belt_06",
-                    "iconIndex": 152
+                    "iconIndex": 153
                 },
                 {
                     "name": "Gnomish Rocket Boots",
                     "spellID": 12905,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_boots_02",
-                    "iconIndex": 153
+                    "iconIndex": 154
                 },
                 {
                     "name": "Gnomish Battle Chicken",
                     "spellID": 12906,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "spell_magic_polymorphchicken",
-                    "iconIndex": 154
+                    "iconIndex": 155
                 },
                 {
                     "name": "Gnomish Mind Control Cap",
@@ -1944,42 +1950,42 @@
                     "spellID": 30570,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_belt_27",
-                    "iconIndex": 155
+                    "iconIndex": 156
                 },
                 {
                     "name": "Gnomish X-Ray Specs",
                     "spellID": 56473,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_gnomish_xray_specs",
-                    "iconIndex": 156
+                    "iconIndex": 157
                 },
                 {
                     "name": "Gnomish Gravity Well",
                     "spellID": 95705,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_misc_enggizmos_23",
-                    "iconIndex": 157
+                    "iconIndex": 158
                 },
                 {
                     "name": "Geosynchronous World Spinner",
                     "spellID": 127139,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "ability_mount_rocketmount4",
-                    "iconIndex": 158
+                    "iconIndex": 159
                 },
                 {
                     "name": "De-Weaponized Mechanical Companion",
                     "spellID": 84413,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_pet_deweaonizedmechcompanion",
-                    "iconIndex": 159
+                    "iconIndex": 160
                 },
                 {
                     "name": "Gnomish Poultryizer",
                     "spellID": 30569,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_misc_enggizmos_06",
-                    "iconIndex": 160
+                    "iconIndex": 161
                 },
                 {
                     "name": "Gnomish Power Goggles",
@@ -1993,35 +1999,35 @@
                     "spellID": 30575,
                     "source": "Taught by an Gnomish Engineer Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Ultrasafe Transporter - Gadgetzan",
                     "spellID": 23489,
                     "source": "Speak with Jhordy Lapforge in Gadgetzan",
                     "icon": "inv_misc_enggizmos_12",
-                    "iconIndex": 162
+                    "iconIndex": 163
                 },
                 {
                     "name": "Ultrasafe Transporter - Toshley's Station",
                     "spellID": 36955,
                     "source": "Speak with Smiles O'Byron outside Toshley's Station",
                     "icon": "inv_misc_blizzcon09_graphicscard",
-                    "iconIndex": 163
+                    "iconIndex": 164
                 },
                 {
                     "name": "World Enlarger",
                     "spellID": 23129,
                     "source": "Dropped by Weapon Technicians in Blackrock Depths",
                     "icon": "inv_misc_enggizmos_08",
-                    "iconIndex": 164
+                    "iconIndex": 165
                 },
                 {
                     "name": "Gnomish Alarm-o-Bot",
                     "spellID": 23096,
                     "source": "Dropped by Weapon Technicians in Blackrock Depths",
                     "icon": "inv_misc_enggizmos_01",
-                    "iconIndex": 165
+                    "iconIndex": 166
                 }
             ]
         },
@@ -2033,49 +2039,49 @@
                     "spellID": 30558,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_gizmo_thebiggerone",
-                    "iconIndex": 166
+                    "iconIndex": 167
                 },
                 {
                     "name": "Super Sapper Charge",
                     "spellID": 30560,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_gizmo_supersappercharge",
-                    "iconIndex": 167
+                    "iconIndex": 168
                 },
                 {
                     "name": "The Big One",
                     "spellID": 12754,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_misc_bomb_04",
-                    "iconIndex": 168
+                    "iconIndex": 169
                 },
                 {
                     "name": "Goblin Sapper Charge",
                     "spellID": 12760,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "spell_fire_selfdestruct",
-                    "iconIndex": 169
+                    "iconIndex": 170
                 },
                 {
                     "name": "Global Thermal Sapper Charge",
                     "spellID": 56514,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_gizmo_supersappercharge",
-                    "iconIndex": 167
+                    "iconIndex": 168
                 },
                 {
                     "name": "Big Daddy",
                     "spellID": 95707,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_misc_enggizmos_38",
-                    "iconIndex": 170
+                    "iconIndex": 171
                 },
                 {
                     "name": "Goblin Bomb Dispenser",
                     "spellID": 12755,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_gizmo_06",
-                    "iconIndex": 171
+                    "iconIndex": 172
                 },
                 {
                     "name": "Goblin Rocket Helmet",
@@ -2089,14 +2095,14 @@
                     "spellID": 8895,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_gizmo_rocketboot_01",
-                    "iconIndex": 172
+                    "iconIndex": 173
                 },
                 {
                     "name": "Goblin Rocket Fuel Recipe",
                     "spellID": 12715,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_scroll_03",
-                    "iconIndex": 173
+                    "iconIndex": 174
                 },
                 {
                     "name": "Goblin Mortar",
@@ -2110,63 +2116,63 @@
                     "spellID": 12717,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_helmet_25",
-                    "iconIndex": 174
+                    "iconIndex": 175
                 },
                 {
                     "name": "Goblin Construction Helmet",
                     "spellID": 12718,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_helmet_60",
-                    "iconIndex": 175
+                    "iconIndex": 176
                 },
                 {
                     "name": "Personal World Destroyer",
                     "spellID": 84412,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "achievement_dungeon_ulduarraid_irongolem_01",
-                    "iconIndex": 176
+                    "iconIndex": 177
                 },
                 {
                     "name": "Depleted-Kyparium Rocket",
                     "spellID": 127138,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "ability_mount_rocketmount3",
-                    "iconIndex": 177
+                    "iconIndex": 178
                 },
                 {
                     "name": "Goblin Rocket Launcher",
                     "spellID": 30563,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_gizmo_rocketlauncher",
-                    "iconIndex": 178
+                    "iconIndex": 179
                 },
                 {
                     "name": "Foreman's Reinforced Helmet",
                     "spellID": 30566,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_helmet_60",
-                    "iconIndex": 175
+                    "iconIndex": 176
                 },
                 {
                     "name": "Foreman's Enchanted Helmet",
                     "spellID": 30565,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "inv_helmet_60",
-                    "iconIndex": 175
+                    "iconIndex": 176
                 },
                 {
                     "name": "Goblin Dragon Gun",
                     "spellID": 12908,
                     "source": "Taught by an Goblin Engineer Trainer",
                     "icon": "spell_fire_flamebolt",
-                    "iconIndex": 179
+                    "iconIndex": 180
                 },
                 {
                     "name": "Goblin Jumper Cables XL",
                     "spellID": 23078,
                     "source": "Dropped by Plugger Spazzring in Blackrock Depths",
                     "icon": "inv_misc_enggizmos_11",
-                    "iconIndex": 180
+                    "iconIndex": 181
                 },
                 {
                     "name": "Dimensional Ripper - Everlook",
@@ -2180,7 +2186,7 @@
                     "spellID": 36954,
                     "source": "Speak with Kablamm Farflinge at Area 52",
                     "icon": "inv_misc_enggizmos_07",
-                    "iconIndex": 181
+                    "iconIndex": 182
                 }
             ]
         },
@@ -2192,7 +2198,7 @@
                     "spellID": 30548,
                     "source": "Reward from 'The Zapthrottle Mote Extractor' in Zangarmarsh",
                     "icon": "inv_gizmo_zapthrottlegascollector",
-                    "iconIndex": 182
+                    "iconIndex": 183
                 },
                 {
                     "name": "Scrapbot Construction Kit",
@@ -2211,7 +2217,7 @@
                     "spellID": 3933,
                     "source": "Drops from level 11-20 mobs",
                     "icon": "inv_misc_urn_01",
-                    "iconIndex": 183
+                    "iconIndex": 184
                 },
                 {
                     "name": "Mechanical Squirrel Box",
@@ -2239,7 +2245,7 @@
                     "spellID": 3968,
                     "source": "Drops from level 29-46 mobs",
                     "icon": "inv_shield_08",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Shadow Goggles",
@@ -2253,7 +2259,7 @@
                     "spellID": 3972,
                     "source": "Drops from level 29-44 mobs",
                     "icon": "inv_misc_urn_01",
-                    "iconIndex": 183
+                    "iconIndex": 184
                 },
                 {
                     "name": "EZ-Thro Dynamite",
@@ -2295,21 +2301,21 @@
                     "spellID": 12616,
                     "source": "Drops from level 36-60 mobs",
                     "icon": "inv_misc_cape_11",
-                    "iconIndex": 185
+                    "iconIndex": 186
                 },
                 {
                     "name": "Lifelike Mechanical Toad",
                     "spellID": 19793,
                     "source": "Drops from level 48-60 mobs",
                     "icon": "inv_misc_monsterhead_03",
-                    "iconIndex": 186
+                    "iconIndex": 187
                 },
                 {
                     "name": "Arcane Bomb",
                     "spellID": 19831,
                     "source": "Drops from level 55-61 mobs",
                     "icon": "spell_shadow_mindbomb",
-                    "iconIndex": 187
+                    "iconIndex": 188
                 }
             ]
         },
@@ -2328,14 +2334,14 @@
                     "spellID": 44391,
                     "source": "Dropped by Simon Units in Blade's Edge Mountains",
                     "icon": "inv_misc_enggizmos_01",
-                    "iconIndex": 165
+                    "iconIndex": 166
                 },
                 {
                     "name": "Hyper-Vision Goggles",
                     "spellID": 30325,
                     "source": "Dropped by Mo'arg Weaponsmiths in Shadowmoon Valley",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Khorium Scope",
@@ -2356,35 +2362,35 @@
                     "spellID": 30317,
                     "source": "Drops from Burning Crusade zones, dungeons and raids",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Crashin' Thrashin' Robot",
                     "spellID": 30337,
                     "source": "Drops from Burning Crusade zones, dungeons and raids",
                     "icon": "inv_misc_idol_02",
-                    "iconIndex": 188
+                    "iconIndex": 189
                 },
                 {
                     "name": "Purple Smoke Flare",
                     "spellID": 32814,
                     "source": "Drops from Burning Crusade zones, dungeons and raids",
                     "icon": "inv_misc_missilesmall_purple",
-                    "iconIndex": 189
+                    "iconIndex": 190
                 },
                 {
                     "name": "Healing Potion Injector",
                     "spellID": 30551,
                     "source": "Drops from Burning Crusade zones, dungeons and raids",
                     "icon": "inv_potion_167",
-                    "iconIndex": 190
+                    "iconIndex": 191
                 },
                 {
                     "name": "Mana Potion Injector",
                     "spellID": 30552,
                     "source": "Drops from Burning Crusade zones, dungeons and raids",
                     "icon": "inv_potion_168",
-                    "iconIndex": 191
+                    "iconIndex": 192
                 }
             ]
         },
@@ -2396,7 +2402,7 @@
                     "spellID": 68067,
                     "source": "Dropped by Library Guardian in The Storm Peaks",
                     "icon": "achievement_boss_mimiron_01",
-                    "iconIndex": 192
+                    "iconIndex": 193
                 }
             ]
         },
@@ -2408,7 +2414,7 @@
                     "spellID": 3944,
                     "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
                     "icon": "inv_gizmo_01",
-                    "iconIndex": 193
+                    "iconIndex": 194
                 },
                 {
                     "name": "Craftsman's Monocle",
@@ -2429,14 +2435,14 @@
                     "spellID": 8243,
                     "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
                     "icon": "inv_misc_ammo_bullet_01",
-                    "iconIndex": 194
+                    "iconIndex": 195
                 },
                 {
                     "name": "Pet Bombling",
                     "spellID": 15628,
                     "source": "Drops from Mekgineer Thermaplugg in Gnomeregan",
                     "icon": "inv_misc_bomb_04",
-                    "iconIndex": 168
+                    "iconIndex": 169
                 },
                 {
                     "name": "Lil' Smoky",
@@ -2464,28 +2470,28 @@
                     "spellID": 22704,
                     "source": "Learnt from schematic at Golem Lord Argelmach in Blackrock Depths",
                     "icon": "inv_egg_05",
-                    "iconIndex": 195
+                    "iconIndex": 196
                 },
                 {
                     "name": "Voice Amplification Modulator",
                     "spellID": 19819,
                     "source": "Drops from Risen Inquisitors in Stratholme",
                     "icon": "inv_jewelry_amulet_07",
-                    "iconIndex": 196
+                    "iconIndex": 197
                 },
                 {
                     "name": "Ultra-Flash Shadow Reflector",
                     "spellID": 23082,
                     "source": "Drops from Risen Inquisitors in Stratholme",
                     "icon": "inv_misc_enggizmos_16",
-                    "iconIndex": 197
+                    "iconIndex": 198
                 },
                 {
                     "name": "Major Recombobulator",
                     "spellID": 23079,
                     "source": "Contained in Gordok Tribute in Dire Maul",
                     "icon": "inv_misc_enggizmos_09",
-                    "iconIndex": 198
+                    "iconIndex": 199
                 }
             ]
         },
@@ -2497,14 +2503,14 @@
                     "spellID": 30556,
                     "source": "Dropped by Mekgineer Steamrigger in The Steamvault",
                     "icon": "inv_gizmo_rocketboot_01",
-                    "iconIndex": 172
+                    "iconIndex": 173
                 },
                 {
                     "name": "Rocket Boots Xtreme Lite",
                     "spellID": 46697,
                     "source": "Dropped by Mechano-Lord Capacitus in The Mechanar",
                     "icon": "inv_gizmo_rocketboot_01",
-                    "iconIndex": 172
+                    "iconIndex": 173
                 }
             ]
         },
@@ -2523,14 +2529,14 @@
                     "spellID": 22797,
                     "source": "Drops from bosses in Molten Core",
                     "icon": "spell_arcane_portaldarnassus",
-                    "iconIndex": 199
+                    "iconIndex": 200
                 },
                 {
                     "name": "Core Marksman Rifle",
                     "spellID": 22795,
                     "source": "Drops from bosses in Molten Core",
                     "icon": "inv_weapon_rifle_05",
-                    "iconIndex": 200
+                    "iconIndex": 201
                 }
             ]
         },
@@ -2554,28 +2560,28 @@
                     "spellID": 3952,
                     "source": "Sold by Fradd Swiftgear in Wetlands (Alliance)\nSold by Gagsprokect in Northern Barrens (Neutral)",
                     "icon": "inv_gizmo_07",
-                    "iconIndex": 201
+                    "iconIndex": 202
                 },
                 {
                     "name": "Gnomish Universal Remote",
                     "spellID": 9269,
                     "source": "Sold by Gearcutter Cogspinner in Ironforge (Alliance)",
                     "icon": "inv_misc_pocketwatch_01",
-                    "iconIndex": 202
+                    "iconIndex": 203
                 },
                 {
                     "name": "Gnomish Cloaking Device",
                     "spellID": 3971,
                     "source": "Sold by Zan Shivsprocket in Hillsbrad Foothills",
                     "icon": "inv_gizmo_01",
-                    "iconIndex": 193
+                    "iconIndex": 194
                 },
                 {
                     "name": "Goblin Jumper Cables",
                     "spellID": 9273,
                     "source": "Sold by Kzixx in Duskwood\nSold by Zixil in Hillsbrad Foothills",
                     "icon": "inv_misc_enggizmos_10",
-                    "iconIndex": 203
+                    "iconIndex": 204
                 },
                 {
                     "name": "Deadly Scope",
@@ -2589,7 +2595,7 @@
                     "spellID": 12624,
                     "source": "Sold by Ruppo Zipcoil in The Hinterlands\nSold by Kaye Toogie in Dalaran (Wormhole Location)",
                     "icon": "inv_misc_head_dragon_blue",
-                    "iconIndex": 204
+                    "iconIndex": 205
                 },
                 {
                     "name": "Arcanite Dragonling",
@@ -2603,77 +2609,77 @@
                     "spellID": 3969,
                     "source": "Sold by Gnaz Blunderflame in Northren Stranglethorn\nSold by Kaye Toogie in Dalaran (Wormhole Location)",
                     "icon": "inv_misc_head_dragon_01",
-                    "iconIndex": 205
+                    "iconIndex": 206
                 },
                 {
                     "name": "Masterwork Target Dummy",
                     "spellID": 19814,
                     "source": "Sold by Xizzer Fizzbolt in Winterspring",
                     "icon": "inv_crate_02",
-                    "iconIndex": 206
+                    "iconIndex": 207
                 },
                 {
                     "name": "Delicate Arcanite Converter",
                     "spellID": 19815,
                     "source": "Sold by Xizzer Fizzbolt in Winterspring",
                     "icon": "inv_gizmo_07",
-                    "iconIndex": 201
+                    "iconIndex": 202
                 },
                 {
                     "name": "Gyrofreeze Ice Reflector",
                     "spellID": 23077,
                     "source": "Sold by Xizzer Fizzbolt in Winterspring",
                     "icon": "inv_misc_enggizmos_02",
-                    "iconIndex": 207
+                    "iconIndex": 208
                 },
                 {
                     "name": "Powerful Seaforium Charge",
                     "spellID": 23080,
                     "source": "Sold by Xizzer Fizzbolt in Winterspring",
                     "icon": "spell_shadow_detectinvisibility",
-                    "iconIndex": 208
+                    "iconIndex": 209
                 },
                 {
                     "name": "Red Firework",
                     "spellID": 23066,
                     "source": "Sold by Buckslappy in Badlands (Neutral)\nSold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)\nSold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
                     "icon": "spell_fire_fireball02",
-                    "iconIndex": 209
+                    "iconIndex": 210
                 },
                 {
                     "name": "Steam Tonk Controller",
                     "spellID": 28327,
                     "source": "Sold by Gearcutter Cogspinner in Ironforge (Alliance)\nSold by Palehoof's Big Bag of Parts in Thunder Bluff (Horde)\nSold by Sovik or Vizna Bangwrench in Orgrimmar (Horde)",
                     "icon": "inv_gizmo_goblingtonkcontroller",
-                    "iconIndex": 210
+                    "iconIndex": 211
                 },
                 {
                     "name": "Green Firework",
                     "spellID": 23068,
                     "source": "Sold by Buckslappy in Badlands\nSold by Crazk Sparks in The Cape of Stranglethorn\nSold by Gagsprocket in Northern Barrens",
                     "icon": "spell_nature_abolishmagic",
-                    "iconIndex": 211
+                    "iconIndex": 212
                 },
                 {
                     "name": "Blue Firework",
                     "spellID": 23067,
                     "source": "Sold by Buckslappy in Badlands (Neutral)\nSold by Darian Singh in Stormwind City (Alliance)\nSold by Gearcutter Cogspinner in Ironforge (Alliance)",
                     "icon": "spell_ice_magicdamage",
-                    "iconIndex": 212
+                    "iconIndex": 213
                 },
                 {
                     "name": "Snake Burst Firework",
                     "spellID": 23507,
                     "source": "Sold by Zorbin Fandazzle in Feralas",
                     "icon": "spell_holy_holybolt",
-                    "iconIndex": 213
+                    "iconIndex": 214
                 },
                 {
                     "name": "EZ-Thro Dynamite II",
                     "spellID": 23069,
                     "source": "Sold by Blizrik Buckshot in Tanaris\nSold by Buckslappy in Badlands",
                     "icon": "inv_misc_bomb_03",
-                    "iconIndex": 214
+                    "iconIndex": 215
                 },
                 {
                     "name": "Adamantite Rifle",
@@ -2687,14 +2693,14 @@
                     "spellID": 30316,
                     "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)\nSold by Mixie Farshot in Hellfire Peninsula (Horde)",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Ultra-Spectropic Detection Goggles",
                     "spellID": 30318,
                     "source": "Sold by Lebowski in Hellfire Peninsula (Alliance)\nSold by Captured Gnome in Zangarmarsh (Horde)",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Adamantite Scope",
@@ -2708,21 +2714,21 @@
                     "spellID": 30341,
                     "source": "Sold by Wind Trader Lathrai in Shattrath City",
                     "icon": "inv_misc_missilesmall_white",
-                    "iconIndex": 215
+                    "iconIndex": 216
                 },
                 {
                     "name": "Fel Iron Toolbox",
                     "spellID": 30348,
                     "source": "Sold by Wind Trader Lathrai in Shattrath City",
                     "icon": "inv_misc_enggizmos_18",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Titanium Toolbox",
                     "spellID": 30349,
                     "source": "Sold by Bryan Landers in Dalaran\nSold by Fizzix Blastbolt in Icecrown",
                     "icon": "inv_misc_enggizmos_19",
-                    "iconIndex": 217
+                    "iconIndex": 218
                 },
                 {
                     "name": "Flintlocke's Woodchucker",
@@ -2748,7 +2754,7 @@
                     "spellID": 21940,
                     "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "spell_frost_windwalkon",
-                    "iconIndex": 218
+                    "iconIndex": 219
                 }
             ]
         },
@@ -2760,119 +2766,119 @@
                     "spellID": 26416,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmall_blue",
-                    "iconIndex": 219
+                    "iconIndex": 220
                 },
                 {
                     "name": "Small Green Rocket",
                     "spellID": 26417,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmall_green",
-                    "iconIndex": 220
+                    "iconIndex": 221
                 },
                 {
                     "name": "Small Red Rocket",
                     "spellID": 26418,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmall_red",
-                    "iconIndex": 221
+                    "iconIndex": 222
                 },
                 {
                     "name": "Large Blue Rocket",
                     "spellID": 26420,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilelarge_blue",
-                    "iconIndex": 222
+                    "iconIndex": 223
                 },
                 {
                     "name": "Large Green Rocket",
                     "spellID": 26421,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilelarge_green",
-                    "iconIndex": 223
+                    "iconIndex": 224
                 },
                 {
                     "name": "Large Red Rocket",
                     "spellID": 26422,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilelarge_red",
-                    "iconIndex": 224
+                    "iconIndex": 225
                 },
                 {
                     "name": "Blue Rocket Cluster",
                     "spellID": 26423,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmallcluster_blue",
-                    "iconIndex": 225
+                    "iconIndex": 226
                 },
                 {
                     "name": "Green Rocket Cluster",
                     "spellID": 26424,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmallcluster_green",
-                    "iconIndex": 226
+                    "iconIndex": 227
                 },
                 {
                     "name": "Red Rocket Cluster",
                     "spellID": 26425,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmallcluster_red",
-                    "iconIndex": 227
+                    "iconIndex": 228
                 },
                 {
                     "name": "Large Blue Rocket Cluster",
                     "spellID": 26426,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilelargecluster_blue",
-                    "iconIndex": 228
+                    "iconIndex": 229
                 },
                 {
                     "name": "Large Green Rocket Cluster",
                     "spellID": 26427,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilelargecluster_green",
-                    "iconIndex": 229
+                    "iconIndex": 230
                 },
                 {
                     "name": "Large Red Rocket Cluster",
                     "spellID": 26428,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilelargecluster_red",
-                    "iconIndex": 230
+                    "iconIndex": 231
                 },
                 {
                     "name": "Firework Launcher",
                     "spellID": 26442,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_musket_04",
-                    "iconIndex": 231
+                    "iconIndex": 232
                 },
                 {
                     "name": "Cluster Launcher",
                     "spellID": 26443,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_enggizmos_03",
-                    "iconIndex": 232
+                    "iconIndex": 233
                 },
                 {
                     "name": "Alliance Firework",
                     "spellID": 171072,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmall_blue",
-                    "iconIndex": 219
+                    "iconIndex": 220
                 },
                 {
                     "name": "Horde Firework",
                     "spellID": 171073,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_misc_missilesmall_red",
-                    "iconIndex": 221
+                    "iconIndex": 222
                 },
                 {
                     "name": "Snake Firework",
                     "spellID": 171074,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "spell_priest_voidtendrils",
-                    "iconIndex": 233
+                    "iconIndex": 234
                 }
             ]
         },
@@ -2884,7 +2890,7 @@
                     "spellID": 30344,
                     "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Friendly) ",
                     "icon": "inv_misc_missilesmall_green",
-                    "iconIndex": 220
+                    "iconIndex": 221
                 }
             ]
         },
@@ -2896,7 +2902,7 @@
                     "spellID": 30547,
                     "source": "Sold by Karaaz in Netherstorm (Requires Revered)\nSold by Paulsta'ats in Nagrand (Requires Revered)",
                     "icon": "spell_shadow_detectinvisibility",
-                    "iconIndex": 208
+                    "iconIndex": 209
                 }
             ]
         },
@@ -2909,7 +2915,7 @@
                     "faction": 1,
                     "source": "Sold by Gara Skullcrush in Borean Tundra (Requires Exalted)\nSold by Sebastian Crane in Howling Fjord (Requires Exalted)",
                     "icon": "inv_misc_key_06",
-                    "iconIndex": 234
+                    "iconIndex": 235
                 },
                 {
                     "name": "Mekgineer's Chopper",
@@ -2917,7 +2923,7 @@
                     "faction": 0,
                     "source": "Sold by Logistics Officer Brighton in Howling Fjord (Requires Exalted)\nSold by Logistics Officer Silverstone in Borean Tundra (Requires Exalted)",
                     "icon": "inv_misc_key_14",
-                    "iconIndex": 235
+                    "iconIndex": 236
                 }
             ]
         },
@@ -2962,35 +2968,35 @@
                     "spellID": 128260,
                     "source": "Looted from Pandaria Fireworks",
                     "icon": "inv_misc_missilelarge_yellow",
-                    "iconIndex": 236
+                    "iconIndex": 237
                 },
                 {
                     "name": "Grand Celebration Firework",
                     "spellID": 128261,
                     "source": "Looted from Pandaria Fireworks",
                     "icon": "inv_misc_missilelarge_red",
-                    "iconIndex": 224
+                    "iconIndex": 225
                 },
                 {
                     "name": "Serpent's Heart Firework",
                     "spellID": 128262,
                     "source": "Looted from Pandaria Fireworks",
                     "icon": "inv_misc_missilelarge_green",
-                    "iconIndex": 223
+                    "iconIndex": 224
                 },
                 {
                     "name": "Autumn Flower Firework",
                     "spellID": 131256,
                     "source": "Looted from Pandaria Fireworks",
                     "icon": "inv_misc_missilelarge_yellow",
-                    "iconIndex": 236
+                    "iconIndex": 237
                 },
                 {
                     "name": "Jade Blossom Firework",
                     "spellID": 131258,
                     "source": "Looted from Pandaria Fireworks",
                     "icon": "inv_misc_missilelarge_yellow",
-                    "iconIndex": 236
+                    "iconIndex": 237
                 }
             ]
         },
@@ -3009,28 +3015,28 @@
                     "spellID": 139192,
                     "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
                     "icon": "ability_mount_shreddermount",
-                    "iconIndex": 237
+                    "iconIndex": 238
                 },
                 {
                     "name": "Pierre",
                     "spellID": 139196,
                     "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
                     "icon": "inv_pet_cookbot",
-                    "iconIndex": 238
+                    "iconIndex": 239
                 },
                 {
                     "name": "Advanced Refrigeration Unit",
                     "spellID": 139197,
                     "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
                     "icon": "inv_misc_bag_advanced_refridgeration_unit",
-                    "iconIndex": 239
+                    "iconIndex": 240
                 },
                 {
                     "name": "Rascal-Bot",
                     "spellID": 143714,
                     "source": "Learnt from Cheif Engineer Jard's Journal (Pandaria Drop)",
                     "icon": "inv_worserobot",
-                    "iconIndex": 240
+                    "iconIndex": 241
                 }
             ]
         },
@@ -3042,21 +3048,21 @@
                     "spellID": 162204,
                     "source": "Learnt from Draenor Engineering",
                     "icon": "inv_misc_bag_07_red",
-                    "iconIndex": 241
+                    "iconIndex": 242
                 },
                 {
                     "name": "Gearspring Parts",
                     "spellID": 169080,
                     "source": "Learnt from Draenor Engineering",
                     "icon": "inv_eng_gearspringparts",
-                    "iconIndex": 242
+                    "iconIndex": 243
                 },
                 {
                     "name": "Stealthman 54",
                     "spellID": 162207,
                     "source": "Learnt from Draenor Engineering",
                     "icon": "inv_misc_enggizmos_36",
-                    "iconIndex": 243
+                    "iconIndex": 244
                 },
                 {
                     "name": "Ultimate Gnomish Army Knife",
@@ -3070,21 +3076,21 @@
                     "spellID": 173308,
                     "source": "Learnt from Draenor Engineering",
                     "icon": "inv_gizmo_rocketlauncher",
-                    "iconIndex": 178
+                    "iconIndex": 179
                 },
                 {
                     "name": "Shieldtronic Shield",
                     "spellID": 173309,
                     "source": "Learnt from Draenor Engineering",
                     "icon": "inv_eng_gizmo2",
-                    "iconIndex": 244
+                    "iconIndex": 245
                 },
                 {
                     "name": "Secrets of Draenor Engineering",
                     "spellID": 177054,
                     "source": "Learnt from Draenor Engineering",
                     "icon": "inv_misc_book_08",
-                    "iconIndex": 245
+                    "iconIndex": 246
                 }
             ]
         },
@@ -3124,91 +3130,91 @@
                     "spellID": 162199,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_firearm_2h_rifle_draenorcrafted_d_01_a_alliance",
-                    "iconIndex": 246
+                    "iconIndex": 247
                 },
                 {
                     "name": "Oglethorpe's Missile Splitter",
                     "spellID": 162202,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_gizmo_09",
-                    "iconIndex": 150
+                    "iconIndex": 151
                 },
                 {
                     "name": "Megawatt Filament",
                     "spellID": 162203,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "ability_vehicle_electrocharge",
-                    "iconIndex": 247
+                    "iconIndex": 248
                 },
                 {
                     "name": "World Shrinker",
                     "spellID": 162206,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_enggizmos_09",
-                    "iconIndex": 198
+                    "iconIndex": 199
                 },
                 {
                     "name": "Findle's Loot-a-Rang",
                     "spellID": 162205,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_eng_mechanicalboomerang",
-                    "iconIndex": 248
+                    "iconIndex": 249
                 },
                 {
                     "name": "Mechanical Axebeak",
                     "spellID": 162209,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_box_birdcage_01",
-                    "iconIndex": 249
+                    "iconIndex": 250
                 },
                 {
                     "name": "Lifelike Mechanical Frostboar",
                     "spellID": 162210,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_boarshead",
-                    "iconIndex": 250
+                    "iconIndex": 251
                 },
                 {
                     "name": "Personal Hologram",
                     "spellID": 162214,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "achievement_faction_celestials",
-                    "iconIndex": 251
+                    "iconIndex": 252
                 },
                 {
                     "name": "Wormhole Centrifuge",
                     "spellID": 162216,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "ability_siege_engineer_pattern_recognition",
-                    "iconIndex": 252
+                    "iconIndex": 253
                 },
                 {
                     "name": "Swapblaster",
                     "spellID": 162217,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_weapon_rifle_38",
-                    "iconIndex": 253
+                    "iconIndex": 254
                 },
                 {
                     "name": "Linkgrease Locksprocket",
                     "spellID": 169076,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_eng_gizmo1",
-                    "iconIndex": 254
+                    "iconIndex": 255
                 },
                 {
                     "name": "Blingtron 5000",
                     "spellID": 162218,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_blingtron",
-                    "iconIndex": 255
+                    "iconIndex": 256
                 },
                 {
                     "name": "Didi's Delicate Assembly",
                     "spellID": 169078,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_enggizmos_02",
-                    "iconIndex": 207
+                    "iconIndex": 208
                 },
                 {
                     "name": "Hemet's Heartseeker",
@@ -3222,14 +3228,14 @@
                     "spellID": 176732,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_eng_metalblingronear",
-                    "iconIndex": 256
+                    "iconIndex": 257
                 },
                 {
                     "name": "True Iron Trigger",
                     "spellID": 177363,
                     "source": "Purchased using Secrets of Draenor Engineering\nSold by engineering vendors in Lunarfall\/Frostwall or Ashran",
                     "icon": "inv_misc_enggizmos_25",
-                    "iconIndex": 257
+                    "iconIndex": 258
                 }
             ]
         },
@@ -3241,7 +3247,7 @@
                     "spellID": 182120,
                     "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
                     "icon": "inv_eng_gearspringparts",
-                    "iconIndex": 242
+                    "iconIndex": 243
                 },
                 {
                     "name": "Advanced Muzzlesprocket",
@@ -3255,7 +3261,7 @@
                     "spellID": 187497,
                     "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
                     "icon": "ability_skyreach_lens_flare",
-                    "iconIndex": 258
+                    "iconIndex": 259
                 },
                 {
                     "name": "Taladite Firing Pin",
@@ -3269,7 +3275,7 @@
                     "spellID": 187521,
                     "source": "Sold by the Lunarfall\/Frostwall Ore Trader",
                     "icon": "ability_skyreach_lens_flare",
-                    "iconIndex": 258
+                    "iconIndex": 259
                 }
             ]
         },
@@ -3293,259 +3299,259 @@
                     "spellID": 41311,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Unbreakable Healing Amplifiers",
                     "spellID": 62271,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Specialized Bio-Optic Killshades",
                     "spellID": 81715,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Specialized Retinal Armor",
                     "spellID": 127122,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Furious Gizmatic Goggles",
                     "spellID": 40274,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Tankatronic Goggles",
                     "spellID": 41312,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Charged Titanium Specs",
                     "spellID": 56483,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Armored Titanium Goggles",
                     "spellID": 56480,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Mechanized Snow Goggles",
                     "spellID": 61483,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Reinforced Bio-Optic Killshades",
                     "spellID": 81714,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Reinforced Retinal Armor",
                     "spellID": 127123,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Surestrike Goggles v2.0",
                     "spellID": 41314,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Truesight Ice Blinders",
                     "spellID": 56574,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Mechanized Snow Goggles",
                     "spellID": 61482,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Deadly Bio-Optic Killshades",
                     "spellID": 81716,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Deadly Retinal Armor",
                     "spellID": 127120,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Gadgetstorm Goggles",
                     "spellID": 41315,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Living Replicator Specs",
                     "spellID": 41316,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Electroflux Sight Enhancers",
                     "spellID": 56487,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Energized Bio-Optic Killshades",
                     "spellID": 81720,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Energized Retinal Armor",
                     "spellID": 127121,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Deathblow X11 Goggles",
                     "spellID": 41317,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Weakness Spectralizers",
                     "spellID": 56481,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Mechanized Snow Goggles",
                     "spellID": 61481,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Agile Bio-Optic Killshades",
                     "spellID": 81722,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Agile Retinal Armor",
                     "spellID": 127118,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Wonderheal XT40 Shades",
                     "spellID": 41318,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Magnified Moon Specs",
                     "spellID": 41319,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Greensight Gogs",
                     "spellID": 56486,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Camouflage Bio-Optic Killshades",
                     "spellID": 81724,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_170",
-                    "iconIndex": 260
+                    "iconIndex": 261
                 },
                 {
                     "name": "Camouflage Retinal Armor",
                     "spellID": 127119,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Powerheal 4000 Lens",
                     "spellID": 41321,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Destruction Holo-gogs",
                     "spellID": 41320,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Mechanized Snow Goggles",
                     "spellID": 56465,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Visage Liquification Goggles",
                     "spellID": 56484,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Lightweight Bio-Optic Killshades",
                     "spellID": 81725,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Lightweight Retinal Armor",
                     "spellID": 127117,
                     "source": "Taught by an Engineering Trainer",
                     "icon": "inv_helmet_goggles_pandariatradeskill_d_01",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 }
             ]
         },
@@ -3562,7 +3568,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Hard Khorium Goggles",
@@ -3574,7 +3580,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Warriors, Paladins and Death Knights",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Surestrike Goggles v3.0",
@@ -3585,7 +3591,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Hunters and Shamans",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Primal-Attuned Goggles",
@@ -3595,7 +3601,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Lightning Etched Specs",
@@ -3605,7 +3611,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Shamans",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Quad Deathblow X44 Goggles",
@@ -3617,7 +3623,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Rogues, Monks and Druids",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Wonderheal XT68 Shades",
@@ -3627,7 +3633,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Hyper-Magnified Moon Specs",
@@ -3637,7 +3643,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Monks and Druids",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Powerheal 9000 Lens",
@@ -3647,7 +3653,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Priests",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Annihilator Holo-Gogs",
@@ -3659,7 +3665,7 @@
                     ],
                     "source": "Drops in Sunwell Plateau\nOnly available to Priests, Mages and Warlocks",
                     "icon": "inv_gizmo_newgoggles",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 }
             ]
         },
@@ -3671,7 +3677,7 @@
                     "spellID": 3957,
                     "source": "Auction House",
                     "icon": "inv_gizmo_01",
-                    "iconIndex": 193
+                    "iconIndex": 194
                 },
                 {
                     "name": "Flawless Arcanite Rifle",
@@ -3706,7 +3712,7 @@
                     "spellID": 26011,
                     "source": "Currently Unobtainable",
                     "icon": "ability_hunter_pet_gorilla",
-                    "iconIndex": 261
+                    "iconIndex": 262
                 }
             ]
         }
