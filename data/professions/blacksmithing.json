@@ -2136,6 +2136,154 @@
             ]
         },
         {
+            "name": "Sinister Combatant",
+            "recipes": [
+                {
+                    "name": "Sinister Combatant's Cutlass",
+                    "spellID": [
+                        282871,
+                        282872,
+                        282873
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Deckpounder",
+                    "spellID": [
+                        282868,
+                        282869,
+                        282870
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Plate Armguards",
+                    "spellID": [
+                        282889,
+                        283237,
+                        283238
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Plate Boots",
+                    "spellID": [
+                        283249,
+                        283250,
+                        283251
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Plate Gauntlets",
+                    "spellID": [
+                        283245,
+                        283247,
+                        283248
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Plate Greaves",
+                    "spellID": [
+                        283242,
+                        283243,
+                        283244
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Plate Waistguard",
+                    "spellID": [
+                        283239,
+                        283240,
+                        283241
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Polearm",
+                    "spellID": [
+                        282859,
+                        282860,
+                        282861
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Spellblade",
+                    "spellID": [
+                        282865,
+                        282866,
+                        282867
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Shanker",
+                    "spellID": [
+                        282862,
+                        282863,
+                        282864
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                },
+                {
+                    "name": "Sinister Combatant's Shield",
+                    "spellID": [
+                        282876,
+                        282878,
+                        282879
+                    ],
+                    "source": [
+                        "Sold by a blacksmithing training for gold",
+                        "Sold by a blacksmithing trainer for 2 Marks of Honor",
+                        "Sold by a blacksmithing trainer for 4 Marks of Honor"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Legion Blacksmithing",
             "recipes": [
                 {
