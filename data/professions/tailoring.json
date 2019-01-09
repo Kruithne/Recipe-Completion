@@ -1531,165 +1531,172 @@
             "name": "First Aid",
             "recipes": [
                 {
+                    "name": "Linen Bandage",
+                    "spellID": 3275,
+                    "source": "Learnt from a tailoring trainer",
+                    "icon": "inv_misc_bandage_15",
+                    "iconIndex": 132
+                },
+                {
                     "name": "Anti-Venom",
                     "spellID": 7934,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_slime_01",
-                    "iconIndex": 132
+                    "iconIndex": 133
                 },
                 {
                     "name": "Heavy Linen Bandage",
                     "spellID": 3276,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_18",
-                    "iconIndex": 133
+                    "iconIndex": 134
                 },
                 {
                     "name": "Silk Bandage",
                     "spellID": 7928,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_01",
-                    "iconIndex": 134
+                    "iconIndex": 135
                 },
                 {
                     "name": "Heavy Silk Bandage",
                     "spellID": 7929,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_02",
-                    "iconIndex": 135
+                    "iconIndex": 136
                 },
                 {
                     "name": "Wool Bandage",
                     "spellID": 3277,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_14",
-                    "iconIndex": 136
+                    "iconIndex": 137
                 },
                 {
                     "name": "Heavy Wool Bandage",
                     "spellID": 3278,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_17",
-                    "iconIndex": 137
+                    "iconIndex": 138
                 },
                 {
                     "name": "Mageweave Bandage",
                     "spellID": 10840,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_19",
-                    "iconIndex": 138
+                    "iconIndex": 139
                 },
                 {
                     "name": "Heavy Mageweave Bandage",
                     "spellID": 10841,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_20",
-                    "iconIndex": 139
+                    "iconIndex": 140
                 },
                 {
                     "name": "Runecloth Bandage",
                     "spellID": 18629,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_11",
-                    "iconIndex": 140
+                    "iconIndex": 141
                 },
                 {
                     "name": "Heavy Runecloth Bandage",
                     "spellID": 18630,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_12",
-                    "iconIndex": 141
+                    "iconIndex": 142
                 },
                 {
                     "name": "Heavy Netherweave Bandage",
                     "spellID": 27033,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_netherweave_heavy",
-                    "iconIndex": 142
+                    "iconIndex": 143
                 },
                 {
                     "name": "Netherweave Bandage",
                     "spellID": 27032,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_netherweave",
-                    "iconIndex": 143
+                    "iconIndex": 144
                 },
                 {
                     "name": "Frostweave Bandage",
                     "spellID": 45545,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_frostweave",
-                    "iconIndex": 144
+                    "iconIndex": 145
                 },
                 {
                     "name": "Heavy Frostweave Bandage",
                     "spellID": 45546,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_frostweave_heavy",
-                    "iconIndex": 145
+                    "iconIndex": 146
                 },
                 {
                     "name": "Embersilk Bandage",
                     "spellID": 74556,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_16",
-                    "iconIndex": 146
+                    "iconIndex": 147
                 },
                 {
                     "name": "Heavy Embersilk Bandage",
                     "spellID": 74557,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_emberweavebandage2",
-                    "iconIndex": 147
+                    "iconIndex": 148
                 },
                 {
                     "name": "Dense Embersilk Bandage",
                     "spellID": 88893,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_emberweavebandage1",
-                    "iconIndex": 148
+                    "iconIndex": 149
                 },
                 {
                     "name": "Field Bandage: Dense Embersilk",
                     "spellID": 74558,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_emberweavebandage1",
-                    "iconIndex": 148
+                    "iconIndex": 149
                 },
                 {
                     "name": "Windwool Bandage",
                     "spellID": 102697,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_bandage_windwool",
-                    "iconIndex": 149
+                    "iconIndex": 150
                 },
                 {
                     "name": "Heavy Windwool Bandage",
                     "spellID": 102698,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_misc_questionmark",
-                    "iconIndex": 150
+                    "iconIndex": 151
                 },
                 {
                     "name": "Silkweave Bandage",
                     "spellID": 202853,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_first_aid_70_bandage",
-                    "iconIndex": 151
+                    "iconIndex": 152
                 },
                 {
                     "name": "Silkweave Splint",
                     "spellID": 202854,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_first_aid_70_splint",
-                    "iconIndex": 152
+                    "iconIndex": 153
                 },
                 {
                     "name": "Silvery Salve",
                     "spellID": 221690,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_first_aid_70_jar",
-                    "iconIndex": 153
+                    "iconIndex": 154
                 }
             ]
         },
@@ -1709,7 +1716,7 @@
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
                     ],
                     "icon": "ivn_belt_cloth_warfrontshorde_b_01",
-                    "iconIndex": 154
+                    "iconIndex": 155
                 },
                 {
                     "name": "Sinister Combatant's Satin Boots",
@@ -1724,7 +1731,7 @@
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
                     ],
                     "icon": "ivn_boot_cloth_warfrontshorde_b_01",
-                    "iconIndex": 155
+                    "iconIndex": 156
                 },
                 {
                     "name": "Sinister Combatant's Satin Bracers",
@@ -1739,7 +1746,7 @@
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
                     ],
                     "icon": "ivn_bracer_cloth_warfrontshorde_b_01",
-                    "iconIndex": 156
+                    "iconIndex": 157
                 },
                 {
                     "name": "Sinister Combatant's Satin Cloak",
@@ -1754,7 +1761,7 @@
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
                     ],
                     "icon": "ivn_cape_cloth_warfrontshorde_d_01",
-                    "iconIndex": 157
+                    "iconIndex": 158
                 },
                 {
                     "name": "Sinister Combatant's Satin Mittens",
@@ -1769,7 +1776,7 @@
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
                     ],
                     "icon": "ivn_glove_cloth_warfrontshorde_b_01",
-                    "iconIndex": 158
+                    "iconIndex": 159
                 },
                 {
                     "name": "Sinister Combatant's Satin Pants",
@@ -1784,7 +1791,7 @@
                         "Sold by a PvP Profession Liaison for 4 Marks of Honor"
                     ],
                     "icon": "ivn_pant_cloth_warfrontshorde_b_01",
-                    "iconIndex": 159
+                    "iconIndex": 160
                 }
             ]
         },
@@ -1796,28 +1803,28 @@
                     "spellID": 272440,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_tailoring_80_embroidereddeepseasatin",
-                    "iconIndex": 160
+                    "iconIndex": 161
                 },
                 {
                     "name": "Discreet Spellthread",
                     "spellID": 279183,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "trade_tailoring",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Feathery Spellthread",
                     "spellID": 279184,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "trade_tailoring",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Resilient Spellthread",
                     "spellID": 279182,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "trade_tailoring",
-                    "iconIndex": 161
+                    "iconIndex": 162
                 },
                 {
                     "name": "Deep Sea Bag",
@@ -1832,7 +1839,7 @@
                         "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_tailoring_80_deepseabag",
-                    "iconIndex": 162
+                    "iconIndex": 163
                 },
                 {
                     "name": "Embroidered Deep Sea Bag",
@@ -1847,49 +1854,49 @@
                         "Drops from Zul in Uldir"
                     ],
                     "icon": "inv_tailoring_80_embroidereddeepseabag",
-                    "iconIndex": 163
+                    "iconIndex": 164
                 },
                 {
                     "name": "Emblazoned Deep Sea Breeches",
                     "spellID": 257124,
                     "source": "Discovered when crafting Imbued Deep Sea Breeches",
                     "icon": "inv_pant_cloth_nazmirraidmythic_d_01",
-                    "iconIndex": 164
+                    "iconIndex": 165
                 },
                 {
                     "name": "Emblazoned Deep Sea Gloves",
                     "spellID": 257121,
                     "source": "Discovered when crafting Imbued Deep Sea Gloves",
                     "icon": "inv_glove_cloth_nazmirraidmythic_d_01",
-                    "iconIndex": 165
+                    "iconIndex": 166
                 },
                 {
                     "name": "Imbued Deep Sea Breeches",
                     "spellID": 257123,
                     "source": "Discovered when crafting Embroidered Deep Sea Breeches",
                     "icon": "inv_pant_cloth_nazmirraid_d_01",
-                    "iconIndex": 166
+                    "iconIndex": 167
                 },
                 {
                     "name": "Imbued Deep Sea Gloves",
                     "spellID": 257120,
                     "source": "Discovered when crafting Embroidered Deep Sea Gloves",
                     "icon": "inv_glove_cloth_nazmirraid_d_01",
-                    "iconIndex": 167
+                    "iconIndex": 168
                 },
                 {
                     "name": "Embroidered Deep Sea Breeches",
                     "spellID": 257122,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_pant_cloth_nazmirraid_d_01",
-                    "iconIndex": 166
+                    "iconIndex": 167
                 },
                 {
                     "name": "Embroidered Deep Sea Gloves",
                     "spellID": 257118,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_glove_cloth_nazmirraid_d_01",
-                    "iconIndex": 167
+                    "iconIndex": 168
                 },
                 {
                     "name": "Embroidered Deep Sea Cloak",
@@ -1904,7 +1911,7 @@
                         "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_cape_cloth_zandalardungeon_c_01",
-                    "iconIndex": 168
+                    "iconIndex": 169
                 },
                 {
                     "name": "Honorable Combatant's Satin Belt",
@@ -1919,7 +1926,7 @@
                         "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_belt_cloth_warfrontshorde_b_01",
-                    "iconIndex": 154
+                    "iconIndex": 155
                 },
                 {
                     "name": "Honorable Combatant's Satin Boots",
@@ -1934,7 +1941,7 @@
                         "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_boot_cloth_warfrontshorde_b_01",
-                    "iconIndex": 155
+                    "iconIndex": 156
                 },
                 {
                     "name": "Honorable Combatant's Satin Bracers",
@@ -1949,7 +1956,7 @@
                         "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_bracer_cloth_warfrontshorde_b_01",
-                    "iconIndex": 156
+                    "iconIndex": 157
                 },
                 {
                     "name": "Honorable Combatant's Satin Cloak",
@@ -1964,7 +1971,7 @@
                         "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_cape_cloth_warfrontshorde_d_01",
-                    "iconIndex": 157
+                    "iconIndex": 158
                 },
                 {
                     "name": "Honorable Combatant's Satin Mittens",
@@ -1979,7 +1986,7 @@
                         "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_glove_cloth_warfrontshorde_b_01",
-                    "iconIndex": 158
+                    "iconIndex": 159
                 },
                 {
                     "name": "Honorable Combatant's Satin Pants",
@@ -1994,70 +2001,70 @@
                         "Sold by a tailoring trainer for 4 Marks of Honor"
                     ],
                     "icon": "ivn_pant_cloth_warfrontshorde_b_01",
-                    "iconIndex": 159
+                    "iconIndex": 160
                 },
                 {
                     "name": "Tidespray Linen Cloak",
                     "spellID": 257107,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cape_cloth_zandalarquest_b_01",
-                    "iconIndex": 169
+                    "iconIndex": 170
                 },
                 {
                     "name": "Tidespray Linen Hood",
                     "spellID": 257097,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_helm_cloth_zandalarquest_b_01",
-                    "iconIndex": 170
+                    "iconIndex": 171
                 },
                 {
                     "name": "Tidespray Linen Robe",
                     "spellID": 257104,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_chest_cloth_zandalarquest_b_01",
-                    "iconIndex": 171
+                    "iconIndex": 172
                 },
                 {
                     "name": "Tidespray Linen Spaulders",
                     "spellID": 257101,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_shoulder_cloth_zandalarquest_b_01",
-                    "iconIndex": 172
+                    "iconIndex": 173
                 },
                 {
                     "name": "Tidespray Linen Belt",
                     "spellID": 257102,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_belt_cloth_zandalarquest_b_01",
-                    "iconIndex": 173
+                    "iconIndex": 174
                 },
                 {
                     "name": "Tidespray Linen Bracers",
                     "spellID": 257103,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_bracer_cloth_zandalarquest_b_01",
-                    "iconIndex": 174
+                    "iconIndex": 175
                 },
                 {
                     "name": "Tidespray Linen Mittens",
                     "spellID": 257096,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_glove_cloth_zandalarquest_b_01",
-                    "iconIndex": 175
+                    "iconIndex": 176
                 },
                 {
                     "name": "Tidespray Linen Pants",
                     "spellID": 257099,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_robe_cloth_zandalarquest_b_01",
-                    "iconIndex": 176
+                    "iconIndex": 177
                 },
                 {
                     "name": "Tidespray Linen Sandals",
                     "spellID": 257095,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_boot_cloth_zandalarquest_b_01",
-                    "iconIndex": 177
+                    "iconIndex": 178
                 },
                 {
                     "name": "Battle Flag: Phalanx Defense",
@@ -2072,7 +2079,7 @@
                         "Reward from Work Order: Battle Flag: Phalanx Defense world quest"
                     ],
                     "icon": "spell_tailor_defenceup01",
-                    "iconIndex": 178
+                    "iconIndex": 179
                 },
                 {
                     "name": "Battle Flag: Rallying Swiftness",
@@ -2087,7 +2094,7 @@
                         "Reward from Work Order: Battle Flag: Rallying Swiftness world quest"
                     ],
                     "icon": "spell_tailor_mountspeedup01",
-                    "iconIndex": 179
+                    "iconIndex": 180
                 },
                 {
                     "name": "Battle Flag: Spirit of Freedom",
@@ -2102,7 +2109,7 @@
                         "Reward from Work Order: Battle Flag: Spirit of Freedom world quest"
                     ],
                     "icon": "spell_tailor_ccreduce01",
-                    "iconIndex": 180
+                    "iconIndex": 181
                 },
                 {
                     "name": "Hooked Deep Sea Net",
@@ -2123,21 +2130,21 @@
                     "spellID": 267202,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv__firstaid_deepseasatin",
-                    "iconIndex": 181
+                    "iconIndex": 182
                 },
                 {
                     "name": "Tidespray Linen Bandage",
                     "spellID": 267201,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv__firstaid_sun-bleachedlinen",
-                    "iconIndex": 182
+                    "iconIndex": 183
                 },
                 {
                     "name": "Rough-hooked Tidespray Linen",
                     "spellID": 278414,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_belt_42",
-                    "iconIndex": 183
+                    "iconIndex": 184
                 }
             ]
         },
@@ -2149,28 +2156,28 @@
                     "spellID": 186097,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Silkweave Drape",
                     "spellID": 186100,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Silkweave Flourish",
                     "spellID": 186094,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Silkweave Shade",
                     "spellID": 186091,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Silkweave Bracers",
@@ -2185,7 +2192,7 @@
                         "Reward from Work Order: Silkweave Bracers in Stormheim"
                     ],
                     "icon": "inv_bracer_cloth_legionhonor_d_01",
-                    "iconIndex": 185
+                    "iconIndex": 186
                 },
                 {
                     "name": "Silkweave Cinch",
@@ -2200,7 +2207,7 @@
                         "Sold by Strap Bucklebolt in Dalaran Sewers"
                     ],
                     "icon": "inv_belt_cloth_legionhonor_d_01",
-                    "iconIndex": 186
+                    "iconIndex": 187
                 },
                 {
                     "name": "Silkweave Epaulets",
@@ -2215,7 +2222,7 @@
                         "Reward from Work Order: Silkweave Epaulets in Azsuna"
                     ],
                     "icon": "inv_shoulder_cloth_legionhonor_d_01",
-                    "iconIndex": 187
+                    "iconIndex": 188
                 },
                 {
                     "name": "Silkweave Gloves",
@@ -2230,7 +2237,7 @@
                         "Reward from Work Order: Silkweave Gloves in Val'sharah"
                     ],
                     "icon": "inv_glove_cloth_legionhonor_d_01",
-                    "iconIndex": 188
+                    "iconIndex": 189
                 },
                 {
                     "name": "Silkweave Hood",
@@ -2245,7 +2252,7 @@
                         "Reward from Work Order: Silkweave Hood in Dalaran"
                     ],
                     "icon": "inv_helm_cloth_legionhonor_d_01",
-                    "iconIndex": 189
+                    "iconIndex": 190
                 },
                 {
                     "name": "Silkweave Pantaloons",
@@ -2260,7 +2267,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Honored with Court of Farondis"
                     ],
                     "icon": "inv_pant_cloth_legionhonor_d_01",
-                    "iconIndex": 190
+                    "iconIndex": 191
                 },
                 {
                     "name": "Silkweave Robe",
@@ -2275,7 +2282,7 @@
                         "Reward from Work Order: Silkweave Robe in Highmountain"
                     ],
                     "icon": "inv_chest_cloth_legionhonor_d_01",
-                    "iconIndex": 191
+                    "iconIndex": 192
                 },
                 {
                     "name": "Silkweave Slippers",
@@ -2290,7 +2297,7 @@
                         "Reward from Work Order: Silkweave Slippers in Suramar"
                     ],
                     "icon": "inv_boot_cloth_legionhonor_d_01",
-                    "iconIndex": 192
+                    "iconIndex": 193
                 },
                 {
                     "name": "Imbued Silkweave Bag",
@@ -2305,7 +2312,7 @@
                         "Dropped by Star Augur Etraeus in The Nighthold"
                     ],
                     "icon": "inv_tailoring_70_silkweavebag",
-                    "iconIndex": 193
+                    "iconIndex": 194
                 },
                 {
                     "name": "Imbued Silkweave Bracers",
@@ -2320,7 +2327,7 @@
                         "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
                     ],
                     "icon": "inv_bracer_cloth_legionendgame_c_01",
-                    "iconIndex": 194
+                    "iconIndex": 195
                 },
                 {
                     "name": "Imbued Silkweave Cinch",
@@ -2335,7 +2342,7 @@
                         "Sold by Strap Bucklebolt in Dalaran Sewers"
                     ],
                     "icon": "inv_belt_cloth_legionendgame_c_01",
-                    "iconIndex": 195
+                    "iconIndex": 196
                 },
                 {
                     "name": "Imbued Silkweave Cover",
@@ -2350,7 +2357,7 @@
                         "World drop from Broken Isles"
                     ],
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Imbued Silkweave Drape",
@@ -2365,7 +2372,7 @@
                         "World drop from Broken Isles"
                     ],
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Imbued Silkweave Epaulets",
@@ -2380,7 +2387,7 @@
                         "Reward from winning a Rated Battleground"
                     ],
                     "icon": "inv_shoulder_cloth_legionendgame_c_01",
-                    "iconIndex": 196
+                    "iconIndex": 197
                 },
                 {
                     "name": "Imbued Silkweave Flourish",
@@ -2395,7 +2402,7 @@
                         "World drop from Broken Isles"
                     ],
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Imbued Silkweave Gloves",
@@ -2410,7 +2417,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Exalted with Court of Farondis"
                     ],
                     "icon": "inv_glove_cloth_legionendgame_c_01",
-                    "iconIndex": 197
+                    "iconIndex": 198
                 },
                 {
                     "name": "Imbued Silkweave Hood",
@@ -2425,7 +2432,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Exalted with Court of Farondis"
                     ],
                     "icon": "inv_helm_cloth_legionendgame_c_01",
-                    "iconIndex": 198
+                    "iconIndex": 199
                 },
                 {
                     "name": "Imbued Silkweave Pantaloons",
@@ -2440,7 +2447,7 @@
                         "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
                     ],
                     "icon": "inv_pant_cloth_legionendgame_c_01",
-                    "iconIndex": 199
+                    "iconIndex": 200
                 },
                 {
                     "name": "Imbued Silkweave Robe",
@@ -2455,7 +2462,7 @@
                         "Sold by Veridis Fallon in Azsuna\nRequires Exalted with Court of Farondis"
                     ],
                     "icon": "inv_robe_cloth_legionendgame_c_01",
-                    "iconIndex": 200
+                    "iconIndex": 201
                 },
                 {
                     "name": "Imbued Silkweave Shade",
@@ -2470,7 +2477,7 @@
                         "World drop on Broken Isles"
                     ],
                     "icon": "inv_cape_legionendgame_c_01",
-                    "iconIndex": 184
+                    "iconIndex": 185
                 },
                 {
                     "name": "Imbued Silkweave Slippers",
@@ -2485,56 +2492,56 @@
                         "Sold by First Arcanist Thalyssra in Suramar\nRequires Exalted with The Nightfallen"
                     ],
                     "icon": "inv_boot_cloth_legionendgame_c_01",
-                    "iconIndex": 201
+                    "iconIndex": 202
                 },
                 {
                     "name": "Silkweave Satchel",
                     "spellID": 186388,
                     "source": "Reward from Sew Far, Sew Good in Dalaran",
                     "icon": "inv_tailoring_70_silkweavebag",
-                    "iconIndex": 193
+                    "iconIndex": 194
                 },
                 {
                     "name": "Imbued Silkweave",
                     "spellID": 185962,
                     "source": "Reward from The Queen's Grace Loom in Suramar",
                     "icon": "inv_tailoring_70_silkweaveimbued",
-                    "iconIndex": 202
+                    "iconIndex": 203
                 },
                 {
                     "name": "Celumbra, the Night's Dichotomy",
                     "spellID": 239412,
                     "source": "Learnt from a tailoring trainer",
                     "icon": "inv_cloth_raidmage_p_01shoulder",
-                    "iconIndex": 203
+                    "iconIndex": 204
                 },
                 {
                     "name": "Bloodtotem Saddle Blanket",
                     "spellID": 220511,
                     "source": "World drop from creatures on Broken Isles",
                     "icon": "inv_tailoring_70_saddleblanket",
-                    "iconIndex": 204
+                    "iconIndex": 205
                 },
                 {
                     "name": "Clothes Chest: Dalaran Citizens",
                     "spellID": 213035,
                     "source": "Sold by Dazzik \"Proudmoore\" in Dalaran Sewers",
                     "icon": "inv_tailoring_70_garmentrack_dalaran",
-                    "iconIndex": 205
+                    "iconIndex": 206
                 },
                 {
                     "name": "Clothes Chest: Karazhan Opera House",
                     "spellID": 213036,
                     "source": "Dropped by Opera Event in Karazhan",
                     "icon": "inv_tailoring_70_garmentrack_opera",
-                    "iconIndex": 206
+                    "iconIndex": 207
                 },
                 {
                     "name": "Clothes Chest: Molten Core",
                     "spellID": 213037,
                     "source": "Dropped by Ragnaros in Molten Core",
                     "icon": "inv_tailoring_70_garmentrack_tier01",
-                    "iconIndex": 207
+                    "iconIndex": 208
                 },
                 {
                     "name": "Lightweave Breeches",
@@ -2549,7 +2556,7 @@
                         "Dropped by Portal Keeper Hasabel in Antorus, the Burning Throne"
                     ],
                     "icon": "inv_pant_cloth_raidpriestmythic_s_01",
-                    "iconIndex": 208
+                    "iconIndex": 209
                 }
             ]
         },
@@ -2561,7 +2568,7 @@
                     "spellID": 2389,
                     "source": "Drops in level 1-10 zones",
                     "icon": "inv_chest_cloth_18",
-                    "iconIndex": 209
+                    "iconIndex": 210
                 },
                 {
                     "name": "Gray Woolen Robe",
@@ -2575,7 +2582,7 @@
                     "spellID": 3758,
                     "source": "Drops from level 17-25 mobs",
                     "icon": "inv_misc_bag_10_green",
-                    "iconIndex": 210
+                    "iconIndex": 211
                 },
                 {
                     "name": "Heavy Woolen Cloak",
@@ -2596,7 +2603,7 @@
                     "spellID": 3849,
                     "source": "Drops from level 15-29 mobs",
                     "icon": "inv_shoulder_09",
-                    "iconIndex": 211
+                    "iconIndex": 212
                 },
                 {
                     "name": "Phoenix Pants",
@@ -2610,14 +2617,14 @@
                     "spellID": 3856,
                     "source": "Drops from level 20-32 mobs",
                     "icon": "inv_boots_03",
-                    "iconIndex": 212
+                    "iconIndex": 213
                 },
                 {
                     "name": "Shadow Hood",
                     "spellID": 3858,
                     "source": "Drops from level 25-37 mobs",
                     "icon": "inv_helmet_27",
-                    "iconIndex": 213
+                    "iconIndex": 214
                 },
                 {
                     "name": "Boots of the Enchanter",
@@ -2631,49 +2638,49 @@
                     "spellID": 3863,
                     "source": "Drops from level 30-42 mobs",
                     "icon": "inv_belt_25",
-                    "iconIndex": 214
+                    "iconIndex": 215
                 },
                 {
                     "name": "Star Belt",
                     "spellID": 3864,
                     "source": "Drops from level 35-37 mobs",
                     "icon": "inv_belt_06",
-                    "iconIndex": 215
+                    "iconIndex": 216
                 },
                 {
                     "name": "Phoenix Gloves",
                     "spellID": 3868,
                     "source": "Drops from level 15-29 mobs",
                     "icon": "inv_gauntlets_19",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Rich Purple Silk Shirt",
                     "spellID": 3872,
                     "source": "Drops from level 37-45 mobs",
                     "icon": "inv_shirt_16",
-                    "iconIndex": 217
+                    "iconIndex": 218
                 },
                 {
                     "name": "Green Silk Pack",
                     "spellID": 6693,
                     "source": "Drops from level 26-32 mobs",
                     "icon": "inv_misc_bag_07_green",
-                    "iconIndex": 218
+                    "iconIndex": 219
                 },
                 {
                     "name": "Black Silk Pack",
                     "spellID": 6695,
                     "source": "Drops from Syndicate Spy in Hillsbrad Foothills",
                     "icon": "inv_misc_bag_07_black",
-                    "iconIndex": 219
+                    "iconIndex": 220
                 },
                 {
                     "name": "Red Linen Vest",
                     "spellID": 7629,
                     "source": "Drops from level 5-20 mobs",
                     "icon": "inv_chest_cloth_40",
-                    "iconIndex": 220
+                    "iconIndex": 221
                 },
                 {
                     "name": "Stylish Blue Shirt",
@@ -2694,21 +2701,21 @@
                     "spellID": 8780,
                     "source": "Drops from level 20-32 mobs",
                     "icon": "inv_gauntlets_22",
-                    "iconIndex": 221
+                    "iconIndex": 222
                 },
                 {
                     "name": "Truefaith Gloves",
                     "spellID": 8782,
                     "source": "Drops from level 21-32 mobs",
                     "icon": "inv_gauntlets_16",
-                    "iconIndex": 222
+                    "iconIndex": 223
                 },
                 {
                     "name": "Green Silk Armor",
                     "spellID": 8784,
                     "source": "Drops from level 26-32 mobs",
                     "icon": "inv_chest_cloth_06",
-                    "iconIndex": 223
+                    "iconIndex": 224
                 },
                 {
                     "name": "Crimson Silk Shoulders",
@@ -2722,28 +2729,28 @@
                     "spellID": 8795,
                     "source": "Drops from level 32-45 mobs",
                     "icon": "inv_shoulder_27",
-                    "iconIndex": 224
+                    "iconIndex": 225
                 },
                 {
                     "name": "Earthen Silk Belt",
                     "spellID": 8797,
                     "source": "Drops from level 32-47 mobs",
                     "icon": "inv_belt_24",
-                    "iconIndex": 225
+                    "iconIndex": 226
                 },
                 {
                     "name": "Colorful Kilt",
                     "spellID": 12047,
                     "source": "Drops from level 16-19 mobs",
                     "icon": "inv_pants_02",
-                    "iconIndex": 226
+                    "iconIndex": 227
                 },
                 {
                     "name": "Red Mageweave Vest",
                     "spellID": 12056,
                     "source": "Drops from level 35-52 mobs",
                     "icon": "inv_shirt_09",
-                    "iconIndex": 227
+                    "iconIndex": 228
                 },
                 {
                     "name": "White Bandit Mask",
@@ -2764,7 +2771,7 @@
                     "spellID": 12066,
                     "source": "Drops from level 35-51 mobs",
                     "icon": "inv_gauntlets_19",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Red Mageweave Shoulders",
@@ -2778,21 +2785,21 @@
                     "spellID": 12084,
                     "source": "Drops from level 40-55 mobs",
                     "icon": "inv_misc_bandana_03",
-                    "iconIndex": 228
+                    "iconIndex": 229
                 },
                 {
                     "name": "Frostweave Robe",
                     "spellID": 18404,
                     "source": "Drops from level 44-60 mobs",
                     "icon": "inv_chest_cloth_03",
-                    "iconIndex": 229
+                    "iconIndex": 230
                 },
                 {
                     "name": "Cindercloth Vest",
                     "spellID": 18408,
                     "source": "Drops from Twilight Fire Guard in Searing Gorge",
                     "icon": "inv_chest_cloth_07",
-                    "iconIndex": 230
+                    "iconIndex": 231
                 },
                 {
                     "name": "Cindercloth Gloves",
@@ -2806,7 +2813,7 @@
                     "spellID": 18418,
                     "source": "Drops from Thaurissan Firewalker in Searing Gorge",
                     "icon": "inv_misc_cape_18",
-                    "iconIndex": 231
+                    "iconIndex": 232
                 },
                 {
                     "name": "Cindercloth Pants",
@@ -2820,7 +2827,7 @@
                     "spellID": 18422,
                     "source": "Drops from Overmaster Pyron in Searing Gorge",
                     "icon": "inv_misc_cape_18",
-                    "iconIndex": 231
+                    "iconIndex": 232
                 },
                 {
                     "name": "Brightcloth Pants",
@@ -2834,14 +2841,14 @@
                     "spellID": 18440,
                     "source": "Drops from level 50-60 mobs",
                     "icon": "inv_pants_13",
-                    "iconIndex": 232
+                    "iconIndex": 233
                 },
                 {
                     "name": "Mooncloth Bag",
                     "spellID": 18445,
                     "source": "Drops from level 50-63 mobs",
                     "icon": "inv_misc_bag_14",
-                    "iconIndex": 233
+                    "iconIndex": 234
                 },
                 {
                     "name": "Mooncloth Vest",
@@ -2876,28 +2883,28 @@
                     "spellID": 18455,
                     "source": "Drops from level 60-62 mobs",
                     "icon": "inv_misc_bag_13",
-                    "iconIndex": 234
+                    "iconIndex": 235
                 },
                 {
                     "name": "Truefaith Vestments",
                     "spellID": 18456,
                     "source": "Drops from level 21-36 mobs",
                     "icon": "inv_chest_cloth_31",
-                    "iconIndex": 235
+                    "iconIndex": 236
                 },
                 {
                     "name": "Runed Stygian Leggings",
                     "spellID": 24901,
                     "source": "Looted from Decoded True Believer Clippings",
                     "icon": "inv_pants_cloth_05",
-                    "iconIndex": 236
+                    "iconIndex": 237
                 },
                 {
                     "name": "Runed Stygian Belt",
                     "spellID": 24902,
                     "source": "Looted from Decoded True Believer Clippings",
                     "icon": "inv_belt_14",
-                    "iconIndex": 237
+                    "iconIndex": 238
                 },
                 {
                     "name": "Runed Stygian Boots",
@@ -2911,7 +2918,7 @@
                     "spellID": 75289,
                     "source": "Drops from various sources",
                     "icon": "inv_helmet_119",
-                    "iconIndex": 238
+                    "iconIndex": 239
                 }
             ]
         },
@@ -2930,7 +2937,7 @@
                     "spellID": 31435,
                     "source": "Drops in TBC zones, raids and dungeons",
                     "icon": "inv_bracer_10",
-                    "iconIndex": 239
+                    "iconIndex": 240
                 },
                 {
                     "name": "Blackstrike Bracers",
@@ -2944,7 +2951,7 @@
                     "spellID": 31438,
                     "source": "Drops in TBC zones, raids and dungeons",
                     "icon": "inv_misc_cape_20",
-                    "iconIndex": 240
+                    "iconIndex": 241
                 },
                 {
                     "name": "Cloak of Eternity",
@@ -2965,21 +2972,21 @@
                     "spellID": 31442,
                     "source": "Drops in TBC zones, raids and dungeons",
                     "icon": "inv_belt_03",
-                    "iconIndex": 241
+                    "iconIndex": 242
                 },
                 {
                     "name": "Girdle of Ruination",
                     "spellID": 31443,
                     "source": "Drops in TBC zones, raids and dungeons",
                     "icon": "inv_belt_13",
-                    "iconIndex": 242
+                    "iconIndex": 243
                 },
                 {
                     "name": "Black Belt of Knowledge",
                     "spellID": 31444,
                     "source": "Drops in TBC zones, raids and dungeons",
                     "icon": "inv_belt_26",
-                    "iconIndex": 243
+                    "iconIndex": 244
                 },
                 {
                     "name": "Resolute Cape",
@@ -2993,7 +3000,7 @@
                     "spellID": 31449,
                     "source": "Drops in TBC zones, raids and dungeons",
                     "icon": "inv_misc_cape_18",
-                    "iconIndex": 231
+                    "iconIndex": 232
                 },
                 {
                     "name": "Manaweave Cloak",
@@ -3040,14 +3047,14 @@
                     "spellID": 55998,
                     "source": "Drops in WotLK zones, raids and dungeons",
                     "icon": "inv_shirt_13",
-                    "iconIndex": 244
+                    "iconIndex": 245
                 },
                 {
                     "name": "Rustic Workman's Shirt",
                     "spellID": 55999,
                     "source": "Drops in WotLK zones, raids and dungeons",
                     "icon": "inv_shirt_14",
-                    "iconIndex": 245
+                    "iconIndex": 246
                 }
             ]
         },
@@ -3059,14 +3066,14 @@
                     "spellID": 143011,
                     "source": "Drops from any mob in Pandaria",
                     "icon": "inv_fabric_celestial_cloth",
-                    "iconIndex": 246
+                    "iconIndex": 247
                 },
                 {
                     "name": "Accelerated Celestial Cloth",
                     "spellID": 146925,
                     "source": "Drops from any mob in Pandaria",
                     "icon": "inv_fabric_celestial_cloth",
-                    "iconIndex": 246
+                    "iconIndex": 247
                 }
             ]
         },
@@ -3078,35 +3085,35 @@
                     "spellID": 176058,
                     "source": "Drops from any mob in Draenor",
                     "icon": "inv_misc_book_03",
-                    "iconIndex": 247
+                    "iconIndex": 248
                 },
                 {
                     "name": "Sumptuous Cowl",
                     "spellID": 168852,
                     "source": "Drops from any mob in Draenor",
                     "icon": "inv_cloth_draenorcrafted_d_01helm_horde",
-                    "iconIndex": 248
+                    "iconIndex": 249
                 },
                 {
                     "name": "Sumptuous Robes",
                     "spellID": 168853,
                     "source": "Drops from any mob in Draenor",
                     "icon": "inv_cloth_draenorcrafted_d_01robe_horde",
-                    "iconIndex": 249
+                    "iconIndex": 250
                 },
                 {
                     "name": "Sumptuous Leggings",
                     "spellID": 168854,
                     "source": "Drops from any mob in Draenor",
                     "icon": "inv_cloth_draenorcrafted_d_01pants_horde",
-                    "iconIndex": 250
+                    "iconIndex": 251
                 },
                 {
                     "name": "Hexweave Cloth",
                     "spellID": 168835,
                     "source": "Drops from any mob in Draenor",
                     "icon": "inv_tailoring_hexweavethread",
-                    "iconIndex": 251
+                    "iconIndex": 252
                 }
             ]
         },
@@ -3118,7 +3125,7 @@
                     "spellID": 27660,
                     "source": "Drops from Magister Kalendris in Dire Maul",
                     "icon": "inv_misc_bag_bigbagofenchantments",
-                    "iconIndex": 252
+                    "iconIndex": 253
                 },
                 {
                     "name": "Robe of the Archmage",
@@ -3137,63 +3144,63 @@
                     "spellID": 26782,
                     "source": "Drops from Arcatraz Sentinel in The Arcatraz",
                     "icon": "inv_bracer_19",
-                    "iconIndex": 253
+                    "iconIndex": 254
                 },
                 {
                     "name": "Whitemend Pants",
                     "spellID": 31451,
                     "source": "Drops from Dalliah the Doomsayer in The Arcatraz",
                     "icon": "inv_pants_cloth_07",
-                    "iconIndex": 254
+                    "iconIndex": 255
                 },
                 {
                     "name": "Arcanoweave Boots",
                     "spellID": 26783,
                     "source": "Drops from Sunseeker Astromage in The Mechanar",
                     "icon": "inv_boots_07",
-                    "iconIndex": 255
+                    "iconIndex": 256
                 },
                 {
                     "name": "Arcanoweave Robe",
                     "spellID": 26784,
                     "source": "Drops from Pathaelon the Calculator in The Mechanar",
                     "icon": "inv_chest_cloth_01",
-                    "iconIndex": 256
+                    "iconIndex": 257
                 },
                 {
                     "name": "Spellstrike Pants",
                     "spellID": 31452,
                     "source": "Drops from Murmur in Shadow Labyrinth",
                     "icon": "inv_pants_cloth_14",
-                    "iconIndex": 257
+                    "iconIndex": 258
                 },
                 {
                     "name": "Battlecast Pants",
                     "spellID": 31453,
                     "source": "Drops from Thorngrin the Tender in The Botanica",
                     "icon": "inv_pants_cloth_12",
-                    "iconIndex": 258
+                    "iconIndex": 259
                 },
                 {
                     "name": "Whitemend Hood",
                     "spellID": 31454,
                     "source": "Drops from Warp Splinter in The Botanica",
                     "icon": "inv_helmet_53",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Spellstrike Hood",
                     "spellID": 31455,
                     "source": "Drops from Grand Warlock Nethekurse in The Shattered Halls",
                     "icon": "inv_helmet_27",
-                    "iconIndex": 213
+                    "iconIndex": 214
                 },
                 {
                     "name": "Battlecast Hood",
                     "spellID": 31456,
                     "source": "Drops from Warlord Kalithresh in The Steamvault",
                     "icon": "inv_helmet_70",
-                    "iconIndex": 260
+                    "iconIndex": 261
                 }
             ]
         },
@@ -3205,14 +3212,14 @@
                     "spellID": 22759,
                     "source": "Drops from bosses in Molten Core",
                     "icon": "inv_bracer_09",
-                    "iconIndex": 261
+                    "iconIndex": 262
                 },
                 {
                     "name": "Core Felcloth Bag",
                     "spellID": 26087,
                     "source": "Drops from bosses in Molten Core",
                     "icon": "inv_misc_bag_corefelclothbag",
-                    "iconIndex": 262
+                    "iconIndex": 263
                 }
             ]
         },
@@ -3231,7 +3238,7 @@
                     "spellID": 26781,
                     "source": "Drops from Phantom Valet",
                     "icon": "inv_chest_cloth_12",
-                    "iconIndex": 263
+                    "iconIndex": 264
                 }
             ]
         },
@@ -3243,7 +3250,7 @@
                     "spellID": 36315,
                     "source": "Drops in Serpentshrine Cavern and The Eye",
                     "icon": "inv_belt_13",
-                    "iconIndex": 242
+                    "iconIndex": 243
                 },
                 {
                     "name": "Boots of Blasting",
@@ -3264,7 +3271,7 @@
                     "spellID": 36318,
                     "source": "Drops in Serpentshrine Cavern and The Eye",
                     "icon": "inv_boots_cloth_14",
-                    "iconIndex": 264
+                    "iconIndex": 265
                 }
             ]
         },
@@ -3276,7 +3283,7 @@
                     "spellID": 41205,
                     "source": "Drops in Black Temple",
                     "icon": "inv_bracer_13",
-                    "iconIndex": 265
+                    "iconIndex": 266
                 },
                 {
                     "name": "Swiftheal Mantle",
@@ -3302,7 +3309,7 @@
                     "spellID": 41207,
                     "source": "Drops in Hyjal Summit",
                     "icon": "inv_bracer_13",
-                    "iconIndex": 265
+                    "iconIndex": 266
                 }
             ]
         },
@@ -3314,14 +3321,14 @@
                     "spellID": 46128,
                     "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_49",
-                    "iconIndex": 266
+                    "iconIndex": 267
                 },
                 {
                     "name": "Hands of Eternal Light",
                     "spellID": 46129,
                     "source": "Drops in Sunwell Plateau",
                     "icon": "inv_gauntlets_63",
-                    "iconIndex": 267
+                    "iconIndex": 268
                 },
                 {
                     "name": "Sunfire Robe",
@@ -3347,28 +3354,28 @@
                     "spellID": 63203,
                     "source": "Drops in Ulduar",
                     "icon": "inv_belt_10",
-                    "iconIndex": 268
+                    "iconIndex": 269
                 },
                 {
                     "name": "Spellslinger's Slippers",
                     "spellID": 63204,
                     "source": "Drops in Ulduar",
                     "icon": "inv_boots_cloth_03",
-                    "iconIndex": 269
+                    "iconIndex": 270
                 },
                 {
                     "name": "Cord of the White Dawn",
                     "spellID": 63205,
                     "source": "Drops in Ulduar",
                     "icon": "inv_belt_40b",
-                    "iconIndex": 270
+                    "iconIndex": 271
                 },
                 {
                     "name": "Savior's Slippers",
                     "spellID": 63206,
                     "source": "Drops in Ulduar",
                     "icon": "inv_boots_cloth_21",
-                    "iconIndex": 271
+                    "iconIndex": 272
                 }
             ]
         },
@@ -3381,7 +3388,7 @@
                     "faction": 1,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_chest_cloth_73",
-                    "iconIndex": 272
+                    "iconIndex": 273
                 },
                 {
                     "name": "Royal Moonshroud Bracers",
@@ -3389,7 +3396,7 @@
                     "faction": 1,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_bracer_24b",
-                    "iconIndex": 273
+                    "iconIndex": 274
                 },
                 {
                     "name": "Merlin's Robe",
@@ -3397,7 +3404,7 @@
                     "faction": 1,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_chest_cloth_64",
-                    "iconIndex": 274
+                    "iconIndex": 275
                 },
                 {
                     "name": "Bejeweled Wizard's Bracers",
@@ -3405,7 +3412,7 @@
                     "faction": 1,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Horde players",
                     "icon": "inv_bracer_32a",
-                    "iconIndex": 275
+                    "iconIndex": 276
                 },
                 {
                     "name": "Royal Moonshroud Robe",
@@ -3413,7 +3420,7 @@
                     "faction": 0,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_chest_cloth_75",
-                    "iconIndex": 276
+                    "iconIndex": 277
                 },
                 {
                     "name": "Royal Moonshroud Bracers",
@@ -3421,7 +3428,7 @@
                     "faction": 0,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_bracer_37",
-                    "iconIndex": 277
+                    "iconIndex": 278
                 },
                 {
                     "name": "Merlin's Robe",
@@ -3429,7 +3436,7 @@
                     "faction": 0,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_chest_cloth_75",
-                    "iconIndex": 276
+                    "iconIndex": 277
                 },
                 {
                     "name": "Bejeweled Wizard's Bracers",
@@ -3437,7 +3444,7 @@
                     "faction": 0,
                     "source": "Drops in Trial of the Crusader\nThis item is only available to Alliance players",
                     "icon": "inv_bracer_37",
-                    "iconIndex": 277
+                    "iconIndex": 278
                 }
             ]
         },
@@ -3449,28 +3456,28 @@
                     "spellID": 99448,
                     "source": "Drops in Firelands",
                     "icon": "inv_gauntlets_robe_raidpriest_j_01",
-                    "iconIndex": 278
+                    "iconIndex": 279
                 },
                 {
                     "name": "Don Tayo's Inferno Mittens",
                     "spellID": 99449,
                     "source": "Drops in Firelands",
                     "icon": "inv_glove_robe_raidwarlock_j_01",
-                    "iconIndex": 279
+                    "iconIndex": 280
                 },
                 {
                     "name": "Endless Dream Walkers",
                     "spellID": 99459,
                     "source": "Drops in Firelands",
                     "icon": "inv_boots_robe_raidpriest_j_01",
-                    "iconIndex": 280
+                    "iconIndex": 281
                 },
                 {
                     "name": "Boots of the Black Flame",
                     "spellID": 99460,
                     "source": "Drops in Firelands",
                     "icon": "inv_boots_robe_raidmage_j_01",
-                    "iconIndex": 281
+                    "iconIndex": 282
                 }
             ]
         },
@@ -3482,28 +3489,28 @@
                     "spellID": 101920,
                     "source": "Drops in Dragon Soul",
                     "icon": "inv_pants_robe_raidpriest_k_01",
-                    "iconIndex": 282
+                    "iconIndex": 283
                 },
                 {
                     "name": "Lavaquake Legwraps",
                     "spellID": 101921,
                     "source": "Drops in Dragon Soul",
                     "icon": "inv_pants_robe_raidmage_k_01",
-                    "iconIndex": 283
+                    "iconIndex": 284
                 },
                 {
                     "name": "Dreamwraps of the Light",
                     "spellID": 101922,
                     "source": "Drops in Dragon Soul",
                     "icon": "inv_bracer_robe_raidpriest_k_01",
-                    "iconIndex": 284
+                    "iconIndex": 285
                 },
                 {
                     "name": "Bracers of Unconquered Power",
                     "spellID": 101923,
                     "source": "Drops in Dragon Soul",
                     "icon": "inv_bracer_robe_raidmage_k_01",
-                    "iconIndex": 285
+                    "iconIndex": 286
                 }
             ]
         },
@@ -3515,28 +3522,28 @@
                     "spellID": 125558,
                     "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_robe_raidmage_l_01",
-                    "iconIndex": 286
+                    "iconIndex": 287
                 },
                 {
                     "name": "Imperial Silk Gloves",
                     "spellID": 125559,
                     "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_glove_cloth_raidwarlock_l_01",
-                    "iconIndex": 287
+                    "iconIndex": 288
                 },
                 {
                     "name": "Legacy of the Emperor",
                     "spellID": 125560,
                     "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_chest_cloth_challengepriest_d_01",
-                    "iconIndex": 288
+                    "iconIndex": 289
                 },
                 {
                     "name": "Touch of the Light",
                     "spellID": 125561,
                     "source": "Drops in Heart of Fear\nDrops in Mogu'shan Vaults\nDrops in Terrace of Endless Spring",
                     "icon": "inv_gauntlets_cloth_challengepriest_d_01",
-                    "iconIndex": 289
+                    "iconIndex": 290
                 }
             ]
         },
@@ -3548,28 +3555,28 @@
                     "spellID": 3854,
                     "source": "Sold by Kireena in Desolace (Horde)\nSold by Wenna Silkbeard in Wetlands (Alliance)",
                     "icon": "inv_gauntlets_17",
-                    "iconIndex": 290
+                    "iconIndex": 291
                 },
                 {
                     "name": "Enchanter's Cowl",
                     "spellID": 3857,
                     "source": "Sold by Xizk Goodstitch in Booty Bay",
                     "icon": "inv_helmet_31",
-                    "iconIndex": 291
+                    "iconIndex": 292
                 },
                 {
                     "name": "Crimson Silk Cloak",
                     "spellID": 8789,
                     "source": "Sold by Xizk Goodstitch in Booty Bay",
                     "icon": "inv_chest_cloth_16",
-                    "iconIndex": 292
+                    "iconIndex": 293
                 },
                 {
                     "name": "Icy Cloak",
                     "spellID": 3862,
                     "source": "Sold by Ghok'kah in Duskwallow Marsh (Brakenwall Village)",
                     "icon": "inv_misc_cape_04",
-                    "iconIndex": 293
+                    "iconIndex": 294
                 },
                 {
                     "name": "Bright Yellow Shirt",
@@ -3583,21 +3590,21 @@
                     "spellID": 3870,
                     "source": "Sold by Sheri Zipstitch in Duskwood (Alliance)\nSold by Mallen Swain in Hillsbrad Foothills (Alliance)",
                     "icon": "inv_shirt_black_01",
-                    "iconIndex": 294
+                    "iconIndex": 295
                 },
                 {
                     "name": "Black Swashbuckler's Shirt",
                     "spellID": 3873,
                     "source": "Sold by Narkk, Booty Bay",
                     "icon": "inv_shirt_black_01",
-                    "iconIndex": 294
+                    "iconIndex": 295
                 },
                 {
                     "name": "Red Linen Bag",
                     "spellID": 6686,
                     "source": "Sold by Andrew Hilbert in Silverpine Forst (Horde)\nSold by Gina MacGregor in Westfall (Alliance)\nSold by Mahu in Thunder Bluff (Horde)\nSold by Rathis Tomber in Ghostlands (Horde)",
                     "icon": "inv_misc_bag_02",
-                    "iconIndex": 295
+                    "iconIndex": 296
                 },
                 {
                     "name": "Red Woolen Bag",
@@ -3618,7 +3625,7 @@
                     "spellID": 7633,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_chest_cloth_23",
-                    "iconIndex": 296
+                    "iconIndex": 297
                 },
                 {
                     "name": "Vicious Embersilk Belt",
@@ -3632,42 +3639,42 @@
                     "spellID": 75302,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_pants_robe_dungeonrobe_c_04",
-                    "iconIndex": 297
+                    "iconIndex": 298
                 },
                 {
                     "name": "Vicious Fireweave Robe",
                     "spellID": 75303,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_chest_robe_dungeonrobe_c_04",
-                    "iconIndex": 298
+                    "iconIndex": 299
                 },
                 {
                     "name": "Vicious Fireweave Cowl",
                     "spellID": 75304,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_helm_robe_dungeonrobe_c_04",
-                    "iconIndex": 299
+                    "iconIndex": 300
                 },
                 {
                     "name": "Vicious Embersilk Robe",
                     "spellID": 75305,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_chest_robe_dungeonrobe_c_04",
-                    "iconIndex": 298
+                    "iconIndex": 299
                 },
                 {
                     "name": "Vicious Embersilk Cowl",
                     "spellID": 75306,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_helm_robe_dungeonrobe_c_04",
-                    "iconIndex": 299
+                    "iconIndex": 300
                 },
                 {
                     "name": "Vicious Embersilk Pants",
                     "spellID": 75307,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_pants_robe_dungeonrobe_c_04",
-                    "iconIndex": 297
+                    "iconIndex": 298
                 },
                 {
                     "name": "Black Embersilk Gown",
@@ -3695,63 +3702,63 @@
                     "spellID": 7639,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_shirt_13",
-                    "iconIndex": 244
+                    "iconIndex": 245
                 },
                 {
                     "name": "Greater Adept's Robe",
                     "spellID": 7643,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_chest_cloth_24",
-                    "iconIndex": 300
+                    "iconIndex": 301
                 },
                 {
                     "name": "Belt of the Depths",
                     "spellID": 75298,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_belt_cloth_raidpriest_i_01",
-                    "iconIndex": 301
+                    "iconIndex": 302
                 },
                 {
                     "name": "Dreamless Belt",
                     "spellID": 75299,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_belt_robe_raidmage_i_01",
-                    "iconIndex": 302
+                    "iconIndex": 303
                 },
                 {
                     "name": "Breeches of Mended Nightmares",
                     "spellID": 75300,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_pant_cloth_raidpriest_i_01",
-                    "iconIndex": 303
+                    "iconIndex": 304
                 },
                 {
                     "name": "Flame-Ascended Pantaloons",
                     "spellID": 75301,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_pants_robe_raidmage_i_01",
-                    "iconIndex": 304
+                    "iconIndex": 305
                 },
                 {
                     "name": "Illusionary Bag",
                     "spellID": 75308,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "inv_misc_bag_37",
-                    "iconIndex": 305
+                    "iconIndex": 306
                 },
                 {
                     "name": "Powerful Ghostly Spellthread",
                     "spellID": 75310,
                     "source": "Sold by Tailoring Supplies",
                     "icon": "spell_nature_astralrecalgroup",
-                    "iconIndex": 306
+                    "iconIndex": 307
                 },
                 {
                     "name": "Azure Silk Cloak",
                     "spellID": 8786,
                     "source": "Sold by Jun'ha in Arathi Highlands (Horde)",
                     "icon": "inv_chest_cloth_14",
-                    "iconIndex": 307
+                    "iconIndex": 308
                 },
                 {
                     "name": "Crimson Silk Robe",
@@ -3765,7 +3772,7 @@
                     "spellID": 26085,
                     "source": "Sold by Vizzklick in Tanaris",
                     "icon": "inv_misc_bag_soulbag",
-                    "iconIndex": 308
+                    "iconIndex": 309
                 },
                 {
                     "name": "Orange Martial Shirt",
@@ -3779,7 +3786,7 @@
                     "spellID": 12075,
                     "source": "Sold by Tailoring Supplies in Orgrimmar (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_shirt_purple_01",
-                    "iconIndex": 309
+                    "iconIndex": 310
                 },
                 {
                     "name": "Pink Mageweave Shirt",
@@ -3814,7 +3821,7 @@
                     "spellID": 12093,
                     "source": "Sold by Tailoring Supplies in Undercity (Horde)\nSold by Tailoring Supplies in Ironforge (Alliance)",
                     "icon": "inv_shirt_black_01",
-                    "iconIndex": 294
+                    "iconIndex": 295
                 },
                 {
                     "name": "White Wedding Dress",
@@ -3835,14 +3842,14 @@
                     "spellID": 18405,
                     "source": "Sold by Qia in Winterspring",
                     "icon": "inv_misc_bag_19",
-                    "iconIndex": 310
+                    "iconIndex": 311
                 },
                 {
                     "name": "Mooncloth",
                     "spellID": 18560,
                     "source": "Sold by Qia in Winterspring",
                     "icon": "inv_fabric_moonrag_01",
-                    "iconIndex": 311
+                    "iconIndex": 312
                 },
                 {
                     "name": "Flarecore Mantle",
@@ -3856,14 +3863,14 @@
                     "spellID": 20849,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_gauntlets_26",
-                    "iconIndex": 312
+                    "iconIndex": 313
                 },
                 {
                     "name": "Flarecore Robe",
                     "spellID": 23666,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "inv_chest_cloth_18",
-                    "iconIndex": 209
+                    "iconIndex": 210
                 },
                 {
                     "name": "Flarecore Leggings",
@@ -3884,56 +3891,56 @@
                     "spellID": 23662,
                     "source": "Sold by Meilosh in Felwood",
                     "icon": "inv_belt_09",
-                    "iconIndex": 313
+                    "iconIndex": 314
                 },
                 {
                     "name": "Mantle of the Timbermaw",
                     "spellID": 23663,
                     "source": "Sold by Meilosh in Felwood",
                     "icon": "inv_shoulder_19",
-                    "iconIndex": 314
+                    "iconIndex": 315
                 },
                 {
                     "name": "Argent Boots",
                     "spellID": 23664,
                     "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nSold by Argent Quartermaster Lightspark in Western Plaguelands\nSold by Quartermaster Miranda Breechlock in Eastern Plaguelands",
                     "icon": "inv_boots_cloth_03",
-                    "iconIndex": 269
+                    "iconIndex": 270
                 },
                 {
                     "name": "Argent Shoulders",
                     "spellID": 23665,
                     "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades\nSold by Argent Quartermaster Lightspark in Western Plaguelands\nSold by Quartermaster Miranda Breechlock in Eastern Plaguelands",
                     "icon": "inv_shoulder_13",
-                    "iconIndex": 315
+                    "iconIndex": 316
                 },
                 {
                     "name": "Bolt of Imbued Netherweave",
                     "spellID": 26747,
                     "source": "Sold by Eiin in Shattrath City (Neutral)\nSold by Deynna in Silvermoon City (Horde)\nSold by Neii in The Exodar (Alliance)",
                     "icon": "inv_fabric_netherweave_bolt_imbued",
-                    "iconIndex": 316
+                    "iconIndex": 317
                 },
                 {
                     "name": "Imbued Netherweave Bag",
                     "spellID": 26749,
                     "source": "Sold by Eiin in Shattrath City (Neutral)\nSold by Mathar G'ochar in Nagrand (Horde)",
                     "icon": "inv_misc_bag_24_netherweave_imbued",
-                    "iconIndex": 317
+                    "iconIndex": 318
                 },
                 {
                     "name": "Bolt of Soulcloth",
                     "spellID": 26750,
                     "source": "Sold by Borto in Nagrand (Alliance)\nSold by Mathar G'ochar in Nagrand (Horde)\nSold by Deynna in Silvermoon City (Horde)\nSold by Neii in The Exodar (Alliance)",
                     "icon": "inv_fabric_soulcloth_bolt",
-                    "iconIndex": 318
+                    "iconIndex": 319
                 },
                 {
                     "name": "Primal Mooncloth",
                     "spellID": 26751,
                     "source": "Sold by Ainderu Summerleaf in Dalaran",
                     "icon": "inv_fabric_moonrag_primal",
-                    "iconIndex": 319
+                    "iconIndex": 320
                 },
                 {
                     "name": "Primal Mooncloth Belt",
@@ -3961,7 +3968,7 @@
                     "spellID": 26763,
                     "source": "Sold by Ainderu Summerleaf in Dalaran",
                     "icon": "inv_misc_bag_25_mooncloth",
-                    "iconIndex": 320
+                    "iconIndex": 321
                 },
                 {
                     "name": "Spellfire Belt",
@@ -3975,7 +3982,7 @@
                     "spellID": 26753,
                     "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_gauntlets_19",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Spellfire Robe",
@@ -3989,14 +3996,14 @@
                     "spellID": 26755,
                     "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_misc_bag_26_spellfire",
-                    "iconIndex": 321
+                    "iconIndex": 322
                 },
                 {
                     "name": "Spellcloth",
                     "spellID": 31373,
                     "source": "Sold by Gidge Spellweave in Shattrath\nSold by Lalla Brightweave in Dalaran",
                     "icon": "inv_fabric_spellfire",
-                    "iconIndex": 322
+                    "iconIndex": 323
                 },
                 {
                     "name": "Frozen Shadoweave Shoulders",
@@ -4010,7 +4017,7 @@
                     "spellID": 26757,
                     "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_boots_cloth_03",
-                    "iconIndex": 269
+                    "iconIndex": 270
                 },
                 {
                     "name": "Frozen Shadoweave Robe",
@@ -4024,21 +4031,21 @@
                     "spellID": 36686,
                     "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_fabric_felcloth_ebon",
-                    "iconIndex": 323
+                    "iconIndex": 324
                 },
                 {
                     "name": "Ebon Shadowbag",
                     "spellID": 26759,
                     "source": "Sold by Andrion Darkspinner in Shattrath City\nSold by Linna Bruder in Dalaran",
                     "icon": "inv_misc_bag_felclothbag",
-                    "iconIndex": 324
+                    "iconIndex": 325
                 },
                 {
                     "name": "Netherweave Robe",
                     "spellID": 26773,
                     "source": "Sold by Eiin in Shattrath City (Neutral)",
                     "icon": "inv_chest_cloth_29",
-                    "iconIndex": 325
+                    "iconIndex": 326
                 },
                 {
                     "name": "Netherweave Tunic",
@@ -4052,42 +4059,42 @@
                     "spellID": 26775,
                     "source": "Sold by Muheru the Weaver in Zangarmarsh (Alliance)\nSold by Zurai in Zangarmarsh (Horde)",
                     "icon": "inv_pants_leather_09",
-                    "iconIndex": 326
+                    "iconIndex": 327
                 },
                 {
                     "name": "Imbued Netherweave Boots",
                     "spellID": 26776,
                     "source": "Sold by Muheru the Weaver in Zangarmarsh (Alliance)\nSold by Zurai in Zangarmarsh (Horde)",
                     "icon": "inv_boots_07",
-                    "iconIndex": 255
+                    "iconIndex": 256
                 },
                 {
                     "name": "Imbued Netherweave Robe",
                     "spellID": 26777,
                     "source": "Sold by Arrond in Shadowmoon Valley (Neutral)",
                     "icon": "inv_chest_cloth_12",
-                    "iconIndex": 263
+                    "iconIndex": 264
                 },
                 {
                     "name": "Imbued Netherweave Tunic",
                     "spellID": 26778,
                     "source": "Sold by Arrond in Shadowmoon Valley (Neutral)",
                     "icon": "inv_chest_cloth_45",
-                    "iconIndex": 327
+                    "iconIndex": 328
                 },
                 {
                     "name": "Soulcloth Gloves",
                     "spellID": 26779,
                     "source": "Sold by Borto in Nagrand (Alliance)\nSold by Mathar G'ochar in Nagrand (Horde)",
                     "icon": "inv_gauntlets_17",
-                    "iconIndex": 290
+                    "iconIndex": 291
                 },
                 {
                     "name": "Enchanted Runecloth Bag",
                     "spellID": 27659,
                     "source": "Sold by Kania in Silithus",
                     "icon": "inv_misc_bag_enchantedrunecloth",
-                    "iconIndex": 328
+                    "iconIndex": 329
                 },
                 {
                     "name": "Dress Shoes",
@@ -4101,7 +4108,7 @@
                     "spellID": 50644,
                     "source": "Sold by Haughty Modiste in Tanaris",
                     "icon": "inv_shirt_black_01",
-                    "iconIndex": 294
+                    "iconIndex": 295
                 },
                 {
                     "name": "Haliscan Pantaloons",
@@ -4115,259 +4122,259 @@
                     "spellID": 75597,
                     "source": "Sold by Frozo the Renowned in Dalaran",
                     "icon": "ability_mount_frostyflyingcarpet",
-                    "iconIndex": 329
+                    "iconIndex": 330
                 },
                 {
                     "name": "Luxurious Silk Gem Bag",
                     "spellID": 100585,
                     "source": "Sold by Ayla Shadowstorm in Molten Front",
                     "icon": "inv_misc_bag_22",
-                    "iconIndex": 330
+                    "iconIndex": 331
                 },
                 {
                     "name": "Contender's Silk Cowl",
                     "spellID": 125531,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helmet_cloth_dungeoncloth_c_06",
-                    "iconIndex": 331
+                    "iconIndex": 332
                 },
                 {
                     "name": "Contender's Silk Amice",
                     "spellID": 125532,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_cloth_dungeoncloth_c_06",
-                    "iconIndex": 332
+                    "iconIndex": 333
                 },
                 {
                     "name": "Contender's Silk Raiment",
                     "spellID": 125533,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_cloth_dungeoncloth_c_06",
-                    "iconIndex": 333
+                    "iconIndex": 334
                 },
                 {
                     "name": "Contender's Silk Handwraps",
                     "spellID": 125534,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_gauntlets_cloth_dungeoncloth_c_06",
-                    "iconIndex": 334
+                    "iconIndex": 335
                 },
                 {
                     "name": "Contender's Silk Pants",
                     "spellID": 125535,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pants_cloth_dungeoncloth_c_06",
-                    "iconIndex": 335
+                    "iconIndex": 336
                 },
                 {
                     "name": "Contender's Silk Cuffs",
                     "spellID": 125536,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_cloth_dungeoncloth_c_06",
-                    "iconIndex": 336
+                    "iconIndex": 337
                 },
                 {
                     "name": "Contender's Silk Footwraps",
                     "spellID": 125537,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boots_cloth_dungeoncloth_c_06",
-                    "iconIndex": 337
+                    "iconIndex": 338
                 },
                 {
                     "name": "Contender's Silk Belt",
                     "spellID": 125538,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_cloth_dungeoncloth_c_06",
-                    "iconIndex": 338
+                    "iconIndex": 339
                 },
                 {
                     "name": "Contender's Satin Cowl",
                     "spellID": 125539,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_helmet_cloth_dungeoncloth_c_06",
-                    "iconIndex": 331
+                    "iconIndex": 332
                 },
                 {
                     "name": "Contender's Satin Amice",
                     "spellID": 125540,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_shoulder_cloth_dungeoncloth_c_06",
-                    "iconIndex": 332
+                    "iconIndex": 333
                 },
                 {
                     "name": "Contender's Satin Raiment",
                     "spellID": 125541,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_chest_cloth_dungeoncloth_c_06",
-                    "iconIndex": 333
+                    "iconIndex": 334
                 },
                 {
                     "name": "Contender's Satin Handwraps",
                     "spellID": 125542,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_gauntlets_cloth_dungeoncloth_c_06",
-                    "iconIndex": 334
+                    "iconIndex": 335
                 },
                 {
                     "name": "Contender's Satin Pants",
                     "spellID": 125543,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_pants_cloth_dungeoncloth_c_06",
-                    "iconIndex": 335
+                    "iconIndex": 336
                 },
                 {
                     "name": "Contender's Satin Cuffs",
                     "spellID": 125544,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_bracer_cloth_dungeoncloth_c_06",
-                    "iconIndex": 336
+                    "iconIndex": 337
                 },
                 {
                     "name": "Contender's Satin Footwraps",
                     "spellID": 125545,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_boots_cloth_dungeoncloth_c_06",
-                    "iconIndex": 337
+                    "iconIndex": 338
                 },
                 {
                     "name": "Contender's Satin Belt",
                     "spellID": 125546,
                     "source": "Sold by Esha the Loommaiden in Shrine of Two Moons (Horde)\nSold by Raishen the Needle in Shrine of Seven Stars (Alliance)",
                     "icon": "inv_belt_cloth_dungeoncloth_c_06",
-                    "iconIndex": 338
+                    "iconIndex": 339
                 },
                 {
                     "name": "Hexweave Embroidery",
                     "spellID": 168836,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_hexweavecloth",
-                    "iconIndex": 339
+                    "iconIndex": 340
                 },
                 {
                     "name": "Hexweave Mantle",
                     "spellID": 168837,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01shoulders",
-                    "iconIndex": 340
+                    "iconIndex": 341
                 },
                 {
                     "name": "Hexweave Cowl",
                     "spellID": 168838,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01helm",
-                    "iconIndex": 341
+                    "iconIndex": 342
                 },
                 {
                     "name": "Hexweave Leggings",
                     "spellID": 168839,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01pants",
-                    "iconIndex": 342
+                    "iconIndex": 343
                 },
                 {
                     "name": "Hexweave Gloves",
                     "spellID": 168840,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01gloves",
-                    "iconIndex": 343
+                    "iconIndex": 344
                 },
                 {
                     "name": "Hexweave Robe",
                     "spellID": 168841,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01robe",
-                    "iconIndex": 344
+                    "iconIndex": 345
                 },
                 {
                     "name": "Hexweave Bracers",
                     "spellID": 168842,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01bracer",
-                    "iconIndex": 345
+                    "iconIndex": 346
                 },
                 {
                     "name": "Hexweave Slippers",
                     "spellID": 168843,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01boots",
-                    "iconIndex": 346
+                    "iconIndex": 347
                 },
                 {
                     "name": "Hexweave Belt",
                     "spellID": 168844,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cloth_draenorcrafted_d_01belt",
-                    "iconIndex": 347
+                    "iconIndex": 348
                 },
                 {
                     "name": "Hexweave Essence",
                     "spellID": 168855,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoringdye_orange",
-                    "iconIndex": 348
+                    "iconIndex": 349
                 },
                 {
                     "name": "Creeping Carpet",
                     "spellID": 168850,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_blackcarpet",
-                    "iconIndex": 349
+                    "iconIndex": 350
                 },
                 {
                     "name": "Hexweave Bag",
                     "spellID": 168848,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_hexweavebag",
-                    "iconIndex": 350
+                    "iconIndex": 351
                 },
                 {
                     "name": "Elekk Plushie",
                     "spellID": 168849,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_tailoring_elekkplushie",
-                    "iconIndex": 351
+                    "iconIndex": 352
                 },
                 {
                     "name": "Powerful Hexweave Cloak",
                     "spellID": 168845,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cape_draenorcraftedcaster_d_01red",
-                    "iconIndex": 352
+                    "iconIndex": 353
                 },
                 {
                     "name": "Nimble Hexweave Cloak",
                     "spellID": 168846,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cape_draenorcraftedcaster_d_01red",
-                    "iconIndex": 352
+                    "iconIndex": 353
                 },
                 {
                     "name": "Brilliant Hexweave Cloak",
                     "spellID": 168847,
                     "source": "Purchased with Secrets of Draenor Tailoring\nVendor located in Garrison or Ashran",
                     "icon": "inv_cape_draenorcraftedcaster_d_01red",
-                    "iconIndex": 352
+                    "iconIndex": 353
                 },
                 {
                     "name": "Primal Weaving",
                     "spellID": 182123,
                     "source": "Sold by Fur Trader in Garrison",
                     "icon": "inv_tailoring_hexweavethread",
-                    "iconIndex": 251
+                    "iconIndex": 252
                 },
                 {
                     "name": "Mighty Hexweave Essence",
                     "spellID": 187492,
                     "source": "Sold by Fur Trader in Garrison",
                     "icon": "inv_tailoringdye_red",
-                    "iconIndex": 353
+                    "iconIndex": 354
                 },
                 {
                     "name": "Savage Hexweave Essence",
                     "spellID": 187516,
                     "source": "Sold by Fur Trader in Garrison",
                     "icon": "inv_tailoringdye_red",
-                    "iconIndex": 353
+                    "iconIndex": 354
                 }
             ]
         },
@@ -4391,280 +4398,280 @@
                     "spellID": 137907,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cape of Prowess",
                     "spellID": 137908,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cord of Cruelty",
                     "spellID": 137909,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_belt_robe_pvpmage_e_01",
-                    "iconIndex": 355
+                    "iconIndex": 356
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cord of Accuracy",
                     "spellID": 137910,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_belt_pvpwarlock_e_01",
-                    "iconIndex": 356
+                    "iconIndex": 357
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cord of Meditation",
                     "spellID": 137911,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_belt_cloth_raidpriest_l_01",
-                    "iconIndex": 357
+                    "iconIndex": 358
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Treads of Cruelty",
                     "spellID": 137912,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_boot_robe_pvpmage_e_01",
-                    "iconIndex": 358
+                    "iconIndex": 359
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Treads of Alacrity",
                     "spellID": 137913,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_boots_pvpwarlock_e_01",
-                    "iconIndex": 359
+                    "iconIndex": 360
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Treads of Meditation",
                     "spellID": 137914,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_boot_cloth_raidpriest_l_01",
-                    "iconIndex": 360
+                    "iconIndex": 361
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cuffs of Accuracy",
                     "spellID": 137915,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_bracer_pvpwarlock_e_01",
-                    "iconIndex": 361
+                    "iconIndex": 362
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cuffs of Prowess",
                     "spellID": 137916,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_bracer_robe_pvpmage_e_01",
-                    "iconIndex": 362
+                    "iconIndex": 363
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cuffs of Meditation",
                     "spellID": 137917,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_bracer_cloth_raidpriest_l_01",
-                    "iconIndex": 363
+                    "iconIndex": 364
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Drape of Cruelty",
                     "spellID": 137918,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_01",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Drape of Prowess",
                     "spellID": 137919,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_01",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Drape of Meditation",
                     "spellID": 137920,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_01",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Silk Handguards",
                     "spellID": 137921,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_glove_robe_pvpmage_e_01",
-                    "iconIndex": 365
+                    "iconIndex": 366
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Silk Cowl",
                     "spellID": 137922,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_helm_robe_pvpmage_e_01",
-                    "iconIndex": 366
+                    "iconIndex": 367
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Silk Trousers",
                     "spellID": 137923,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_pant_robe_pvpmage_e_01",
-                    "iconIndex": 367
+                    "iconIndex": 368
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Silk Robe",
                     "spellID": 137924,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_chest_robe_pvpmage_e_01",
-                    "iconIndex": 368
+                    "iconIndex": 369
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Silk Amice",
                     "spellID": 137925,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_shoulder_robe_pvpmage_e_01",
-                    "iconIndex": 369
+                    "iconIndex": 370
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Mooncloth Gloves",
                     "spellID": 137926,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_gauntlet_cloth_raidpriest_l_01",
-                    "iconIndex": 370
+                    "iconIndex": 371
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Mooncloth Helm",
                     "spellID": 137927,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_helm_cloth_raidpriest_l_01",
-                    "iconIndex": 371
+                    "iconIndex": 372
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Mooncloth Leggings",
                     "spellID": 137928,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_pant_cloth_raidpriest_l_01",
-                    "iconIndex": 372
+                    "iconIndex": 373
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Mooncloth Robe",
                     "spellID": 137929,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_robe_cloth_raidpriest_l_01",
-                    "iconIndex": 373
+                    "iconIndex": 374
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Mooncloth Mantle",
                     "spellID": 137930,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_shoulder_cloth_raidpriest_l_01",
-                    "iconIndex": 374
+                    "iconIndex": 375
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Satin Gloves",
                     "spellID": 137931,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_gauntlet_cloth_raidpriest_l_01",
-                    "iconIndex": 370
+                    "iconIndex": 371
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Satin Hood",
                     "spellID": 137932,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_helm_cloth_raidpriest_l_01",
-                    "iconIndex": 371
+                    "iconIndex": 372
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Satin Leggings",
                     "spellID": 137933,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_pant_cloth_raidpriest_l_01",
-                    "iconIndex": 372
+                    "iconIndex": 373
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Satin Robe",
                     "spellID": 137934,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_robe_cloth_raidpriest_l_01",
-                    "iconIndex": 373
+                    "iconIndex": 374
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Satin Mantle",
                     "spellID": 137935,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_shoulder_cloth_raidpriest_l_01",
-                    "iconIndex": 374
+                    "iconIndex": 375
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cloak of Alacrity",
                     "spellID": 137936,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Cloak of Prowess",
                     "spellID": 137937,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Felweave Handguards",
                     "spellID": 137938,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_glove_pvpwarlock_e_01",
-                    "iconIndex": 375
+                    "iconIndex": 376
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Felweave Cowl",
                     "spellID": 137939,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_helmet_pvpwarlock_e_01",
-                    "iconIndex": 376
+                    "iconIndex": 377
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Felweave Trousers",
                     "spellID": 137940,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_pant_pvpwarlock_e_01",
-                    "iconIndex": 377
+                    "iconIndex": 378
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Felweave Raiment",
                     "spellID": 137941,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_chest_pvpwarlock_e_01",
-                    "iconIndex": 378
+                    "iconIndex": 379
                 },
                 {
                     "name": "Crafted Dreadful Gladiator's Felweave Amice",
                     "spellID": 137942,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_shoulder_pvpwarlock_e_01",
-                    "iconIndex": 379
+                    "iconIndex": 380
                 },
                 {
                     "name": "Falling Blossom Treads",
                     "spellID": 138597,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_boot_cloth_raidmage_m_01",
-                    "iconIndex": 380
+                    "iconIndex": 381
                 },
                 {
                     "name": "Falling Blossom Cowl",
                     "spellID": 138598,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_helm_cloth_raidmage_m_01",
-                    "iconIndex": 381
+                    "iconIndex": 382
                 },
                 {
                     "name": "Falling Blossom Sandals",
                     "spellID": 138599,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cloth_raidpriest_m_01boot",
-                    "iconIndex": 382
+                    "iconIndex": 383
                 },
                 {
                     "name": "Falling Blossom Hood",
                     "spellID": 138600,
                     "source": "Discovered when crafting Imperial Silk",
                     "icon": "inv_cloth_raidpriest_m_01helm",
-                    "iconIndex": 383
+                    "iconIndex": 384
                 }
             ]
         },
@@ -4676,280 +4683,280 @@
                     "spellID": 142951,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_pants_robe_panprog_b_01",
-                    "iconIndex": 384
+                    "iconIndex": 385
                 },
                 {
                     "name": "Leggings of the Night Sky",
                     "spellID": 142955,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_pants_robe_panprog_b_01",
-                    "iconIndex": 384
+                    "iconIndex": 385
                 },
                 {
                     "name": "White Cloud Belt",
                     "spellID": 142960,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_belt_robe_panprog_b_01",
-                    "iconIndex": 385
+                    "iconIndex": 386
                 },
                 {
                     "name": "Belt of the Night Sky",
                     "spellID": 142964,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_belt_robe_panprog_b_01",
-                    "iconIndex": 385
+                    "iconIndex": 386
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cape of Cruelty",
                     "spellID": 143053,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cape of Prowess",
                     "spellID": 143054,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cord of Cruelty",
                     "spellID": 143055,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_belt_robe_pvpmage_e_01",
-                    "iconIndex": 355
+                    "iconIndex": 356
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cord of Accuracy",
                     "spellID": 143056,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_belt_pvpwarlock_e_01",
-                    "iconIndex": 356
+                    "iconIndex": 357
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cord of Meditation",
                     "spellID": 143057,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_belt_cloth_raidpriest_l_01",
-                    "iconIndex": 357
+                    "iconIndex": 358
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Treads of Cruelty",
                     "spellID": 143058,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_boot_robe_pvpmage_e_01",
-                    "iconIndex": 358
+                    "iconIndex": 359
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Treads of Alacrity",
                     "spellID": 143059,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_boots_pvpwarlock_e_01",
-                    "iconIndex": 359
+                    "iconIndex": 360
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Treads of Meditation",
                     "spellID": 143060,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_boot_cloth_raidpriest_l_01",
-                    "iconIndex": 360
+                    "iconIndex": 361
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cuffs of Accuracy",
                     "spellID": 143061,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_bracer_pvpwarlock_e_01",
-                    "iconIndex": 361
+                    "iconIndex": 362
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cuffs of Prowess",
                     "spellID": 143062,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_bracer_robe_pvpmage_e_01",
-                    "iconIndex": 362
+                    "iconIndex": 363
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cuffs of Meditation",
                     "spellID": 143063,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_bracer_cloth_raidpriest_l_01",
-                    "iconIndex": 363
+                    "iconIndex": 364
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Drape of Cruelty",
                     "spellID": 143064,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_01",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Drape of Prowess",
                     "spellID": 143065,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_01",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Drape of Meditation",
                     "spellID": 143066,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_01",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Silk Handguards",
                     "spellID": 143067,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_glove_robe_pvpmage_e_01",
-                    "iconIndex": 365
+                    "iconIndex": 366
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Silk Cowl",
                     "spellID": 143068,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_helm_robe_pvpmage_e_01",
-                    "iconIndex": 366
+                    "iconIndex": 367
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Silk Trousers",
                     "spellID": 143069,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_pant_robe_pvpmage_e_01",
-                    "iconIndex": 367
+                    "iconIndex": 368
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Silk Robe",
                     "spellID": 143070,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_chest_robe_pvpmage_e_01",
-                    "iconIndex": 368
+                    "iconIndex": 369
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Silk Amice",
                     "spellID": 143071,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_shoulder_robe_pvpmage_e_01",
-                    "iconIndex": 369
+                    "iconIndex": 370
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Mooncloth Gloves",
                     "spellID": 143072,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_gauntlet_cloth_raidpriest_l_01",
-                    "iconIndex": 370
+                    "iconIndex": 371
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Mooncloth Helm",
                     "spellID": 143073,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_helm_cloth_raidpriest_l_01",
-                    "iconIndex": 371
+                    "iconIndex": 372
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Mooncloth Leggings",
                     "spellID": 143074,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_pant_cloth_raidpriest_l_01",
-                    "iconIndex": 372
+                    "iconIndex": 373
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Mooncloth Robe",
                     "spellID": 143075,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_robe_cloth_raidpriest_l_01",
-                    "iconIndex": 373
+                    "iconIndex": 374
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Mooncloth Mantle",
                     "spellID": 143076,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_shoulder_cloth_raidpriest_l_01",
-                    "iconIndex": 374
+                    "iconIndex": 375
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Satin Gloves",
                     "spellID": 143077,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_gauntlet_cloth_raidpriest_l_01",
-                    "iconIndex": 370
+                    "iconIndex": 371
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Satin Hood",
                     "spellID": 143078,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_helm_cloth_raidpriest_l_01",
-                    "iconIndex": 371
+                    "iconIndex": 372
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Satin Leggings",
                     "spellID": 143079,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_pant_cloth_raidpriest_l_01",
-                    "iconIndex": 372
+                    "iconIndex": 373
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Satin Robe",
                     "spellID": 143080,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_robe_cloth_raidpriest_l_01",
-                    "iconIndex": 373
+                    "iconIndex": 374
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Satin Mantle",
                     "spellID": 143081,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_shoulder_cloth_raidpriest_l_01",
-                    "iconIndex": 374
+                    "iconIndex": 375
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cloak of Alacrity",
                     "spellID": 143082,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Cloak of Prowess",
                     "spellID": 143083,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_cape_pandariapvp_d_02",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Felweave Handguards",
                     "spellID": 143084,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_glove_pvpwarlock_e_01",
-                    "iconIndex": 375
+                    "iconIndex": 376
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Felweave Cowl",
                     "spellID": 143085,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_helmet_pvpwarlock_e_01",
-                    "iconIndex": 376
+                    "iconIndex": 377
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Felweave Trousers",
                     "spellID": 143086,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_pant_pvpwarlock_e_01",
-                    "iconIndex": 377
+                    "iconIndex": 378
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Felweave Raiment",
                     "spellID": 143087,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_chest_pvpwarlock_e_01",
-                    "iconIndex": 378
+                    "iconIndex": 379
                 },
                 {
                     "name": "Crafted Malevolent Gladiator's Felweave Amice",
                     "spellID": 143088,
                     "source": "Discovered when crafting Celestial Cloth",
                     "icon": "inv_shoulder_pvpwarlock_e_01",
-                    "iconIndex": 379
+                    "iconIndex": 380
                 }
             ]
         },
@@ -4961,21 +4968,21 @@
                     "spellID": 27724,
                     "source": "Sold by Mishta in Silithus (Requires Friendly)",
                     "icon": "inv_misc_bag_cenarionherbbag",
-                    "iconIndex": 386
+                    "iconIndex": 387
                 },
                 {
                     "name": "Satchel of Cenarius",
                     "spellID": 27725,
                     "source": "Sold by Mishta in Silithus (Requires Revered)",
                     "icon": "inv_misc_bag_satchelofcenarius",
-                    "iconIndex": 387
+                    "iconIndex": 388
                 },
                 {
                     "name": "Sylvan Vest",
                     "spellID": 28480,
                     "source": "Sold by Mishta in Silithus (Requires Revered)",
                     "icon": "inv_chest_plate07",
-                    "iconIndex": 388
+                    "iconIndex": 389
                 },
                 {
                     "name": "Sylvan Crown",
@@ -4996,7 +5003,7 @@
                     "spellID": 28210,
                     "source": "Sold by Mishta in Silithus (Requires Revered)",
                     "icon": "inv_misc_cape_17",
-                    "iconIndex": 389
+                    "iconIndex": 390
                 }
             ]
         },
@@ -5015,7 +5022,7 @@
                     "spellID": 31432,
                     "source": "Sold by Quartermaster Enuril (Requires Exalted)",
                     "icon": "spell_nature_astralrecalgroup",
-                    "iconIndex": 306
+                    "iconIndex": 307
                 }
             ]
         },
@@ -5027,14 +5034,14 @@
                     "spellID": 31431,
                     "source": "Sold by Quartermaster Endarin (Requires Honored)",
                     "icon": "spell_nature_lightning",
-                    "iconIndex": 390
+                    "iconIndex": 391
                 },
                 {
                     "name": "Golden Spellthread",
                     "spellID": 31433,
                     "source": "Sold by Quartermaster Endarin (Requires Exalted)",
                     "icon": "spell_holy_restoration",
-                    "iconIndex": 391
+                    "iconIndex": 392
                 },
                 {
                     "name": "Flameheart Bracers",
@@ -5048,14 +5055,14 @@
                     "spellID": 37883,
                     "source": "Sold by Quatermaster Endarin (Requires Honored)",
                     "icon": "inv_gauntlets_19",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Flameheart Vest",
                     "spellID": 37884,
                     "source": "Sold by Quatermaster Endarin (Requires Exalted)",
                     "icon": "inv_chest_cloth_07",
-                    "iconIndex": 230
+                    "iconIndex": 231
                 }
             ]
         },
@@ -5067,7 +5074,7 @@
                     "spellID": 31459,
                     "source": "Sold by Karaaz in Netherstorm\nSold by Paulsta'ats in Nagrand",
                     "icon": "inv_misc_bag_15",
-                    "iconIndex": 392
+                    "iconIndex": 393
                 }
             ]
         },
@@ -5091,35 +5098,35 @@
                     "spellID": 40020,
                     "source": "Sold by Okuno in Black Temple (Requires Honored)",
                     "icon": "inv_boots_cloth_10",
-                    "iconIndex": 393
+                    "iconIndex": 394
                 },
                 {
                     "name": "Soulguard Bracers",
                     "spellID": 40021,
                     "source": "Sold by Okuno in Black Temple (Requires Friendly)",
                     "icon": "inv_bracer_09",
-                    "iconIndex": 261
+                    "iconIndex": 262
                 },
                 {
                     "name": "Soulguard Leggings",
                     "spellID": 40023,
                     "source": "Sold by Okuno in Black Temple (Requires Honored)",
                     "icon": "inv_pants_cloth_09",
-                    "iconIndex": 394
+                    "iconIndex": 395
                 },
                 {
                     "name": "Soulguard Girdle",
                     "spellID": 40024,
                     "source": "Sold by Okuno in Black Temple (Requires Friendly)",
                     "icon": "inv_belt_07",
-                    "iconIndex": 395
+                    "iconIndex": 396
                 },
                 {
                     "name": "Night's End",
                     "spellID": 40060,
                     "source": "Sold by Okuno in Black Temple (Requires Honored)",
                     "icon": "inv_misc_cape_20",
-                    "iconIndex": 240
+                    "iconIndex": 241
                 }
             ]
         },
@@ -5131,7 +5138,7 @@
                     "spellID": 50194,
                     "source": "Sold by Mycah in Zangarmarsh (Requires Revered)",
                     "icon": "inv_misc_bag_27",
-                    "iconIndex": 396
+                    "iconIndex": 397
                 }
             ]
         },
@@ -5143,7 +5150,7 @@
                     "spellID": 56004,
                     "source": "Sold by Duchess Mynx in Icecrown (Requires Revered)",
                     "icon": "inv_misc_bag_corefelclothbag",
-                    "iconIndex": 262
+                    "iconIndex": 263
                 }
             ]
         },
@@ -5155,7 +5162,7 @@
                     "spellID": 56005,
                     "source": "Sold by Lillehoff in The Storm Peaks (Requires Exalted)",
                     "icon": "inv_misc_bag_enchantedrunecloth",
-                    "iconIndex": 328
+                    "iconIndex": 329
                 }
             ]
         },
@@ -5167,7 +5174,7 @@
                     "spellID": 56006,
                     "source": "Sold by Cielstrasza in Dragonblight (Requires Revered)",
                     "icon": "inv_misc_bag_17",
-                    "iconIndex": 397
+                    "iconIndex": 398
                 }
             ]
         },
@@ -5179,7 +5186,7 @@
                     "spellID": 56009,
                     "source": "Sold by Veteran Crusader Aliocha Segard (Requires Exalted)",
                     "icon": "spell_nature_astralrecalgroup",
-                    "iconIndex": 306
+                    "iconIndex": 307
                 }
             ]
         },
@@ -5191,7 +5198,7 @@
                     "spellID": 56011,
                     "source": "Sold by Archmage Alvareaux in Dalaran (Requires Exalted)",
                     "icon": "spell_nature_astralrecalgroup",
-                    "iconIndex": 306
+                    "iconIndex": 307
                 }
             ]
         },
@@ -5203,7 +5210,7 @@
                     "spellID": 63924,
                     "source": "Sold by Sairuk in Dragonblight (Requires Revered)\nSold by Tanaika in Howling Fjord (Requires Revered)",
                     "icon": "inv_misc_bag_18",
-                    "iconIndex": 398
+                    "iconIndex": 399
                 }
             ]
         },
@@ -5215,28 +5222,28 @@
                     "spellID": 70550,
                     "source": "Sold by Alchemist Finklestein (Requires Revered)",
                     "icon": "inv_pants_cloth_34",
-                    "iconIndex": 399
+                    "iconIndex": 400
                 },
                 {
                     "name": "Lightweave Leggings",
                     "spellID": 70552,
                     "source": "Sold by Alchemist Finklestein (Requires Revered)",
                     "icon": "inv_pants_cloth_12",
-                    "iconIndex": 258
+                    "iconIndex": 259
                 },
                 {
                     "name": "Deathfrost Boots",
                     "spellID": 70551,
                     "source": "Sold by Alchemist Finklestein (Requires Honored)",
                     "icon": "inv_boots_cloth_25",
-                    "iconIndex": 400
+                    "iconIndex": 401
                 },
                 {
                     "name": "Sandals of Consecration",
                     "spellID": 70553,
                     "source": "Sold by Alchemist Finklestein (Requires Honored)",
                     "icon": "inv_boots_cloth_26",
-                    "iconIndex": 401
+                    "iconIndex": 402
                 }
             ]
         },
@@ -5248,42 +5255,42 @@
                     "spellID": 125547,
                     "source": "Sold by Jaluu the Generous in Vale of Eternal Blossoms (Requires Honored)",
                     "icon": "inv_robe_raidmage_l_01",
-                    "iconIndex": 286
+                    "iconIndex": 287
                 },
                 {
                     "name": "Spelltwister's Gloves",
                     "spellID": 125548,
                     "source": "Sold by Jaluu the Generous in Vale of Eternal Blossoms (Requires Honored)",
                     "icon": "inv_glove_raidmage_l_01",
-                    "iconIndex": 402
+                    "iconIndex": 403
                 },
                 {
                     "name": "Robes of Creation",
                     "spellID": 125549,
                     "source": "Sold by Jaluu the Generous in Vale of Eternal Blossoms (Requires Honored)",
                     "icon": "inv_chest_cloth_panda_b_01_red",
-                    "iconIndex": 403
+                    "iconIndex": 404
                 },
                 {
                     "name": "Gloves of Creation",
                     "spellID": 125550,
                     "source": "Sold by Jaluu the Generous in Vale of Eternal Blossoms (Requires Honored)",
                     "icon": "inv_gauntlets_cloth_reputation_c_01",
-                    "iconIndex": 404
+                    "iconIndex": 405
                 },
                 {
                     "name": "Greater Pearlescent Spellthread",
                     "spellID": 125554,
                     "source": "Sold by Jaluu the Generous in Vale of Eternal Blossoms (Requires Honored)",
                     "icon": "inv_belt_42c",
-                    "iconIndex": 405
+                    "iconIndex": 406
                 },
                 {
                     "name": "Greater Cerulean Spellthread",
                     "spellID": 125555,
                     "source": "Sold by Jaluu the Generous in Vale of Eternal Blossoms (Requires Honored)",
                     "icon": "inv_belt_42",
-                    "iconIndex": 183
+                    "iconIndex": 184
                 }
             ]
         },
@@ -5307,14 +5314,14 @@
                     "spellID": 26403,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_chest_cloth_56",
-                    "iconIndex": 406
+                    "iconIndex": 407
                 },
                 {
                     "name": "Festival Suit",
                     "spellID": 26407,
                     "source": "Sold by Fariel Starsong in Moonglade",
                     "icon": "inv_chest_cloth_55",
-                    "iconIndex": 407
+                    "iconIndex": 408
                 }
             ]
         },
@@ -5333,14 +5340,14 @@
                     "spellID": 44950,
                     "source": "Sold by Smokywood Pastures vendors",
                     "icon": "inv_chest_christmas01",
-                    "iconIndex": 408
+                    "iconIndex": 409
                 },
                 {
                     "name": "Red Winter Clothes",
                     "spellID": 44958,
                     "source": "Sold by Smokywood Pastures vendors",
                     "icon": "inv_chest_christmas02",
-                    "iconIndex": 409
+                    "iconIndex": 410
                 }
             ]
         },
@@ -5352,14 +5359,14 @@
                     "spellID": 6692,
                     "source": "Auction House",
                     "icon": "inv_chest_cloth_29",
-                    "iconIndex": 325
+                    "iconIndex": 326
                 },
                 {
                     "name": "Shadoweave Mask",
                     "spellID": 12086,
                     "source": "Auction House",
                     "icon": "inv_helmet_27",
-                    "iconIndex": 213
+                    "iconIndex": 214
                 },
                 {
                     "name": "Robe of the Void",
@@ -5380,70 +5387,70 @@
                     "spellID": 18436,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_cloth_49",
-                    "iconIndex": 410
+                    "iconIndex": 411
                 },
                 {
                     "name": "Gordok Ogre Suit",
                     "spellID": 22813,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_chain_14",
-                    "iconIndex": 411
+                    "iconIndex": 412
                 },
                 {
                     "name": "Felcloth Gloves",
                     "spellID": 22867,
                     "source": "Currently Unobtainable",
                     "icon": "inv_gauntlets_19",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Inferno Gloves",
                     "spellID": 22868,
                     "source": "Currently Unobtainable",
                     "icon": "inv_gauntlets_19",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Mooncloth Gloves",
                     "spellID": 22869,
                     "source": "Currently Unobtainable",
                     "icon": "inv_gauntlets_17",
-                    "iconIndex": 290
+                    "iconIndex": 291
                 },
                 {
                     "name": "Cloak of Warding",
                     "spellID": 22870,
                     "source": "Currently Unobtainable",
                     "icon": "inv_misc_cape_06",
-                    "iconIndex": 412
+                    "iconIndex": 413
                 },
                 {
                     "name": "Bloodvine Vest",
                     "spellID": 24091,
                     "source": "Currently Unobtainable",
                     "icon": "inv_chest_cloth_07",
-                    "iconIndex": 230
+                    "iconIndex": 231
                 },
                 {
                     "name": "Bloodvine Leggings",
                     "spellID": 24092,
                     "source": "Currently Unobtainable",
                     "icon": "inv_pants_cloth_14",
-                    "iconIndex": 257
+                    "iconIndex": 258
                 },
                 {
                     "name": "Bloodvine Boots",
                     "spellID": 24093,
                     "source": "Currently Unobtainable",
                     "icon": "inv_boots_cloth_02",
-                    "iconIndex": 413
+                    "iconIndex": 414
                 },
                 {
                     "name": "Felcloth Bag",
                     "spellID": 26086,
                     "source": "Currently Unobtainable",
                     "icon": "inv_misc_bag_felclothbag",
-                    "iconIndex": 324
+                    "iconIndex": 325
                 },
                 {
                     "name": "Glacial Gloves",
