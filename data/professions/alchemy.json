@@ -971,6 +971,20 @@
                     "source": "Taught by an alchemy trainer",
                     "icon": "inv_pet_scorchedstone",
                     "iconIndex": 127
+                },
+                {
+                    "name": "Silvery Salve",
+                    "spellID": 221690,
+                    "source": "Taught by an alchemy trainer",
+                    "icon": "inv_first_aid_70_jar",
+                    "iconIndex": 128
+                },
+                {
+                    "name": "Anti-Venom",
+                    "spellID": 7934,
+                    "source": "Taught by an alchemy trainer",
+                    "icon": "inv_misc_slime_01",
+                    "iconIndex": 129
                 }
             ]
         },
@@ -990,7 +1004,7 @@
                         "Drops from bosses in Uldir"
                     ],
                     "icon": "inv_misc_cauldron_arcane",
-                    "iconIndex": 128
+                    "iconIndex": 130
                 },
                 {
                     "name": "Battle Potion of Agility",
@@ -1005,7 +1019,7 @@
                         "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "trade_alchemy_potionc6",
-                    "iconIndex": 129
+                    "iconIndex": 131
                 },
                 {
                     "name": "Battle Potion of Intellect",
@@ -1020,7 +1034,7 @@
                         "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "trade_alchemy_potionc4",
-                    "iconIndex": 130
+                    "iconIndex": 132
                 },
                 {
                     "name": "Battle Potion of Stamina",
@@ -1035,7 +1049,7 @@
                         "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "trade_alchemy_potionc3",
-                    "iconIndex": 131
+                    "iconIndex": 133
                 },
                 {
                     "name": "Battle Potion of Strength",
@@ -1050,7 +1064,7 @@
                         "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "trade_alchemy_potionc2",
-                    "iconIndex": 132
+                    "iconIndex": 134
                 },
                 {
                     "name": "Potion of Bursting Blood",
@@ -1065,7 +1079,7 @@
                         "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_alchemy_80_elixir01purple",
-                    "iconIndex": 133
+                    "iconIndex": 135
                 },
                 {
                     "name": "Potion of Replenishment",
@@ -1080,7 +1094,7 @@
                         "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_alchemy_80_elixir01orange",
-                    "iconIndex": 134
+                    "iconIndex": 136
                 },
                 {
                     "name": "Potion of Rising Death",
@@ -1095,7 +1109,7 @@
                         "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_alchemy_80_elixir01blue",
-                    "iconIndex": 135
+                    "iconIndex": 137
                 },
                 {
                     "name": "Steelskin Potion",
@@ -1110,7 +1124,7 @@
                         "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_alchemy_80_elixir01green",
-                    "iconIndex": 136
+                    "iconIndex": 138
                 },
                 {
                     "name": "Coastal Mana Potion",
@@ -1125,7 +1139,7 @@
                         "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_alchemy_80_potion01blue",
-                    "iconIndex": 137
+                    "iconIndex": 139
                 },
                 {
                     "name": "Coastal Healing Potion",
@@ -1140,7 +1154,7 @@
                         "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_alchemy_80_potion01red",
-                    "iconIndex": 138
+                    "iconIndex": 140
                 },
                 {
                     "name": "Coastal Rejuvenation Potion",
@@ -1155,7 +1169,7 @@
                         "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_alchemy_80_potion01purple",
-                    "iconIndex": 139
+                    "iconIndex": 141
                 },
                 {
                     "name": "Demitri's Draught of Deception",
@@ -1170,7 +1184,7 @@
                         "Reward from Work Order: Demitri's Draught of Deception world quest in Tiragarde Sound"
                     ],
                     "icon": "inv_alchemy_80_potion02orange",
-                    "iconIndex": 140
+                    "iconIndex": 142
                 },
                 {
                     "name": "Lightfoot Potion",
@@ -1185,7 +1199,7 @@
                         "Reward from Work Order: Lightfoot Potion world quest in Stormsong Valley"
                     ],
                     "icon": "inv_alchemy_80_potion02blue",
-                    "iconIndex": 141
+                    "iconIndex": 143
                 },
                 {
                     "name": "Potion of Concealment",
@@ -1200,7 +1214,7 @@
                         "Reward from Work Order: Potion of Concealment world quest in Drustvar"
                     ],
                     "icon": "inv_alchemy_80_potion02yellow",
-                    "iconIndex": 142
+                    "iconIndex": 144
                 },
                 {
                     "name": "Sea Mist Potion",
@@ -1215,7 +1229,7 @@
                         "Reward from Work Order: Sea Mist Potion world quest in Tiragarde Sound"
                     ],
                     "icon": "inv_alchemy_80_potion02green",
-                    "iconIndex": 143
+                    "iconIndex": 145
                 },
                 {
                     "name": "Flask of Endless Fathoms",
@@ -1230,7 +1244,7 @@
                         "Sold by Sister Lilyana in Stormsong Valley (Alliance)\nSold by Natal'hakata in Zuldazar (Horde)\nRequires Revered with Storm's Wake \/ Zandalari Empire"
                     ],
                     "icon": "inv_alchemy_80_flask01purple",
-                    "iconIndex": 144
+                    "iconIndex": 146
                 },
                 {
                     "name": "Flask of the Currents",
@@ -1245,7 +1259,7 @@
                         "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_alchemy_80_flask01green",
-                    "iconIndex": 145
+                    "iconIndex": 147
                 },
                 {
                     "name": "Flask of the Undertow",
@@ -1260,7 +1274,7 @@
                         "Sold by Quatermaster Alcorn in Drustvar (Alliance)\nSold by Hoarder Jena in Vol'dun (Horde)\nRequires Revered with Order of Embers \/ Voldunai"
                     ],
                     "icon": "inv_alchemy_80_flask01orange",
-                    "iconIndex": 146
+                    "iconIndex": 148
                 },
                 {
                     "name": "Flask of the Vast Horizon",
@@ -1275,70 +1289,70 @@
                         "Sold by Provisioner Fray in Tiragarde Sound (Alliance)\nSold by Provisioner Lija in Nazmir (Horde)\nRequires Revered with Proudmoore Admiralty \/ Talanji's Expedition"
                     ],
                     "icon": "inv_alchemy_80_flask01red",
-                    "iconIndex": 147
+                    "iconIndex": 149
                 },
                 {
                     "name": "Transmute: Expulsom",
                     "spellID": 251832,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_expulsom",
-                    "iconIndex": 148
+                    "iconIndex": 150
                 },
                 {
                     "name": "Transmute: Cloth to Skins",
                     "spellID": 251314,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_tradeskill_skinning_shaleatherscraps",
-                    "iconIndex": 149
+                    "iconIndex": 151
                 },
                 {
                     "name": "Transmute: Fish to Gems",
                     "spellID": 251822,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_tailoring_70_silkweavebag",
-                    "iconIndex": 150
+                    "iconIndex": 152
                 },
                 {
                     "name": "Transmute: Herbs to Cloth",
                     "spellID": 251306,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_fabric_silk_03",
-                    "iconIndex": 151
+                    "iconIndex": 153
                 },
                 {
                     "name": "Transmute: Herbs to Ore",
                     "spellID": 251305,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_ore_adamantite_nugget",
-                    "iconIndex": 152
+                    "iconIndex": 154
                 },
                 {
                     "name": "Transmute: Meat to Pet",
                     "spellID": 251808,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_misc_food_114_orcablubber",
-                    "iconIndex": 153
+                    "iconIndex": 155
                 },
                 {
                     "name": "Transmute: Ore to Cloth",
                     "spellID": 251310,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_fabric_silk_03",
-                    "iconIndex": 151
+                    "iconIndex": 153
                 },
                 {
                     "name": "Transmute: Ore to Gems",
                     "spellID": 251311,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_tailoring_70_silkweavebag",
-                    "iconIndex": 150
+                    "iconIndex": 152
                 },
                 {
                     "name": "Transmute: Ore to Herbs",
                     "spellID": 251309,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "achievement_guildperk_bountifulbags",
-                    "iconIndex": 154
+                    "iconIndex": 156
                 },
                 {
                     "name": "Endless Tincture of Fractional Power",
@@ -1353,7 +1367,7 @@
                         "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_trinket_80_alchemy02",
-                    "iconIndex": 155
+                    "iconIndex": 157
                 },
                 {
                     "name": "Surging Alchemist Stone",
@@ -1368,7 +1382,7 @@
                         "Sold by Vindicator Jaelaana in Tiragarde Sound (Alliance)\nSold by Ransa Greyfeather in Zuldazar (Horde)\nRequires Revered with 7th Legion \/ The Honorbound"
                     ],
                     "icon": "inv_alchemy_80_alchemiststone02",
-                    "iconIndex": 156
+                    "iconIndex": 158
                 },
                 {
                     "name": "Endless Tincture of Renewed Combat",
@@ -1383,7 +1397,7 @@
                         "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_trinket_80_alchemy01",
-                    "iconIndex": 157
+                    "iconIndex": 159
                 },
                 {
                     "name": "Siren's Alchemist Stone",
@@ -1398,14 +1412,14 @@
                         "Sold by Collector Kojo in Stormsong Valley \/ Zuldazar\nRequires Revered with Tortollan Seekers"
                     ],
                     "icon": "inv_alchemy_80_alchemiststone01",
-                    "iconIndex": 158
+                    "iconIndex": 160
                 },
                 {
                     "name": "Potion of Herb Tracking",
                     "spellID": 278420,
                     "source": "Learnt from an alchemy trainer",
                     "icon": "inv_alchemy_potion_01",
-                    "iconIndex": 159
+                    "iconIndex": 161
                 }
             ]
         },
@@ -1425,7 +1439,7 @@
                         "Discovered when crafting Ancient Healing Potion"
                     ],
                     "icon": "inv_alchemy_70_red",
-                    "iconIndex": 160
+                    "iconIndex": 162
                 },
                 {
                     "name": "Ancient Mana Potion",
@@ -1440,7 +1454,7 @@
                         "Discovered when crafting Ancient Mana Potion"
                     ],
                     "icon": "inv_alchemy_70_blue",
-                    "iconIndex": 161
+                    "iconIndex": 163
                 },
                 {
                     "name": "Ancient Rejuvenation Potion",
@@ -1455,7 +1469,7 @@
                         "Discovered when crafting Ancient Rejuvenation Potion"
                     ],
                     "icon": "inv_alchemy_70_purple",
-                    "iconIndex": 162
+                    "iconIndex": 164
                 },
                 {
                     "name": "Avalanche Elixir",
@@ -1470,7 +1484,7 @@
                         "Discovered when crafting Avalanche Elixir"
                     ],
                     "icon": "inv_alchemy_70_potion3_drogbar",
-                    "iconIndex": 163
+                    "iconIndex": 165
                 },
                 {
                     "name": "Draught of Raw Magic",
@@ -1485,7 +1499,7 @@
                         "Discovered when crafting Draught of Raw Magic"
                     ],
                     "icon": "inv_alchemy_70_potion3",
-                    "iconIndex": 164
+                    "iconIndex": 166
                 },
                 {
                     "name": "Flask of Ten Thousand Scars",
@@ -1500,7 +1514,7 @@
                         "Discovered when crafting Flask of Ten Thousand Scars"
                     ],
                     "icon": "inv_alchemy_70_flask03green",
-                    "iconIndex": 165
+                    "iconIndex": 167
                 },
                 {
                     "name": "Flask of the Countless Armies",
@@ -1515,7 +1529,7 @@
                         "Discovered when crafting Flask of the Countless Armies"
                     ],
                     "icon": "inv_alchemy_70_flask03red",
-                    "iconIndex": 166
+                    "iconIndex": 168
                 },
                 {
                     "name": "Flask of the Seventh Demon",
@@ -1530,7 +1544,7 @@
                         "Discovered when crafting Flask of the Seventh Demon"
                     ],
                     "icon": "inv_alchemy_70_flask03orange",
-                    "iconIndex": 167
+                    "iconIndex": 169
                 },
                 {
                     "name": "Flask of the Whispered Pact",
@@ -1545,7 +1559,7 @@
                         "Discovered when crafting Flask of the Whispered Pact"
                     ],
                     "icon": "inv_alchemy_70_flask03purple",
-                    "iconIndex": 168
+                    "iconIndex": 170
                 },
                 {
                     "name": "Infernal Alchemist Stone",
@@ -1560,7 +1574,7 @@
                         "Discovered when crafting Infernal Alchemist Stone"
                     ],
                     "icon": "inv_alchemy_70_trinket",
-                    "iconIndex": 169
+                    "iconIndex": 171
                 },
                 {
                     "name": "Leytorrent Potion",
@@ -1575,7 +1589,7 @@
                         "Discovered when crafting Leytorrent Potion"
                     ],
                     "icon": "inv_alchemy_70_flask01",
-                    "iconIndex": 170
+                    "iconIndex": 172
                 },
                 {
                     "name": "Potion of Deadly Grace",
@@ -1590,7 +1604,7 @@
                         "Discovered when crafting Potion of Deadly Grace"
                     ],
                     "icon": "inv_alchemy_70_flask02",
-                    "iconIndex": 171
+                    "iconIndex": 173
                 },
                 {
                     "name": "Potion of Prolonged Power",
@@ -1605,7 +1619,7 @@
                         "Dropped by Na'zak the Fiend in Suramar"
                     ],
                     "icon": "trade_alchemy_dpotion_a28",
-                    "iconIndex": 172
+                    "iconIndex": 174
                 },
                 {
                     "name": "Potion of the Old War",
@@ -1620,7 +1634,7 @@
                         "Discovered when crafting Potion of the Old War"
                     ],
                     "icon": "inv_alchemy_70_orange",
-                    "iconIndex": 173
+                    "iconIndex": 175
                 },
                 {
                     "name": "Skaggldrynk",
@@ -1635,7 +1649,7 @@
                         "Discovered when crafting Skaggldynk"
                     ],
                     "icon": "inv_alchemy_70_potion2_vrykul",
-                    "iconIndex": 174
+                    "iconIndex": 176
                 },
                 {
                     "name": "Skystep Potion",
@@ -1650,7 +1664,7 @@
                         "Discovered when crafting Skystep Potion"
                     ],
                     "icon": "inv_alchemy_70_potion2_nightborne",
-                    "iconIndex": 175
+                    "iconIndex": 177
                 },
                 {
                     "name": "Spirit Cauldron",
@@ -1665,7 +1679,7 @@
                         "Discovered when crafting Spirit Cauldron"
                     ],
                     "icon": "inv_alchemy_70_cauldron",
-                    "iconIndex": 176
+                    "iconIndex": 178
                 },
                 {
                     "name": "Sylvan Elixir",
@@ -1680,7 +1694,7 @@
                         "Discovered when crafting Sylvan Elixir"
                     ],
                     "icon": "inv_alchemy_70_potion2",
-                    "iconIndex": 177
+                    "iconIndex": 179
                 },
                 {
                     "name": "Unbending Potion",
@@ -1695,7 +1709,7 @@
                         "Discovered when crafting Unbending Potion"
                     ],
                     "icon": "inv_alchemy_70_flask04",
-                    "iconIndex": 178
+                    "iconIndex": 180
                 }
             ]
         },
@@ -1715,77 +1729,77 @@
                         "Discovered when crafting Wild Transmutation"
                     ],
                     "icon": "inv_misc_questionmark",
-                    "iconIndex": 179
+                    "iconIndex": 181
                 },
                 {
                     "name": "Transmute: Blood of Sargeras",
                     "spellID": 213257,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_bloodofsargeras",
-                    "iconIndex": 180
+                    "iconIndex": 182
                 },
                 {
                     "name": "Transmute: Cloth to Herbs",
                     "spellID": 213252,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "achievement_guildperk_bountifulbags",
-                    "iconIndex": 154
+                    "iconIndex": 156
                 },
                 {
                     "name": "Transmute: Cloth to Skins",
                     "spellID": 213249,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_tradeskill_skinning_shaleatherscraps",
-                    "iconIndex": 149
+                    "iconIndex": 151
                 },
                 {
                     "name": "Transmute: Fish to Gems",
                     "spellID": 213254,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_ore_trueiron_nugget",
-                    "iconIndex": 181
+                    "iconIndex": 183
                 },
                 {
                     "name": "Transmute: Meat to Pants",
                     "spellID": 213255,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_pants_01",
-                    "iconIndex": 182
+                    "iconIndex": 184
                 },
                 {
                     "name": "Transmute: Meat to Pet",
                     "spellID": 213256,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_misc_food_114_orcablubber",
-                    "iconIndex": 153
+                    "iconIndex": 155
                 },
                 {
                     "name": "Transmute: Ore to Cloth",
                     "spellID": 213248,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_fabric_mageweave_03",
-                    "iconIndex": 183
+                    "iconIndex": 185
                 },
                 {
                     "name": "Transmute: Ore to Herbs",
                     "spellID": 213251,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "achievement_guildperk_bountifulbags",
-                    "iconIndex": 154
+                    "iconIndex": 156
                 },
                 {
                     "name": "Transmute: Skins to Herbs",
                     "spellID": 213253,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "achievement_guildperk_bountifulbags",
-                    "iconIndex": 154
+                    "iconIndex": 156
                 },
                 {
                     "name": "Transmute: Skins to Ore",
                     "spellID": 213250,
                     "source": "Discovered when crafting Wild Transmutation",
                     "icon": "inv_elemental_primal_earth",
-                    "iconIndex": 184
+                    "iconIndex": 186
                 }
             ]
         },
@@ -1805,7 +1819,7 @@
                         "Discovered when crafting Tears of the Naaru"
                     ],
                     "icon": "inv_alchemy_tearsofthenaaru",
-                    "iconIndex": 185
+                    "iconIndex": 187
                 },
                 {
                     "name": "Astral Alchemist Stone",
@@ -1820,7 +1834,7 @@
                         "Sold by Toraan the Revered on Argus"
                     ],
                     "icon": "inv_alchemy_astralalchemiststone",
-                    "iconIndex": 186
+                    "iconIndex": 188
                 },
                 {
                     "name": "Astral Healing Potion",
@@ -1835,7 +1849,7 @@
                         "Sold by Toraan the Revered on Argus"
                     ],
                     "icon": "inv_potion_153",
-                    "iconIndex": 187
+                    "iconIndex": 189
                 },
                 {
                     "name": "Lightblood Elixir",
@@ -1850,14 +1864,14 @@
                         "Discovered when crafting Lightblood Elixir"
                     ],
                     "icon": "inv_alchemy_lightbloodelixir",
-                    "iconIndex": 188
+                    "iconIndex": 190
                 },
                 {
                     "name": "Transmute: Primal Sargerite",
                     "spellID": 247701,
                     "source": "Sold by Alchemist Funen in Krokuun",
                     "icon": "inv_misc_primalsargerite",
-                    "iconIndex": 189
+                    "iconIndex": 191
                 }
             ]
         },
@@ -1869,56 +1883,56 @@
                     "spellID": 2333,
                     "source": "Drops in level 20-35 zones",
                     "icon": "inv_potion_92",
-                    "iconIndex": 190
+                    "iconIndex": 192
                 },
                 {
                     "name": "Swiftness Potion",
                     "spellID": 2335,
                     "source": "Drops in level 1-21 zones",
                     "icon": "inv_potion_95",
-                    "iconIndex": 191
+                    "iconIndex": 193
                 },
                 {
                     "name": "Potion of Curing",
                     "spellID": 3174,
                     "source": "Drops in level 10-40 zones",
                     "icon": "inv_potion_12",
-                    "iconIndex": 192
+                    "iconIndex": 194
                 },
                 {
                     "name": "Limited Invulnerability Potion",
                     "spellID": 3175,
                     "source": "Drops in level 40-60 zones",
                     "icon": "inv_potion_62",
-                    "iconIndex": 193
+                    "iconIndex": 195
                 },
                 {
                     "name": "Elixir of Ogre's Strength",
                     "spellID": 3188,
                     "source": "Drops in level 20-40 zones",
                     "icon": "inv_potion_57",
-                    "iconIndex": 194
+                    "iconIndex": 196
                 },
                 {
                     "name": "Elixir of Minor Agility",
                     "spellID": 3230,
                     "source": "Drops in level 1-21 zones",
                     "icon": "inv_potion_91",
-                    "iconIndex": 195
+                    "iconIndex": 197
                 },
                 {
                     "name": "Major Troll's Blood Elixir",
                     "spellID": 3451,
                     "source": "Drops in level 30-51 zones",
                     "icon": "inv_potion_79",
-                    "iconIndex": 196
+                    "iconIndex": 198
                 },
                 {
                     "name": "Elixir of Detect Lesser Invisibility",
                     "spellID": 3453,
                     "source": "Drops in level 30-51 zones",
                     "icon": "inv_potion_01",
-                    "iconIndex": 197
+                    "iconIndex": 199
                 },
                 {
                     "name": "Elixir of Giant Growth",
@@ -1932,7 +1946,7 @@
                     "spellID": 11458,
                     "source": "Drops in The Hinterlands \/ Northern Stranlethorn",
                     "icon": "inv_potion_34",
-                    "iconIndex": 198
+                    "iconIndex": 200
                 },
                 {
                     "name": "Gift of Arthas",
@@ -1946,14 +1960,14 @@
                     "spellID": 11468,
                     "source": "Drops in level 45-56 zones",
                     "icon": "inv_potion_14",
-                    "iconIndex": 199
+                    "iconIndex": 201
                 },
                 {
                     "name": "Elixir of Giants",
                     "spellID": 11472,
                     "source": "Drops in level 40-60 zones",
                     "icon": "inv_potion_61",
-                    "iconIndex": 200
+                    "iconIndex": 202
                 },
                 {
                     "name": "Invisibility Potion",
@@ -1967,70 +1981,70 @@
                     "spellID": 17563,
                     "source": "Drops in level 53-56 zones",
                     "icon": "spell_nature_acid_01",
-                    "iconIndex": 201
+                    "iconIndex": 203
                 },
                 {
                     "name": "Transmute: Water to Undeath",
                     "spellID": 17564,
                     "source": "Drops in level 53-56 zones",
                     "icon": "spell_shadow_shadetruesight",
-                    "iconIndex": 202
+                    "iconIndex": 204
                 },
                 {
                     "name": "Transmute: Life to Earth",
                     "spellID": 17565,
                     "source": "Drops in level 53-56 zones",
                     "icon": "spell_nature_strengthofearthtotem02",
-                    "iconIndex": 203
+                    "iconIndex": 205
                 },
                 {
                     "name": "Transmute: Earth to Life",
                     "spellID": 17566,
                     "source": "Drops in level 53-56 zones",
                     "icon": "spell_nature_abolishmagic",
-                    "iconIndex": 204
+                    "iconIndex": 206
                 },
                 {
                     "name": "Greater Stoneshield Potion",
                     "spellID": 17570,
                     "source": "Drops in level 49-60 zones",
                     "icon": "inv_potion_69",
-                    "iconIndex": 205
+                    "iconIndex": 207
                 },
                 {
                     "name": "Elixir of the Mongoose",
                     "spellID": 17571,
                     "source": "Drops from Jadefire Rogues in Felwood",
                     "icon": "inv_potion_32",
-                    "iconIndex": 206
+                    "iconIndex": 208
                 },
                 {
                     "name": "Greater Frost Protection Potion",
                     "spellID": 17575,
                     "source": "Drops from Frostmaul Giants in Winterspring",
                     "icon": "inv_potion_20",
-                    "iconIndex": 207
+                    "iconIndex": 209
                 },
                 {
                     "name": "Potion of Petrification",
                     "spellID": 17634,
                     "source": "Drops from Frostsabers in Winterspring",
                     "icon": "inv_potion_26",
-                    "iconIndex": 208
+                    "iconIndex": 210
                 },
                 {
                     "name": "Elixir of Greater Firepower",
                     "spellID": 26277,
                     "source": "Drops from Dark Iron dwarves in Searing Gorge",
                     "icon": "inv_potion_60",
-                    "iconIndex": 209
+                    "iconIndex": 211
                 },
                 {
                     "name": "Strong Anti-Venom",
                     "spellID": 7935,
                     "source": "Drops from monsters in Classic zones",
                     "icon": "inv_misc_slime_01",
-                    "iconIndex": 210
+                    "iconIndex": 129
                 }
             ]
         },
@@ -2042,91 +2056,91 @@
                     "spellID": 28550,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_109",
-                    "iconIndex": 211
+                    "iconIndex": 212
                 },
                 {
                     "name": "Elixir of the Searching Eye",
                     "spellID": 28552,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_135",
-                    "iconIndex": 212
+                    "iconIndex": 213
                 },
                 {
                     "name": "Heroic Potion",
                     "spellID": 28563,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_106",
-                    "iconIndex": 213
+                    "iconIndex": 214
                 },
                 {
                     "name": "Haste Potion",
                     "spellID": 28564,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_108",
-                    "iconIndex": 214
+                    "iconIndex": 215
                 },
                 {
                     "name": "Destruction Potion",
                     "spellID": 28565,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_107",
-                    "iconIndex": 215
+                    "iconIndex": 216
                 },
                 {
                     "name": "Elixir of Major Mageblood",
                     "spellID": 28570,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_151",
-                    "iconIndex": 216
+                    "iconIndex": 217
                 },
                 {
                     "name": "Major Arcane Protection Potion",
                     "spellID": 28575,
                     "source": "Drops from Vir'aani Arcanists in Nagrand",
                     "icon": "inv_potion_128",
-                    "iconIndex": 217
+                    "iconIndex": 218
                 },
                 {
                     "name": "Major Shadow Protection Potion",
                     "spellID": 28576,
                     "source": "Drops from Shadow Council Warlocks in Shadowmoon Valley",
                     "icon": "inv_potion_123",
-                    "iconIndex": 218
+                    "iconIndex": 219
                 },
                 {
                     "name": "Major Holy Protection Potion",
                     "spellID": 28577,
                     "source": "Drops from Abyssal Flamebringer in Blade's Edge Mountains",
                     "icon": "inv_potion_125",
-                    "iconIndex": 219
+                    "iconIndex": 220
                 },
                 {
                     "name": "Elixir of Empowerment",
                     "spellID": 28578,
                     "source": "Drops in Burning Crusade zones, raids and dungeons",
                     "icon": "inv_potion_136",
-                    "iconIndex": 220
+                    "iconIndex": 221
                 },
                 {
                     "name": "Fel Strength Elixir",
                     "spellID": 38960,
                     "source": "Drops from enemies around Legion Hold in Shadowmoon Valley",
                     "icon": "inv_potion_152",
-                    "iconIndex": 221
+                    "iconIndex": 222
                 },
                 {
                     "name": "Fel Mana Potion",
                     "spellID": 38961,
                     "source": "Drops from Eclipsion elves in Shadowmoon Valley",
                     "icon": "inv_potion_138",
-                    "iconIndex": 222
+                    "iconIndex": 223
                 },
                 {
                     "name": "Fel Regeneration Potion",
                     "spellID": 38962,
                     "source": "Drops from Deathforge demons in Shadowmoon Valley",
                     "icon": "inv_potion_140",
-                    "iconIndex": 223
+                    "iconIndex": 224
                 }
             ]
         },
@@ -2145,14 +2159,14 @@
                     "spellID": 53937,
                     "source": "Drops from Damned Apothecarys in Icecrown",
                     "icon": "inv_potion_156",
-                    "iconIndex": 224
+                    "iconIndex": 225
                 },
                 {
                     "name": "Mighty Fire Protection Potion",
                     "spellID": 53939,
                     "source": "Drops from Sketal Runesmiths in Icecrown",
                     "icon": "inv_potion_146",
-                    "iconIndex": 225
+                    "iconIndex": 226
                 },
                 {
                     "name": "Mighty Nature Protection Potion",
@@ -2178,7 +2192,7 @@
                     "spellID": 17574,
                     "source": "Drops from Firebrand Invoker\/Pyromancers in Blackrock Spire",
                     "icon": "inv_potion_24",
-                    "iconIndex": 226
+                    "iconIndex": 227
                 }
             ]
         },
@@ -2190,7 +2204,7 @@
                     "spellID": 28571,
                     "source": "Drops from Sunseeker Astromage \/ Nethermancer Sepethrea in The Mechanar",
                     "icon": "inv_potion_124",
-                    "iconIndex": 227
+                    "iconIndex": 228
                 },
                 {
                     "name": "Major Frost Protection Potion",
@@ -2204,7 +2218,7 @@
                     "spellID": 28579,
                     "source": "Drops from Captain Skarloc in Old Hillsbrad Foothills",
                     "icon": "inv_potion_133",
-                    "iconIndex": 228
+                    "iconIndex": 229
                 }
             ]
         },
@@ -2216,7 +2230,7 @@
                     "spellID": 22732,
                     "source": "Drops from bosses in Molten Core",
                     "icon": "inv_potion_145",
-                    "iconIndex": 229
+                    "iconIndex": 230
                 }
             ]
         },
@@ -2228,49 +2242,49 @@
                     "spellID": 3454,
                     "source": "Sold by Bro'kin in Hillsbrad Foothills",
                     "icon": "inv_potion_20",
-                    "iconIndex": 207
+                    "iconIndex": 209
                 },
                 {
                     "name": "Rage Potion",
                     "spellID": 6617,
                     "source": "Sold by Ranik in Ratchet (Northern Barrens)",
                     "icon": "inv_potion_24",
-                    "iconIndex": 226
+                    "iconIndex": 227
                 },
                 {
                     "name": "Great Rage Potion",
                     "spellID": 6618,
                     "source": "Sold by Hagrus in Orgrimmar (Horde)\nSold by Ulthir in Darnassus (Alliance)",
                     "icon": "inv_potion_21",
-                    "iconIndex": 230
+                    "iconIndex": 231
                 },
                 {
                     "name": "Free Action Potion",
                     "spellID": 6624,
                     "source": "Sold by Kor'geld in Orgrimmar (Horde)\nSold by Ulthir in Darnassus (Alliance)",
                     "icon": "inv_potion_04",
-                    "iconIndex": 231
+                    "iconIndex": 232
                 },
                 {
                     "name": "Holy Protection Potion",
                     "spellID": 7255,
                     "source": "Sold by Xandar Goodbeard in Loch Modan (Alliance)\nSold by Hula'mahi in Northern Barrens (Horde)",
                     "icon": "inv_potion_09",
-                    "iconIndex": 232
+                    "iconIndex": 233
                 },
                 {
                     "name": "Shadow Protection Potion",
                     "spellID": 7256,
                     "source": "Sold by Christoph Jeffcoat in Hillsbrad Foothills (Horde)",
                     "icon": "inv_potion_44",
-                    "iconIndex": 233
+                    "iconIndex": 234
                 },
                 {
                     "name": "Fire Protection Potion",
                     "spellID": 7257,
                     "source": "Sold by Jeeda in Stonetalon Mountains",
                     "icon": "inv_potion_16",
-                    "iconIndex": 234
+                    "iconIndex": 235
                 },
                 {
                     "name": "Frost Protection Potion",
@@ -2291,84 +2305,84 @@
                     "spellID": 11459,
                     "source": "Sold by Alchemist Pestlezugg in Tanaris",
                     "icon": "inv_misc_orb_01",
-                    "iconIndex": 235
+                    "iconIndex": 236
                 },
                 {
                     "name": "Transmute: Iron to Gold",
                     "spellID": 11479,
                     "source": "Sold by Alchemist Pestlezugg in Tanaris",
                     "icon": "inv_ingot_03",
-                    "iconIndex": 236
+                    "iconIndex": 237
                 },
                 {
                     "name": "Transmute: Mithril to Truesilver",
                     "spellID": 11480,
                     "source": "Sold by Alchemist Pestlezugg in Tanaris",
                     "icon": "inv_ingot_08",
-                    "iconIndex": 237
+                    "iconIndex": 238
                 },
                 {
                     "name": "Transmute: Arcanite",
                     "spellID": 17187,
                     "source": "Sold by Alchemist Pestlezugg in Tanaris",
                     "icon": "inv_misc_stonetablet_05",
-                    "iconIndex": 238
+                    "iconIndex": 239
                 },
                 {
                     "name": "Ghost Dye",
                     "spellID": 11473,
                     "source": "Sold by Bronk in Feralas (Horde)\nSold by Logannas in Feralas (Alliance)",
                     "icon": "inv_poison_mindnumbing",
-                    "iconIndex": 239
+                    "iconIndex": 240
                 },
                 {
                     "name": "Elixir of Shadow Power",
                     "spellID": 11476,
                     "source": "Sold by Algernon in Undercity (Horde)\nSold by Maria Lumere in Stormwind City (Alliance)",
                     "icon": "inv_potion_46",
-                    "iconIndex": 240
+                    "iconIndex": 241
                 },
                 {
                     "name": "Elixir of Demonslaying",
                     "spellID": 11477,
                     "source": "Sold by Nina Lightbrew in Blasted Lands (Alliance)\nSold by Rartar in Swamp of Sorrows (Horde)",
                     "icon": "inv_potion_27",
-                    "iconIndex": 241
+                    "iconIndex": 242
                 },
                 {
                     "name": "Elixir of Superior Defense",
                     "spellID": 17554,
                     "source": "Sold by Kor'geld in Orgrimmar (Horde)\nSold by Soolie Berryfizz in Ironforge",
                     "icon": "inv_potion_66",
-                    "iconIndex": 242
+                    "iconIndex": 243
                 },
                 {
                     "name": "Transmute: Fire to Earth",
                     "spellID": 17560,
                     "source": "Sold by Plugger Spazzring in Blackrock Depths",
                     "icon": "spell_nature_strengthofearthtotem02",
-                    "iconIndex": 203
+                    "iconIndex": 205
                 },
                 {
                     "name": "Transmute: Water to Air",
                     "spellID": 17562,
                     "source": "Sold by Magnus Frostwake in Western Plaguelands",
                     "icon": "spell_nature_earthbind",
-                    "iconIndex": 243
+                    "iconIndex": 244
                 },
                 {
                     "name": "Major Mana Potion",
                     "spellID": 17580,
                     "source": "Sold by Magnus Frostwake in Western Plaguelands",
                     "icon": "inv_potion_76",
-                    "iconIndex": 244
+                    "iconIndex": 245
                 },
                 {
                     "name": "Greater Nature Protection Potion",
                     "spellID": 17576,
                     "source": "Sold by Calandrath in Silithus",
                     "icon": "inv_potion_22",
-                    "iconIndex": 245
+                    "iconIndex": 246
                 },
                 {
                     "name": "Living Action Potion",
@@ -2382,119 +2396,119 @@
                     "spellID": 25146,
                     "source": "Sold by Lokhtos Darkbargainer in Blackrock Depths",
                     "icon": "spell_fire_fire",
-                    "iconIndex": 246
+                    "iconIndex": 247
                 },
                 {
                     "name": "Sneaking Potion",
                     "spellID": 28546,
                     "source": "Sold by Leeli Longhaggle in Terokkar Forest (Alliance)\nSold by Seer Janidi in Zangarmarsh (Horde)",
                     "icon": "inv_potion_110",
-                    "iconIndex": 247
+                    "iconIndex": 248
                 },
                 {
                     "name": "Elixir of Major Frost Power",
                     "spellID": 28549,
                     "source": "Sold by Haalrun in Zangarmarsh (Alliance)\nSold by Seer Janidi in Zangarmarsh (Horde)",
                     "icon": "inv_potion_148",
-                    "iconIndex": 248
+                    "iconIndex": 249
                 },
                 {
                     "name": "Elixir of Camouflage",
                     "spellID": 28543,
                     "source": "Sold by Altaa in The Exodar (Alliance)\nSold by Melaris in Silvermoon City (Horde)",
                     "icon": "inv_potion_150",
-                    "iconIndex": 249
+                    "iconIndex": 250
                 },
                 {
                     "name": "Super Mana Potion",
                     "spellID": 28555,
                     "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)\nSold by Haalrun in Zangarmarsh (Alliance)",
                     "icon": "inv_potion_137",
-                    "iconIndex": 250
+                    "iconIndex": 251
                 },
                 {
                     "name": "Elixir of Major Defense",
                     "spellID": 28557,
                     "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)\nSold by Haalrun in Zangarmarsh (Alliance)",
                     "icon": "inv_potion_122",
-                    "iconIndex": 251
+                    "iconIndex": 252
                 },
                 {
                     "name": "Major Dreamless Sleep Potion",
                     "spellID": 28562,
                     "source": "Sold by Daga Ramba in Blade's Edge Mountains (Horde)\nSold by Leeli Longhaggle in Terokkar Forest (Alliance)",
                     "icon": "inv_potion_139",
-                    "iconIndex": 252
+                    "iconIndex": 253
                 },
                 {
                     "name": "Transmute: Primal Might",
                     "spellID": 29688,
                     "source": "Sold by Altaa in The Exodar (Alliance)\nSold by Melaris in Silvermoon City (Horde)",
                     "icon": "spell_nature_lightningoverload",
-                    "iconIndex": 253
+                    "iconIndex": 254
                 },
                 {
                     "name": "Draenic Agility Potion",
                     "spellID": 156577,
                     "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a27",
-                    "iconIndex": 254
+                    "iconIndex": 255
                 },
                 {
                     "name": "Draenic Intellect Potion",
                     "spellID": 156578,
                     "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a28",
-                    "iconIndex": 172
+                    "iconIndex": 174
                 },
                 {
                     "name": "Draenic Strength Potion",
                     "spellID": 156579,
                     "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a23",
-                    "iconIndex": 255
+                    "iconIndex": 256
                 },
                 {
                     "name": "Draenic Channeled Mana Potion",
                     "spellID": 156581,
                     "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_d11",
-                    "iconIndex": 256
+                    "iconIndex": 257
                 },
                 {
                     "name": "Draenic Armor Potion",
                     "spellID": 156580,
                     "source": "Sold by Joshua Alvarez in Warspear (Horde)\nSold by Katherine Joplin in Stormshield (Alliance)",
                     "icon": "trade_alchemy_dpotion_a25",
-                    "iconIndex": 257
+                    "iconIndex": 258
                 },
                 {
                     "name": "Wildswater",
                     "spellID": 188674,
                     "source": "Sold by Herb Trader in Frostwall\/Lunarfall",
                     "icon": "inv_potionc_2",
-                    "iconIndex": 258
+                    "iconIndex": 259
                 },
                 {
                     "name": "Transmute: Savage Blood",
                     "spellID": 181643,
                     "source": "Sold by Herb Trader in Frostwall\/Lunarfall",
                     "icon": "inv_misc_boilingblood",
-                    "iconIndex": 259
+                    "iconIndex": 260
                 },
                 {
                     "name": "Elemental Distillate",
                     "spellID": 188676,
                     "source": "Sold by Herb Trader in Frostwall\/Lunarfall",
                     "icon": "inv_potionc_6",
-                    "iconIndex": 260
+                    "iconIndex": 261
                 },
                 {
                     "name": "Primal Alchmey",
                     "spellID": 156591,
                     "source": "Sold by Herb Trader in Frostwall\/Lunarfall",
                     "icon": "inv_enchant_alchemycatalyst",
-                    "iconIndex": 261
+                    "iconIndex": 262
                 }
             ]
         },
@@ -2506,119 +2520,119 @@
                     "spellID": 28580,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_elemental_primal_water",
-                    "iconIndex": 262
+                    "iconIndex": 263
                 },
                 {
                     "name": "Transmute: Primal Water to Shadow",
                     "spellID": 28581,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_elemental_primal_shadow",
-                    "iconIndex": 263
+                    "iconIndex": 264
                 },
                 {
                     "name": "Transmute: Primal Mana to Fire",
                     "spellID": 28582,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_elemental_primal_fire",
-                    "iconIndex": 264
+                    "iconIndex": 265
                 },
                 {
                     "name": "Transmute: Primal Fire to Mana",
                     "spellID": 28583,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_elemental_primal_mana",
-                    "iconIndex": 265
+                    "iconIndex": 266
                 },
                 {
                     "name": "Transmute: Primal Life to Earth",
                     "spellID": 28584,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_elemental_primal_earth",
-                    "iconIndex": 184
+                    "iconIndex": 186
                 },
                 {
                     "name": "Transmute: Primal Earth to Life",
                     "spellID": 28585,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_elemental_primal_life",
-                    "iconIndex": 266
+                    "iconIndex": 267
                 },
                 {
                     "name": "Super Rejuvenation Potion",
                     "spellID": 28586,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_potion_134",
-                    "iconIndex": 267
+                    "iconIndex": 268
                 },
                 {
                     "name": "Flask of Fortification",
                     "spellID": 28587,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_potion_119",
-                    "iconIndex": 268
+                    "iconIndex": 269
                 },
                 {
                     "name": "Flask of Mighty Restoration",
                     "spellID": 28588,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_potion_118",
-                    "iconIndex": 269
+                    "iconIndex": 270
                 },
                 {
                     "name": "Flask of Relentless Assault",
                     "spellID": 28589,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_potion_117",
-                    "iconIndex": 270
+                    "iconIndex": 271
                 },
                 {
                     "name": "Flask of Blinding Light",
                     "spellID": 28590,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_potion_116",
-                    "iconIndex": 271
+                    "iconIndex": 272
                 },
                 {
                     "name": "Flask of Pure Death",
                     "spellID": 28591,
                     "source": "Discovered while mixing Burning Crusade recipes",
                     "icon": "inv_potion_115",
-                    "iconIndex": 272
+                    "iconIndex": 273
                 },
                 {
                     "name": "Cauldron of Major Arcane Protection",
                     "spellID": 41458,
                     "source": "Discovered while mixing Major Arcane Protection Potion",
                     "icon": "inv_misc_cauldron_arcane",
-                    "iconIndex": 128
+                    "iconIndex": 130
                 },
                 {
                     "name": "Cauldron of Major Fire Protection",
                     "spellID": 41500,
                     "source": "Discovered while mixing Major Fire Protection Potion",
                     "icon": "inv_misc_cauldron_fire",
-                    "iconIndex": 273
+                    "iconIndex": 274
                 },
                 {
                     "name": "Cauldron of Major Frost Protection",
                     "spellID": 41501,
                     "source": "Discovered while mixing Major Frost Protection Potion",
                     "icon": "inv_misc_cauldron_frost",
-                    "iconIndex": 274
+                    "iconIndex": 275
                 },
                 {
                     "name": "Cauldron of Major Nature Protection",
                     "spellID": 41502,
                     "source": "Discovered while mixing Major Nature Protection Potion",
                     "icon": "inv_misc_cauldron_nature",
-                    "iconIndex": 275
+                    "iconIndex": 276
                 },
                 {
                     "name": "Cauldron of Major Shadow Protection",
                     "spellID": 41503,
                     "source": "Discovered while mixing Major Shadow Protection Potion",
                     "icon": "inv_misc_cauldron_shadow",
-                    "iconIndex": 276
+                    "iconIndex": 277
                 }
             ]
         },
@@ -2630,84 +2644,84 @@
                     "spellID": 53771,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_shadow",
-                    "iconIndex": 277
+                    "iconIndex": 278
                 },
                 {
                     "name": "Transmute: Eternal Life to Fire",
                     "spellID": 53773,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_fire",
-                    "iconIndex": 278
+                    "iconIndex": 279
                 },
                 {
                     "name": "Transmute: Eternal Fire to Water",
                     "spellID": 53774,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_water",
-                    "iconIndex": 279
+                    "iconIndex": 280
                 },
                 {
                     "name": "Transmute: Eternal Fire to Life",
                     "spellID": 53775,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_life",
-                    "iconIndex": 280
+                    "iconIndex": 281
                 },
                 {
                     "name": "Transmute: Eternal Air to Water",
                     "spellID": 53776,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_water",
-                    "iconIndex": 279
+                    "iconIndex": 280
                 },
                 {
                     "name": "Transmute: Eternal Air to Earth",
                     "spellID": 53777,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_earth",
-                    "iconIndex": 281
+                    "iconIndex": 282
                 },
                 {
                     "name": "Transmute: Eternal Shadow to Earth",
                     "spellID": 53779,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_earth",
-                    "iconIndex": 281
+                    "iconIndex": 282
                 },
                 {
                     "name": "Transmute: Eternal Shadow to Life",
                     "spellID": 53780,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_life",
-                    "iconIndex": 280
+                    "iconIndex": 281
                 },
                 {
                     "name": "Transmute: Eternal Earth to Air",
                     "spellID": 53781,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_air",
-                    "iconIndex": 282
+                    "iconIndex": 283
                 },
                 {
                     "name": "Transmute: Eternal Earth to Shadow",
                     "spellID": 53782,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_shadow",
-                    "iconIndex": 277
+                    "iconIndex": 278
                 },
                 {
                     "name": "Transmute: Eternal Water to Air",
                     "spellID": 53783,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_air",
-                    "iconIndex": 282
+                    "iconIndex": 283
                 },
                 {
                     "name": "Transmute: Eternal Water to Fire",
                     "spellID": 53784,
                     "source": "Discovered when transmuting items",
                     "icon": "inv_elemental_eternal_fire",
-                    "iconIndex": 278
+                    "iconIndex": 279
                 }
             ]
         },
@@ -2719,91 +2733,91 @@
                     "spellID": 53895,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_potion_27",
-                    "iconIndex": 241
+                    "iconIndex": 242
                 },
                 {
                     "name": "Powerful Rejuvenation Potion",
                     "spellID": 53904,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_elixir_06",
-                    "iconIndex": 283
+                    "iconIndex": 284
                 },
                 {
                     "name": "Elixir of Protection",
                     "spellID": 54220,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_potion_empty",
-                    "iconIndex": 284
+                    "iconIndex": 285
                 },
                 {
                     "name": "Potion of Speed",
                     "spellID": 54221,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_elixir_04",
-                    "iconIndex": 285
+                    "iconIndex": 286
                 },
                 {
                     "name": "Potion of Wild Magic",
                     "spellID": 54222,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_elixir_01",
-                    "iconIndex": 286
+                    "iconIndex": 287
                 },
                 {
                     "name": "Elixir of Mighty Mageblood",
                     "spellID": 56519,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_potion_129",
-                    "iconIndex": 287
+                    "iconIndex": 288
                 },
                 {
                     "name": "Elixir of Deadly Strikes",
                     "spellID": 60355,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_potion_02",
-                    "iconIndex": 288
+                    "iconIndex": 289
                 },
                 {
                     "name": "Elixir of Mighty Defense",
                     "spellID": 60356,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_potion_03",
-                    "iconIndex": 289
+                    "iconIndex": 290
                 },
                 {
                     "name": "Elixir of Expertise",
                     "spellID": 60357,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_potion_01",
-                    "iconIndex": 159
+                    "iconIndex": 161
                 },
                 {
                     "name": "Elixir of Accuracy",
                     "spellID": 60354,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_potion_61",
-                    "iconIndex": 200
+                    "iconIndex": 202
                 },
                 {
                     "name": "Elixir of Armor Piercing",
                     "spellID": 60365,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_potion_06",
-                    "iconIndex": 290
+                    "iconIndex": 291
                 },
                 {
                     "name": "Elixir of Lightning Speed",
                     "spellID": 60366,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_alchemy_potion_04",
-                    "iconIndex": 291
+                    "iconIndex": 292
                 },
                 {
                     "name": "Elixir of Water Walking",
                     "spellID": 62410,
                     "source": "Taught by Northrend Alchemy Research",
                     "icon": "inv_potion_166",
-                    "iconIndex": 292
+                    "iconIndex": 293
                 }
             ]
         },
@@ -2815,224 +2829,224 @@
                     "spellID": 114753,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiond1",
-                    "iconIndex": 293
+                    "iconIndex": 294
                 },
                 {
                     "name": "Mad Hozen Elixir",
                     "spellID": 114754,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionb1",
-                    "iconIndex": 294
+                    "iconIndex": 295
                 },
                 {
                     "name": "Mantid Elixir",
                     "spellID": 114755,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionb2",
-                    "iconIndex": 295
+                    "iconIndex": 296
                 },
                 {
                     "name": "Elixir of Weaponry",
                     "spellID": 114756,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionb5",
-                    "iconIndex": 296
+                    "iconIndex": 297
                 },
                 {
                     "name": "Potion of the Jade Serpent",
                     "spellID": 114757,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiond4",
-                    "iconIndex": 297
+                    "iconIndex": 298
                 },
                 {
                     "name": "Elixir of the Rapids",
                     "spellID": 114759,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionb3",
-                    "iconIndex": 298
+                    "iconIndex": 299
                 },
                 {
                     "name": "Monk's Elixir",
                     "spellID": 114758,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionc1",
-                    "iconIndex": 299
+                    "iconIndex": 300
                 },
                 {
                     "name": "Potion of Mogu Power",
                     "spellID": 114760,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiond5",
-                    "iconIndex": 300
+                    "iconIndex": 301
                 },
                 {
                     "name": "Desecrated Oil",
                     "spellID": 114761,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_stoneoil",
-                    "iconIndex": 301
+                    "iconIndex": 302
                 },
                 {
                     "name": "Elixir of Perfection",
                     "spellID": 114762,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionb6",
-                    "iconIndex": 302
+                    "iconIndex": 303
                 },
                 {
                     "name": "Elixir of Mirrors",
                     "spellID": 114763,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionb4",
-                    "iconIndex": 303
+                    "iconIndex": 304
                 },
                 {
                     "name": "Elixir of Peace",
                     "spellID": 114764,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionc2",
-                    "iconIndex": 132
+                    "iconIndex": 134
                 },
                 {
                     "name": "Virmen's Bite",
                     "spellID": 114765,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiond6",
-                    "iconIndex": 304
+                    "iconIndex": 305
                 },
                 {
                     "name": "Transmute: River's Heart",
                     "spellID": 114766,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_rare_uncut_blue",
-                    "iconIndex": 305
+                    "iconIndex": 306
                 },
                 {
                     "name": "Transmute: Wild Jade",
                     "spellID": 114767,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_rare_uncut_green",
-                    "iconIndex": 306
+                    "iconIndex": 307
                 },
                 {
                     "name": "Flask of Spring Blossoms",
                     "spellID": 114769,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potione3",
-                    "iconIndex": 307
+                    "iconIndex": 308
                 },
                 {
                     "name": "Flask of the Earth",
                     "spellID": 114770,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potione6",
-                    "iconIndex": 308
+                    "iconIndex": 309
                 },
                 {
                     "name": "Flask of the Warm Sun",
                     "spellID": 114771,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potione5",
-                    "iconIndex": 309
+                    "iconIndex": 310
                 },
                 {
                     "name": "Flask of Falling Leaves",
                     "spellID": 114772,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potione2",
-                    "iconIndex": 310
+                    "iconIndex": 311
                 },
                 {
                     "name": "Flask of Winter's Bite",
                     "spellID": 114773,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potione4",
-                    "iconIndex": 311
+                    "iconIndex": 312
                 },
                 {
                     "name": "Darkwater Potion",
                     "spellID": 114774,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potionc6",
-                    "iconIndex": 129
+                    "iconIndex": 131
                 },
                 {
                     "name": "Master Mana Potion",
                     "spellID": 114775,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiona5",
-                    "iconIndex": 312
+                    "iconIndex": 313
                 },
                 {
                     "name": "Transmute: Vermilion Onyx",
                     "spellID": 114776,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_rare_uncut_orange",
-                    "iconIndex": 313
+                    "iconIndex": 314
                 },
                 {
                     "name": "Transmute: Imperial Amethyst",
                     "spellID": 114777,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_rare_uncut_purple",
-                    "iconIndex": 314
+                    "iconIndex": 315
                 },
                 {
                     "name": "Transmute: Sun's Radiance",
                     "spellID": 114778,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_rare_uncut_yellow",
-                    "iconIndex": 315
+                    "iconIndex": 316
                 },
                 {
                     "name": "Potion of Luck",
                     "spellID": 114779,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiona4",
-                    "iconIndex": 316
+                    "iconIndex": 317
                 },
                 {
                     "name": "Transmute: Living Steel",
                     "spellID": 114780,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_ingot_livingsteel",
-                    "iconIndex": 317
+                    "iconIndex": 318
                 },
                 {
                     "name": "Transmute: Primal Diamond",
                     "spellID": 114781,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_metagem_uncut",
-                    "iconIndex": 318
+                    "iconIndex": 319
                 },
                 {
                     "name": "Potion of Focus",
                     "spellID": 114782,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "trade_alchemy_potiond2",
-                    "iconIndex": 319
+                    "iconIndex": 320
                 },
                 {
                     "name": "Transmute: Trillium Bar",
                     "spellID": 114783,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_ingot_trillium",
-                    "iconIndex": 320
+                    "iconIndex": 321
                 },
                 {
                     "name": "Transmute: Primordial Ruby",
                     "spellID": 114784,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_misc_gem_x4_rare_uncut_red",
-                    "iconIndex": 321
+                    "iconIndex": 322
                 },
                 {
                     "name": "Riddle of Steel",
                     "spellID": 130326,
                     "source": "Discovered while mixing Pandaria recipes",
                     "icon": "inv_ingot_livingsteel",
-                    "iconIndex": 317
+                    "iconIndex": 318
                 }
             ]
         },
@@ -3044,70 +3058,70 @@
                     "spellID": 156582,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_d14",
-                    "iconIndex": 322
+                    "iconIndex": 323
                 },
                 {
                     "name": "Crescent Oil",
                     "spellID": 156585,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "inv_enchant_crescentoil",
-                    "iconIndex": 323
+                    "iconIndex": 324
                 },
                 {
                     "name": "Alchemical Catalyst",
                     "spellID": 156587,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "inv_enchant_alchemycatalyst",
-                    "iconIndex": 261
+                    "iconIndex": 262
                 },
                 {
                     "name": "Draenic Swiftness Potion",
                     "spellID": 175853,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_a14",
-                    "iconIndex": 324
+                    "iconIndex": 325
                 },
                 {
                     "name": "Draenic Invisibility Potion",
                     "spellID": 175865,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_a11",
-                    "iconIndex": 325
+                    "iconIndex": 326
                 },
                 {
                     "name": "Draenic Water Breathing Elixir",
                     "spellID": 175866,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_b20",
-                    "iconIndex": 326
+                    "iconIndex": 327
                 },
                 {
                     "name": "Draenic Living Action Potion",
                     "spellID": 175867,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_a17",
-                    "iconIndex": 327
+                    "iconIndex": 328
                 },
                 {
                     "name": "Pure Rage Potion",
                     "spellID": 175868,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_a13",
-                    "iconIndex": 328
+                    "iconIndex": 329
                 },
                 {
                     "name": "Draenic Water Walking Elixir",
                     "spellID": 175869,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "trade_alchemy_dpotion_b10",
-                    "iconIndex": 329
+                    "iconIndex": 330
                 },
                 {
                     "name": "Secrets of Draenor Alchemy",
                     "spellID": 175880,
                     "source": "Learnt with Draenor Alchemy",
                     "icon": "inv_misc_book_08",
-                    "iconIndex": 330
+                    "iconIndex": 331
                 }
             ]
         },
@@ -3119,77 +3133,77 @@
                     "spellID": 156560,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_enchant_philostone_lv2",
-                    "iconIndex": 331
+                    "iconIndex": 332
                 },
                 {
                     "name": "Draenic Agility Flask",
                     "spellID": 156561,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c22",
-                    "iconIndex": 332
+                    "iconIndex": 333
                 },
                 {
                     "name": "Draenic Intellect Flask",
                     "spellID": 156563,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c25",
-                    "iconIndex": 333
+                    "iconIndex": 334
                 },
                 {
                     "name": "Draenic Strength Flask",
                     "spellID": 156564,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c23",
-                    "iconIndex": 334
+                    "iconIndex": 335
                 },
                 {
                     "name": "Draenic Stamina Flask",
                     "spellID": 156568,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c24",
-                    "iconIndex": 335
+                    "iconIndex": 336
                 },
                 {
                     "name": "Greater Draenic Agility Flask",
                     "spellID": 156569,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c12",
-                    "iconIndex": 336
+                    "iconIndex": 337
                 },
                 {
                     "name": "Greater Draenic Intellect Flask",
                     "spellID": 156571,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c15",
-                    "iconIndex": 337
+                    "iconIndex": 338
                 },
                 {
                     "name": "Greater Draenic Strength Flask",
                     "spellID": 156572,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c13",
-                    "iconIndex": 338
+                    "iconIndex": 339
                 },
                 {
                     "name": "Draenic Rejuvenation Potion",
                     "spellID": 156584,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_b21",
-                    "iconIndex": 339
+                    "iconIndex": 340
                 },
                 {
                     "name": "Transmorphic Tincture",
                     "spellID": 162403,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "inv_misc_flaskofvolatility",
-                    "iconIndex": 340
+                    "iconIndex": 341
                 },
                 {
                     "name": "Greater Draenic Stamina Flask",
                     "spellID": 156576,
                     "source": "Purchased with Secrets of Draenor Alchemy\nSold by alchemy vendor in Lunarfall\/Frostwall and Ashran",
                     "icon": "trade_alchemy_dpotion_c14",
-                    "iconIndex": 341
+                    "iconIndex": 342
                 }
             ]
         },
@@ -3201,84 +3215,84 @@
                     "spellID": 181625,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcerersearth_tong",
-                    "iconIndex": 342
+                    "iconIndex": 343
                 },
                 {
                     "name": "Transmute: Sorcerous Fire to Air",
                     "spellID": 181627,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcererswind_tong",
-                    "iconIndex": 343
+                    "iconIndex": 344
                 },
                 {
                     "name": "Transmute: Sorcerous Fire to Water",
                     "spellID": 181628,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcererswater_tong",
-                    "iconIndex": 344
+                    "iconIndex": 345
                 },
                 {
                     "name": "Transmute: Sorcerous Water to Earth",
                     "spellID": 181629,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcerersearth_tong",
-                    "iconIndex": 342
+                    "iconIndex": 343
                 },
                 {
                     "name": "Transmute: Sorcerous Water to Air",
                     "spellID": 181630,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcererswind_tong",
-                    "iconIndex": 343
+                    "iconIndex": 344
                 },
                 {
                     "name": "Transmute: Sorcerous Earth to Air",
                     "spellID": 181631,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcererswind_tong",
-                    "iconIndex": 343
+                    "iconIndex": 344
                 },
                 {
                     "name": "Transmute: Sorcerous Earth to Fire",
                     "spellID": 181632,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcerersfire_tong",
-                    "iconIndex": 345
+                    "iconIndex": 346
                 },
                 {
                     "name": "Transmute: Sorcerous Earth to Water",
                     "spellID": 181635,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcererswater_tong",
-                    "iconIndex": 344
+                    "iconIndex": 345
                 },
                 {
                     "name": "Transmute: Sorcerous Air to Fire",
                     "spellID": 181633,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcerersfire_tong",
-                    "iconIndex": 345
+                    "iconIndex": 346
                 },
                 {
                     "name": "Transmute: Sorcerous Air to Earth",
                     "spellID": 181637,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcerersearth_tong",
-                    "iconIndex": 342
+                    "iconIndex": 343
                 },
                 {
                     "name": "Transmute: Sorcerous Water to Fire",
                     "spellID": 181634,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcerersfire_tong",
-                    "iconIndex": 345
+                    "iconIndex": 346
                 },
                 {
                     "name": "Transmute: Sorcerous Air to Water",
                     "spellID": 181636,
                     "source": "Tome of Sorcerous Elements from Garrison Herb Trader",
                     "icon": "inv_tradeskillitem_sorcererswater_tong",
-                    "iconIndex": 344
+                    "iconIndex": 345
                 }
             ]
         },
@@ -3290,28 +3304,28 @@
                     "spellID": 181647,
                     "source": "Tome of the Stones from Garrison Herb Trader",
                     "icon": "achievement_dungeon_utgardekeep",
-                    "iconIndex": 346
+                    "iconIndex": 347
                 },
                 {
                     "name": "Stone of the Earth",
                     "spellID": 181648,
                     "source": "Tome of the Stones from Garrison Herb Trader",
                     "icon": "achievement_dungeon_utgardekeep_10man",
-                    "iconIndex": 347
+                    "iconIndex": 348
                 },
                 {
                     "name": "Stone of the Waters",
                     "spellID": 181649,
                     "source": "Tome of the Stones from Garrison Herb Trader",
                     "icon": "achievement_dungeon_utgardekeep_normal",
-                    "iconIndex": 348
+                    "iconIndex": 349
                 },
                 {
                     "name": "Stone of Fire",
                     "spellID": 181650,
                     "source": "Tome of the Stones from Garrison Herb Trader",
                     "icon": "achievement_dungeon_utgardekeep_heroic",
-                    "iconIndex": 349
+                    "iconIndex": 350
                 }
             ]
         },
@@ -3323,7 +3337,7 @@
                     "spellID": 17561,
                     "source": "Sold by Meilosh in Felwood (Requires Friendly)",
                     "icon": "spell_nature_acid_01",
-                    "iconIndex": 201
+                    "iconIndex": 203
                 }
             ]
         },
@@ -3335,7 +3349,7 @@
                     "spellID": 17559,
                     "source": "Sold by Argent Quartermaster Hasana in Tirisfal Glades (Requires Honored)",
                     "icon": "spell_fire_volcano",
-                    "iconIndex": 350
+                    "iconIndex": 351
                 }
             ]
         },
@@ -3347,21 +3361,21 @@
                     "spellID": 17632,
                     "source": "Sold by Almaador in Shattrath City (Requires Revered)",
                     "icon": "spell_holy_pureofheart",
-                    "iconIndex": 351
+                    "iconIndex": 352
                 },
                 {
                     "name": "Flask of the Titans",
                     "spellID": 17635,
                     "source": "Sold by Almaador in Shattrath City (Requires Exalted)",
                     "icon": "inv_potion_62",
-                    "iconIndex": 193
+                    "iconIndex": 195
                 },
                 {
                     "name": "Transmute: Primal Air to Fire",
                     "spellID": 28566,
                     "source": "Sold by Almaador in Shattrath City (Requires Revered)",
                     "icon": "inv_elemental_primal_fire",
-                    "iconIndex": 264
+                    "iconIndex": 265
                 }
             ]
         },
@@ -3373,7 +3387,7 @@
                     "spellID": 28556,
                     "source": "Sold by Quartermaster Enuril in Shattrath City (Requires Revered)",
                     "icon": "inv_potion_146",
-                    "iconIndex": 225
+                    "iconIndex": 226
                 }
             ]
         },
@@ -3385,7 +3399,7 @@
                     "spellID": 28558,
                     "source": "Sold by Nakodu in Shattrath City (Requires Revered)",
                     "icon": "inv_potion_145",
-                    "iconIndex": 229
+                    "iconIndex": 230
                 }
             ]
         },
@@ -3397,35 +3411,35 @@
                     "spellID": 17636,
                     "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Exalted)",
                     "icon": "inv_potion_97",
-                    "iconIndex": 352
+                    "iconIndex": 353
                 },
                 {
                     "name": "Transmute: Primal Water to Air",
                     "spellID": 28569,
                     "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Revered)",
                     "icon": "inv_elemental_primal_air",
-                    "iconIndex": 353
+                    "iconIndex": 354
                 },
                 {
                     "name": "Major Nature Protection Potion",
                     "spellID": 28573,
                     "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Exalted)",
                     "icon": "inv_potion_127",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Transmute: Earthstorm Diamond",
                     "spellID": 32765,
                     "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Honored)",
                     "icon": "inv_misc_gem_diamond_04",
-                    "iconIndex": 355
+                    "iconIndex": 356
                 },
                 {
                     "name": "Earthen Elixir",
                     "spellID": 39637,
                     "source": "Sold by Fedryen Swiftspear in Zangarmarsh (Requires Honored)",
                     "icon": "inv_potion_154",
-                    "iconIndex": 356
+                    "iconIndex": 357
                 }
             ]
         },
@@ -3449,14 +3463,14 @@
                     "spellID": 28553,
                     "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "inv_potion_127",
-                    "iconIndex": 354
+                    "iconIndex": 355
                 },
                 {
                     "name": "Transmute: Skyfire Diamond",
                     "spellID": 32766,
                     "source": "Requires Honored with Honor Hold \/ Thrallmar\nSold by Logistics Officer Ulrike in Honor Hold (Alliance)\nSold by Quartermaster Urgronn in Thrallmar (Horde)",
                     "icon": "inv_misc_gem_diamond_05",
-                    "iconIndex": 357
+                    "iconIndex": 358
                 }
             ]
         },
@@ -3468,7 +3482,7 @@
                     "spellID": 28568,
                     "source": "Sold by Provisioner Nasela in Nagrand (Requires Revered)\nSold by Trader Narasu in Nagrand (Requires Revered)",
                     "icon": "inv_elemental_primal_earth",
-                    "iconIndex": 184
+                    "iconIndex": 186
                 }
             ]
         },
@@ -3480,14 +3494,14 @@
                     "spellID": 28554,
                     "source": "Sold by Mycah in Zangarmarsh (Requires Exalted)",
                     "icon": "inv_potion_144",
-                    "iconIndex": 358
+                    "iconIndex": 359
                 },
                 {
                     "name": "Transmute: Primal Earth to Water",
                     "spellID": 28567,
                     "source": "Sold by Mycah in Zangarmarsh (Requires Exalted)",
                     "icon": "inv_elemental_primal_water",
-                    "iconIndex": 262
+                    "iconIndex": 263
                 }
             ]
         },
@@ -3499,28 +3513,28 @@
                     "spellID": 47046,
                     "source": "Sold by Eldara Dawnrunner in Isle of Quel'Danas (Requires Exalted)",
                     "icon": "spell_nature_healingway",
-                    "iconIndex": 359
+                    "iconIndex": 360
                 },
                 {
                     "name": "Sorcerer's Alchemist Stone",
                     "spellID": 47048,
                     "source": "Sold by Eldara Dawnrunner in Isle of Quel'Danas (Requires Exalted)",
                     "icon": "spell_nature_healingway",
-                    "iconIndex": 359
+                    "iconIndex": 360
                 },
                 {
                     "name": "Redeemer's Alchemist Stone",
                     "spellID": 47049,
                     "source": "Sold by Eldara Dawnrunner in Isle of Quel'Danas (Requires Exalted)",
                     "icon": "spell_nature_healingway",
-                    "iconIndex": 359
+                    "iconIndex": 360
                 },
                 {
                     "name": "Assassin's Alchemist Stone",
                     "spellID": 47050,
                     "source": "Sold by Eldara Dawnrunner in Isle of Quel'Danas (Requires Exalted)",
                     "icon": "spell_nature_healingway",
-                    "iconIndex": 359
+                    "iconIndex": 360
                 }
             ]
         },
@@ -3544,7 +3558,7 @@
                     "spellID": 21923,
                     "source": "Looted from Smokywood Pastures Special Gift\nLooted from Ticking Present",
                     "icon": "inv_potion_03",
-                    "iconIndex": 360
+                    "iconIndex": 361
                 }
             ]
         },
@@ -3556,7 +3570,7 @@
                     "spellID": 11456,
                     "source": "Recipe created with Goblin Engineering",
                     "icon": "inv_cask_02",
-                    "iconIndex": 361
+                    "iconIndex": 362
                 }
             ]
         },
@@ -3568,7 +3582,7 @@
                     "spellID": 66659,
                     "source": "Reward from 'Cardinal Ruby' in Dalaran",
                     "icon": "inv_jewelcrafting_gem_32",
-                    "iconIndex": 362
+                    "iconIndex": 363
                 }
             ]
         },
@@ -3580,14 +3594,14 @@
                     "spellID": 92688,
                     "source": "Guild reward for 'Better Leveling Through Chemistry'",
                     "icon": "inv_guild_cauldron_b",
-                    "iconIndex": 363
+                    "iconIndex": 364
                 },
                 {
                     "name": "Cauldron of Battle",
                     "spellID": 92643,
                     "source": "Guild reward for 'Mix Master'",
                     "icon": "inv_guild_cauldron_a",
-                    "iconIndex": 364
+                    "iconIndex": 365
                 }
             ]
         },
@@ -3599,7 +3613,7 @@
                     "spellID": 93328,
                     "source": "Looted from Canopic Jar",
                     "icon": "inv_alchemy_potion_06",
-                    "iconIndex": 290
+                    "iconIndex": 291
                 }
             ]
         },
@@ -3611,14 +3625,14 @@
                     "spellID": 4508,
                     "source": "Auction House",
                     "icon": "inv_potion_35",
-                    "iconIndex": 365
+                    "iconIndex": 366
                 },
                 {
                     "name": "Lesser Stoneshield Potion",
                     "spellID": 4942,
                     "source": "Auction House",
                     "icon": "inv_potion_67",
-                    "iconIndex": 366
+                    "iconIndex": 367
                 },
                 {
                     "name": "Greater Arcane Protection Potion",
@@ -3639,21 +3653,21 @@
                     "spellID": 11452,
                     "source": "Currently Unobtainable",
                     "icon": "inv_potion_01",
-                    "iconIndex": 197
+                    "iconIndex": 199
                 },
                 {
                     "name": "Gurubashi Mojo Madness",
                     "spellID": 24266,
                     "source": "Currently Unobtainable",
                     "icon": "inv_poison_mindnumbing",
-                    "iconIndex": 239
+                    "iconIndex": 240
                 },
                 {
                     "name": "Mageblood Elixir",
                     "spellID": 24365,
                     "source": "Currently Unobtainable",
                     "icon": "inv_potion_45",
-                    "iconIndex": 367
+                    "iconIndex": 368
                 },
                 {
                     "name": "Greater Dreamless Sleep Potion",
@@ -3667,7 +3681,7 @@
                     "spellID": 24368,
                     "source": "Currently Unobtainable",
                     "icon": "inv_potion_80",
-                    "iconIndex": 368
+                    "iconIndex": 369
                 }
             ]
         }
