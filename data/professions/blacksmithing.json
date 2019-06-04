@@ -1841,8 +1841,16 @@
                 },
                 {
                     "name": "Monel-Hardened Hoofplates",
-                    "spellID": 253110,
-                    "source": "Learnt from a blacksmithing trainer",
+                    "spellID": [
+                        253110,
+                        286015,
+                        286016
+                    ],
+                    "source": [
+                        "Learnt from a blacksmithing trainer",
+                        "Learnt from a blacksmithing trainer",
+                        "Drops from humanoids on Zandalar/Kul Tiras"
+                    ],
                     "icon": "inv_blacksmith_leystonehoofplates",
                     "iconIndex": 203
                 },
@@ -2100,9 +2108,9 @@
                 {
                     "name": "Honorable Combatant's Spellblade",
                     "spellID": [
-                        253144,
+                        256786,
                         253149,
-                        256786
+                        253144
                     ],
                     "source": [
                         "Learnt from a blacksmithing trainer",
