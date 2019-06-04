@@ -1667,7 +1667,7 @@
                     "name": "Heavy Windwool Bandage",
                     "spellID": 102698,
                     "source": "Learnt from a tailoring trainer",
-                    "icon": "inv_misc_questionmark",
+                    "icon": "inv_misc_bandage_windwool_heavy",
                     "iconIndex": 150
                 },
                 {
