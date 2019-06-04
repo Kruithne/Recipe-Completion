@@ -3,3 +3,4 @@
 *.min.css
 /tools/input.txt
 /tools/output.json
+.vscode
