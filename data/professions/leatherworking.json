@@ -2206,7 +2206,7 @@
                     "name": "Scarlet Herring Lure",
                     "source": "Sold by Xanjo in Zuldazar",
                     "spellID": 285895,
-                    "icon": "inv_misc_questionmark",
+                    "icon": "inv_fishing_lure_81_scarletherring",
                     "iconIndex": 215
                 }
             ]
